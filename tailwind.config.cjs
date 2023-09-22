@@ -5,6 +5,14 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				title: 'Oswald, sans-serif', // Adds a new `font-display` class
+			},
+			colors: {
+				bleu: {
+					950: '#103f79'
+				},
+				gold: {
+					400: '#f3b229'
+				}
 			}
 		},
 	},
