@@ -1,7 +1,10 @@
 ---
+ import shows from "../data/shows.json"
+// console.log(shows[0])
 ---
 
 <section id="planning" class="bg-gray-50">
     <h2 class="text-3xl my-4">Planning</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, qui.</p>
+    {shows.map(show => <p class="text-blue-500">{show.Titre}</p>)}    
 </section>
