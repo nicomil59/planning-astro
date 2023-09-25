@@ -1,10 +1,27 @@
 ---
- import shows from "../data/shows.json"
-// console.log(shows[0])
+import shows from "../data/shows.json";
+import {
+  getShowsByDate,
+  getSortedShowsByDate,
+  formatDate,
+} from "../scripts/utils";
+
+const showsByDate = getShowsByDate(shows);
+const sortedShowsByDate = getSortedShowsByDate(showsByDate);
+console.log(sortedShowsByDate[0].shows);
 ---
 
 <section id="planning" class="bg-gray-50">
-    <h2 class="text-3xl my-4">Planning</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, qui.</p>
-    {shows.map(show => <p class="text-blue-500">{show.Titre}</p>)}    
+  <h2 class="text-3xl my-4">Planning</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, qui.</p>
+  {
+    sortedShowsByDate.map((group) => (
+      <div class="my-4">
+        <h3 class="font-bold text-xl mb-2">{formatDate(group.date)}</h3>
+        <div>{group.shows.map((show) => (
+            <p class="my-1"><span class="font-bold">{show.Titre}</span> - {show.Saison} - {show.Plateforme}{show.Note !== "" ? ` - ${show.Note}` : ""}</p>
+            ))}</div>
+      </div>
+    ))
+  }
 </section>
