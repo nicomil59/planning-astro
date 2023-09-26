@@ -53,3 +53,28 @@ const compareDates = (a, b) => {
 export const getSortedShowsByDate = (objDates) => {
   return objDates.sort(compareDates);
 };
+
+// Fonction qui génère un tableau d'objets regroupant les séries TV par diffuseur
+
+export const getShowsByPlatform = (data) => {
+  let showsByPlatform = {};
+  data.forEach((show) => {
+    let platform = show.Plateforme;
+    if (!showsByPlatform[platform]) {
+      showsByPlatform[platform] = [];
+    }
+    showsByPlatform[platform].push(show);
+  });
+
+  const keys = Object.keys(showsByPlatform);
+  const values = Object.values(showsByPlatform);
+
+  const showsByPlatformFormatted = keys.map((key) => {
+    return {
+      platform: [key][0],
+      shows: values[keys.indexOf(key)],
+    };
+  });
+
+  return showsByPlatformFormatted;
+};
