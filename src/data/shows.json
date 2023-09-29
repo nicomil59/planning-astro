@@ -195,7 +195,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": "Une autre note pour tester le display"
   },
   {
     "Date": "27/09/2023",
@@ -204,7 +204,7 @@
     "Saison": "Saison 5",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": "Une autre note pour tester le display"
   },
   {
     "Date": "28/09/2023",
@@ -417,7 +417,7 @@
     "Date": "12/10/2023",
     "Heure": "00:00:00",
     "Titre": "La Chute de la Maison Usher",
-    "Saison": "MS",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": ""
@@ -453,7 +453,7 @@
     "Date": "13/10/2023",
     "Heure": "00:00:00",
     "Titre": "Lessons in Chemistry",
-    "Saison": "MS",
+    "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": ""
@@ -597,7 +597,7 @@
     "Date": "02/11/2023",
     "Heure": "00:00:00",
     "Titre": "Toute la lumière que nous ne pouvons voir (All the light we cannot see)",
-    "Saison": "MS",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": ""
