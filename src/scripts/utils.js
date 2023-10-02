@@ -14,10 +14,10 @@ dayjs.locale("fr");
 export const formatDate = (dateStr) => {
   const dateObj = dayjs(dateStr, "DD/MM/YYYY");
 
-  const formattedDate = dateObj.format("dddd Do MMMM YYYY").toUpperCase();
+  const formattedDate = dateObj.format("dddd Do MMMM").toUpperCase();
   return formattedDate;
 
-  return (formattedDate.charAt(0).toUpperCase() + formattedDate.slice(1));
+  // return (formattedDate.charAt(0).toUpperCase() + formattedDate.slice(1));
 };
 
 // Fonction qui génère un tableau d'objets regroupant les séries TV par date de diffusion

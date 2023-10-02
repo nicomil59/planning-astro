@@ -39,7 +39,7 @@ console.log(computedShows[0]);
   {
     computedShows.map((dateGroup) => (
       <div class="my-8 sm:my-12">
-        <time class="font-bold sm:text-xl mb-2">{formatDate(dateGroup.date)}</time>
+        <time class="font-bold text-lg sm:text-xl mb-2">{formatDate(dateGroup.date)}</time>
         <div>
           {dateGroup.platformGroup.map((platform) => (
             <div class="my-6">
