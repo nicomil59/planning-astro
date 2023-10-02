@@ -48,6 +48,7 @@ console.log(computedShows[0]);
                 {platform.shows.map((show) => (
                   <div class="max-w-3xl text-sm sm:text-base rounded p-2 my-1">
                     <div class="flex gap-3 flex-wrap">
+                      {show.Heure === "00:00:00" ? "" : <time class="font-semibold  text-notionyellow-500">{show.Heure.slice(0,5)}</time>}
                       <div class="font-semibold">{show.Titre}</div>
                       <div class="flex gap-2 items-center">
                         <div class="">{show.Saison}</div>
