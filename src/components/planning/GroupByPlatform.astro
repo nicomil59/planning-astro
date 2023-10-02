@@ -1,4 +1,5 @@
 ---
+import ShowItem from "./ShowItem.astro";
 const { platform, shows } = Astro.props;
 ---
 
@@ -6,17 +7,18 @@ const { platform, shows } = Astro.props;
     <h3 class="inline bg-notiongray-100 text-textplatform-900 sm:text-lg rounded py-1 px-2 mb-2">{platform}</h3>
     <div class="ml-8">
       {shows.map((show) => (
-        <div class="max-w-3xl text-sm sm:text-base rounded p-2 my-1">
-          <div class="flex gap-3 flex-wrap">
-            {show.Heure === "00:00:00" ? "" : <time class="font-semibold  text-notionyellow-500">{show.Heure.slice(0,5)}</time>}
-            <div class="font-semibold">{show.Titre}</div>
-            <div class="flex gap-2 items-center">
-              <div class="">{show.Saison}</div>
-              <div class="font-medium border border-solid border-gray-200 px-1 text-xs sm:text-sm">{show.Pays}</div>
-            </div>
-          </div>
-            {show.Note !== "" ? (<hr class="my-1"><span class="italic text-right">{show.Note}</span>) : ""}
-        </div>
+        // <div class="max-w-3xl text-sm sm:text-base rounded p-2 my-1">
+        //   <div class="flex gap-3 flex-wrap">
+        //     {show.Heure === "00:00:00" ? "" : <time class="font-semibold  text-notionyellow-500">{show.Heure.slice(0,5)}</time>}
+        //     <div class="font-semibold">{show.Titre}</div>
+        //     <div class="flex gap-2 items-center">
+        //       <div class="">{show.Saison}</div>
+        //       <div class="font-medium border border-solid border-gray-200 px-1 text-xs sm:text-sm">{show.Pays}</div>
+        //     </div>
+        //   </div>
+        //     {show.Note !== "" ? (<hr class="my-1"><span class="italic text-right">{show.Note}</span>) : ""}
+        // </div>
+        <ShowItem {...show} />
       ))}
     </div>
 </div>
