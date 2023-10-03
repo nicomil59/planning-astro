@@ -22,7 +22,8 @@ module.exports = {
 					100: '#eee9d7',
 					200: '#dbd1ac',
 					300: '#c8b781',
-					500: '#af8c51'
+					500: '#af8c51',
+					600: '#8e6b40'
 				},
 				textplatform: {
 					900: '#593e2e'
