@@ -1,6 +1,7 @@
 ---
-import Planning from '../components/planning/Planning.astro';
 import Layout from '../layouts/Layout.astro';
+import Planning from '../components/planning/Planning.astro';
+import RecentAdditions from '../components/RecentAdditions.astro';
 
 const pageTitle = "Planning Astro";
 ---
@@ -8,6 +9,7 @@ const pageTitle = "Planning Astro";
 <Layout pageTitle={pageTitle}>
 	<main class="px-4 pb-4 font-text">
 		<h1 class="text-3xl sm:text-5xl font-bold text-center my-4">Bienvenue sur Planning Séries</h1>
+		<RecentAdditions />
 		<Planning />
 	</main>
 </Layout>
