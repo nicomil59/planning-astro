@@ -1,0 +1,12 @@
+---
+const { Date, Titre, Saison, Plateforme } = Astro.props;
+---
+
+<tr class="bg-notiongray-100 hover:bg-gray-50">
+  <td class="font-semibold p-1">
+    {Date.split("/").slice(0, 2).join("/")}
+  </td>
+  <td class="p-1 font-medium">{Titre}</td>
+  <td class="p-1">{Saison}</td>
+  <td class="p-1">{Plateforme}</td>
+</tr>

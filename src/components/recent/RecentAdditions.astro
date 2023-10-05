@@ -1,5 +1,6 @@
 ---
-import recentAdditions from "../data/recentAdditions.json";
+import recentAdditions from "../../data/recentAdditions.json";
+import RecentItem from "./RecentItem.astro";
 
 const updateDate = "30 septembre 2023";
 ---
@@ -25,14 +26,7 @@ const updateDate = "30 septembre 2023";
     <tbody>
       {
         recentAdditions.map((item) => (
-          <tr class="bg-notiongray-100 hover:bg-gray-50">
-            <td class="font-semibold p-1">
-              {item.Date.split("/").slice(0, 2).join("/")}
-            </td>
-            <td class="p-1 font-medium">{item.Titre}</td>
-            <td class="p-1">{item.Saison}</td>
-            <td class="p-1">{item.Plateforme}</td>
-          </tr>
+          <RecentItem {...item} />
         ))
       }
     </tbody>
