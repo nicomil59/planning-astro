@@ -1,0 +1,39 @@
+---
+import heroImage from "./images/true-detective-s4.jpg";
+---
+
+<style>
+  .hero-title {
+    line-height: 2.7rem;
+  }
+
+  @media screen and (max-width: 640px) {
+    .hero-title {
+      line-height: 2.0rem;
+    }
+  }
+</style>
+
+<section class="hero flex flex-col lg:flex-row justify-between items-center sm:gap-9 sm:mt-8">
+  <div class="hero-image">
+    <figure>
+      <img
+        class="rounded-lg lg:max-w-lg xl:max-w-xl"
+        src={heroImage.src}
+        alt="True Detective saison 4"
+      />
+      <figcaption class="text-xs">
+        <span class="font-semibold">True Detective saison 4</span> sur le Pass
+        Warner
+      </figcaption>
+    </figure>
+  </div>
+  <div class="flex flex-col text-center lg:text-left">
+    <h1 class="hero-title text-2xl sm:text-4xl font-bold my-4">
+      Bienvenue sur Planning Séries,<br />
+      <span class="text-notionyellow-600"
+        >le guide ultime pour ne rien manquer !</span>
+    </h1>
+    <p>Retrouvez dans ce calendrier toutes les dates de sortie<br> et diffusion des séries en France, sur toutes les plateformes et chaînes.</p>
+  </div>
+</section>
