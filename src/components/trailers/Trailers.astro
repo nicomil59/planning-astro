@@ -3,7 +3,7 @@ import trailersData from "../../data/trailersData.json";
 import TrailerBloc from "./TrailerBloc.astro";
 import SectionTitle from "../SectionTitle.astro";
 ---
-<section id="trailers" class="my-8">
+<section id="trailers" class="my-12 sm:my-24">
     <SectionTitle text="Trailers" />
     {trailersData.map(trailerItem => (
          <TrailerBloc {...trailerItem} />
