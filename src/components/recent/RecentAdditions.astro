@@ -1,14 +1,13 @@
 ---
 import recentAdditions from "../../data/recentAdditions.json";
+import SectionTitle from "../SectionTitle.astro";
 import RecentItem from "./RecentItem.astro";
 
 const updateDate = "30 septembre 2023";
 ---
 
 <section id="recent" class="my-8">
-  <h2 class="font-bold text-2xl sm:text-4xl my-4 border-b-4 sm:border-b-8 border-notionyellow-600 inline">
-    Derniers ajouts
-  </h2>
+  <SectionTitle text="Derniers ajouts" />
   <p class="my-8 text-sm sm:text-lg font-semibold text-center rounded bg-notionyellow-50 sm:w-80 m-auto px-2 py-1">
     Mise à jour : <span>{updateDate}</span>
   </p>

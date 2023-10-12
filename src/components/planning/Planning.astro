@@ -6,6 +6,7 @@ import {
   getShowsByPlatform,
 } from "../../scripts/utils";
 import GroupByDate from "./GroupByDate.astro";
+import SectionTitle from "../SectionTitle.astro";
 
 const showsByDate = getShowsByDate(shows);
 const sortedShowsByDate = getSortedShowsByDate(showsByDate);
@@ -21,6 +22,6 @@ const computedShows = sortedShowsByDate.map((group) => {
 ---
 
 <section id="planning">
-  <h2 class="font-bold text-2xl sm:text-4xl my-4 border-b-4 sm:border-b-8 border-notionyellow-600 inline">Planning</h2>
+  <SectionTitle text="Planning" />
   {computedShows.map((dateGroup) => <GroupByDate {...dateGroup} />)}
 </section>
