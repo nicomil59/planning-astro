@@ -1,76 +1,14 @@
 ---
+import selection from "../../data/selection.json";
 import SectionTitle from "../SectionTitle.astro";
+import SelectionItem from "./SelectionItem.astro";
 ---
 
 <section id="selection" class="my-12 sm:my-24">
   <SectionTitle text="Sélection" />
   <div class="my-8 sm:my-12 flex justify-center gap-4 flex-wrap">
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">16/10</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">D'Argent et de Sang</p>
-        <p class="font-medium">Saison 1</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Canal+</p>
-      </div>
-    </div>
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">20/10</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">Upload</p>
-        <p class="font-medium">Saison 3</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Prime Video</p>
-      </div>
-    </div>
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">10/11</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">For All Mankind</p>
-        <p class="font-medium">Saison 4</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Apple TV+</p>
-      </div>
-    </div>
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">15/11</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">Tout va bien</p>
-        <p class="font-medium">Mini-série</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Disney+</p>
-      </div>
-    </div>
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">17/11</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">Monarch: Legacy of Monsters</p>
-        <p class="font-medium">Saison 1</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Apple TV+</p>
-      </div>
-    </div>
-
-    <div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
-      <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">15/01</time>
-      <div class="p-4">
-        <p class="text-lg font-semibold uppercase italic">True Detective</p>
-        <p class="font-medium">Saison 4</p>
-      </div>
-      <div class="absolute bottom-0 right-0">
-        <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">Pass Warner</p>
-      </div>
-    </div>
-
+    {
+      selection.map(item => <SelectionItem  {...item} />)
+    }
   </div>
 </section>

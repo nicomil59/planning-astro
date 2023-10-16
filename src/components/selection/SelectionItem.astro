@@ -1,0 +1,13 @@
+---
+const { Date, Titre, Saison, Plateforme } = Astro.props;
+---
+<div class="relative w-9/12 md:w-3/12 min-w-[310px] sm:h-40 bg-notionyellow-50 rounded-lg">
+    <time class="w-20 text-center inline-block px-2 py-1 text-xl font-semibold bg-notionyellow-200 rounded-tl-lg rounded-br-lg">{Date.split("/").slice(0, 2).join("/")}</time>
+    <div class="p-4">
+      <p class="text-lg font-semibold uppercase italic">{Titre}</p>
+      <p class="font-medium">{Saison}</p>
+    </div>
+    <div class="absolute bottom-0 right-0">
+      <p class="font-medium text-right bg-notionyellow-200 px-2 py-1 rounded-br-lg rounded-tl-lg">{Plateforme}</p>
+    </div>
+</div>
