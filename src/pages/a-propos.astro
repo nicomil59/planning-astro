@@ -1,24 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
-const pageTitle = "A propos de ce site";
+const pageTitle = "À propos de ce site";
 ---
 
 <Layout pageTitle={pageTitle}>
-	<main>
-		<h1>{pageTitle}</h1>		
+	<main class="px-4 pb-4 font-text sm:mt-8 mb-24">
+		<h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
+		
+		<p class="my-4">Bienvenue sur <strong>Planning Séries</strong> !</p>
+		<p class="my-4">Ce site a pour objectif de tenir les passionnés de séries informés des dates de sortie des programmes diffusés sur les chaînes de télévision et les plateformes de streaming en France.</p>
+		<p class="my-4">L'ambition est de fournir une ressource incontournable pour que les amateurs de séries ne manquent jamais la sortie de leurs titres favoris.</p>
+		<p class="my-4">Que vous soyez amateur.e de séries françaises, américaines ou coréennes, l'objectif est de vous tenir informé.e.</p>
+
+		<h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">On reste en contact !</h2>
+
+		<p class="my-4">Pour toute suggestion de date, remarque ou simple prise de contact, la page <a class="hover:underline font-medium" href="/contact/">Contact</a> est à votre disposition.</p>
 	</main>
 </Layout>
-
-<style>
-	main {
-		margin: auto;
-		padding: 1rem;
-		width: 800px;
-		max-width: calc(100% - 50px);
-		color: #111;
-		font-size: 20px;
-		line-height: 1.6;
-		border: 1px solid red;
-	}
-</style>
