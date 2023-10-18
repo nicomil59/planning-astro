@@ -21,9 +21,14 @@ const { pageTitle } = Astro.props;
 		<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 	</head>
-	<body class="max-w-7xl mx-auto text-gray-800">
-		<Header />
-		<slot />
-		<Footer />
+	<body>
+		<div class="w-full sticky top-0 z-10 shadow-md">
+			<Header />
+		</div>
+		
+		<div class="max-w-7xl mx-auto text-gray-800">
+			<slot />
+			<Footer />
+		</div>
 	</body>
 </html>
