@@ -1,131 +1,5 @@
 [
   {
-    "Date": "25/09/2023",
-    "Heure": "21:10:00",
-    "Titre": "Infiltré(e)",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "25/09/2023",
-    "Heure": "21:00:00",
-    "Titre": "Narvalo",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "26/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Batman The Animated Series",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "27/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "This Fool",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "27/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "The Resident",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "28/09/2023",
-    "Heure": "21:00:00",
-    "Titre": "Téhéran",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Pays": "ISR",
-    "Note": "Déjà diffusée sur Apple TV+"
-  },
-  {
-    "Date": "28/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Evil",
-    "Saison": "Saisons 2 et 3",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "28/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Mensonges au paradis (No Escape)",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "UK",
-    "Note": ""
-  },
-  {
-    "Date": "28/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Castlevania : Nocturne",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "29/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Parlement",
-    "Saison": "Saison 3",
-    "Plateforme": "France.TV",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "29/09/2023",
-    "Heure": "23:25:00",
-    "Titre": "American Horror Story",
-    "Saison": "Saison 12",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "29/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Power Rangers Cosmic Fury",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "29/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Gen V",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "30/09/2023",
-    "Heure": "00:00:00",
-    "Titre": "Preacher",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
     "Date": "01/10/2023",
     "Heure": "00:00:00",
     "Titre": "Chicago Police Department",
@@ -270,21 +144,75 @@
     "Note": ""
   },
   {
+    "Date": "10/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Last One Standing",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": ""
+  },
+  {
+    "Date": "10/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Ag3nda",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
+    "Note": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "4ever",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "11/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Pacto de Silencio",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "MEX",
+    "Note": ""
+  },
+  {
+    "Date": "12/10/2023",
+    "Heure": "22:30:00",
+    "Titre": "Berlin Bad Trip",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "ALL",
+    "Note": ""
+  },
+  {
+    "Date": "12/10/2023",
+    "Heure": "21:00:00",
+    "Titre": "Wreck : croisière sanglante",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "12/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Alphonse",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
     "Date": "12/10/2023",
     "Heure": "00:00:00",
     "Titre": "Goodnight World",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Vise le coeur",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
     "Note": ""
   },
   {
@@ -300,7 +228,7 @@
     "Date": "12/10/2023",
     "Heure": "00:00:00",
     "Titre": "La Chute de la Maison Usher",
-    "Saison": "Mini-série",
+    "Saison": "MS",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": ""
@@ -345,7 +273,7 @@
     "Date": "13/10/2023",
     "Heure": "00:00:00",
     "Titre": "Lessons in Chemistry",
-    "Saison": "Mini-série",
+    "Saison": "MS",
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": ""
@@ -366,6 +294,15 @@
     "Saison": "Saison 1",
     "Plateforme": "OCS Pulp",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "16/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Oggy Oggy",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "FRA",
     "Note": ""
   },
   {
@@ -393,6 +330,24 @@
     "Saison": "Saison 7",
     "Plateforme": "Adult Swim",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "17/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Mon Petit côté vampire",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CAN",
+    "Note": ""
+  },
+  {
+    "Date": "18/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Kaala Paani : Les eaux sombres",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "IND",
     "Note": ""
   },
   {
@@ -425,6 +380,15 @@
   {
     "Date": "19/10/2023",
     "Heure": "00:00:00",
+    "Titre": "Devine qui vient pour l’Aïd",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ARA",
+    "Note": ""
+  },
+  {
+    "Date": "19/10/2023",
+    "Heure": "00:00:00",
     "Titre": "Captain Laserhawk: A Blood Dragon Remix",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -448,6 +412,15 @@
     "Plateforme": "Paramount+",
     "Pays": "UK",
     "Note": ""
+  },
+  {
+    "Date": "19/10/2023",
+    "Heure": "21:10:00",
+    "Titre": "Vise le coeur",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": "Nouvelle date"
   },
   {
     "Date": "19/10/2023",
@@ -514,10 +487,28 @@
   },
   {
     "Date": "22/10/2023",
+    "Heure": "21:10:00",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 21",
+    "Plateforme": "TMC",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "22/10/2023",
     "Heure": "21:00:00",
     "Titre": "Hacks",
     "Saison": "Saison 1",
     "Plateforme": "Teva",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "23/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Princess Power",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": ""
   },
@@ -528,6 +519,24 @@
     "Saison": "Saison 2",
     "Plateforme": "Polar+",
     "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "24/10/2023",
+    "Heure": "22:35:00",
+    "Titre": "Fear The Walking Dead",
+    "Saison": "Saison 8 partie 2",
+    "Plateforme": "Canal+ Séries",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "24/10/2023",
+    "Heure": "23:50:00",
+    "Titre": "La Brea",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Pays": "US",
     "Note": ""
   },
   {
@@ -546,6 +555,15 @@
     "Saison": "Saison 1",
     "Plateforme": "OCS Max",
     "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "25/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Les Débuts",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
     "Note": ""
   },
   {
@@ -586,6 +604,15 @@
   },
   {
     "Date": "26/10/2023",
+    "Heure": "21:00:00",
+    "Titre": "Gangs of London",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "26/10/2023",
     "Heure": "00:00:00",
     "Titre": "Waco",
     "Saison": "Mini-série",
@@ -612,6 +639,24 @@
     "Note": ""
   },
   {
+    "Date": "28/10/2023",
+    "Heure": "20:55:00",
+    "Titre": "The Control Room",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "30/10/2023",
+    "Heure": "21:10:00",
+    "Titre": "Candice Renoir",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
     "Date": "30/10/2023",
     "Heure": "00:00:00",
     "Titre": "The Gilded Age",
@@ -621,10 +666,28 @@
     "Note": ""
   },
   {
+    "Date": "31/10/2023",
+    "Heure": "21:10:00",
+    "Titre": "Sophie Cross",
+    "Saison": "Saison 2",
+    "Plateforme": "France 3",
+    "Pays": "ALL, BEL, FRA",
+    "Note": ""
+  },
+  {
+    "Date": "31/10/2023",
+    "Heure": "21:00:00",
+    "Titre": "Most Wanted Criminals",
+    "Saison": "Saison 4",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
     "Date": "02/11/2023",
     "Heure": "00:00:00",
     "Titre": "Toute la lumière que nous ne pouvons voir (All the light we cannot see)",
-    "Saison": "Mini-série",
+    "Saison": "MS",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": ""
@@ -662,6 +725,15 @@
     "Titre": "Invincible",
     "Saison": "Saison 2",
     "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "05/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Lawmen : l’histoire de Bass Reeves",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
     "Pays": "US",
     "Note": ""
   },
@@ -711,6 +783,15 @@
     "Note": "Date à confirmer"
   },
   {
+    "Date": "14/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Un Meurtre au bout du monde",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
     "Date": "15/11/2023",
     "Heure": "00:00:00",
     "Titre": "Tout va bien",
@@ -726,6 +807,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "ALL",
+    "Note": ""
+  },
+  {
+    "Date": "16/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Crown",
+    "Saison": "Saison 6 partie 1",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
     "Note": ""
   },
   {
@@ -810,6 +900,15 @@
     "Note": ""
   },
   {
+    "Date": "14/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Crown",
+    "Saison": "Saison 6 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
     "Date": "20/12/2023",
     "Heure": "00:00:00",
     "Titre": "Percy Jackson and the Olympians",
@@ -828,6 +927,15 @@
     "Note": ""
   },
   {
+    "Date": "12/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Criminal Record",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
     "Date": "15/01/2024",
     "Heure": "00:00:00",
     "Titre": "True Detective",
@@ -842,6 +950,15 @@
     "Titre": "Griselda",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "26/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Expats",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": ""
   }
