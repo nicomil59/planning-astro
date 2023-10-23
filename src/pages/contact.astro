@@ -9,12 +9,22 @@ const pageTitle = "Contact";
 		<h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
 		
 		<p class="my-4">Si vous avez repéré une erreur, si vous avez une suggestion de date ou une remarque, n'hésitez pas à prendre contact :</p>
-		<ul class="list-disc">
-			<li class="ml-4 mb-2 font-medium"><a href="mailto:nicolasmilhem@gmail.com">Par Mail</a></li>
-			<li class="ml-4 font-medium"><a href="https://twitter.com/seriestvnews" target="_blank">Sur X (anciennement Twitter)</a></li>
+		<ul>
+			<li class="ml-4 mb-6 font-medium"><a class="px-4 py-2 bg-notionyellow-200 hover:bg-notionyellow-100 rounded cursor-pointer" href="mailto:nicolasmilhem@gmail.com">Par Mail</a></li>
+			<li class="ml-4 font-medium"><a class="px-4 py-2 bg-notionyellow-200 hover:bg-notionyellow-100 rounded cursor-pointer" href="https://twitter.com/seriestvnews" target="_blank">Sur X (anciennement Twitter)</a></li>
 		</ul>
 
 		<p class="mt-8 mb-4 italic">[Page en construction...]</p>
 		
 	</main>
 </Layout>
+
+<style>
+	li a {
+		transition: background-color 0.2s ease-in-out;
+	}
+
+	li a:hover {
+		transition: background-color 0.2s ease-in-out;
+	}
+</style>
