@@ -632,10 +632,28 @@
   {
     "Date": "27/10/2023",
     "Heure": "00:00:00",
+    "Titre": "Malédiction !",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Titre original : “Curses!”"
+  },
+  {
+    "Date": "27/10/2023",
+    "Heure": "00:00:00",
     "Titre": "Tore",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "SUE",
+    "Note": ""
+  },
+  {
+    "Date": "28/10/2023",
+    "Heure": "00:00:00",
+    "Titre": "Castaway Diva",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": ""
   },
   {
@@ -681,6 +699,15 @@
     "Saison": "Saison 4",
     "Plateforme": "Série Club",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "02/11/2023",
+    "Heure": "20:55:00",
+    "Titre": "Pola Park",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "FRA",
     "Note": ""
   },
   {
@@ -738,6 +765,15 @@
     "Note": ""
   },
   {
+    "Date": "06/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Clem",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": "Titre : “Les retrouvailles”"
+  },
+  {
     "Date": "08/11/2023",
     "Heure": "00:00:00",
     "Titre": "Super Noël, la série",
@@ -757,11 +793,29 @@
   },
   {
     "Date": "09/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "09/11/2023",
     "Heure": "00:00:00",
     "Titre": "Akuma-Kun",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
+    "Note": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 4",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
     "Note": ""
   },
   {
@@ -781,6 +835,15 @@
     "Plateforme": "Paramount+",
     "Pays": "US",
     "Note": "Date à confirmer"
+  },
+  {
+    "Date": "13/11/2023",
+    "Heure": "21:00:00",
+    "Titre": "The Rookie – Le flic de Los Angeles",
+    "Saison": "Saison 5",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": ""
   },
   {
     "Date": "14/11/2023",
@@ -900,6 +963,15 @@
     "Note": ""
   },
   {
+    "Date": "13/12/2023",
+    "Heure": "20:55:00",
+    "Titre": "A la Maison Blanche",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
     "Date": "14/12/2023",
     "Heure": "00:00:00",
     "Titre": "The Crown",
@@ -962,4 +1034,4 @@
     "Pays": "US",
     "Note": ""
   }
- ]
+]

@@ -1,74 +1,74 @@
 [
   {
-    "Date": "11 octobre 2023",
-    "Titre": "4ever",
+    "Date": "27 octobre 2023",
+    "Heure": "00:00:00",
+    "Titre": "Malédiction !",
     "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "12 octobre 2023",
-    "Titre": "Berlin Bad Trip",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "12 octobre 2023",
-    "Titre": "Wreck : croisière sanglante",
-    "Saison": "Saison 1",
-    "Plateforme": "Syfy"
-  },
-  {
-    "Date": "12 octobre 2023",
-    "Titre": "Alphonse",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "19 octobre 2023",
-    "Titre": "Vise le coeur",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1"
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Titre original : “Curses!”"
   },
   {
     "Date": "28 octobre 2023",
-    "Titre": "The Control Room",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "30 octobre 2023",
-    "Titre": "Candice Renoir",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "31 octobre 2023",
-    "Titre": "Sophie Cross",
-    "Saison": "Saison 2",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "5 novembre 2023",
-    "Titre": "Lawmen : l’histoire de Bass Reeves",
+    "Heure": "00:00:00",
+    "Titre": "Castaway Diva",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": ""
   },
   {
-    "Date": "14 novembre 2023",
-    "Titre": "Un Meurtre au bout du monde",
+    "Date": "2 novembre 2023",
+    "Heure": "20:55:00",
+    "Titre": "Pola Park",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+"
+    "Plateforme": "Arte",
+    "Pays": "FRA",
+    "Note": ""
   },
   {
-    "Date": "16 novembre 2023",
-    "Titre": "The Crown",
-    "Saison": "Saison 6 partie 1",
-    "Plateforme": "Netflix"
+    "Date": "6 novembre 2023",
+    "Heure": "21:10:00",
+    "Titre": "Clem",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": "Titre : “Les retrouvailles”"
   },
   {
-    "Date": "14 décembre 2023",
-    "Titre": "The Crown",
-    "Saison": "Saison 6 partie 2",
-    "Plateforme": "Netflix"
+    "Date": "9 novembre 2023",
+    "Heure": "21:10:00",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "10 novembre 2023",
+    "Heure": "21:10:00",
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 4",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "13 novembre 2023",
+    "Heure": "21:00:00",
+    "Titre": "The Rookie – Le flic de Los Angeles",
+    "Saison": "Saison 5",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "13 décembre 2023",
+    "Heure": "20:55:00",
+    "Titre": "A la Maison Blanche",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV",
+    "Pays": "US",
+    "Note": ""
   }
 ]
