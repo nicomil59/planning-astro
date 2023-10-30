@@ -1,15 +1,9 @@
 [
   {
-    "Date": "16/10/2023",
-    "Titre": "D'Argent et de sang",
+    "Date": "10/11/2023",
+    "Titre": "The Walking Dead : Daryl Dixon",
     "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "20/10/2023",
-    "Titre": "Upload",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video"
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "10/11/2023",
@@ -34,5 +28,11 @@
     "Titre": "Monarch: Legacy of Monsters",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "20/11/2023",
+    "Titre": "Pamela Rose, la série",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
   }
 ]

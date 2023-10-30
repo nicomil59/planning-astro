@@ -1,74 +1,146 @@
 [
   {
-    "Date": "27 octobre 2023",
-    "Heure": "00:00:00",
-    "Titre": "Malédiction !",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": "Titre original : “Curses!”"
+    "Date": "28 octobre 2023",
+    "Titre": "South Park : Joining The Panderverse",
+    "Saison": "Film",
+    "Plateforme": "Paramount+"
   },
   {
-    "Date": "28 octobre 2023",
-    "Heure": "00:00:00",
-    "Titre": "Castaway Diva",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": ""
+    "Date": "1 novembre 2023",
+    "Titre": "Solar Opposites",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "1 novembre 2023",
+    "Titre": "Candice Renoir",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
     "Date": "2 novembre 2023",
-    "Heure": "20:55:00",
-    "Titre": "Pola Park",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "6 novembre 2023",
-    "Heure": "21:10:00",
-    "Titre": "Clem",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": "Titre : “Les retrouvailles”"
-  },
-  {
-    "Date": "9 novembre 2023",
-    "Heure": "21:10:00",
-    "Titre": "Master Crimes",
+    "Titre": "Onimusha",
     "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": ""
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "3 novembre 2023",
+    "Titre": "Daily Dose of Sunshine",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "8 novembre 2023",
+    "Titre": "Vigilante",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
     "Date": "10 novembre 2023",
-    "Heure": "21:10:00",
-    "Titre": "Astrid et Raphaëlle",
-    "Saison": "Saison 4",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": ""
+    "Titre": "The Walking Dead : Daryl Dixon",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "12 novembre 2023",
+    "Titre": "Professeur T",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3"
   },
   {
     "Date": "13 novembre 2023",
-    "Heure": "21:00:00",
-    "Titre": "The Rookie – Le flic de Los Angeles",
-    "Saison": "Saison 5",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": ""
+    "Titre": "Sambre",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "13 décembre 2023",
-    "Heure": "20:55:00",
-    "Titre": "A la Maison Blanche",
+    "Date": "13 novembre 2023",
+    "Titre": "The Calling",
     "Saison": "Saison 1",
-    "Plateforme": "Warner TV",
-    "Pays": "US",
-    "Note": ""
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "14 novembre 2023",
+    "Titre": "Suburræterna",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 novembre 2023",
+    "Titre": "Fullmetal Alchemist : Brotherhood",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 novembre 2023",
+    "Titre": "A Teacher",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "16 novembre 2023",
+    "Titre": "Anderson Spider Silva",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "16 novembre 2023",
+    "Titre": "Un, Dos, Tres : nouvelle génération",
+    "Saison": "Saison 1",
+    "Plateforme": "W9"
+  },
+  {
+    "Date": "17 novembre 2023",
+    "Titre": "Les Enquêtes de Foyle",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "20 novembre 2023",
+    "Titre": "Pamela Rose, la série",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "25 novembre 2023",
+    "Titre": "Doctor Who",
+    "Saison": "Specials",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "28 novembre 2023",
+    "Titre": "A Friend of The Family",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Max"
+  },
+  {
+    "Date": "29 novembre 2023",
+    "Titre": "Culprits : Arnaque à l’anglaise",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "30 novembre 2023",
+    "Titre": "Virgin River",
+    "Saison": "Saison 5 partie 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "21 décembre 2023",
+    "Titre": "Harley Quinn",
+    "Saison": "Saison 4",
+    "Plateforme": "Warner TV Next"
+  },
+  {
+    "Date": "22 décembre 2023",
+    "Titre": "Dickie",
+    "Saison": "Saison 2",
+    "Plateforme": "Adult Swim"
+  },
+  {
+    "Date": "12 avril 2024",
+    "Titre": "Fallout",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   }
 ]

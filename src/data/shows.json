@@ -1,293 +1,5 @@
 [
   {
-    "Date": "01/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Chicago Police Department",
-    "Saison": "Saison 8",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "01/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Brokenwood",
-    "Saison": "Saison 8",
-    "Plateforme": "France 3",
-    "Pays": "NZ",
-    "Note": ""
-  },
-  {
-    "Date": "01/10/2023",
-    "Heure": "20:55:00",
-    "Titre": "Seaside Crimes",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "ALL",
-    "Note": ""
-  },
-  {
-    "Date": "02/10/2023",
-    "Heure": "20:55:00",
-    "Titre": "La Fille invisible",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "ESP",
-    "Note": ""
-  },
-  {
-    "Date": "03/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Alexandra Ehle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "04/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Luz à Osville",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "05/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "En Terrasse",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "05/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Everything Now",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": ""
-  },
-  {
-    "Date": "05/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Bargain, le prix à payer",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "CDS",
-    "Note": ""
-  },
-  {
-    "Date": "05/10/2023",
-    "Heure": "20:55:00",
-    "Titre": "Sous Contrôle",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "05/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Lupin",
-    "Saison": "Partie 3",
-    "Plateforme": "Netflix",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "06/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "A Million Little Things",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "06/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Loki",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "09/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Cannes Police Criminelle",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA, SUE, UK, US",
-    "Note": ""
-  },
-  {
-    "Date": "09/10/2023",
-    "Heure": "21:00:00",
-    "Titre": "The Rookie - Le flic de Los Angeles",
-    "Saison": "Saison 4",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "09/10/2023",
-    "Heure": "20:55:00",
-    "Titre": "The Winchesters",
-    "Saison": "Saison 1",
-    "Plateforme": "Warner TV",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "10/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Last One Standing",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": ""
-  },
-  {
-    "Date": "10/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Ag3nda",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": ""
-  },
-  {
-    "Date": "11/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "4ever",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "11/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Pacto de Silencio",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "MEX",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "22:30:00",
-    "Titre": "Berlin Bad Trip",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "ALL",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "21:00:00",
-    "Titre": "Wreck : croisière sanglante",
-    "Saison": "Saison 1",
-    "Plateforme": "Syfy",
-    "Pays": "UK",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Alphonse",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Goodnight World",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "21:00:00",
-    "Titre": "LT-21",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS Max",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "12/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "La Chute de la Maison Usher",
-    "Saison": "MS",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "13/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Everybody Loves Diamonds",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Pays": "ITA",
-    "Note": ""
-  },
-  {
-    "Date": "13/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Frasier (2023)",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "13/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Les Petits meurtres d’Agatha Christie",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": ""
-  },
-  {
-    "Date": "13/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Chair de poule",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "13/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Lessons in Chemistry",
-    "Saison": "MS",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
-    "Date": "14/10/2023",
-    "Heure": "00:00:00",
-    "Titre": "Your Honor",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": ""
-  },
-  {
     "Date": "15/10/2023",
     "Heure": "21:00:00",
     "Titre": "Slip",
@@ -650,6 +362,15 @@
   {
     "Date": "28/10/2023",
     "Heure": "00:00:00",
+    "Titre": "South Park : Joining The Panderverse",
+    "Saison": "Film",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "28/10/2023",
+    "Heure": "00:00:00",
     "Titre": "Castaway Diva",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -663,15 +384,6 @@
     "Saison": "Mini-série",
     "Plateforme": "Polar+",
     "Pays": "UK",
-    "Note": ""
-  },
-  {
-    "Date": "30/10/2023",
-    "Heure": "21:10:00",
-    "Titre": "Candice Renoir",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
     "Note": ""
   },
   {
@@ -702,6 +414,33 @@
     "Note": ""
   },
   {
+    "Date": "01/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Solar Opposites",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "01/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Candice Renoir",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": "Changement de programmation : l’épisode est déplacé du 30/10 au 01/11"
+  },
+  {
+    "Date": "02/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Onimusha",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP, US",
+    "Note": ""
+  },
+  {
     "Date": "02/11/2023",
     "Heure": "20:55:00",
     "Titre": "Pola Park",
@@ -717,6 +456,15 @@
     "Saison": "MS",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "03/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Daily Dose of Sunshine",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": ""
   },
   {
@@ -776,6 +524,15 @@
   {
     "Date": "08/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Vigilante",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "CDS",
+    "Note": ""
+  },
+  {
+    "Date": "08/11/2023",
+    "Heure": "00:00:00",
     "Titre": "Super Noël, la série",
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
@@ -811,6 +568,15 @@
   },
   {
     "Date": "10/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead : Daryl Dixon",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "10/11/2023",
     "Heure": "21:10:00",
     "Titre": "Astrid et Raphaëlle",
     "Saison": "Saison 4",
@@ -837,6 +603,33 @@
     "Note": "Date à confirmer"
   },
   {
+    "Date": "12/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Professeur T",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "13/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Sambre",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "13/11/2023",
+    "Heure": "20:55:00",
+    "Titre": "The Calling",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
     "Date": "13/11/2023",
     "Heure": "21:00:00",
     "Titre": "The Rookie – Le flic de Los Angeles",
@@ -848,11 +641,38 @@
   {
     "Date": "14/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Suburræterna",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
+    "Note": ""
+  },
+  {
+    "Date": "14/11/2023",
+    "Heure": "00:00:00",
     "Titre": "Un Meurtre au bout du monde",
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Pays": "US",
     "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Fullmetal Alchemist : Brotherhood",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "A Teacher",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Canal+"
   },
   {
     "Date": "15/11/2023",
@@ -875,9 +695,36 @@
   {
     "Date": "16/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Anderson Spider Silva",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "BRE",
+    "Note": ""
+  },
+  {
+    "Date": "16/11/2023",
+    "Heure": "21:05:00",
+    "Titre": "Un, Dos, Tres : nouvelle génération",
+    "Saison": "Saison 1",
+    "Plateforme": "W9",
+    "Pays": "ESP",
+    "Note": ""
+  },
+  {
+    "Date": "16/11/2023",
+    "Heure": "00:00:00",
     "Titre": "The Crown",
     "Saison": "Saison 6 partie 1",
     "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
+    "Date": "17/11/2023",
+    "Heure": "20:55:00",
+    "Titre": "Les Enquêtes de Foyle",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
     "Pays": "UK",
     "Note": ""
   },
@@ -900,6 +747,15 @@
     "Note": ""
   },
   {
+    "Date": "20/11/2023",
+    "Heure": "21:00:00",
+    "Titre": "Pamela Rose, la série",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
     "Date": "23/11/2023",
     "Heure": "20:55:00",
     "Titre": "Leverage: Redemption",
@@ -918,6 +774,15 @@
     "Note": ""
   },
   {
+    "Date": "25/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Doctor Who",
+    "Saison": "Specials",
+    "Plateforme": "Disney+",
+    "Pays": "UK",
+    "Note": "Episode 2 le 02/12, Episode 3 le 09/12"
+  },
+  {
     "Date": "26/11/2023",
     "Heure": "21:00:00",
     "Titre": "Follow",
@@ -927,12 +792,48 @@
     "Note": ""
   },
   {
+    "Date": "28/11/2023",
+    "Heure": "21:00:00",
+    "Titre": "A Friend of The Family",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Max",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "29/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Culprits : Arnaque à l’anglaise",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "UK",
+    "Note": ""
+  },
+  {
     "Date": "29/11/2023",
     "Heure": "00:00:00",
     "Titre": "The Artful Dodger",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "AUS",
+    "Note": ""
+  },
+  {
+    "Date": "29/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Echo",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": "janvier 2024"
+  },
+  {
+    "Date": "30/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Virgin River",
+    "Saison": "Saison 5 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": ""
   },
   {
@@ -990,6 +891,24 @@
     "Note": ""
   },
   {
+    "Date": "21/12/2023",
+    "Heure": "21:00:00",
+    "Titre": "Harley Quinn",
+    "Saison": "Saison 4",
+    "Plateforme": "Warner TV Next",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "22/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Dickie",
+    "Saison": "Saison 2",
+    "Plateforme": "Adult Swim",
+    "Pays": "BEL",
+    "Note": ""
+  },
+  {
     "Date": "29/12/2023",
     "Heure": "00:00:00",
     "Titre": "Berlín",
@@ -1030,6 +949,15 @@
     "Heure": "00:00:00",
     "Titre": "Expats",
     "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "12/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Fallout",
+    "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": ""
