@@ -416,6 +416,15 @@
   {
     "Date": "01/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Romance",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "01/11/2023",
+    "Heure": "00:00:00",
     "Titre": "Solar Opposites",
     "Saison": "Saison 4",
     "Plateforme": "Disney+",
@@ -430,6 +439,24 @@
     "Plateforme": "France 2",
     "Pays": "FRA",
     "Note": "Changement de programmation : l’épisode est déplacé du 30/10 au 01/11"
+  },
+  {
+    "Date": "02/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Kidnapping Day",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "CDS",
+    "Note": ""
+  },
+  {
+    "Date": "02/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Cigarette Girl",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "INDO",
+    "Note": ""
   },
   {
     "Date": "02/11/2023",
@@ -456,6 +483,15 @@
     "Saison": "MS",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "03/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Le Tailleur",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "TUR",
     "Note": ""
   },
   {
@@ -500,6 +536,15 @@
     "Titre": "Invincible",
     "Saison": "Saison 2",
     "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "04/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "9-1-1: Lone Star",
+    "Saison": "Saison 4",
+    "Plateforme": "M6",
     "Pays": "US",
     "Note": ""
   },
@@ -550,6 +595,15 @@
   },
   {
     "Date": "09/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Waco, l’après",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "09/11/2023",
     "Heure": "21:10:00",
     "Titre": "Master Crimes",
     "Saison": "Saison 1",
@@ -564,6 +618,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
+    "Note": ""
+  },
+  {
+    "Date": "10/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "At The Moment",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "TAI",
     "Note": ""
   },
   {
@@ -600,7 +663,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": "Date à confirmer"
+    "Note": ""
+  },
+  {
+    "Date": "12/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Zoey 101",
+    "Saison": "Intégrale",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
   },
   {
     "Date": "12/11/2023",
@@ -641,6 +713,15 @@
   {
     "Date": "14/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Le Code du crime",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "BRE",
+    "Note": ""
+  },
+  {
+    "Date": "14/11/2023",
+    "Heure": "00:00:00",
     "Titre": "Suburræterna",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -654,6 +735,42 @@
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "SWAT",
+    "Saison": "Saison 5",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Caprica",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Battlestar Galactica",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "15/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Feedback",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
     "Note": ""
   },
   {
@@ -721,6 +838,15 @@
   },
   {
     "Date": "17/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Sur l’Autel de la famille",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": ""
+  },
+  {
+    "Date": "17/11/2023",
     "Heure": "20:55:00",
     "Titre": "Les Enquêtes de Foyle",
     "Saison": "Saison 4",
@@ -747,12 +873,66 @@
     "Note": ""
   },
   {
+    "Date": "18/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Railway Men : Les héros de Bhopal",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "IND",
+    "Note": ""
+  },
+  {
+    "Date": "18/11/2023",
+    "Heure": "21:05:00",
+    "Titre": "Vestiaires",
+    "Saison": "Inédits",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
     "Date": "20/11/2023",
     "Heure": "21:00:00",
     "Titre": "Pamela Rose, la série",
     "Saison": "Mini-série",
     "Plateforme": "Canal+",
     "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "21/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Scooby-Doo : Mystères associés",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
+    "Date": "23/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Les Petits meurtres d’Agatha Christie",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Paramount+",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "23/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Fais pas ci, fais pas ça",
+    "Saison": "Intégrale",
+    "Plateforme": "Paramount+",
+    "Pays": "FRA",
+    "Note": ""
+  },
+  {
+    "Date": "23/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "One Trillion Dollars",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "ALL, ITA",
     "Note": ""
   },
   {
@@ -817,15 +997,6 @@
     "Plateforme": "Disney+",
     "Pays": "AUS",
     "Note": ""
-  },
-  {
-    "Date": "29/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Echo",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": "janvier 2024"
   },
   {
     "Date": "30/11/2023",
@@ -918,6 +1089,15 @@
     "Note": ""
   },
   {
+    "Date": "10/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Echo",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": ""
+  },
+  {
     "Date": "12/01/2024",
     "Heure": "00:00:00",
     "Titre": "Criminal Record",
@@ -934,6 +1114,15 @@
     "Plateforme": "Pass Warner",
     "Pays": "US",
     "Note": "Titre complet de la saison 4 = “True Detective: Night Country”"
+  },
+  {
+    "Date": "19/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Cristobal Balenciaga",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "ESP",
+    "Note": ""
   },
   {
     "Date": "25/01/2024",
