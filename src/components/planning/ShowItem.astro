@@ -4,7 +4,7 @@ const { Titre, Saison, Pays, Heure, Note } = Astro.props;
 
 <div class="max-w-3xl text-sm sm:text-base rounded p-2 my-1">
     <div class="flex gap-3 flex-wrap">
-      {Heure === "00:00:00" ? "" : <time class="font-semibold text-notionyellow-600">{Heure.slice(0,5)}</time>}
+      {Heure === "00:00:00" ? "" : <span class="font-semibold text-notionyellow-600">{Heure.slice(0,5)}</span>}
       <div class="font-semibold">{Titre}</div>
       <div class="flex gap-2 items-center">
         <div class="">{Saison}</div>

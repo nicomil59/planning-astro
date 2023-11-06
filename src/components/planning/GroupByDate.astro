@@ -7,6 +7,6 @@ const { date, shows } = Astro.props;
 ---
 
 <div class="my-8 sm:my-12">
-    <time class="font-bold text-lg sm:text-xl mb-2">{formatDate(date)}</time>
+    <span class="font-bold text-lg sm:text-xl mb-2">{formatDate(date)}</span>
     {shows.map((platformGroup) => <GroupByPlatform {...platformGroup} />)}
 </div>
