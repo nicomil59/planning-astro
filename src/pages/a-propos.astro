@@ -2,9 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 
 const pageTitle = "À propos de ce site";
+const pageDescription = "Ce site a pour objectif de tenir les passionné(e)s de séries informé(e)s des dates de sortie des programmes diffusés sur les chaînes de télévision et les plateformes de streaming en France";
+const pageTitleOG = "A propos de Planning Séries";
+const OGType = "article";
 ---
 
-<Layout pageTitle={pageTitle}>
+<Layout pageTitle={pageTitle} pageDescription={pageDescription} pageTitleOG={pageTitleOG} OGType={OGType}>
 	<main class="px-4 pb-4 font-text mt-4 sm:mt-8 mb-24">
 		<h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
 		

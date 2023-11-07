@@ -2,9 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 
 const pageTitle = "Contact";
+const pageDescription = "Restez en contact avec Planning Séries";
+const pageTitleOG = "Page de contact - Planning Séries";
+const OGType = "article";
 ---
 
-<Layout pageTitle={pageTitle}>
+<Layout pageTitle={pageTitle} pageDescription={pageDescription} pageTitleOG={pageTitleOG} OGType={OGType}>
 	<main class="px-4 pb-4 font-text mt-4 sm:mt-8 mb-24">
 		<h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
 		
