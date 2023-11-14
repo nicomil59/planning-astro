@@ -1,134 +1,80 @@
 [
   {
-    "Date": "1 novembre 2023",
-    "Titre": "Romance",
+    "Date": "25 novembre 2023",
+    "Titre": "Témoin numéro 3",
     "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "2 novembre 2023",
-    "Titre": "The Kidnapping Day",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
+    "Date": "26 novembre 2023",
+    "Titre": "Les Enquêtes de Vera",
+    "Saison": "Saison 12",
+    "Plateforme": "France 3"
   },
   {
-    "Date": "2 novembre 2023",
-    "Titre": "Cigarette Girl",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Date": "28 novembre 2023",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
   },
   {
-    "Date": "3 novembre 2023",
-    "Titre": "Le Tailleur",
+    "Date": "29 novembre 2023",
+    "Titre": "Slow Horses",
     "Saison": "Saison 3",
-    "Plateforme": "Netflix"
+    "Plateforme": "Apple TV+"
   },
   {
-    "Date": "4 novembre 2023",
-    "Titre": "9-1-1: Lone Star",
-    "Saison": "Saison 4",
-    "Plateforme": "M6"
+    "Date": "30 novembre 2023",
+    "Titre": "Panda",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "9 novembre 2023",
-    "Titre": "Waco, l’après",
+    "Date": "30 novembre 2023",
+    "Titre": "Love & Death",
     "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "10 novembre 2023",
-    "Titre": "At The Moment",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "12 novembre 2023",
-    "Titre": "Zoey 101",
-    "Saison": "Intégrale",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "14 novembre 2023",
-    "Titre": "Le Code du crime",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15 novembre 2023",
-    "Titre": "SWAT",
+    "Date": "1 décembre 2023",
+    "Titre": "Les Enquêtes de Foyle",
     "Saison": "Saison 5",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "7 décembre 2023",
+    "Titre": "Ma vie avec les Walter Boys",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Reacher",
+    "Saison": "Saison 2",
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "15 novembre 2023",
-    "Titre": "Caprica",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "15 novembre 2023",
-    "Titre": "Battlestar Galactica",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "15 novembre 2023",
-    "Titre": "Feedback",
+    "Date": "25 janvier 2024",
+    "Titre": "Masters of The Universe: Revolution",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "17 novembre 2023",
-    "Titre": "Sur l’Autel de la famille",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "18 novembre 2023",
-    "Titre": "Railway Men : Les héros de Bhopal",
+    "Date": "26 janvier 2024",
+    "Titre": "Masters of The Air",
     "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "22 février 2024",
+    "Titre": "Avatar, le dernier maître de l’air",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "18 novembre 2023",
-    "Titre": "Vestiaires",
-    "Saison": "Inédits",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "21 novembre 2023",
-    "Titre": "Scooby-Doo : Mystères associés",
-    "Saison": "Intégrale",
+    "Date": "21 mars 2024",
+    "Titre": "Le Problème à 3 corps",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
-  },
-  {
-    "Date": "23 novembre 2023",
-    "Titre": "Les Petits meurtres d’Agatha Christie",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "23 novembre 2023",
-    "Titre": "Fais pas ci, fais pas ça",
-    "Saison": "Intégrale",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "23 novembre 2023",
-    "Titre": "One Trillion Dollars",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "10 janvier 2024",
-    "Titre": "Echo",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "19 janvier 2024",
-    "Titre": "Cristobal Balenciaga",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
   }
 ]

@@ -6,7 +6,7 @@
     "Saison": "Saison 1",
     "Plateforme": "OCS Pulp",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/10/2023",
@@ -15,7 +15,7 @@
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/10/2023",
@@ -24,7 +24,7 @@
     "Saison": "Partie 1",
     "Plateforme": "Canal+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/10/2023",
@@ -33,7 +33,7 @@
     "Saison": "Saisons 1 et 2",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/10/2023",
@@ -42,7 +42,7 @@
     "Saison": "Saison 7",
     "Plateforme": "Adult Swim",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "17/10/2023",
@@ -51,7 +51,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "CAN",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/10/2023",
@@ -60,7 +60,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "IND",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/10/2023",
@@ -69,7 +69,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/10/2023",
@@ -78,7 +78,7 @@
     "Saison": "Saison 3",
     "Plateforme": "France 2",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/10/2023",
@@ -87,7 +87,7 @@
     "Saison": "Final Saison 3 + Saison 4",
     "Plateforme": "TF1",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "19/10/2023",
@@ -96,7 +96,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "ARA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "19/10/2023",
@@ -105,7 +105,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "19/10/2023",
@@ -114,7 +114,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "19/10/2023",
@@ -123,7 +123,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "19/10/2023",
@@ -141,7 +141,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -150,7 +150,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "TUR",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -159,7 +159,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "CDS",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -168,7 +168,7 @@
     "Saison": "Saison 7",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -177,7 +177,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -186,7 +186,7 @@
     "Saison": "Saison 3",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/10/2023",
@@ -195,7 +195,7 @@
     "Saison": "Saison 7",
     "Plateforme": "Netflix",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "22/10/2023",
@@ -204,7 +204,7 @@
     "Saison": "Saison 21",
     "Plateforme": "TMC",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "22/10/2023",
@@ -213,7 +213,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Teva",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/10/2023",
@@ -222,7 +222,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/10/2023",
@@ -231,7 +231,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Polar+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "24/10/2023",
@@ -240,7 +240,7 @@
     "Saison": "Saison 8 partie 2",
     "Plateforme": "Canal+ Séries",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "24/10/2023",
@@ -249,7 +249,7 @@
     "Saison": "Saison 2",
     "Plateforme": "TF1",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "24/10/2023",
@@ -258,7 +258,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "24/10/2023",
@@ -267,7 +267,7 @@
     "Saison": "Saison 1",
     "Plateforme": "OCS Max",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "25/10/2023",
@@ -276,7 +276,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "POL",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "25/10/2023",
@@ -285,7 +285,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "ITA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "25/10/2023",
@@ -294,7 +294,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "25/10/2023",
@@ -303,7 +303,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "25/10/2023",
@@ -312,7 +312,7 @@
     "Saison": "Saison 11",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "26/10/2023",
@@ -321,7 +321,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Canal+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "26/10/2023",
@@ -330,7 +330,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "26/10/2023",
@@ -339,7 +339,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP, US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "27/10/2023",
@@ -357,7 +357,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "SUE",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "28/10/2023",
@@ -366,7 +366,7 @@
     "Saison": "Film",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "28/10/2023",
@@ -375,7 +375,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "CDS",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "28/10/2023",
@@ -384,7 +384,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Polar+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "30/10/2023",
@@ -393,7 +393,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Pass Warner",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "31/10/2023",
@@ -402,7 +402,7 @@
     "Saison": "Saison 2",
     "Plateforme": "France 3",
     "Pays": "ALL, BEL, FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "31/10/2023",
@@ -411,7 +411,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Série Club",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "01/11/2023",
@@ -420,7 +420,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Paramount+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "01/11/2023",
@@ -429,7 +429,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "01/11/2023",
@@ -447,7 +447,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "CDS",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "02/11/2023",
@@ -456,7 +456,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "INDO",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "02/11/2023",
@@ -465,7 +465,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP, US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "02/11/2023",
@@ -474,7 +474,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Arte",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "02/11/2023",
@@ -483,7 +483,7 @@
     "Saison": "MS",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -492,7 +492,7 @@
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Pays": "TUR",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -501,7 +501,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "CDS",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -510,7 +510,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -519,7 +519,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -528,7 +528,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "BEL, PB",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "03/11/2023",
@@ -537,7 +537,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "04/11/2023",
@@ -546,7 +546,7 @@
     "Saison": "Saison 4",
     "Plateforme": "M6",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "05/11/2023",
@@ -555,7 +555,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "06/11/2023",
@@ -573,7 +573,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "CDS",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "08/11/2023",
@@ -582,7 +582,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "08/11/2023",
@@ -591,7 +591,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "09/11/2023",
@@ -600,7 +600,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "09/11/2023",
@@ -609,7 +609,7 @@
     "Saison": "Saison 1",
     "Plateforme": "TF1",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "09/11/2023",
@@ -618,7 +618,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "10/11/2023",
@@ -627,7 +627,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "TAI",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "10/11/2023",
@@ -636,7 +636,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "10/11/2023",
@@ -645,7 +645,7 @@
     "Saison": "Saison 4",
     "Plateforme": "France 2",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "10/11/2023",
@@ -654,7 +654,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "11/11/2023",
@@ -663,7 +663,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "12/11/2023",
@@ -672,7 +672,7 @@
     "Saison": "Intégrale",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "12/11/2023",
@@ -681,7 +681,7 @@
     "Saison": "Saison 1",
     "Plateforme": "France 3",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "13/11/2023",
@@ -690,7 +690,7 @@
     "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "13/11/2023",
@@ -699,7 +699,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Polar+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "13/11/2023",
@@ -708,7 +708,7 @@
     "Saison": "Saison 5",
     "Plateforme": "Série Club",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "14/11/2023",
@@ -717,7 +717,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "BRE",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "14/11/2023",
@@ -726,7 +726,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "ITA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "14/11/2023",
@@ -735,7 +735,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -744,7 +744,7 @@
     "Saison": "Saison 5",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -753,7 +753,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -762,7 +762,7 @@
     "Saison": "Saisons 1 à 4",
     "Plateforme": "Paramount+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -771,7 +771,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "POL",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -780,7 +780,7 @@
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Pays": "JAP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -798,7 +798,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/11/2023",
@@ -807,7 +807,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "ALL",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/11/2023",
@@ -816,7 +816,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "BRE",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/11/2023",
@@ -825,7 +825,7 @@
     "Saison": "Saison 1",
     "Plateforme": "W9",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "16/11/2023",
@@ -834,7 +834,7 @@
     "Saison": "Saison 6 partie 1",
     "Plateforme": "Netflix",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "17/11/2023",
@@ -843,7 +843,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "17/11/2023",
@@ -852,7 +852,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Polar+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "17/11/2023",
@@ -861,7 +861,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "17/11/2023",
@@ -870,7 +870,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/11/2023",
@@ -879,7 +879,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "IND",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "18/11/2023",
@@ -888,7 +888,7 @@
     "Saison": "Inédits",
     "Plateforme": "France 2",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "20/11/2023",
@@ -897,7 +897,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Canal+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "21/11/2023",
@@ -906,7 +906,7 @@
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/11/2023",
@@ -915,7 +915,7 @@
     "Saison": "Saisons 1 et 2",
     "Plateforme": "Paramount+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/11/2023",
@@ -924,7 +924,7 @@
     "Saison": "Intégrale",
     "Plateforme": "Paramount+",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/11/2023",
@@ -933,7 +933,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "ALL, ITA",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "23/11/2023",
@@ -942,7 +942,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Warner TV",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "24/11/2023",
@@ -951,7 +951,16 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "SUE",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "25/11/2023",
+    "Heure": "20:55:00",
+    "Titre": "Témoin numéro 3",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "25/11/2023",
@@ -964,12 +973,30 @@
   },
   {
     "Date": "26/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Les Enquêtes de Vera",
+    "Saison": "Saison 12",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "26/11/2023",
     "Heure": "21:00:00",
     "Titre": "Follow",
     "Saison": "Saison 1",
     "Plateforme": "13ème Rue",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "28/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "28/11/2023",
@@ -978,7 +1005,7 @@
     "Saison": "Mini-série",
     "Plateforme": "OCS Max",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "29/11/2023",
@@ -987,7 +1014,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "29/11/2023",
+    "Heure": "00:00:00",
+    "Titre": "Slow Horses",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV+",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "29/11/2023",
@@ -996,7 +1032,25 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "AUS",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "30/11/2023",
+    "Heure": "21:10:00",
+    "Titre": "Panda",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "30/11/2023",
+    "Heure": "21:00:00",
+    "Titre": "Love & Death",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "30/11/2023",
@@ -1005,7 +1059,7 @@
     "Saison": "Saison 5 partie 2",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "30/11/2023",
@@ -1014,16 +1068,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "01/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Slow Horses",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
+    "Heure": "20:55:00",
+    "Titre": "Les Enquêtes de Foyle",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "06/12/2023",
@@ -1032,7 +1086,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "FRA",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "07/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Ma vie avec les Walter Boys",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "13/12/2023",
@@ -1041,7 +1104,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Warner TV",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "14/12/2023",
@@ -1050,7 +1113,16 @@
     "Saison": "Saison 6 partie 2",
     "Plateforme": "Netflix",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Reacher",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "20/12/2023",
@@ -1059,7 +1131,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "21/12/2023",
@@ -1068,7 +1140,7 @@
     "Saison": "Saison 4",
     "Plateforme": "Warner TV Next",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "22/12/2023",
@@ -1077,7 +1149,7 @@
     "Saison": "Saison 2",
     "Plateforme": "Adult Swim",
     "Pays": "BEL",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "29/12/2023",
@@ -1086,7 +1158,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "10/01/2024",
@@ -1095,7 +1167,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "12/01/2024",
@@ -1104,7 +1176,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
-    "Note": ""
+    "Note": null
   },
   {
     "Date": "15/01/2024",
@@ -1122,7 +1194,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "ESP",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "25/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Masters of The Universe: Revolution",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "25/01/2024",
@@ -1131,7 +1212,16 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "26/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Masters of The Air",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "26/01/2024",
@@ -1140,7 +1230,25 @@
     "Saison": "Mini-série",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
+  },
+  {
+    "Date": "22/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Avatar, le dernier maître de l’air",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Le Problème à 3 corps",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Titre original : “3 Body Problem”"
   },
   {
     "Date": "12/04/2024",
@@ -1149,6 +1257,6 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": ""
+    "Note": null
   }
 ]

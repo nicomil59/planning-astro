@@ -6,12 +6,6 @@
     "Plateforme": "Paramount+"
   },
   {
-    "Date": "10/11/2023",
-    "Titre": "For All Mankind",
-    "Saison": "Saison 4",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "15/11/2023",
     "Titre": "Tout va bien",
     "Saison": "Mini-série",
@@ -30,9 +24,15 @@
     "Plateforme": "Apple TV+"
   },
   {
-    "Date": "20/11/2023",
+    "Date": "21/11/2023",
     "Titre": "Pamela Rose, la série",
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
+  },
+  {
+    "Date": "21/03/2024",
+    "Titre": "Le Problème à 3 corps",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]
