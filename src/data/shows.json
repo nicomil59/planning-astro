@@ -947,6 +947,15 @@
   {
     "Date": "24/11/2023",
     "Heure": "00:00:00",
+    "Titre": "Found",
+    "Saison": "Saison 1",
+    "Plateforme": "Pass Warner",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/11/2023",
+    "Heure": "00:00:00",
     "Titre": "Une Famille presque normale",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
@@ -1080,6 +1089,33 @@
     "Note": null
   },
   {
+    "Date": "03/12/2023",
+    "Heure": "20:55:00",
+    "Titre": "Reindeer Mafia",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Pays": "FIN",
+    "Note": null
+  },
+  {
+    "Date": "04/12/2023",
+    "Heure": "21:10:00",
+    "Titre": "L’Art du crime",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "05/12/2023",
+    "Heure": "21:10:00",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "06/12/2023",
     "Heure": "00:00:00",
     "Titre": "Pax Massilia",
@@ -1126,6 +1162,15 @@
   },
   {
     "Date": "20/12/2023",
+    "Heure": "21:10:00",
+    "Titre": "Harley Quinn",
+    "Saison": "Saison 4",
+    "Plateforme": "Warner TV Next",
+    "Pays": "US",
+    "Note": "Changement de date"
+  },
+  {
+    "Date": "20/12/2023",
     "Heure": "00:00:00",
     "Titre": "Percy Jackson and the Olympians",
     "Saison": "Saison 1",
@@ -1134,11 +1179,11 @@
     "Note": null
   },
   {
-    "Date": "21/12/2023",
-    "Heure": "21:00:00",
-    "Titre": "Harley Quinn",
-    "Saison": "Saison 4",
-    "Plateforme": "Warner TV Next",
+    "Date": "22/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Marvel’s What If… ?",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -1159,6 +1204,15 @@
     "Plateforme": "Netflix",
     "Pays": "ESP",
     "Note": null
+  },
+  {
+    "Date": "08/01/2024",
+    "Heure": "14:00:00",
+    "Titre": "Plus belle la vie, encore plus belle",
+    "Saison": "Feuilleton quotidien",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": "Horaire à confirmer"
   },
   {
     "Date": "10/01/2024",
@@ -1229,6 +1283,24 @@
     "Titre": "Expats",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Mr. & Mrs. Smith",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "The New Look",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": null
   },

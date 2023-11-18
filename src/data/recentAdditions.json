@@ -1,80 +1,56 @@
 [
   {
-    "Date": "25 novembre 2023",
-    "Titre": "Témoin numéro 3",
-    "Saison": "Mini-série",
+    "Date": "24 novembre 2023",
+    "Titre": "Found",
+    "Saison": "Saison 1",
+    "Plateforme": "Pass Warner"
+  },
+  {
+    "Date": "3 décembre 2023",
+    "Titre": "Reindeer Mafia",
+    "Saison": "Saison 1",
     "Plateforme": "Polar+"
   },
   {
-    "Date": "26 novembre 2023",
-    "Titre": "Les Enquêtes de Vera",
-    "Saison": "Saison 12",
-    "Plateforme": "France 3"
+    "Date": "4 décembre 2023",
+    "Titre": "L’Art du crime",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "28 novembre 2023",
-    "Titre": "Bellefond",
+    "Date": "5 décembre 2023",
+    "Titre": "Alex Hugo",
     "Saison": "Inédit",
     "Plateforme": "France 3"
   },
   {
-    "Date": "29 novembre 2023",
-    "Titre": "Slow Horses",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+"
+    "Date": "20 décembre 2023",
+    "Titre": "Harley Quinn",
+    "Saison": "Saison 4",
+    "Plateforme": "Warner TV Next"
   },
   {
-    "Date": "30 novembre 2023",
-    "Titre": "Panda",
-    "Saison": "Saison 1",
+    "Date": "22 décembre 2023",
+    "Titre": "Marvel’s What If… ?",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "8 janvier 2024",
+    "Titre": "Plus belle la vie, encore plus belle",
+    "Saison": "Feuilleton quotidien",
     "Plateforme": "TF1"
   },
   {
-    "Date": "30 novembre 2023",
-    "Titre": "Love & Death",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "1 décembre 2023",
-    "Titre": "Les Enquêtes de Foyle",
-    "Saison": "Saison 5",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "7 décembre 2023",
-    "Titre": "Ma vie avec les Walter Boys",
+    "Date": "2 février 2024",
+    "Titre": "Mr. & Mrs. Smith",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15 décembre 2023",
-    "Titre": "Reacher",
-    "Saison": "Saison 2",
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "25 janvier 2024",
-    "Titre": "Masters of The Universe: Revolution",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "26 janvier 2024",
-    "Titre": "Masters of The Air",
+    "Date": "14 février 2024",
+    "Titre": "The New Look",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "22 février 2024",
-    "Titre": "Avatar, le dernier maître de l’air",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "21 mars 2024",
-    "Titre": "Le Problème à 3 corps",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
   }
 ]
