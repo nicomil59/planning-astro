@@ -1,56 +1,62 @@
 [
   {
     "Date": "24 novembre 2023",
-    "Titre": "Found",
+    "Titre": "Split",
     "Saison": "Saison 1",
-    "Plateforme": "Pass Warner"
+    "Plateforme": "France.tv Slash"
   },
   {
-    "Date": "3 décembre 2023",
-    "Titre": "Reindeer Mafia",
+    "Date": "24 novembre 2023",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 22",
+    "Plateforme": "13ème Rue"
+  },
+  {
+    "Date": "2 décembre 2023",
+    "Titre": "La Petite Histoire de France",
+    "Saison": "Saison 5",
+    "Plateforme": "W9"
+  },
+  {
+    "Date": "10 décembre 2023",
+    "Titre": "Les Mystères de L’Amour",
+    "Saison": "Inédit",
+    "Plateforme": "TMC"
+  },
+  {
+    "Date": "17 décembre 2023",
+    "Titre": "Agatha Christie : Les Enquêtes de Hjerson",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+"
+    "Plateforme": "Série Club"
   },
   {
-    "Date": "4 décembre 2023",
-    "Titre": "L’Art du crime",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
+    "Date": "17 décembre 2023",
+    "Titre": "The Killing Kind",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS Pulp"
   },
   {
-    "Date": "5 décembre 2023",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
+    "Date": "4 janvier 2024",
+    "Titre": "Riverdale",
+    "Saison": "Saison 6",
+    "Plateforme": "Warner TV"
   },
   {
-    "Date": "20 décembre 2023",
-    "Titre": "Harley Quinn",
-    "Saison": "Saison 4",
-    "Plateforme": "Warner TV Next"
-  },
-  {
-    "Date": "22 décembre 2023",
-    "Titre": "Marvel’s What If… ?",
-    "Saison": "Saison 2",
+    "Date": "17 janvier 2024",
+    "Titre": "Le Renard : Prince des voleurs",
+    "Saison": "Saison 1",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "8 janvier 2024",
-    "Titre": "Plus belle la vie, encore plus belle",
-    "Saison": "Feuilleton quotidien",
-    "Plateforme": "TF1"
+    "Date": "22 janvier 2024",
+    "Titre": "Dickie",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Adult Swim"
   },
   {
-    "Date": "2 février 2024",
-    "Titre": "Mr. & Mrs. Smith",
+    "Date": "23 janvier 2024",
+    "Titre": "Spencer Sisters : Detectives Agency",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "14 février 2024",
-    "Titre": "The New Look",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Warner TV"
   }
 ]
