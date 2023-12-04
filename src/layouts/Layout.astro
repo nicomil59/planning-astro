@@ -11,10 +11,26 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
 <!doctype html>
 <html lang="fr">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      type="text/partytown"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script>
+    <script type="text/partytown">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-MVLZP403HL");
+    </script>
+
+    <!-- Astro SEO code -->
     <SEO
       title={pageTitle}
       description={pageDescription}
-	  canonical={`https://planningseries.fr${Astro.url.pathname}`}
+      canonical={`https://planningseries.fr${Astro.url.pathname}`}
       openGraph={{
         basic: {
           title: `${pageTitleOG}`,
