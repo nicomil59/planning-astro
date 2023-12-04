@@ -1,23 +1,5 @@
 [
   {
-    "Date": "10/11/2023",
-    "Titre": "The Walking Dead : Daryl Dixon",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "15/11/2023",
-    "Titre": "Tout va bien",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "16/11/2023",
-    "Titre": "The Crown",
-    "Saison": "Saison 6 partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "17/11/2023",
     "Titre": "Monarch: Legacy of Monsters",
     "Saison": "Saison 1",
@@ -30,9 +12,27 @@
     "Plateforme": "Canal+"
   },
   {
-    "Date": "21/03/2024",
-    "Titre": "Le Problème à 3 corps",
+    "Date": "14/12/2023",
+    "Titre": "The Crown",
+    "Saison": "Saison 6 partie 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20/12/2023",
+    "Titre": "Percy Jackson et les Olympiens",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "29/12/2023",
+    "Titre": "Berlin",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "10/01/2024",
+    "Titre": "Echo",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]

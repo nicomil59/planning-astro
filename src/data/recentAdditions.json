@@ -1,62 +1,326 @@
 [
   {
-    "Date": "24 novembre 2023",
-    "Titre": "Split",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv Slash"
+    "Date": "1 décembre 2023",
+    "Titre": "Tout pour Agnès",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+"
   },
   {
-    "Date": "24 novembre 2023",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 22",
-    "Plateforme": "13ème Rue"
+    "Date": "1 décembre 2023",
+    "Titre": "The Rookie",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "Fisk",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "DC’s Legends of Tomorrow",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "Community",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "Sweet Home",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "Sept à la Maison",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "1 décembre 2023",
+    "Titre": "Mes trois fils",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
   },
   {
     "Date": "2 décembre 2023",
-    "Titre": "La Petite Histoire de France",
-    "Saison": "Saison 5",
-    "Plateforme": "W9"
-  },
-  {
-    "Date": "10 décembre 2023",
-    "Titre": "Les Mystères de L’Amour",
-    "Saison": "Inédit",
-    "Plateforme": "TMC"
-  },
-  {
-    "Date": "17 décembre 2023",
-    "Titre": "Agatha Christie : Les Enquêtes de Hjerson",
+    "Titre": "Retour à Samdal-Ri",
     "Saison": "Saison 1",
-    "Plateforme": "Série Club"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "17 décembre 2023",
-    "Titre": "The Killing Kind",
+    "Date": "3 décembre 2023",
+    "Titre": "Love Me",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "3 décembre 2023",
+    "Titre": "Tale of The Nine Tailed",
     "Saison": "Saison 1",
-    "Plateforme": "OCS Pulp"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "4 janvier 2024",
-    "Titre": "Riverdale",
-    "Saison": "Saison 6",
-    "Plateforme": "Warner TV"
-  },
-  {
-    "Date": "17 janvier 2024",
-    "Titre": "Le Renard : Prince des voleurs",
+    "Date": "6 décembre 2023",
+    "Titre": "Soundtrack #2",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "22 janvier 2024",
-    "Titre": "Dickie",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Adult Swim"
+    "Date": "6 décembre 2023",
+    "Titre": "Les Super-Vilains de Valley View",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "23 janvier 2024",
-    "Titre": "Spencer Sisters : Detectives Agency",
+    "Date": "6 décembre 2023",
+    "Titre": "Wolf",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "7 décembre 2023",
+    "Titre": "Les Émissaires",
     "Saison": "Saison 1",
-    "Plateforme": "Warner TV"
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "7 décembre 2023",
+    "Titre": "Knokke Off : jeunesse dorée",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "7 décembre 2023",
+    "Titre": "Analog Squad",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "7 décembre 2023",
+    "Titre": "Je Déteste Noël",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "10 décembre 2023",
+    "Titre": "Bupkis",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "11 décembre 2023",
+    "Titre": "True Beauty",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12 décembre 2023",
+    "Titre": "The Ex-Wife",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "12 décembre 2023",
+    "Titre": "Los Farad",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "13 décembre 2023",
+    "Titre": "The Influencer",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13 décembre 2023",
+    "Titre": 1670,
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13 décembre 2023",
+    "Titre": "Undead Unluck",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "14 décembre 2023",
+    "Titre": "Everything I Know About Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "14 décembre 2023",
+    "Titre": "Les Ailes de l’ambition",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "14 décembre 2023",
+    "Titre": "Yu Yu Hakusho",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Dream On",
+    "Saison": "Intégrale",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Yoh! Christmas",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "The Shield",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Death’s Game",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Carol et la fin du monde",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "Grand Palais Chicha Lounge",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv Slash"
+  },
+  {
+    "Date": "15 décembre 2023",
+    "Titre": "The Lovers",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "18 décembre 2023",
+    "Titre": "Pagan Peak",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "20 décembre 2023",
+    "Titre": "Cindy la Regia",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20 décembre 2023",
+    "Titre": "Dragons de Wonderhatch",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "20 décembre 2023",
+    "Titre": "Fargo",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "MyCanal"
+  },
+  {
+    "Date": "22 décembre 2023",
+    "Titre": "La Créature de Kyŏngsŏng",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23 décembre 2023",
+    "Titre": "Starstruck",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+ Séries"
+  },
+  {
+    "Date": "24 décembre 2023",
+    "Titre": "Gabriel et ses petits démons",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "25 décembre 2023",
+    "Titre": "Yellowjackets",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "25 décembre 2023",
+    "Titre": "Doctor Who : L’Église de Ruby Road",
+    "Saison": "Inédit",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "26 décembre 2023",
+    "Titre": "Orphan Black : Echoes",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS Max"
+  },
+  {
+    "Date": "28 décembre 2023",
+    "Titre": "La Réceptionniste Pokemon",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "28 décembre 2023",
+    "Titre": "Blue Bloods",
+    "Saison": "Saison 13",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "29 décembre 2023",
+    "Titre": "Insecure",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "30 décembre 2023",
+    "Titre": "Sister, Sister",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "30 décembre 2023",
+    "Titre": "Moesha",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "30 décembre 2023",
+    "Titre": "The Affair",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "7 janvier 2024",
+    "Titre": "The Lazarus Project",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS Pulp"
+  },
+  {
+    "Date": "19 janvier 2024",
+    "Titre": "Hazbin Hotel",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "8 février 2024",
+    "Titre": "One Day",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]

@@ -1,230 +1,5 @@
 [
   {
-    "Date": "12/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Zoey 101",
-    "Saison": "Intégrale",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2023",
-    "Heure": "21:10:00",
-    "Titre": "Professeur T",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2023",
-    "Heure": "21:10:00",
-    "Titre": "Sambre",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2023",
-    "Heure": "20:55:00",
-    "Titre": "The Calling",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2023",
-    "Heure": "21:00:00",
-    "Titre": "The Rookie – Le flic de Los Angeles",
-    "Saison": "Saison 5",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Le Code du crime",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Suburræterna",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Un Meurtre au bout du monde",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "SWAT",
-    "Saison": "Saison 5",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Caprica",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Battlestar Galactica",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Feedback",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Fullmetal Alchemist : Brotherhood",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "A Teacher",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Canal+"
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Tout va bien",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Deutsches Haus",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "16/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Anderson Spider Silva",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "16/11/2023",
-    "Heure": "21:05:00",
-    "Titre": "Un, Dos, Tres : nouvelle génération",
-    "Saison": "Saison 1",
-    "Plateforme": "W9",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "16/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "The Crown",
-    "Saison": "Saison 6 partie 1",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Sur l’Autel de la famille",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2023",
-    "Heure": "20:55:00",
-    "Titre": "Les Enquêtes de Foyle",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Monarch: Legacy of Monsters",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Scott Pilgrim Takes Off",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/11/2023",
-    "Heure": "00:00:00",
-    "Titre": "Railway Men : Les héros de Bhopal",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "18/11/2023",
-    "Heure": "21:05:00",
-    "Titre": "Vestiaires",
-    "Saison": "Inédits",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "20/11/2023",
     "Heure": "21:00:00",
     "Titre": "Pamela Rose, la série",
@@ -424,6 +199,78 @@
   },
   {
     "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Tout pour Agnès",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Rookie",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Fisk",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "DC’s Legends of Tomorrow",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Community",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Sweet Home",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Sept à la Maison",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Mes trois fils",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2023",
     "Heure": "20:55:00",
     "Titre": "Les Enquêtes de Foyle",
     "Saison": "Saison 5",
@@ -433,11 +280,38 @@
   },
   {
     "Date": "02/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Retour à Samdal-Ri",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "02/12/2023",
     "Heure": "21:05:00",
     "Titre": "La Petite Histoire de France",
     "Saison": "Saison 5",
     "Plateforme": "W9",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "03/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Love Me",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "03/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Tale of The Nine Tailed",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -470,10 +344,73 @@
   {
     "Date": "06/12/2023",
     "Heure": "00:00:00",
+    "Titre": "Soundtrack #2",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Les Super-Vilains de Valley View",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Wolf",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2023",
+    "Heure": "00:00:00",
     "Titre": "Pax Massilia",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Les Émissaires",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "ARG, MEX",
+    "Note": null
+  },
+  {
+    "Date": "07/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Knokke Off : jeunesse dorée",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "07/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Analog Squad",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "THA",
+    "Note": null
+  },
+  {
+    "Date": "07/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Je Déteste Noël",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
     "Note": null
   },
   {
@@ -487,11 +424,74 @@
   },
   {
     "Date": "10/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Bupkis",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/12/2023",
     "Heure": "21:10:00",
     "Titre": "Les Mystères de L’Amour",
     "Saison": "Inédit",
     "Plateforme": "TMC",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "11/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "True Beauty",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "12/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Ex-Wife",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "12/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Los Farad",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "13/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Influencer",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
+    "Date": "13/12/2023",
+    "Heure": "00:00:00",
+    "Titre": 1670,
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "13/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Undead Unluck",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -506,9 +506,99 @@
   {
     "Date": "14/12/2023",
     "Heure": "00:00:00",
+    "Titre": "Everything I Know About Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "14/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Les Ailes de l’ambition",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "14/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Yu Yu Hakusho",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP, US",
+    "Note": null
+  },
+  {
+    "Date": "14/12/2023",
+    "Heure": "00:00:00",
     "Titre": "The Crown",
     "Saison": "Saison 6 partie 2",
     "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Dream On",
+    "Saison": "Intégrale",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Yoh! Christmas",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "AFS",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Shield",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Death’s Game",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Carol et la fin du monde",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Grand Palais Chicha Lounge",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv Slash",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Lovers",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
     "Pays": "UK",
     "Note": null
   },
@@ -540,6 +630,42 @@
     "Note": null
   },
   {
+    "Date": "18/12/2023",
+    "Heure": "20:55:00",
+    "Titre": "Pagan Peak",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
+    "Date": "20/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Cindy la Regia",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "20/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Dragons de Wonderhatch",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "20/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Fargo",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "MyCanal",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "20/12/2023",
     "Heure": "21:10:00",
     "Titre": "Harley Quinn",
@@ -553,8 +679,17 @@
     "Heure": "00:00:00",
     "Titre": "Percy Jackson and the Olympians",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
+    "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "La Créature de Kyŏngsŏng",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -576,6 +711,78 @@
     "Note": null
   },
   {
+    "Date": "23/12/2023",
+    "Heure": "21:00:00",
+    "Titre": "Starstruck",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+ Séries",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "24/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Gabriel et ses petits démons",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "25/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Yellowjackets",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Doctor Who : L’Église de Ruby Road",
+    "Saison": "Inédit",
+    "Plateforme": "Disney+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "26/12/2023",
+    "Heure": "21:00:00",
+    "Titre": "Orphan Black : Echoes",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS Max",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "28/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "La Réceptionniste Pokemon",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "28/12/2023",
+    "Heure": "21:00:00",
+    "Titre": "Blue Bloods",
+    "Saison": "Saison 13",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "29/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Insecure",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "29/12/2023",
     "Heure": "00:00:00",
     "Titre": "Berlín",
@@ -585,12 +792,48 @@
     "Note": null
   },
   {
+    "Date": "30/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Sister, Sister",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "30/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Moesha",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "30/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Affair",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/01/2024",
     "Heure": "20:55:00",
     "Titre": "Riverdale",
     "Saison": "Saison 6",
     "Plateforme": "Warner TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "The Lazarus Project",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS Pulp",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -637,6 +880,15 @@
     "Plateforme": "Disney+",
     "Pays": "AUS",
     "Note": "Titre original : The Artful Dodger"
+  },
+  {
+    "Date": "19/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Hazbin Hotel",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "19/01/2024",
@@ -708,6 +960,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "08/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "One Day",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
     "Note": null
   },
   {
