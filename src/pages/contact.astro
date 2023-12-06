@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from "../layouts/Layout.astro";
 
 const pageTitle = "Contact";
 const pageDescription = "Restez en contact avec Planning Séries";
@@ -7,27 +7,69 @@ const pageTitleOG = "Page de contact - Planning Séries";
 const OGType = "article";
 ---
 
-<Layout pageTitle={pageTitle} pageDescription={pageDescription} pageTitleOG={pageTitleOG} OGType={OGType}>
-	<main class="px-4 pb-4 font-text mt-4 sm:mt-8 mb-24">
-		<h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
-		
-		<p class="my-4">Si vous avez repéré une erreur, si vous avez une suggestion de date ou une remarque, n'hésitez pas à prendre contact :</p>
-		<ul>
-			<li class="ml-4 mb-6 font-medium"><a class="px-4 py-2 bg-notionyellow-200 hover:bg-notionyellow-100 rounded cursor-pointer" href="mailto:pseries@itstvnews.com">Par Mail</a></li>
-			<li class="ml-4 font-medium"><a class="px-4 py-2 bg-notionyellow-200 hover:bg-notionyellow-100 rounded cursor-pointer" href="https://twitter.com/seriestvnews" target="_blank">Sur X (anciennement Twitter)</a></li>
-		</ul>
+<Layout
+  pageTitle={pageTitle}
+  pageDescription={pageDescription}
+  pageTitleOG={pageTitleOG}
+  OGType={OGType}
+>
+  <main class="px-4 pb-2 font-text mt-4 sm:mt-8 mb-24">
+    <h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
 
-		<p class="mt-8 mb-4 italic">[Page en construction...]</p>
-		
-	</main>
+    <p class="my-4">
+      Si vous avez repéré une erreur, si vous avez une suggestion de date ou une
+      remarque, n'hésitez pas à envoyer un petit message. 😉
+    </p>
+
+    <section id="contact-form" class="py-2 lg:py-4 px-4 max-w-screen-md">
+      	<form action="https://formspree.io/f/mknldono" method="POST" class="">
+			<div class="mb-4">
+				<label for="name" class="block mb-2 font-medium">Votre nom (*)</label>
+				<input
+				type="text"
+				id="name"
+				name="name"
+				class="border border-notionyellow-300 text-sm rounded focus:ring-notionyellow-500 focus:border-notionyellow-500 block w-full p-2.5"
+				required
+				/>
+			</div>
+			<div class="mb-4">
+				<label for="email" class="block mb-2 font-medium">Votre email (*)</label
+					>
+					<input
+					type="email"
+					id="email"
+					name="email"
+					class="border border-notionyellow-300 text-sm rounded focus:ring-notionyellow-500 focus:border-notionyellow-500 block w-full p-2.5"
+					required
+					/>
+			</div>
+			<div class="mb-4">
+					<label for="message" class="block mb-2 font-medium"
+					>Votre message (*)</label
+					>
+					<textarea
+					id="message"
+					rows="6"
+					name="message"
+					class="block p-2.5 w-full text-sm rounded border border-notionyellow-300 focus:ring-notionyellow-500 focus:border-notionyellow-500"
+					></textarea>
+			</div>
+			<button type="submit" class="py-3 px-5 font-medium text-center text-white rounded bg-notionyellow-600 sm:w-fit hover:bg-notionyellow-500 focus:ring-4 focus:outline-none focus:ring-notionyellow-300">Soumettre</button>
+			<p class="mt-3">(*) Obligatoire</p>
+		</form>
+    </section>
+	<p class="mt-8 mb-4 italic">[Page en construction...]</p>
+  </main>
+
 </Layout>
 
 <style>
-	li a {
-		transition: background-color 0.2s ease-in-out;
-	}
+  li a {
+    transition: background-color 0.2s ease-in-out;
+  }
 
-	li a:hover {
-		transition: background-color 0.2s ease-in-out;
-	}
+  li a:hover {
+    transition: background-color 0.2s ease-in-out;
+  }
 </style>
