@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Pax Massilia",
-    "videoId": "Boq2FlEPBy0",
+    "titre": "Mr. & Mrs. Smith",
+    "videoId": "BUfwe0E4iZk",
+    "plateforme": "Prime Video"
+  },
+  {
+    "titre": "Les Frères Sun",
+    "videoId": "K16NktcJT6M",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Berlin",
-    "videoId": "rLKo9TCxv5Q",
-    "plateforme": "Netflix"
-  },
-  {
-    "titre": "Griselda",
-    "videoId": "h8LzFdEjyDY",
-    "plateforme": "Netflix"
+    "titre": "Halo saison 2",
+    "videoId": "Xrk33jeIjLg",
+    "plateforme": "Paramount+"
   }
 ]

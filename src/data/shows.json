@@ -506,6 +506,15 @@
   {
     "Date": "14/12/2023",
     "Heure": "00:00:00",
+    "Titre": "And Just Like That…",
+    "Saison": "Saison 2",
+    "Plateforme": "Pass Warner",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/12/2023",
+    "Heure": "00:00:00",
     "Titre": "Everything I Know About Love",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
@@ -537,6 +546,15 @@
     "Saison": "Saison 6 partie 2",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "The Restaurant",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -756,6 +774,15 @@
     "Note": null
   },
   {
+    "Date": "27/12/2023",
+    "Heure": "00:00:00",
+    "Titre": "Meurtres au paradis",
+    "Saison": "Spécial Noël",
+    "Plateforme": "France 2",
+    "Pays": "FRA, UK",
+    "Note": null
+  },
+  {
     "Date": "28/12/2023",
     "Heure": "00:00:00",
     "Titre": "La Réceptionniste Pokemon",
@@ -820,6 +847,15 @@
   },
   {
     "Date": "04/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Les Frères Sun",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/01/2024",
     "Heure": "20:55:00",
     "Titre": "Riverdale",
     "Saison": "Saison 6",
@@ -853,6 +889,15 @@
     "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "12/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "SkyMed",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Pays": "CAN",
+    "Note": "Date à confirmer"
   },
   {
     "Date": "12/01/2024",
@@ -920,6 +965,15 @@
   {
     "Date": "25/01/2024",
     "Heure": "00:00:00",
+    "Titre": "Sexy Beast",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "25/01/2024",
+    "Heure": "00:00:00",
     "Titre": "Masters of The Universe: Revolution",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -965,6 +1019,15 @@
   {
     "Date": "08/02/2024",
     "Heure": "00:00:00",
+    "Titre": "Halo",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "08/02/2024",
+    "Heure": "00:00:00",
     "Titre": "One Day",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
@@ -978,6 +1041,15 @@
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Constellation",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "FRA, UK, US",
     "Note": null
   },
   {
