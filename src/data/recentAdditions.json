@@ -1,50 +1,98 @@
 [
   {
-    "Date": "14 décembre 2023",
-    "Titre": "And Just Like That…",
+    "Date": "28 décembre 2023",
+    "Titre": "Icon of French Cinema",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "30 décembre 2023",
+    "Titre": "Threesome",
     "Saison": "Saison 2",
-    "Plateforme": "Pass Warner"
+    "Plateforme": "Canal+ Séries"
   },
   {
-    "Date": "15 décembre 2023",
-    "Titre": "The Restaurant",
-    "Saison": "Intégrale",
-    "Plateforme": "Arte.tv"
+    "Date": "2 janvier 2024",
+    "Titre": "Tandem",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
   },
   {
-    "Date": "27 décembre 2023",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Spécial Noël",
-    "Plateforme": "France 2"
+    "Date": "2 janvier 2024",
+    "Titre": "Dark Winds",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
   },
   {
     "Date": "4 janvier 2024",
-    "Titre": "Les Frères Sun",
+    "Titre": "Almost Paradise",
+    "Saison": "Saison 2",
+    "Plateforme": "13ème Rue"
+  },
+  {
+    "Date": "4 janvier 2024",
+    "Titre": "La Saison du Verseau",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "5 janvier 2024",
+    "Titre": "César Wagner",
+    "Saison": "inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "7 janvier 2024",
+    "Titre": "Arcadia",
     "Saison": "Saison 1",
+    "Plateforme": "Syfy"
+  },
+  {
+    "Date": "7 janvier 2024",
+    "Titre": "Alert",
+    "Saison": "Saison 1",
+    "Plateforme": "Teva"
+  },
+  {
+    "Date": "9 janvier 2024",
+    "Titre": "SurrealEstate",
+    "Saison": "Saison 2",
+    "Plateforme": "Syfy"
+  },
+  {
+    "Date": "6 mars 2024",
+    "Titre": "Supersex",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "12 janvier 2024",
-    "Titre": "SkyMed",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+"
+    "Date": "14 mars 2024",
+    "Titre": "Girls5eva",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "25 janvier 2024",
-    "Titre": "Sexy Beast",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "8 février 2024",
-    "Titre": "Halo",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "21 février 2024",
-    "Titre": "Constellation",
-    "Saison": "Saison 1",
+    "Date": "15 mars 2024",
+    "Titre": "Manhunt",
+    "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "20 mars 2024",
+    "Titre": "Palm Royale",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "16 mai 2024",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 3 partie 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13 juin 2024",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 3 partie 2",
+    "Plateforme": "Netflix"
   }
 ]

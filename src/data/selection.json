@@ -1,17 +1,5 @@
 [
   {
-    "Date": "17/11/2023",
-    "Titre": "Monarch: Legacy of Monsters",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "21/11/2023",
-    "Titre": "Pamela Rose, la série",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
     "Date": "14/12/2023",
     "Titre": "The Crown",
     "Saison": "Saison 6 partie 2",
@@ -21,6 +9,12 @@
     "Date": "20/12/2023",
     "Titre": "Percy Jackson et les Olympiens",
     "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "25/12/2023",
+    "Titre": "Doctor Who : L’Église de Ruby Road",
+    "Saison": "Spécial",
     "Plateforme": "Disney+"
   },
   {
@@ -34,5 +28,11 @@
     "Titre": "Echo",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "15/01/2024",
+    "Titre": "True Detective",
+    "Saison": "Saison 4",
+    "Plateforme": "Pass Warner"
   }
 ]
