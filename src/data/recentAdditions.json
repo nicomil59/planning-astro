@@ -1,98 +1,152 @@
 [
   {
-    "Date": "28 décembre 2023",
-    "Titre": "Icon of French Cinema",
+    "Date": "3 janvier 2024",
+    "Titre": "FBI Promotion 2009",
     "Saison": "Mini-série",
-    "Plateforme": "Arte"
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "30 décembre 2023",
-    "Titre": "Threesome",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+ Séries"
+    "Date": "6 janvier 2024",
+    "Titre": "The Rookie",
+    "Saison": "Saison 4",
+    "Plateforme": "M6"
   },
   {
-    "Date": "2 janvier 2024",
-    "Titre": "Tandem",
+    "Date": "7 janvier 2024",
+    "Titre": "81ème Golden Globes",
+    "Saison": "Cérémonie",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "7 janvier 2024",
+    "Titre": "Meurtres en eaux troubles",
     "Saison": "Inédit",
     "Plateforme": "France 3"
   },
   {
-    "Date": "2 janvier 2024",
-    "Titre": "Dark Winds",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "4 janvier 2024",
-    "Titre": "Almost Paradise",
-    "Saison": "Saison 2",
-    "Plateforme": "13ème Rue"
-  },
-  {
-    "Date": "4 janvier 2024",
-    "Titre": "La Saison du Verseau",
+    "Date": "8 janvier 2024",
+    "Titre": "Tout pour Agnès",
     "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "5 janvier 2024",
-    "Titre": "César Wagner",
-    "Saison": "inédit",
     "Plateforme": "France 2"
   },
   {
-    "Date": "7 janvier 2024",
-    "Titre": "Arcadia",
-    "Saison": "Saison 1",
-    "Plateforme": "Syfy"
+    "Date": "8 janvier 2024",
+    "Titre": "Sam",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "7 janvier 2024",
-    "Titre": "Alert",
-    "Saison": "Saison 1",
-    "Plateforme": "Teva"
+    "Date": "8 janvier 2024",
+    "Titre": "Without Sin",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "8 janvier 2024",
+    "Titre": "Plus belle la vie, encore plus belle",
+    "Saison": "Feuilleton quotidien",
+    "Plateforme": "TF1"
   },
   {
     "Date": "9 janvier 2024",
-    "Titre": "SurrealEstate",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy"
+    "Titre": "SWAT",
+    "Saison": "Reprise saison 6",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "6 mars 2024",
-    "Titre": "Supersex",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "14 mars 2024",
-    "Titre": "Girls5eva",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15 mars 2024",
-    "Titre": "Manhunt",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "20 mars 2024",
-    "Titre": "Palm Royale",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "16 mai 2024",
-    "Titre": "La Chronique des Bridgerton",
+    "Date": "10 janvier 2024",
+    "Titre": "American Horror Stories",
     "Saison": "Saison 3 partie 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "13 juin 2024",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 3 partie 2",
-    "Plateforme": "Netflix"
+    "Date": "10 janvier 2024",
+    "Titre": "Marianne",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "10 janvier 2024",
+    "Titre": "Esprits Criminels : Evolution",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "11 janvier 2024",
+    "Titre": "Mystery Road : les origines",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "11 janvier 2024",
+    "Titre": "Rivière-perdue",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "15 janvier 2024",
+    "Titre": "La nuit des Emmys",
+    "Saison": "Cérémonie",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "18 janvier 2024",
+    "Titre": "Fellow Travelers",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "18 janvier 2024",
+    "Titre": "Fargo",
+    "Saison": "Saison 5",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "18 janvier 2024",
+    "Titre": "Angelyne",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Max"
+  },
+  {
+    "Date": "19 janvier 2024",
+    "Titre": "Furia",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "24 janvier 2024",
+    "Titre": "American Dad!",
+    "Saison": "Saison 19 partie 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "31 janvier 2024",
+    "Titre": "9-1-1",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "5 février 2024",
+    "Titre": "Larry et son nombril",
+    "Saison": "Saison 12",
+    "Plateforme": "Pass Warner"
+  },
+  {
+    "Date": "23 février 2024",
+    "Titre": "The Second Best Hospital in The Galaxy",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "27 février 2024",
+    "Titre": "Found : les oubliés",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV"
+  },
+  {
+    "Date": "4 mars 2024",
+    "Titre": "The Regime",
+    "Saison": "Mini-série",
+    "Plateforme": "Pass Warner"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "Date": "14/12/2023",
-    "Titre": "The Crown",
-    "Saison": "Saison 6 partie 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "20/12/2023",
-    "Titre": "Percy Jackson et les Olympiens",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "25/12/2023",
     "Titre": "Doctor Who : L’Église de Ruby Road",
     "Saison": "Spécial",
@@ -24,6 +12,12 @@
     "Plateforme": "Netflix"
   },
   {
+    "Date": "07/01/2024",
+    "Titre": "81ème Golden Globes",
+    "Saison": "Cérémonie",
+    "Plateforme": "Canal+"
+  },
+  {
     "Date": "10/01/2024",
     "Titre": "Echo",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "True Detective",
     "Saison": "Saison 4",
     "Plateforme": "Pass Warner"
+  },
+  {
+    "Date": "18/01/2024",
+    "Titre": "Fargo",
+    "Saison": "Saison 5",
+    "Plateforme": "Canal+"
   }
 ]

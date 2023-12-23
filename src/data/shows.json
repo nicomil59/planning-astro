@@ -684,6 +684,15 @@
     "Note": null
   },
   {
+    "Date": "03/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "FBI Promotion 2009",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": "Titre original : Class of ‘09"
+  },
+  {
     "Date": "04/01/2024",
     "Heure": "21:00:00",
     "Titre": "Almost Paradise",
@@ -729,6 +738,33 @@
     "Note": null
   },
   {
+    "Date": "06/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "The Rookie",
+    "Saison": "Saison 4",
+    "Plateforme": "M6",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Série Club"
+  },
+  {
+    "Date": "07/01/2024",
+    "Heure": "00:45:00",
+    "Titre": "81ème Golden Globes",
+    "Saison": "Cérémonie",
+    "Plateforme": "Canal+",
+    "Pays": "US",
+    "Note": "Diffusion dans la nuit du dimanche 7 au lundi 8"
+  },
+  {
+    "Date": "07/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
     "Date": "07/01/2024",
     "Heure": "21:00:00",
     "Titre": "Arcadia",
@@ -757,12 +793,48 @@
   },
   {
     "Date": "08/01/2024",
-    "Heure": "14:00:00",
+    "Heure": "21:10:00",
+    "Titre": "Tout pour Agnès",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": "Déjà disponible sur Paramount+"
+  },
+  {
+    "Date": "08/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Sam",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "Without Sin",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2024",
+    "Heure": "13:40:00",
     "Titre": "Plus belle la vie, encore plus belle",
     "Saison": "Feuilleton quotidien",
     "Plateforme": "TF1",
     "Pays": "FRA",
-    "Note": "Horaire à confirmer"
+    "Note": null
+  },
+  {
+    "Date": "09/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "SWAT",
+    "Saison": "Reprise saison 6",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": "Reprise avec l’épisode 6.11"
   },
   {
     "Date": "09/01/2024",
@@ -776,10 +848,55 @@
   {
     "Date": "10/01/2024",
     "Heure": "00:00:00",
+    "Titre": "American Horror Stories",
+    "Saison": "Saison 3 partie 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Marianne",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "10/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Esprits Criminels : Evolution",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": "Revival de la série Esprits Criminels sous le titre VO “Criminal Minds : Evolution”"
+  },
+  {
+    "Date": "10/01/2024",
+    "Heure": "00:00:00",
     "Titre": "Echo",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/01/2024",
+    "Heure": "20:55:00",
+    "Titre": "Mystery Road : les origines",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "11/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Rivière-perdue",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -802,6 +919,15 @@
   },
   {
     "Date": "15/01/2024",
+    "Heure": "23:30:00",
+    "Titre": "La nuit des Emmys",
+    "Saison": "Cérémonie",
+    "Plateforme": "Canal+",
+    "Pays": "US",
+    "Note": "Diffusion du reportage En Route pour les Emmys + Tapis Rouge + Cérémonie des Emmy Awards dans la nuit du lundi 15 au mardi 16"
+  },
+  {
+    "Date": "15/01/2024",
     "Heure": "00:00:00",
     "Titre": "True Detective",
     "Saison": "Saison 4",
@@ -817,6 +943,42 @@
     "Plateforme": "Disney+",
     "Pays": "AUS",
     "Note": "Titre original : The Artful Dodger"
+  },
+  {
+    "Date": "18/01/2024",
+    "Heure": "22:50:00",
+    "Titre": "Fellow Travelers",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "Fargo",
+    "Saison": "Saison 5",
+    "Plateforme": "Canal+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "Angelyne",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Furia",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club",
+    "Pays": "ALL, NOR",
+    "Note": "Sur Série Club à la demande"
   },
   {
     "Date": "19/01/2024",
@@ -852,6 +1014,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Warner TV",
     "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "24/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "American Dad!",
+    "Saison": "Saison 19 partie 2",
+    "Plateforme": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -900,6 +1071,15 @@
     "Note": null
   },
   {
+    "Date": "31/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "9-1-1",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/02/2024",
     "Heure": "00:00:00",
     "Titre": "Mr. & Mrs. Smith",
@@ -907,6 +1087,15 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "05/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Larry et son nombril",
+    "Saison": "Saison 12",
+    "Plateforme": "Pass Warner",
+    "Pays": "US",
+    "Note": "Dernière saison"
   },
   {
     "Date": "08/02/2024",
@@ -950,6 +1139,33 @@
     "Titre": "Avatar, le dernier maître de l’air",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "23/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Second Best Hospital in The Galaxy",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2024",
+    "Heure": "20:55:00",
+    "Titre": "Found : les oubliés",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV",
+    "Pays": "US",
+    "Note": "Déjà disponible sur le Pass Warner"
+  },
+  {
+    "Date": "04/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Regime",
+    "Saison": "Mini-série",
+    "Plateforme": "Pass Warner",
     "Pays": "US",
     "Note": null
   },
