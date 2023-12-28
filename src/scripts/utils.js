@@ -74,12 +74,27 @@ export const getShowsByPlatform = (data) => {
   const values = Object.values(showsByPlatform);
 
   const showsByPlatformFormatted = keys.map((key) => {
+    
+    const showsNotSorted = values[keys.indexOf(key)];
+
+    // Tri des séries par heure
+
+    const showsSortedByHour = showsNotSorted.toSorted((a, b) => {
+      if(a.Heure > b.Heure) {
+        return 1
+      }
+      if(a.Heure < b.Heure) {
+        return -1
+      }
+      return 0;
+    })    
+    
     return {
       platform: [key][0],
-      shows: values[keys.indexOf(key)],
+      shows: showsSortedByHour,
     };
   });
-
+  
   // Tri des plateformes par ordre alphabétique
   
   showsByPlatformFormatted.sort((a, b) => {
@@ -90,7 +105,7 @@ export const getShowsByPlatform = (data) => {
       return -1
     }
     return 0;
-  });
+  });  
 
   return showsByPlatformFormatted;
 };
