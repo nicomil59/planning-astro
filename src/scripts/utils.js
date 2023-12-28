@@ -80,5 +80,17 @@ export const getShowsByPlatform = (data) => {
     };
   });
 
+  // Tri des plateformes par ordre alphabétique
+  
+  showsByPlatformFormatted.sort((a, b) => {
+    if (a.platform > b.platform) {
+      return 1
+    }
+    if (a.platform < b.platform) {
+      return -1
+    }
+    return 0;
+  });
+
   return showsByPlatformFormatted;
 };
