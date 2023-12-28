@@ -75,11 +75,11 @@ export const getShowsByPlatform = (data) => {
 
   const showsByPlatformFormatted = keys.map((key) => {
     
-    const showsNotSorted = values[keys.indexOf(key)];
+    const shows = values[keys.indexOf(key)];
 
     // Tri des séries par heure
 
-    const showsSortedByHour = showsNotSorted.toSorted((a, b) => {
+    shows.sort((a, b) => {
       if(a.Heure > b.Heure) {
         return 1
       }
@@ -91,7 +91,7 @@ export const getShowsByPlatform = (data) => {
     
     return {
       platform: [key][0],
-      shows: showsSortedByHour,
+      shows: shows,
     };
   });
   
