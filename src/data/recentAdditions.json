@@ -1,152 +1,122 @@
 [
   {
-    "Date": "03/01/2024",
-    "Titre": "FBI Promotion 2009",
+    "Date": "01/01/2024",
+    "Titre": "Power Players",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/01/2024",
+    "Titre": "Orange Days",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/01/2024",
+    "Titre": "Double piège",
     "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "03/01/2024",
+    "Titre": "Ishura",
+    "Saison": "Saison 1",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "06/01/2024",
-    "Titre": "The Rookie",
-    "Saison": "Saison 4",
-    "Plateforme": "M6"
+    "Date": "04/01/2024",
+    "Titre": "La Créature de Kyŏngsŏng",
+    "Saison": "Partie 2",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "07/01/2024",
-    "Titre": "81ème Golden Globes",
-    "Saison": "Cérémonie",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "07/01/2024",
-    "Titre": "Meurtres en eaux troubles",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
+    "Date": "04/01/2024",
+    "Titre": "Gloutons et dragons",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "08/01/2024",
-    "Titre": "Tout pour Agnès",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "08/01/2024",
-    "Titre": "Sam",
-    "Saison": "Saison 7",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "08/01/2024",
-    "Titre": "Without Sin",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "08/01/2024",
-    "Titre": "Plus belle la vie, encore plus belle",
-    "Saison": "Feuilleton quotidien",
-    "Plateforme": "TF1"
+    "Titre": "Synduality Noir",
+    "Saison": "Partie 2",
+    "Plateforme": "Disney+"
   },
   {
     "Date": "09/01/2024",
-    "Titre": "SWAT",
-    "Saison": "Reprise saison 6",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "10/01/2024",
-    "Titre": "American Horror Stories",
-    "Saison": "Saison 3 partie 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "10/01/2024",
-    "Titre": "Marianne",
-    "Saison": "Saison 2",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "10/01/2024",
-    "Titre": "Esprits Criminels : Evolution",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
+    "Titre": "Sissi",
+    "Saison": "Saison 3",
+    "Plateforme": "W9"
   },
   {
     "Date": "11/01/2024",
-    "Titre": "Mystery Road : les origines",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte"
+    "Titre": "Sonic Prime",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "11/01/2024",
-    "Titre": "Rivière-perdue",
+    "Titre": "Le Garçon et l’Univers",
     "Saison": "Mini-série",
-    "Plateforme": "TF1"
+    "Plateforme": "Netflix"
   },
   {
     "Date": "15/01/2024",
-    "Titre": "La nuit des Emmys",
-    "Saison": "Cérémonie",
-    "Plateforme": "Canal+"
+    "Titre": "Rapa",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "17/01/2024",
+    "Titre": "A Shop For Killers",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
     "Date": "18/01/2024",
-    "Titre": "Fellow Travelers",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
+    "Titre": "NCIS: Sydney",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "18/01/2024",
-    "Titre": "Fargo",
-    "Saison": "Saison 5",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "18/01/2024",
-    "Titre": "Angelyne",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS Max"
+    "Titre": "Kübra",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "19/01/2024",
-    "Titre": "Furia",
+    "Titre": "Ancestral",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "19/01/2024",
+    "Titre": "Benoît Gênant officiel",
+    "Saison": "Saison 1",
+    "Plateforme": "TMC"
+  },
+  {
+    "Date": "20/01/2024",
+    "Titre": "The Woman in The Wall",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "20/01/2024",
+    "Titre": "Cleaning Lady",
     "Saison": "Saison 2",
     "Plateforme": "Série Club"
   },
   {
-    "Date": "24/01/2024",
-    "Titre": "American Dad!",
-    "Saison": "Saison 19 partie 2",
-    "Plateforme": "Disney+"
+    "Date": "22/01/2024",
+    "Titre": "So Help Me Todd",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "31/01/2024",
-    "Titre": "9-1-1",
-    "Saison": "Saison 6",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "05/02/2024",
-    "Titre": "Larry et son nombril",
-    "Saison": "Saison 12",
-    "Plateforme": "Pass Warner"
-  },
-  {
-    "Date": "23/02/2024",
-    "Titre": "The Second Best Hospital in The Galaxy",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "27/02/2024",
-    "Titre": "Found : les oubliés",
-    "Saison": "Saison 1",
-    "Plateforme": "Warner TV"
-  },
-  {
-    "Date": "04/03/2024",
-    "Titre": "The Regime",
+    "Titre": "Baby Bandito",
     "Saison": "Mini-série",
-    "Plateforme": "Pass Warner"
+    "Plateforme": "Netflix"
   }
 ]
