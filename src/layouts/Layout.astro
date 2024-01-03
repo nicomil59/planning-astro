@@ -44,12 +44,18 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
         },
       }}
       twitter={{
-        card: "summary_large_image",
-        creator: "@nick59",
-        site: "@seriestvnews",
-        title: `${pageTitleOG}`,
-        image: "/ps-card2.png",
-        imageAlt: "Planning Séries card",
+        creator: "@nick59"
+      }}
+      extend={{
+        // extending the default meta tags
+        meta: [
+          { name: "twitter:card", content: "summary_large_image" },
+          { name: "twitter:site", content: "@seriestvnews" },
+          { name: "twitter:title", content: `${pageTitleOG}` },
+          { name: "twitter:image",content: "https://planningseries.fr/ps-card2.png" },
+          { name: "twitter:imageAlt",content: "Planning séries card" },
+          { name: "twitter:description", content: "Toutes les dates de sortie des séries" }
+        ],
       }}
     />
 
