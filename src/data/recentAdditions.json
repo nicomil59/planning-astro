@@ -1,122 +1,110 @@
 [
   {
     "Date": "01/01/2024",
+    "Titre": "Neumatt",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/01/2024",
+    "Titre": "Parents mode d’emploi",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/01/2024",
     "Titre": "Power Players",
-    "Saison": "Intégrale",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "01/01/2024",
-    "Titre": "Orange Days",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/01/2024",
-    "Titre": "Double piège",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "03/01/2024",
-    "Titre": "Ishura",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "04/01/2024",
+    "Date": "05/01/2024",
     "Titre": "La Créature de Kyŏngsŏng",
     "Saison": "Partie 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "04/01/2024",
-    "Titre": "Gloutons et dragons",
+    "Date": "09/01/2024",
+    "Titre": "Ag3nda",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/01/2024",
+    "Titre": "Detective Forst",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "08/01/2024",
-    "Titre": "Synduality Noir",
+    "Date": "11/01/2024",
+    "Titre": "Champion",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/01/2024",
+    "Titre": "Based on a True Story",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "17/01/2024",
+    "Titre": "End of The Line",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20/01/2024",
+    "Titre": "Captivating The King",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/01/2024",
+    "Titre": "Coeurs noirs",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "22/01/2024",
+    "Titre": "Narval ou presque",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/01/2024",
+    "Titre": "D’Argent et de sang",
     "Saison": "Partie 2",
-    "Plateforme": "Disney+"
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "09/01/2024",
-    "Titre": "Sissi",
-    "Saison": "Saison 3",
-    "Plateforme": "W9"
-  },
-  {
-    "Date": "11/01/2024",
-    "Titre": "Sonic Prime",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "11/01/2024",
-    "Titre": "Le Garçon et l’Univers",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15/01/2024",
-    "Titre": "Rapa",
+    "Date": "23/01/2024",
+    "Titre": "Dark Winds",
     "Saison": "Saison 2",
     "Plateforme": "Polar+"
   },
   {
-    "Date": "17/01/2024",
-    "Titre": "A Shop For Killers",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "18/01/2024",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "18/01/2024",
-    "Titre": "Kübra",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "19/01/2024",
-    "Titre": "Ancestral",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "19/01/2024",
-    "Titre": "Benoît Gênant officiel",
-    "Saison": "Saison 1",
-    "Plateforme": "TMC"
-  },
-  {
-    "Date": "20/01/2024",
-    "Titre": "The Woman in The Wall",
+    "Date": "25/01/2024",
+    "Titre": "Après le verdict : les jurés mènent l’enquête",
     "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Arte"
   },
   {
-    "Date": "20/01/2024",
-    "Titre": "Cleaning Lady",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "22/01/2024",
-    "Titre": "So Help Me Todd",
+    "Date": "27/01/2024",
+    "Titre": "Doctor Slump",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Netflix"
   },
   {
     "Date": "31/01/2024",
-    "Titre": "Baby Bandito",
-    "Saison": "Mini-série",
+    "Titre": "Seven Deadly Sins : Four Knights of The Apocalypse",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "02/02/2024",
+    "Titre": "Code Quantum (2022)",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club"
   }
 ]

@@ -218,8 +218,26 @@
   {
     "Date": "01/01/2024",
     "Heure": "00:00:00",
-    "Titre": "Power Players",
+    "Titre": "Neumatt",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "SUI",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Parents mode d’emploi",
     "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Power Players",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
@@ -281,15 +299,6 @@
   {
     "Date": "04/01/2024",
     "Heure": "00:00:00",
-    "Titre": "La Créature de Kyŏngsŏng",
-    "Saison": "Partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "04/01/2024",
-    "Heure": "00:00:00",
     "Titre": "Gloutons et dragons",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -334,9 +343,18 @@
   },
   {
     "Date": "05/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "La Créature de Kyŏngsŏng",
+    "Saison": "Partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "05/01/2024",
     "Heure": "21:10:00",
     "Titre": "César Wagner",
-    "Saison": "Inédit",
+    "Saison": "inédit",
     "Plateforme": "France 2",
     "Pays": "FRA",
     "Note": null
@@ -442,6 +460,15 @@
   },
   {
     "Date": "09/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ag3nda",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "09/01/2024",
     "Heure": "23:20:00",
     "Titre": "Sissi",
     "Saison": "Saison 3",
@@ -506,6 +533,24 @@
   {
     "Date": "11/01/2024",
     "Heure": "00:00:00",
+    "Titre": "Detective Forst",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "11/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Champion",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "11/01/2024",
+    "Heure": "00:00:00",
     "Titre": "Sonic Prime",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
@@ -537,6 +582,15 @@
     "Saison": "Mini-série",
     "Plateforme": "TF1",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Based on a True Story",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -583,6 +637,15 @@
     "Plateforme": "Pass Warner",
     "Pays": "US",
     "Note": "Titre complet de la saison 4 = “True Detective: Night Country”"
+  },
+  {
+    "Date": "17/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "End of The Line",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "BRE",
+    "Note": null
   },
   {
     "Date": "17/01/2024",
@@ -695,6 +758,15 @@
   {
     "Date": "20/01/2024",
     "Heure": "00:00:00",
+    "Titre": "Captivating The King",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/01/2024",
+    "Heure": "00:00:00",
     "Titre": "The Woman in The Wall",
     "Saison": "Mini-série",
     "Plateforme": "Paramount+",
@@ -708,6 +780,33 @@
     "Saison": "Saison 2",
     "Plateforme": "Série Club",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Coeurs noirs",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": "Disponible sur Prime Video"
+  },
+  {
+    "Date": "22/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Narval ou presque",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "D’Argent et de sang",
+    "Saison": "Partie 2",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -731,6 +830,15 @@
   {
     "Date": "23/01/2024",
     "Heure": "20:55:00",
+    "Titre": "Dark Winds",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "23/01/2024",
+    "Heure": "20:55:00",
     "Titre": "Spencer Sisters : Detectives Agency",
     "Saison": "Saison 1",
     "Plateforme": "Warner TV",
@@ -744,6 +852,15 @@
     "Saison": "Saison 19 partie 2",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/01/2024",
+    "Heure": "20:55:00",
+    "Titre": "Après le verdict : les jurés mènent l’enquête",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "AUS",
     "Note": null
   },
   {
@@ -792,6 +909,24 @@
     "Note": null
   },
   {
+    "Date": "27/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Doctor Slump",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "31/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Seven Deadly Sins : Four Knights of The Apocalypse",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "31/01/2024",
     "Heure": "00:00:00",
     "Titre": "Baby Bandito",
@@ -806,6 +941,15 @@
     "Titre": "9-1-1",
     "Saison": "Saison 6",
     "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2024",
+    "Heure": "21:00:00",
+    "Titre": "Code Quantum (2022)",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club",
     "Pays": "US",
     "Note": null
   },

@@ -1,11 +1,5 @@
 [
   {
-    "Date": "29/12/2023",
-    "Titre": "Berlin",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "04/01/2024",
     "Titre": "Les Frères Sun",
     "Saison": "Saison 1",
@@ -33,6 +27,12 @@
     "Date": "18/01/2024",
     "Titre": "Fargo",
     "Saison": "Saison 5",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "22/01/2024",
+    "Titre": "D'Argent et de sang",
+    "Saison": "Partie 2",
     "Plateforme": "Canal+"
   }
 ]
