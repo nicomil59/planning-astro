@@ -1,104 +1,5 @@
 [
   {
-    "Date": "18/12/2023",
-    "Heure": "20:55:00",
-    "Titre": "Pagan Peak",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+",
-    "Pays": "ALL, AUT",
-    "Note": null
-  },
-  {
-    "Date": "20/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Cindy la Regia",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "20/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Dragons de Wonderhatch",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "20/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Fargo",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "MyCanal",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/12/2023",
-    "Heure": "21:10:00",
-    "Titre": "Harley Quinn",
-    "Saison": "Saison 4",
-    "Plateforme": "Warner TV Next",
-    "Pays": "US",
-    "Note": "Changement de date"
-  },
-  {
-    "Date": "20/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Percy Jackson and the Olympians",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "La Créature de Kyŏngsŏng",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Marvel’s What If… ?",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Dickie",
-    "Saison": "Saison 2",
-    "Plateforme": "Adult Swim",
-    "Pays": "BEL",
-    "Note": null
-  },
-  {
-    "Date": "23/12/2023",
-    "Heure": "21:00:00",
-    "Titre": "Starstruck",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "24/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Gabriel et ses petits démons",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
     "Date": "25/12/2023",
     "Heure": "00:00:00",
     "Titre": "Yellowjackets",
@@ -411,6 +312,15 @@
     "Saison": "Saison 2",
     "Plateforme": "OCS Pulp",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2024",
+    "Heure": "00:00:00",
+    "Titre": "Poker Face",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -918,6 +828,42 @@
     "Note": null
   },
   {
+    "Date": "28/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Enquête à haut risque",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Pays": "IRL",
+    "Note": null
+  },
+  {
+    "Date": "29/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Scènes de ménages - Plans sur la comète",
+    "Saison": "Spécial",
+    "Plateforme": "M6",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "29/01/2024",
+    "Heure": "21:10:00",
+    "Titre": "Le Fil d’Ariane",
+    "Saison": "Pilote",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "29/01/2024",
+    "Heure": "21:00:00",
+    "Titre": "Brassic",
+    "Saison": "Saison 5",
+    "Plateforme": "Canal+ Séries",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "31/01/2024",
     "Heure": "00:00:00",
     "Titre": "Seven Deadly Sins : Four Knights of The Apocalypse",
@@ -945,6 +891,24 @@
     "Note": null
   },
   {
+    "Date": "01/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "A Bloody Lucky Day",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "Section de recherches",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "02/02/2024",
     "Heure": "21:00:00",
     "Titre": "Code Quantum (2022)",
@@ -960,6 +924,24 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/02/2024",
+    "Heure": "21:00:00",
+    "Titre": "The Dreamer",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Pulp",
+    "Pays": "BEL, DAN, SUE",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2024",
+    "Heure": "21:00:00",
+    "Titre": "Family Law",
+    "Saison": "Saison 3",
+    "Plateforme": "13ème Rue",
+    "Pays": "CAN",
     "Note": null
   },
   {
@@ -1040,6 +1022,15 @@
     "Titre": "The Regime",
     "Saison": "Mini-série",
     "Plateforme": "Pass Warner",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Meurtres et autres complications",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
