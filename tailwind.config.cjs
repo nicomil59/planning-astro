@@ -27,9 +27,33 @@ module.exports = {
 				},
 				textplatform: {
 					900: '#593e2e'
+				},
+				darkbg: {
+					950: '#181a1c'
+				},
+				darktext: {
+					200: '#cdc8c2'
+				},
+				darkbgBrown: {
+					300: '#d0b786',
+					950: '#272210'
+				},
+				selectionDarkbg: {
+					900: '#40381c'
+				},
+				tableDarkbg: {
+					950: '#2d2713'
+				},
+				platformDarkbg: {
+					900: '#583a36',
+					950: '#202325'
+				},
+				platformDarktext: {
+					300: '#cdb09f'
 				}
 			}
 		},
 	},
 	plugins: [],
+	darkMode: 'class'
 }
