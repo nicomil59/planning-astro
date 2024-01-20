@@ -1,122 +1,5 @@
 [
   {
-    "Date": "25/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Yellowjackets",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Doctor Who : L’Église de Ruby Road",
-    "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "26/12/2023",
-    "Heure": "21:00:00",
-    "Titre": "Orphan Black : Echoes",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS Max",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "27/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Spécial Noël",
-    "Plateforme": "France 2",
-    "Pays": "FRA, UK",
-    "Note": null
-  },
-  {
-    "Date": "28/12/2023",
-    "Heure": "20:55:00",
-    "Titre": "Icon of French Cinema",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "28/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "La Réceptionniste Pokemon",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "28/12/2023",
-    "Heure": "21:00:00",
-    "Titre": "Blue Bloods",
-    "Saison": "Saison 13",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Insecure",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Berlín",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "30/12/2023",
-    "Heure": "21:00:00",
-    "Titre": "Threesome",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "SUE",
-    "Note": "Diffusion en marathon"
-  },
-  {
-    "Date": "30/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Sister, Sister",
-    "Saison": "Saisons 1 à 6",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "Moesha",
-    "Saison": "Saisons 1 à 6",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/12/2023",
-    "Heure": "00:00:00",
-    "Titre": "The Affair",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "01/01/2024",
     "Heure": "00:00:00",
     "Titre": "Neumatt",
@@ -910,6 +793,15 @@
   },
   {
     "Date": "02/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "L’Âge de la colère",
+    "Saison": "Mini-série",
+    "Plateforme": "France.TV",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2024",
     "Heure": "21:00:00",
     "Titre": "Code Quantum (2022)",
     "Saison": "Saison 2",
@@ -929,10 +821,46 @@
   {
     "Date": "04/02/2024",
     "Heure": "21:00:00",
+    "Titre": "Brave New World",
+    "Saison": "Mini-série",
+    "Plateforme": "Syfy",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Starzplay en septembre 2020"
+  },
+  {
+    "Date": "04/02/2024",
+    "Heure": "20:55:00",
+    "Titre": "Prisoner",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Pays": "DAN",
+    "Note": null
+  },
+  {
+    "Date": "04/02/2024",
+    "Heure": "21:00:00",
     "Titre": "The Dreamer",
     "Saison": "Mini-série",
     "Plateforme": "OCS Pulp",
     "Pays": "BEL, DAN, SUE",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "La Tribu",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2024",
+    "Heure": "20:55:00",
+    "Titre": "The Twelve",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "BEL",
     "Note": null
   },
   {
@@ -952,6 +880,33 @@
     "Plateforme": "Pass Warner",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "07/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "Tout cela je te le donnerai",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "The Resident",
+    "Saison": "Saison 6",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": "Dernière saison - déjà diffusée sur Warner TV en septembre 2023"
+  },
+  {
+    "Date": "08/02/2024",
+    "Heure": "20:55:00",
+    "Titre": "De Grâce",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "BEL, FRA",
+    "Note": null
   },
   {
     "Date": "08/02/2024",
@@ -977,6 +932,15 @@
     "Titre": "The New Look",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Vince Staples Show",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -1017,6 +981,15 @@
     "Note": "Déjà disponible sur le Pass Warner"
   },
   {
+    "Date": "01/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Les Aventures imaginaires de Dick Turpin",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "04/03/2024",
     "Heure": "00:00:00",
     "Titre": "The Regime",
@@ -1044,6 +1017,15 @@
     "Note": null
   },
   {
+    "Date": "07/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Gentlemen",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "14/03/2024",
     "Heure": "00:00:00",
     "Titre": "Girls5eva",
@@ -1058,6 +1040,15 @@
     "Titre": "Manhunt",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/03/2024",
+    "Heure": "20:55:00",
+    "Titre": "Gotham Knights",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV",
     "Pays": "US",
     "Note": null
   },

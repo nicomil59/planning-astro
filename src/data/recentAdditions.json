@@ -1,62 +1,74 @@
 [
   {
-    "Date": "08/01/2024",
-    "Titre": "Poker Face",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1+"
-  },
-  {
-    "Date": "28/01/2024",
-    "Titre": "Enquête à haut risque",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "29/01/2024",
-    "Titre": "Scènes de ménages - Plans sur la comète",
-    "Saison": "Spécial",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "29/01/2024",
-    "Titre": "Le Fil d’Ariane",
-    "Saison": "Pilote",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "29/01/2024",
-    "Titre": "Brassic",
-    "Saison": "Saison 5",
-    "Plateforme": "Canal+ Séries"
-  },
-  {
-    "Date": "01/02/2024",
-    "Titre": "A Bloody Lucky Day",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "01/02/2024",
-    "Titre": "Section de recherches",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
+    "Date": "02/02/2024",
+    "Titre": "L’Âge de la colère",
+    "Saison": "Mini-série",
+    "Plateforme": "France.TV"
   },
   {
     "Date": "04/02/2024",
-    "Titre": "The Dreamer",
+    "Titre": "Brave New World",
     "Saison": "Mini-série",
-    "Plateforme": "OCS Pulp"
+    "Plateforme": "Syfy"
+  },
+  {
+    "Date": "04/02/2024",
+    "Titre": "Prisoner",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
   },
   {
     "Date": "05/02/2024",
-    "Titre": "Family Law",
-    "Saison": "Saison 3",
-    "Plateforme": "13ème Rue"
+    "Titre": "La Tribu",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "05/03/2024",
-    "Titre": "Meurtres et autres complications",
+    "Date": "05/02/2024",
+    "Titre": "The Twelve",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "07/02/2024",
+    "Titre": "Tout cela je te le donnerai",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "07/02/2024",
+    "Titre": "The Resident",
+    "Saison": "Saison 6",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "08/02/2024",
+    "Titre": "De Grâce",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "15/02/2024",
+    "Titre": "The Vince Staples Show",
     "Saison": "Saison 1",
-    "Plateforme": "Disney+"
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/03/2024",
+    "Titre": "Les Aventures imaginaires de Dick Turpin",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "07/03/2024",
+    "Titre": "The Gentlemen",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "18/03/2024",
+    "Titre": "Gotham Knights",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV"
   }
 ]
