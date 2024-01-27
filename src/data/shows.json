@@ -776,6 +776,15 @@
   {
     "Date": "01/02/2024",
     "Heure": "00:00:00",
+    "Titre": "Dr House",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2024",
+    "Heure": "00:00:00",
     "Titre": "A Bloody Lucky Day",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
@@ -789,6 +798,15 @@
     "Saison": "Inédit",
     "Plateforme": "TF1",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Let’s Talk About CHU",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "TAI",
     "Note": null
   },
   {
@@ -883,6 +901,15 @@
   },
   {
     "Date": "07/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Black Cake",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/02/2024",
     "Heure": "21:10:00",
     "Titre": "Tout cela je te le donnerai",
     "Saison": "Mini-série",
@@ -927,6 +954,69 @@
     "Note": null
   },
   {
+    "Date": "09/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Machos Alfa",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "09/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "A Killer Paradox",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "10/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "Blanca",
+    "Saison": "Saison 2",
+    "Plateforme": "M6",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "12/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ninja Kamui",
+    "Saison": "Saison 1",
+    "Plateforme": "Adult Swim",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "Les Pennac(s) : un air de famille",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Atlanta",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2024",
+    "Heure": "23:40:00",
+    "Titre": "Enterrement de vie de garçon",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "14/02/2024",
     "Heure": "00:00:00",
     "Titre": "The New Look",
@@ -938,9 +1028,45 @@
   {
     "Date": "15/02/2024",
     "Heure": "00:00:00",
+    "Titre": "AlRawabi School for Girls",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "JOR",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2024",
+    "Heure": "21:10:00",
+    "Titre": "Léo Matteï",
+    "Saison": "Saison 11",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2024",
+    "Heure": "00:00:00",
     "Titre": "The Vince Staples Show",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/02/2024",
+    "Heure": "23:00:00",
+    "Titre": "Feud",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+ Séries",
+    "Pays": "US",
+    "Note": "Titre complet : “Feud : Capote VS. The Swans”"
+  },
+  {
+    "Date": "21/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Star Wars : The Bad Batch",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -968,6 +1094,15 @@
     "Titre": "The Second Best Hospital in The Galaxy",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2024",
+    "Heure": "00:00:00",
+    "Titre": "Shogun (2024)",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -1023,6 +1158,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "14/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Invincible",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {

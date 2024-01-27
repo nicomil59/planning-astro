@@ -1,16 +1,4 @@
 [
-    {
-    "Date": "15/01/2024",
-    "Titre": "True Detective",
-    "Saison": "Saison 4",
-    "Plateforme": "Pass Warner"
-  },
-  {
-    "Date": "18/01/2024",
-    "Titre": "Fargo",
-    "Saison": "Saison 5",
-    "Plateforme": "Canal+"
-  },
   {
     "Date": "22/01/2024",
     "Titre": "D'Argent et de sang",
@@ -34,5 +22,17 @@
     "Titre": "Mr. & Mrs. Smith",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video"
+  }, 
+  {
+    "Date": "14/02/2024",
+    "Titre": "The New Look",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "16/02/2024",
+    "Titre": "Feud",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+ Séries"
   }
 ]

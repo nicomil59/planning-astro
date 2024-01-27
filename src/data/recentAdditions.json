@@ -1,74 +1,98 @@
 [
   {
+    "Date": "01/02/2024",
+    "Titre": "Dr House",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
     "Date": "02/02/2024",
-    "Titre": "L’Âge de la colère",
-    "Saison": "Mini-série",
-    "Plateforme": "France.TV"
-  },
-  {
-    "Date": "04/02/2024",
-    "Titre": "Brave New World",
-    "Saison": "Mini-série",
-    "Plateforme": "Syfy"
-  },
-  {
-    "Date": "04/02/2024",
-    "Titre": "Prisoner",
+    "Titre": "Let’s Talk About CHU",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "05/02/2024",
-    "Titre": "La Tribu",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
+    "Date": "07/02/2024",
+    "Titre": "Black Cake",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "05/02/2024",
-    "Titre": "The Twelve",
+    "Date": "09/02/2024",
+    "Titre": "Machos Alfa",
     "Saison": "Saison 2",
-    "Plateforme": "Polar+"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "07/02/2024",
-    "Titre": "Tout cela je te le donnerai",
+    "Date": "09/02/2024",
+    "Titre": "A Killer Paradox",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "10/02/2024",
+    "Titre": "Blanca",
+    "Saison": "Saison 2",
+    "Plateforme": "M6"
+  },
+  {
+    "Date": "12/02/2024",
+    "Titre": "Ninja Kamui",
+    "Saison": "Saison 1",
+    "Plateforme": "Adult Swim"
+  },
+  {
+    "Date": "13/02/2024",
+    "Titre": "Les Pennac(s) : un air de famille",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "14/02/2024",
+    "Titre": "Atlanta",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "14/02/2024",
+    "Titre": "Enterrement de vie de garçon",
     "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "07/02/2024",
-    "Titre": "The Resident",
-    "Saison": "Saison 6",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "08/02/2024",
-    "Titre": "De Grâce",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
+    "Plateforme": "Canal+"
   },
   {
     "Date": "15/02/2024",
-    "Titre": "The Vince Staples Show",
-    "Saison": "Saison 1",
+    "Titre": "AlRawabi School for Girls",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "01/03/2024",
-    "Titre": "Les Aventures imaginaires de Dick Turpin",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
+    "Date": "15/02/2024",
+    "Titre": "Léo Matteï",
+    "Saison": "Saison 11",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "07/03/2024",
-    "Titre": "The Gentlemen",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Date": "16/02/2024",
+    "Titre": "Feud",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+ Séries"
   },
   {
-    "Date": "18/03/2024",
-    "Titre": "Gotham Knights",
-    "Saison": "Saison 1",
-    "Plateforme": "Warner TV"
+    "Date": "21/02/2024",
+    "Titre": "Star Wars : The Bad Batch",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "27/02/2024",
+    "Titre": "Shogun (2024)",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "14/03/2024",
+    "Titre": "Invincible",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Prime Video"
   }
 ]
