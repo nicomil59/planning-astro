@@ -79,7 +79,7 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
 
     <script>
       document.addEventListener('astro:after-swap', () => {
-        console.log('AFTER-SWAP')
+        //console.log('AFTER-SWAP')
         if (localStorage.theme === 'dark') {
           document.documentElement.classList.add('dark');
 
