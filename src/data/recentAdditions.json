@@ -1,98 +1,116 @@
 [
   {
     "Date": "01/02/2024",
-    "Titre": "Dr House",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "02/02/2024",
-    "Titre": "Let’s Talk About CHU",
+    "Titre": "The Wire",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Prime Video"
   },
   {
-    "Date": "07/02/2024",
-    "Titre": "Black Cake",
+    "Date": "01/02/2024",
+    "Titre": "Arrow",
+    "Saison": "Saisons 1 à 8",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/02/2024",
+    "Titre": "Nudes",
     "Saison": "Mini-série",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "05/02/2024",
+    "Titre": "Solar Opposites",
+    "Saison": "Spécial",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "09/02/2024",
-    "Titre": "Machos Alfa",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "09/02/2024",
-    "Titre": "A Killer Paradox",
+    "Date": "07/02/2024",
+    "Titre": "Luz : Les lueurs du coeur",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "10/02/2024",
-    "Titre": "Blanca",
-    "Saison": "Saison 2",
-    "Plateforme": "M6"
+    "Date": "14/02/2024",
+    "Titre": "Good Morning, Veronica",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "12/02/2024",
-    "Titre": "Ninja Kamui",
+    "Date": "15/02/2024",
+    "Titre": "Ready, Set, Love",
     "Saison": "Saison 1",
-    "Plateforme": "Adult Swim"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "13/02/2024",
-    "Titre": "Les Pennac(s) : un air de famille",
+    "Date": "15/02/2024",
+    "Titre": "House of Ninjas",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "16/02/2024",
+    "Titre": "Comedy Chaos",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "18/02/2024",
+    "Titre": "Association criminelle",
     "Saison": "Saison 1",
     "Plateforme": "France 3"
   },
   {
-    "Date": "14/02/2024",
-    "Titre": "Atlanta",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+"
+    "Date": "19/02/2024",
+    "Titre": "L’Art du crime",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "14/02/2024",
-    "Titre": "Enterrement de vie de garçon",
+    "Date": "22/02/2024",
+    "Titre": "Stonehouse : député, amant et espion",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "22/02/2024",
+    "Titre": "Full Circle",
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
   },
   {
-    "Date": "15/02/2024",
-    "Titre": "AlRawabi School for Girls",
-    "Saison": "Saison 2",
+    "Date": "23/02/2024",
+    "Titre": "Les Petits Meurtres d’Agatha Christie",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "26/02/2024",
+    "Titre": "Fire Country",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "28/02/2024",
+    "Titre": "The Mire",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "15/02/2024",
-    "Titre": "Léo Matteï",
-    "Saison": "Saison 11",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "16/02/2024",
-    "Titre": "Feud",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+ Séries"
-  },
-  {
-    "Date": "21/02/2024",
-    "Titre": "Star Wars : The Bad Batch",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "27/02/2024",
-    "Titre": "Shogun (2024)",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "14/03/2024",
-    "Titre": "Invincible",
-    "Saison": "Saison 2 partie 2",
+    "Date": "28/02/2024",
+    "Titre": "Influences",
+    "Saison": "Saison 1",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/03/2024",
+    "Titre": "Furies",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "06/03/2024",
+    "Titre": "Extraordinary",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
   }
 ]
