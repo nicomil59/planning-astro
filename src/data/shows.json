@@ -1,176 +1,5 @@
 [
   {
-    "Date": "15/01/2024",
-    "Heure": "20:55:00",
-    "Titre": "Rapa",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2024",
-    "Heure": "23:30:00",
-    "Titre": "La nuit des Emmys",
-    "Saison": "Cérémonie",
-    "Plateforme": "Canal+",
-    "Pays": "US",
-    "Note": "Diffusion du reportage En Route pour les Emmys + Tapis Rouge + Cérémonie des Emmy Awards dans la nuit du lundi 15 au mardi 16"
-  },
-  {
-    "Date": "15/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "True Detective",
-    "Saison": "Saison 4",
-    "Plateforme": "Pass Warner",
-    "Pays": "US",
-    "Note": "Titre complet de la saison 4 = “True Detective: Night Country”"
-  },
-  {
-    "Date": "17/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "End of The Line",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "A Shop For Killers",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Le Renard : Prince des voleurs",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "AUS",
-    "Note": "Titre original : The Artful Dodger"
-  },
-  {
-    "Date": "18/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Kübra",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "18/01/2024",
-    "Heure": "22:50:00",
-    "Titre": "Fellow Travelers",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/01/2024",
-    "Heure": "21:00:00",
-    "Titre": "Fargo",
-    "Saison": "Saison 5",
-    "Plateforme": "Canal+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/01/2024",
-    "Heure": "21:00:00",
-    "Titre": "Angelyne",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ancestral",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "19/01/2024",
-    "Heure": "21:25:00",
-    "Titre": "Benoît Gênant officiel",
-    "Saison": "Saison 1",
-    "Plateforme": "TMC",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "19/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Furia",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Pays": "ALL, NOR",
-    "Note": "Sur Série Club à la demande"
-  },
-  {
-    "Date": "19/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hazbin Hotel",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Cristobal Balenciaga",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "20/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Captivating The King",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "20/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Woman in The Wall",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "20/01/2024",
-    "Heure": "21:00:00",
-    "Titre": "Cleaning Lady",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "22/01/2024",
     "Heure": "21:10:00",
     "Titre": "Coeurs noirs",
@@ -758,6 +587,15 @@
   {
     "Date": "21/02/2024",
     "Heure": "00:00:00",
+    "Titre": "In Her Car",
+    "Saison": "Mini-série",
+    "Plateforme": "France.TV",
+    "Pays": "ALL, FRA, UKR",
+    "Note": null
+  },
+  {
+    "Date": "21/02/2024",
+    "Heure": "00:00:00",
     "Titre": "Star Wars : The Bad Batch",
     "Saison": "Saison 3",
     "Plateforme": "Disney+",
@@ -817,6 +655,24 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "25/02/2024",
+    "Heure": "20:55:00",
+    "Titre": "Death in Denmark",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "26/02/2024",
+    "Heure": "21:00:00",
+    "Titre": "Mister Spade",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "FRA, US",
+    "Note": "Titre original : “Monsieur Spade”"
   },
   {
     "Date": "26/02/2024",
@@ -882,6 +738,15 @@
     "Note": null
   },
   {
+    "Date": "03/03/2024",
+    "Heure": "21:00:00",
+    "Titre": "FBI",
+    "Saison": "Saison 5",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/03/2024",
     "Heure": "00:00:00",
     "Titre": "The Regime",
@@ -924,6 +789,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "11/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Young Royals",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -981,6 +855,33 @@
     "Note": "Titre original : “3 Body Problem”"
   },
   {
+    "Date": "03/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Loot",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Sugar",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Avec Colin Farrell"
+  },
+  {
+    "Date": "12/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Franklin",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Avec Michael Douglas"
+  },
+  {
     "Date": "12/04/2024",
     "Heure": "00:00:00",
     "Titre": "Fallout",
@@ -988,6 +889,42 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "24/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Big Door Prize",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Knuckles",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Acapulco",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "08/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dark Matter",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Avec Joel Edgerton et Jennifer Connelly"
   },
   {
     "Date": "16/05/2024",
@@ -999,6 +936,15 @@
     "Note": null
   },
   {
+    "Date": "22/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Trying",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "13/06/2024",
     "Heure": "00:00:00",
     "Titre": "La Chronique des Bridgerton",
@@ -1006,5 +952,14 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "14/06/2024",
+    "Heure": "00:00:00",
+    "Titre": "Présumé Innocent",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Avec Jake Gyllenhaal"
   }
 ]
