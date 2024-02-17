@@ -1,86 +1,128 @@
 [
   {
-    "Date": "21/02/2024",
-    "Titre": "In Her Car",
-    "Saison": "Mini-série",
-    "Plateforme": "France.TV"
+    "Date": "23/02/2024",
+    "Titre": "Poacher",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   },
   {
     "Date": "25/02/2024",
-    "Titre": "Death in Denmark",
+    "Titre": "Grace",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+"
+    "Plateforme": "13ème Rue"
   },
   {
-    "Date": "26/02/2024",
-    "Titre": "Mister Spade",
+    "Date": "29/02/2024",
+    "Titre": "Sous les applaudissements",
     "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "03/03/2024",
-    "Titre": "FBI",
-    "Saison": "Saison 5",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "11/03/2024",
-    "Titre": "Young Royals",
-    "Saison": "Saison 3",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "03/04/2024",
-    "Titre": "Loot",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "05/04/2024",
-    "Titre": "Sugar",
+    "Date": "01/03/2024",
+    "Titre": "Maamla Legal Hai",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "12/04/2024",
-    "Titre": "Franklin",
+    "Date": "04/03/2024",
+    "Titre": "La Peste",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "France 2"
   },
   {
-    "Date": "24/04/2024",
-    "Titre": "The Big Door Prize",
+    "Date": "04/03/2024",
+    "Titre": "Lycée Toulouse-Lautrec",
     "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "TF1"
   },
   {
-    "Date": "27/04/2024",
-    "Titre": "Knuckles",
+    "Date": "04/03/2024",
+    "Titre": "Reyka",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "05/03/2024",
+    "Titre": "Easttown",
+    "Saison": "Mini-série",
+    "Plateforme": "M6"
+  },
+  {
+    "Date": "06/03/2024",
+    "Titre": "L’Affaire Jacob Barber",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "07/03/2024",
+    "Titre": "You & Me",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "08/03/2024",
+    "Titre": "Les Petits meurtres d’Agatha Christie",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "10/03/2024",
+    "Titre": "Grace",
+    "Saison": "Saison 2",
+    "Plateforme": "13ème Rue"
+  },
+  {
+    "Date": "15/03/2024",
+    "Titre": "Chicken Nugget",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20/03/2024",
+    "Titre": "X-Men ‘97",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "28/03/2024",
+    "Titre": "American Rust",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "28/03/2024",
+    "Titre": "The Baxters",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "29/03/2024",
+    "Titre": "Nell rebelle",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "03/04/2024",
+    "Titre": "Iwaju",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "04/04/2024",
+    "Titre": "Star Trek: Discovery",
+    "Saison": "Saison 5",
     "Plateforme": "Paramount+"
   },
   {
-    "Date": "01/05/2024",
-    "Titre": "Acapulco",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "08/05/2024",
-    "Titre": "Dark Matter",
+    "Date": "15/04/2024",
+    "Titre": "The Sympathizer",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Pass Warner"
   },
   {
-    "Date": "22/05/2024",
-    "Titre": "Trying",
+    "Date": "08/08/2024",
+    "Titre": "The Umbrella Academy",
     "Saison": "Saison 4",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "14/06/2024",
-    "Titre": "Présumé Innocent",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Netflix"
   }
 ]
