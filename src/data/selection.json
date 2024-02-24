@@ -1,11 +1,5 @@
 [
   {
-    "Date": "02/02/2024",
-    "Titre": "Mr. & Mrs. Smith",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  }, 
-  {
     "Date": "14/02/2024",
     "Titre": "The New Look",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "Mister Spade",
     "Saison": "Saison 1",
     "Plateforme": "Canal+"
+  },
+  {
+    "Date": "27/02/2024",
+    "Titre": "Shogun (2024)",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   }
 ]

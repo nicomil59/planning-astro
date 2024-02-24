@@ -1,176 +1,5 @@
 [
   {
-    "Date": "29/01/2024",
-    "Heure": "21:10:00",
-    "Titre": "Scènes de ménages - Plans sur la comète",
-    "Saison": "Spécial",
-    "Plateforme": "M6",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/01/2024",
-    "Heure": "21:10:00",
-    "Titre": "Le Fil d’Ariane",
-    "Saison": "Pilote",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/01/2024",
-    "Heure": "21:00:00",
-    "Titre": "Brassic",
-    "Saison": "Saison 5",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "31/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Seven Deadly Sins : Four Knights of The Apocalypse",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "31/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "Baby Bandito",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "CHI",
-    "Note": null
-  },
-  {
-    "Date": "31/01/2024",
-    "Heure": "00:00:00",
-    "Titre": "9-1-1",
-    "Saison": "Saison 6",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Wire",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Arrow",
-    "Saison": "Saisons 1 à 8",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Nudes",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Dr House",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "A Bloody Lucky Day",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "01/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Section de recherches",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "02/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Let’s Talk About CHU",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "TAI",
-    "Note": null
-  },
-  {
-    "Date": "02/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "L’Âge de la colère",
-    "Saison": "Mini-série",
-    "Plateforme": "France.TV",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "02/02/2024",
-    "Heure": "21:00:00",
-    "Titre": "Code Quantum (2022)",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "02/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Mr. & Mrs. Smith",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/02/2024",
-    "Heure": "21:00:00",
-    "Titre": "Brave New World",
-    "Saison": "Mini-série",
-    "Plateforme": "Syfy",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Starzplay en septembre 2020"
-  },
-  {
-    "Date": "04/02/2024",
-    "Heure": "20:55:00",
-    "Titre": "Prisoner",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "04/02/2024",
-    "Heure": "21:00:00",
-    "Titre": "The Dreamer",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS Pulp",
-    "Pays": "BEL, DAN, SUE",
-    "Note": null
-  },
-  {
     "Date": "05/02/2024",
     "Heure": "00:00:00",
     "Titre": "Solar Opposites",
@@ -541,6 +370,15 @@
   },
   {
     "Date": "26/02/2024",
+    "Heure": "22:50:00",
+    "Titre": "In Her Car",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "ALL, FRA, UKR",
+    "Note": null
+  },
+  {
+    "Date": "26/02/2024",
     "Heure": "21:00:00",
     "Titre": "Mister Spade",
     "Saison": "Saison 1",
@@ -578,6 +416,15 @@
   {
     "Date": "28/02/2024",
     "Heure": "00:00:00",
+    "Titre": "L’Héritier interdit",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "28/02/2024",
+    "Heure": "00:00:00",
     "Titre": "The Mire",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
@@ -585,12 +432,12 @@
     "Note": null
   },
   {
-    "Date": "28/02/2024",
+    "Date": "29/02/2024",
     "Heure": "00:00:00",
-    "Titre": "Influences",
+    "Titre": "Reine Rouge",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
-    "Pays": "FRA",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -600,6 +447,33 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Aníkúlápó: Rise of the Spectre",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "NIG",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Split",
+    "Saison": "Saison 3",
+    "Plateforme": "Arte.tv",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Blood & Water",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Pays": "AFS",
     "Note": null
   },
   {
@@ -721,6 +595,15 @@
   },
   {
     "Date": "07/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Signal",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "07/03/2024",
     "Heure": "20:55:00",
     "Titre": "You & Me",
     "Saison": "Mini-série",
@@ -747,6 +630,33 @@
     "Note": null
   },
   {
+    "Date": "09/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "The Rookie : le flic de Los Angeles",
+    "Saison": "Saison 5",
+    "Plateforme": "M6",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Série Club"
+  },
+  {
+    "Date": "09/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Queen of Tears",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "10/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Inspecteur Barnaby",
+    "Saison": "Saison 13",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "10/03/2024",
     "Heure": "21:00:00",
     "Titre": "Grace",
@@ -765,6 +675,60 @@
     "Note": null
   },
   {
+    "Date": "12/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Bandidos",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "14/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ahiru No Sora",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "14/03/2024",
+    "Heure": "20:55:00",
+    "Titre": "Affaire Skripal : l’espion empoisonné",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "14/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Mercato",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "14/03/2024",
+    "Heure": "21:00:00",
+    "Titre": "Trigger Point",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "14/03/2024",
     "Heure": "00:00:00",
     "Titre": "Invincible",
@@ -780,6 +744,24 @@
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Monk",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Simon Coleman",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -807,6 +789,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Warner TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/03/2024",
+    "Heure": "21:00:00",
+    "Titre": "Archie",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Max",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -924,7 +915,7 @@
     "Saison": "Mini-série",
     "Plateforme": "Pass Warner",
     "Pays": "US",
-    "Note": "Date à confirmer"
+    "Note": null
   },
   {
     "Date": "24/04/2024",
@@ -978,6 +969,15 @@
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "13/06/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Boys",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
