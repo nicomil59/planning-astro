@@ -1,140 +1,5 @@
 [
   {
-    "Date": "05/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Solar Opposites",
-    "Saison": "Spécial",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "La Tribu",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/02/2024",
-    "Heure": "20:55:00",
-    "Titre": "The Twelve",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "BEL",
-    "Note": null
-  },
-  {
-    "Date": "05/02/2024",
-    "Heure": "21:00:00",
-    "Titre": "Family Law",
-    "Saison": "Saison 3",
-    "Plateforme": "13ème Rue",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "05/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Larry et son nombril",
-    "Saison": "Saison 12",
-    "Plateforme": "Pass Warner",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "07/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Luz : Les lueurs du coeur",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "07/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Black Cake",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Tout cela je te le donnerai",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "The Resident",
-    "Saison": "Saison 6",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": "Dernière saison - déjà diffusée sur Warner TV en septembre 2023"
-  },
-  {
-    "Date": "08/02/2024",
-    "Heure": "20:55:00",
-    "Titre": "De Grâce",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "BEL, FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Halo",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "One Day",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "09/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Machos Alfa",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "09/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "A Killer Paradox",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Blanca",
-    "Saison": "Saison 2",
-    "Plateforme": "M6",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
     "Date": "12/02/2024",
     "Heure": "00:00:00",
     "Titre": "Ninja Kamui",
@@ -434,6 +299,15 @@
   {
     "Date": "29/02/2024",
     "Heure": "00:00:00",
+    "Titre": "Le Collège Noir : Complainte d'Auvergne",
+    "Saison": "Saison 1",
+    "Plateforme": "France.TV",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "29/02/2024",
+    "Heure": "00:00:00",
     "Titre": "Reine Rouge",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
@@ -447,6 +321,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Blacklist",
+    "Saison": "Saison 10",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -562,6 +445,15 @@
     "Heure": "00:00:00",
     "Titre": "Meurtres et autres complications",
     "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "X-Men (1992)",
+    "Saison": "Saisons 3 à 5",
     "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
@@ -686,6 +578,42 @@
   {
     "Date": "13/03/2024",
     "Heure": "00:00:00",
+    "Titre": "Boy, Girl, etc.",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Panda",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur TF1"
+  },
+  {
+    "Date": "13/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Reservation Dogs",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Esprits Criminels",
+    "Saison": "Saison 16",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2024",
+    "Heure": "00:00:00",
     "Titre": "Bandidos",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -749,6 +677,15 @@
   {
     "Date": "15/03/2024",
     "Heure": "00:00:00",
+    "Titre": "D’une main de fer",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "15/03/2024",
+    "Heure": "00:00:00",
     "Titre": "Monk",
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
@@ -784,6 +721,24 @@
   },
   {
     "Date": "18/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "It’s a Sin",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "UK",
+    "Note": "Déjà diffusée sur Canal+"
+  },
+  {
+    "Date": "18/03/2024",
+    "Heure": "21:00:00",
+    "Titre": "La Fièvre",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/03/2024",
     "Heure": "20:55:00",
     "Titre": "Gotham Knights",
     "Saison": "Saison 1",
@@ -793,11 +748,56 @@
   },
   {
     "Date": "19/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Scènes de ménages & Friends",
+    "Saison": "Spécial",
+    "Plateforme": "M6",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "19/03/2024",
     "Heure": "21:00:00",
     "Titre": "Archie",
     "Saison": "Mini-série",
     "Plateforme": "OCS Max",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "20/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Life & Beth",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Sand Land",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "20/03/2024",
+    "Heure": "23:20:00",
+    "Titre": "Dr Bash",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "CAN",
+    "Note": "Titre original : “Transplant” - Déjà diffusée sur Warner TV"
+  },
+  {
+    "Date": "20/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Doc",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Pays": "ITA",
     "Note": null
   },
   {
@@ -820,12 +820,66 @@
   },
   {
     "Date": "21/03/2024",
+    "Heure": "20:55:00",
+    "Titre": "Citoyens clandestins",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "21/03/2024",
     "Heure": "00:00:00",
     "Titre": "Le Problème à 3 corps",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": "Titre original : “3 Body Problem”"
+  },
+  {
+    "Date": "22/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "My Undead Yokai Girlfriend",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "22/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Le Crime lui va si bien",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Believers",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "THA",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Philadelphia",
+    "Saison": "Saison 16",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Fargo",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "28/03/2024",
@@ -844,6 +898,15 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "29/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead: The Ones Who Live",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": "Nouveau spin-off de The Walking Dead, lancé fin février aux US sur AMC"
   },
   {
     "Date": "29/03/2024",
@@ -889,6 +952,15 @@
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": "Avec Colin Farrell"
+  },
+  {
+    "Date": "07/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Fable",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
+    "Note": null
   },
   {
     "Date": "12/04/2024",
