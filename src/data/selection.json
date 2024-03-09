@@ -1,17 +1,5 @@
 [
   {
-    "Date": "21/02/2024",
-    "Titre": "Constellation",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "22/02/2024",
-    "Titre": "Avatar, le dernier maître de l'air",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  }, 
-  {
     "Date": "26/02/2024",
     "Titre": "Mister Spade",
     "Saison": "Saison 1",
@@ -34,5 +22,17 @@
     "Titre": "The Regime",
     "Saison": "Mini-série",
     "Plateforme": "Pass Warner"
+  },
+  {
+    "Date": "14/03/2024",
+    "Titre": "Mercato",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "18/03/2024",
+    "Titre": "La Fièvre",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   }
 ]

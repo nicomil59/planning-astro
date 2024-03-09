@@ -1,131 +1,5 @@
 [
   {
-    "Date": "12/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ninja Kamui",
-    "Saison": "Saison 1",
-    "Plateforme": "Adult Swim",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Les Pennac(s) : un air de famille",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "14/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Good Morning, Veronica",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "14/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Atlanta",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/02/2024",
-    "Heure": "23:40:00",
-    "Titre": "Enterrement de vie de garçon",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "14/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "The New Look",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ready, Set, Love",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "House of Ninjas",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "AlRawabi School for Girls",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "JOR",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Léo Matteï",
-    "Saison": "Saison 11",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Vince Staples Show",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/02/2024",
-    "Heure": "00:00:00",
-    "Titre": "Comedy Chaos",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "INDO",
-    "Note": null
-  },
-  {
-    "Date": "16/02/2024",
-    "Heure": "23:00:00",
-    "Titre": "Feud",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "US",
-    "Note": "Titre complet : “Feud : Capote VS. The Swans”"
-  },
-  {
-    "Date": "18/02/2024",
-    "Heure": "21:10:00",
-    "Titre": "Association criminelle",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Pays": "BEL, CAN, IRL",
-    "Note": null
-  },
-  {
     "Date": "19/02/2024",
     "Heure": "21:10:00",
     "Titre": "L’Art du crime",
@@ -855,6 +729,42 @@
     "Note": null
   },
   {
+    "Date": "24/03/2024",
+    "Heure": "21:00:00",
+    "Titre": "Los Mil Dias De Allende",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS Pulp",
+    "Pays": "ARG, CHI, ESP",
+    "Note": null
+  },
+  {
+    "Date": "25/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres au paradis",
+    "Saison": "Saison 13",
+    "Plateforme": "France 2",
+    "Pays": "FRA, UK",
+    "Note": null
+  },
+  {
+    "Date": "25/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Le Négociateur",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "26/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "Brigade anonyme",
+    "Saison": "Mini-série",
+    "Plateforme": "M6",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "27/03/2024",
     "Heure": "00:00:00",
     "Titre": "The Believers",
@@ -883,6 +793,15 @@
   },
   {
     "Date": "28/03/2024",
+    "Heure": "21:10:00",
+    "Titre": "OPJ",
+    "Saison": "Inédits",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "28/03/2024",
     "Heure": "00:00:00",
     "Titre": "American Rust",
     "Saison": "Saison 2",
@@ -897,6 +816,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/03/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ourika",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -918,6 +846,15 @@
     "Note": "Titre original : “Renegade Nell”"
   },
   {
+    "Date": "02/04/2024",
+    "Heure": "21:00:00",
+    "Titre": "El Inmortal",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS Max",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "03/04/2024",
     "Heure": "00:00:00",
     "Titre": "Iwaju",
@@ -932,6 +869,15 @@
     "Titre": "Loot",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ripley",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -960,6 +906,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "10/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Anthracite",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1024,6 +979,15 @@
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": "Avec Joel Edgerton et Jennifer Connelly"
+  },
+  {
+    "Date": "16/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "HPI",
+    "Saison": "Saison 4",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "16/05/2024",
