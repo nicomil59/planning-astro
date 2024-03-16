@@ -1,62 +1,68 @@
 [
   {
-    "Date": "24/03/2024",
-    "Titre": "Los Mil Dias De Allende",
+    "Date": "30/03/2024",
+    "Titre": "Cassandre",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "01/04/2024",
+    "Titre": "The Light in The Hall",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "04/04/2024",
+    "Titre": "Tokyo Vice",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "05/04/2024",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "05/04/2024",
+    "Titre": "American Horror Story",
+    "Saison": "Saison 12 partie 2",
+    "Plateforme": "Canal+ Séries"
+  },
+  {
+    "Date": "05/04/2024",
+    "Titre": "El Hijo",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+ Séries"
+  },
+  {
+    "Date": "07/04/2024",
+    "Titre": "Homejacking",
     "Saison": "Mini-série",
     "Plateforme": "OCS Pulp"
   },
   {
-    "Date": "25/03/2024",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Saison 13",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "25/03/2024",
-    "Titre": "Le Négociateur",
+    "Date": "08/04/2024",
+    "Titre": "Irrational",
     "Saison": "Saison 1",
-    "Plateforme": "TF1"
+    "Plateforme": "Série Club"
   },
   {
-    "Date": "26/03/2024",
-    "Titre": "Brigade anonyme",
-    "Saison": "Mini-série",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "28/03/2024",
-    "Titre": "OPJ",
-    "Saison": "Inédits",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "28/03/2024",
-    "Titre": "Ourika",
+    "Date": "19/04/2024",
+    "Titre": "Mayfair Witches",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
+    "Plateforme": "Paramount+"
   },
   {
-    "Date": "02/04/2024",
-    "Titre": "El Inmortal",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS Max"
-  },
-  {
-    "Date": "04/04/2024",
-    "Titre": "Ripley",
-    "Saison": "Mini-série",
+    "Date": "30/04/2024",
+    "Titre": "Fiasco",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "10/04/2024",
-    "Titre": "Anthracite",
+    "Date": "07/06/2024",
+    "Titre": "Becoming Karl Lagerfeld",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "16/05/2024",
-    "Titre": "HPI",
-    "Saison": "Saison 4",
-    "Plateforme": "TF1"
+    "Plateforme": "Disney+"
   }
 ]
