@@ -1,68 +1,122 @@
 [
   {
-    "Date": "30/03/2024",
-    "Titre": "Cassandre",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
+    "Date": "01/04/2024",
+    "Titre": "Sherlock",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "01/04/2024",
-    "Titre": "The Light in The Hall",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+"
+    "Date": "02/04/2024",
+    "Titre": "Face à face",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2"
   },
   {
     "Date": "04/04/2024",
-    "Titre": "Tokyo Vice",
+    "Titre": "Mon petit côté vampire",
     "Saison": "Saison 2",
-    "Plateforme": "Canal+"
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "04/04/2024",
+    "Titre": "Charité",
+    "Saison": "Saison 4",
+    "Plateforme": "Arte"
   },
   {
     "Date": "05/04/2024",
+    "Titre": "Parasyte: The Grey",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "07/04/2024",
+    "Titre": "Hudson & Rex",
+    "Saison": "Saison 5",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "07/04/2024",
+    "Titre": "Fallen",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "11/04/2024",
+    "Titre": "Midsummer Night",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/04/2024",
+    "Titre": "Hartley, cœurs à vif (2022)",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/04/2024",
+    "Titre": "Machine",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "11/04/2024",
+    "Titre": "Mademoiselle Holmes",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "12/04/2024",
+    "Titre": "Good Times",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/04/2024",
     "Titre": "Capitaine Marleau",
     "Saison": "Inédit",
     "Plateforme": "France 2"
   },
   {
-    "Date": "05/04/2024",
-    "Titre": "American Horror Story",
-    "Saison": "Saison 12 partie 2",
-    "Plateforme": "Canal+ Séries"
-  },
-  {
-    "Date": "05/04/2024",
-    "Titre": "El Hijo",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+ Séries"
-  },
-  {
-    "Date": "07/04/2024",
-    "Titre": "Homejacking",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS Pulp"
-  },
-  {
-    "Date": "08/04/2024",
-    "Titre": "Irrational",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club"
-  },
-  {
     "Date": "19/04/2024",
-    "Titre": "Mayfair Witches",
+    "Titre": "Ark: The Animated Series",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+"
   },
   {
-    "Date": "30/04/2024",
-    "Titre": "Fiasco",
+    "Date": "25/04/2024",
+    "Titre": "Dead Boy Detectives",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "07/06/2024",
-    "Titre": "Becoming Karl Lagerfeld",
+    "Date": "02/05/2024",
+    "Titre": "A Man in Full",
     "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/05/2024",
+    "Titre": "Doctor Who",
+    "Saison": "Saison 15",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "30/05/2024",
+    "Titre": "Eric",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "05/06/2024",
+    "Titre": "Star Wars: The Acolyte",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "17/06/2024",
+    "Titre": "House of The Dragon",
+    "Saison": "Saison 2",
+    "Plateforme": "Pass Warner ou Max"
   }
 ]

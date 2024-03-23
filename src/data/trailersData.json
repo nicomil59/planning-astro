@@ -1,17 +1,17 @@
 [
   {
+    "titre": "Star Wars: The Acolyte",
+    "videoId": "9WTuhwZGVOs",
+    "plateforme": "Disney+"
+  },
+  {
     "titre": "La Fièvre",
     "videoId": "vReUbGiB3tM",
     "plateforme": "Canal+"
   },
   {
-    "titre": "Becoming Karl Lagerfeld",
-    "videoId": "VFdPBEjFWlg",
+    "titre": "Doctor Who saison 15",
+    "videoId": "1yaCbeg1bvY",
     "plateforme": "Disney+"
-  },
-  {
-    "titre": "Mayfair Witches",
-    "videoId": "BMJ71Dr4Y44",
-    "plateforme": "Paramount+"
   }
 ]
