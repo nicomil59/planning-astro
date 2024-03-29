@@ -11,5 +11,5 @@ const { Titre, Saison, Pays, Heure, Note } = Astro.props;
         <div class="font-medium border border-solid border-gray-200 px-1 text-xs sm:text-sm">{Pays}</div>
       </div>
     </div>
-      {Note !== null ? (<hr class="my-1"><span class="italic text-right">{Note}</span>) : ""}
+      {Note !== null ? (<hr class="my-1"><span class="italic text-sm text-right">{Note}</span>) : ""}
 </div>
