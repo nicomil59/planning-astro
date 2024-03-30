@@ -1,122 +1,86 @@
 [
   {
     "Date": "01/04/2024",
-    "Titre": "Sherlock",
+    "Titre": "Chicago Fire",
+    "Saison": "Saisons 1 à 7",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "04/04/2024",
+    "Titre": "Crooks",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "07/04/2024",
+    "Titre": "No Longer Rangers",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "10/04/2024",
+    "Titre": "Blood Free",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "11/04/2024",
+    "Titre": "Stargate SG-1",
     "Saison": "Intégrale",
-    "Plateforme": "Netflix"
+    "Plateforme": "Prime Video"
   },
   {
-    "Date": "02/04/2024",
-    "Titre": "Face à face",
+    "Date": "13/04/2024",
+    "Titre": "Annika",
     "Saison": "Saison 2",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "04/04/2024",
-    "Titre": "Mon petit côté vampire",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "04/04/2024",
-    "Titre": "Charité",
-    "Saison": "Saison 4",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "05/04/2024",
-    "Titre": "Parasyte: The Grey",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "07/04/2024",
-    "Titre": "Hudson & Rex",
-    "Saison": "Saison 5",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "07/04/2024",
-    "Titre": "Fallen",
-    "Saison": "Saison 1",
     "Plateforme": "Polar+"
   },
   {
-    "Date": "11/04/2024",
-    "Titre": "Midsummer Night",
+    "Date": "15/04/2024",
+    "Titre": "Les Bracelets rouges",
+    "Saison": "Saison 5",
+    "Plateforme": "TF1+"
+  },
+  {
+    "Date": "17/04/2024",
+    "Titre": "Dans cette vie ou une autre",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix"
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "11/04/2024",
-    "Titre": "Hartley, cœurs à vif (2022)",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "11/04/2024",
-    "Titre": "Machine",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "11/04/2024",
-    "Titre": "Mademoiselle Holmes",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "12/04/2024",
-    "Titre": "Good Times",
+    "Date": "17/04/2024",
+    "Titre": "The Grimm Variations",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "12/04/2024",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
+    "Date": "18/04/2024",
+    "Titre": "OPJ",
+    "Saison": "Inédits",
+    "Plateforme": "France 3"
   },
   {
-    "Date": "19/04/2024",
-    "Titre": "Ark: The Animated Series",
+    "Date": "18/04/2024",
+    "Titre": "La Famille Upshaw",
+    "Saison": "Partie 5",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "24/04/2024",
+    "Titre": "Tracker",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Disney+"
   },
   {
     "Date": "25/04/2024",
-    "Titre": "Dead Boy Detectives",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "02/05/2024",
-    "Titre": "A Man in Full",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "11/05/2024",
-    "Titre": "Doctor Who",
-    "Saison": "Saison 15",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "30/05/2024",
-    "Titre": "Eric",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "05/06/2024",
-    "Titre": "Star Wars: The Acolyte",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "17/06/2024",
-    "Titre": "House of The Dragon",
+    "Titre": "Eux",
     "Saison": "Saison 2",
-    "Plateforme": "Pass Warner ou Max"
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "24/05/2024",
+    "Titre": "Jurassic World: Chaos Theory",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]

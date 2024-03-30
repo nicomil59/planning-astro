@@ -1,21 +1,9 @@
 [
   {
-    "Date": "14/03/2024",
-    "Titre": "Mercato",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "18/03/2024",
     "Titre": "La Fièvre",
     "Saison": "Saison 1",
     "Plateforme": "Canal+"
-  },
-  {
-    "Date": "20/03/2024",
-    "Titre": "Palm Royale",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
   },
   {
     "Date": "21/03/2024",
@@ -34,5 +22,17 @@
     "Titre": "The Walking Dead: The Ones Who Live",
     "Saison": "Mini-série",
     "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "04/04/2024",
+    "Titre": "Tokyo Vice",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "05/04/2024",
+    "Titre": "Sugar",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]

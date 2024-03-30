@@ -1,167 +1,5 @@
 [
   {
-    "Date": "04/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "La Peste",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Lycée Toulouse-Lautrec",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2024",
-    "Heure": "20:55:00",
-    "Titre": "Reyka",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Regime",
-    "Saison": "Mini-série",
-    "Plateforme": "Pass Warner",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Easttown",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Pays": "US",
-    "Note": "Titre original : “Mare of Easttown” - Déjà diffusée sur OCS"
-  },
-  {
-    "Date": "05/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Meurtres et autres complications",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "X-Men (1992)",
-    "Saison": "Saisons 3 à 5",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "L’Affaire Jacob Barber",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": "Titre original : “Defending Jacob” - Déjà diffusée sur Apple TV+"
-  },
-  {
-    "Date": "06/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Extraordinary",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Supersex",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Signal",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2024",
-    "Heure": "20:55:00",
-    "Titre": "You & Me",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Gentlemen",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "08/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Les Petits meurtres d’Agatha Christie",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "The Rookie : le flic de Los Angeles",
-    "Saison": "Saison 5",
-    "Plateforme": "M6",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Série Club"
-  },
-  {
-    "Date": "09/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Queen of Tears",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "10/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Inspecteur Barnaby",
-    "Saison": "Saison 13",
-    "Plateforme": "France 3",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "10/03/2024",
-    "Heure": "21:00:00",
-    "Titre": "Grace",
-    "Saison": "Saison 2",
-    "Plateforme": "13ème Rue",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "11/03/2024",
     "Heure": "00:00:00",
     "Titre": "Young Royals",
@@ -587,6 +425,15 @@
   {
     "Date": "01/04/2024",
     "Heure": "00:00:00",
+    "Titre": "Chicago Fire",
+    "Saison": "Saisons 1 à 7",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2024",
+    "Heure": "00:00:00",
     "Titre": "Sherlock",
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
@@ -636,6 +483,15 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Crooks",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ALL",
     "Note": null
   },
   {
@@ -729,6 +585,24 @@
     "Note": "Avec Colin Farrell"
   },
   {
+    "Date": "06/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Fable",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "07/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "No Longer Rangers",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "07/04/2024",
     "Heure": "21:10:00",
     "Titre": "Hudson & Rex",
@@ -756,15 +630,6 @@
     "Note": null
   },
   {
-    "Date": "07/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Fable",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "08/04/2024",
     "Heure": "21:00:00",
     "Titre": "Irrational",
@@ -776,10 +641,28 @@
   {
     "Date": "10/04/2024",
     "Heure": "00:00:00",
+    "Titre": "Blood Free",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "10/04/2024",
+    "Heure": "00:00:00",
     "Titre": "Anthracite",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "11/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Stargate SG-1",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -819,6 +702,15 @@
     "Note": null
   },
   {
+    "Date": "11/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Fallout",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "12/04/2024",
     "Heure": "00:00:00",
     "Titre": "Good Times",
@@ -846,13 +738,22 @@
     "Note": "Avec Michael Douglas"
   },
   {
-    "Date": "12/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Fallout",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
+    "Date": "13/04/2024",
+    "Heure": "20:50:00",
+    "Titre": "Annika",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "15/04/2024",
+    "Heure": "21:10:00",
+    "Titre": "Les Bracelets rouges",
+    "Saison": "Saison 5",
+    "Plateforme": "TF1+",
+    "Pays": "FRA",
+    "Note": "Dernière saison"
   },
   {
     "Date": "15/04/2024",
@@ -860,6 +761,42 @@
     "Titre": "The Sympathizer",
     "Saison": "Mini-série",
     "Plateforme": "Pass Warner",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dans cette vie ou une autre",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "17/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Grimm Variations",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "18/04/2024",
+    "Heure": "14:20:00",
+    "Titre": "OPJ",
+    "Saison": "Inédits",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "La Famille Upshaw",
+    "Saison": "Partie 5",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -884,9 +821,27 @@
   {
     "Date": "24/04/2024",
     "Heure": "00:00:00",
+    "Titre": "Tracker",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/04/2024",
+    "Heure": "00:00:00",
     "Titre": "The Big Door Prize",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/04/2024",
+    "Heure": "00:00:00",
+    "Titre": "Eux",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -978,6 +933,15 @@
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "24/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Jurassic World: Chaos Theory",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
