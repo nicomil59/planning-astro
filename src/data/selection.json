@@ -1,17 +1,5 @@
 [
   {
-    "Date": "18/03/2024",
-    "Titre": "La Fièvre",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "28/03/2024",
-    "Titre": "Ourika",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
     "Date": "29/03/2024",
     "Titre": "The Walking Dead: The Ones Who Live",
     "Saison": "Mini-série",
@@ -34,5 +22,17 @@
     "Titre": "Fallout",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "15/04/2024",
+    "Titre": "The Sympathizer",
+    "Saison": "Mini-série",
+    "Plateforme": "Pass Warner"
+  },
+  {
+    "Date": "22/04/2024",
+    "Titre": "Terminal",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   }
 ]

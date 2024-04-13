@@ -1,140 +1,5 @@
 [
   {
-    "Date": "25/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Saison 13",
-    "Plateforme": "France 2",
-    "Pays": "FRA, UK",
-    "Note": null
-  },
-  {
-    "Date": "25/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Le Négociateur",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "26/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Brigade anonyme",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "27/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Believers",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "27/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Philadelphia",
-    "Saison": "Saison 16",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "27/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Fargo",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ronya, fille de brigand",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "28/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ourika",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "28/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "OPJ",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "28/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "American Rust",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Baxters",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Walking Dead: The Ones Who Live",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": "Nouveau spin-off de The Walking Dead, lancé fin février aux US sur AMC"
-  },
-  {
-    "Date": "29/03/2024",
-    "Heure": "00:00:00",
-    "Titre": "Nell rebelle",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
-    "Note": "Titre original : “Renegade Nell”"
-  },
-  {
-    "Date": "30/03/2024",
-    "Heure": "21:10:00",
-    "Titre": "Cassandre",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "31/03/2024",
-    "Heure": "21:00:00",
-    "Titre": "Grace",
-    "Saison": "Saison 3",
-    "Plateforme": "13ème Rue",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "01/04/2024",
     "Heure": "00:00:00",
     "Titre": "Chicago Fire",
@@ -451,6 +316,15 @@
   },
   {
     "Date": "12/04/2024",
+    "Heure": "21:00:00",
+    "Titre": "Knok",
+    "Saison": "Mini-série",
+    "Plateforme": "13ème Rue",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/04/2024",
     "Heure": "00:00:00",
     "Titre": "Good Times",
     "Saison": "Saison 1",
@@ -666,12 +540,39 @@
     "Note": null
   },
   {
+    "Date": "28/04/2024",
+    "Heure": "20:55:00",
+    "Titre": "Fenris",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Pays": "NOR",
+    "Note": null
+  },
+  {
+    "Date": "29/04/2024",
+    "Heure": "22:00:00",
+    "Titre": "Broute 24",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": "Format court"
+  },
+  {
     "Date": "30/04/2024",
     "Heure": "00:00:00",
     "Titre": "Fiasco",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Shardlake : Détective de l’ombre",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -685,11 +586,29 @@
   },
   {
     "Date": "02/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "Attraction",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "02/05/2024",
     "Heure": "00:00:00",
     "Titre": "A Man in Full",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "Tropiques criminels",
+    "Saison": "Saison 5",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -700,6 +619,15 @@
     "Plateforme": "Disney+",
     "Pays": "US",
     "Note": "Suite de “Tales of The Jedi”"
+  },
+  {
+    "Date": "05/05/2024",
+    "Heure": "21:00:00",
+    "Titre": "Outlander",
+    "Saison": "Saison 6",
+    "Plateforme": "Teva",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "08/05/2024",
@@ -745,6 +673,15 @@
     "Plateforme": "Apple TV+",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "24/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Evil",
+    "Saison": "Saison 4",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": "Dernière saison"
   },
   {
     "Date": "24/05/2024",
@@ -826,6 +763,15 @@
     "Plateforme": "Pass Warner",
     "Pays": "US",
     "Note": "Date à confirmer (lancement le 16 juin aux US sur HBO) - Diffusion en France sur le Pass Warner ou la nouvelle plateforme Max"
+  },
+  {
+    "Date": "26/06/2024",
+    "Heure": "00:00:00",
+    "Titre": "La Terre des femmes",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Titre original : “Land of Women”"
   },
   {
     "Date": "08/08/2024",
