@@ -1,11 +1,5 @@
 [
   {
-    "Date": "29/03/2024",
-    "Titre": "The Walking Dead: The Ones Who Live",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
-  },
-  {
     "Date": "05/04/2024",
     "Titre": "Sugar",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "Terminal",
     "Saison": "Saison 1",
     "Plateforme": "Canal+"
+  },
+  {
+    "Date": "25/04/2024",
+    "Titre": "Dead Boy Detectives",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]
