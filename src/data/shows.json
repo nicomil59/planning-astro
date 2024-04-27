@@ -1,158 +1,5 @@
 [
   {
-    "Date": "08/04/2024",
-    "Heure": "21:00:00",
-    "Titre": "Irrational",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Le Détournement du vol 601",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "10/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Blood Free",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "10/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Anthracite",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Mon petit renne",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Les Ailes de l’ambition",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Stargate SG-1",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Midsummer Night",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "NOR",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hartley, cœurs à vif (2022)",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "20:55:00",
-    "Titre": "Machine",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "21:10:00",
-    "Titre": "Mademoiselle Holmes",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Fallout",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/04/2024",
-    "Heure": "21:00:00",
-    "Titre": "Knok",
-    "Saison": "Mini-série",
-    "Plateforme": "13ème Rue",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Good Times",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/04/2024",
-    "Heure": "21:10:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Franklin",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": "Avec Michael Douglas"
-  },
-  {
-    "Date": "13/04/2024",
-    "Heure": "20:50:00",
-    "Titre": "Annika",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "15/04/2024",
     "Heure": "21:10:00",
     "Titre": "Les Bracelets rouges",
@@ -317,6 +164,15 @@
   {
     "Date": "26/04/2024",
     "Heure": "00:00:00",
+    "Titre": "Goodbye Earth",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "26/04/2024",
+    "Heure": "00:00:00",
     "Titre": "L’Affaire Asunta",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
@@ -362,6 +218,33 @@
   {
     "Date": "01/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Jujutsu Kaisen",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dr. Stone",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Heeramandi : Les diamants de la cour",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "IND",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Shardlake : Détective de l’ombre",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
@@ -379,6 +262,15 @@
   },
   {
     "Date": "02/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "T・P BON",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/05/2024",
     "Heure": "21:10:00",
     "Titre": "Attraction",
     "Saison": "Saison 1",
@@ -389,20 +281,11 @@
   {
     "Date": "02/05/2024",
     "Heure": "00:00:00",
-    "Titre": "A Man in Full",
+    "Titre": "Un Homme, un vrai",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "02/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "T・P BON",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "Japon",
-    "Note": null
+    "Note": "Titre original : A Man in Full"
   },
   {
     "Date": "03/05/2024",
@@ -452,6 +335,15 @@
   {
     "Date": "09/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Bodkin",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "09/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Maxton Hall",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
@@ -468,12 +360,12 @@
     "Note": null
   },
   {
-    "Date": "11/05/2024",
+    "Date": "10/05/2024",
     "Heure": "00:00:00",
-    "Titre": "Doctor Who",
-    "Saison": "Saison 15",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
+    "Titre": "Blood of Zeus",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -483,6 +375,33 @@
     "Saison": "Saison 21",
     "Plateforme": "M6",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Doctor Who",
+    "Saison": "Saison 15",
+    "Plateforme": "Disney+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "12/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "McDonald & Dodds",
+    "Saison": "Saison 3",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "13/05/2024",
+    "Heure": "20:55:00",
+    "Titre": "The Long Shadow",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -501,6 +420,51 @@
     "Saison": "Saison 3",
     "Plateforme": "OCS Max",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "One-Punch Man",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dr. Stone",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/05/2024",
+    "Heure": "23:45:00",
+    "Titre": "Florida Murders",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur 13ème Rue - Titre original : “Panhandle”"
+  },
+  {
+    "Date": "15/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "Will Trent",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Disney+"
+  },
+  {
+    "Date": "16/05/2024",
+    "Heure": "20:55:00",
+    "Titre": "The Actor",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Pays": "IRAN",
     "Note": null
   },
   {
@@ -540,12 +504,30 @@
     "Note": null
   },
   {
+    "Date": "17/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Big Cigar",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/05/2024",
     "Heure": "00:00:00",
     "Titre": "Trying",
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "23/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Garôden : La voie du loup solitaire",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -573,6 +555,24 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "31/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Raising Voices",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": "Titre original : “Ni una más”"
+  },
+  {
+    "Date": "31/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Bugarach",
+    "Saison": "Saison 1",
+    "Plateforme": "France.TV",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -612,6 +612,15 @@
     "Note": null
   },
   {
+    "Date": "12/06/2024",
+    "Heure": "00:00:00",
+    "Titre": "Présumé Innocent",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": "Avec Jake Gyllenhaal"
+  },
+  {
     "Date": "13/06/2024",
     "Heure": "00:00:00",
     "Titre": "The Boys",
@@ -628,15 +637,6 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
-  },
-  {
-    "Date": "14/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Présumé Innocent",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": "Avec Jake Gyllenhaal"
   },
   {
     "Date": "17/06/2024",

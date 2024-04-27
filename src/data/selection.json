@@ -1,11 +1,5 @@
 [
   {
-    "Date": "05/04/2024",
-    "Titre": "Sugar",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "10/04/2024",
     "Titre": "Anthracite",
     "Saison": "Mini-série",
@@ -32,6 +26,12 @@
   {
     "Date": "25/04/2024",
     "Titre": "Dead Boy Detectives",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "30/04/2024",
+    "Titre": "Fiasco",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   }

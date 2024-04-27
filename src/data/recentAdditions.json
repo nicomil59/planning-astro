@@ -1,62 +1,104 @@
 [
   {
-    "Date": "06/05/2024",
-    "Titre": "La Recrue",
+    "Date": "26/04/2024",
+    "Titre": "Goodbye Earth",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/05/2024",
+    "Titre": "Jujutsu Kaisen",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/05/2024",
+    "Titre": "Dr. Stone",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/05/2024",
+    "Titre": "Heeramandi : Les diamants de la cour",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/05/2024",
+    "Titre": "Bodkin",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "10/05/2024",
+    "Titre": "Blood of Zeus",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/05/2024",
+    "Titre": "McDonald & Dodds",
+    "Saison": "Saison 3",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "13/05/2024",
+    "Titre": "The Long Shadow",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "15/05/2024",
+    "Titre": "One-Punch Man",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/05/2024",
+    "Titre": "Dr. Stone",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/05/2024",
+    "Titre": "Florida Murders",
     "Saison": "Saison 1",
     "Plateforme": "TF1"
   },
   {
-    "Date": "09/05/2024",
-    "Titre": "Maxton Hall",
+    "Date": "15/05/2024",
+    "Titre": "Will Trent",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "09/05/2024",
-    "Titre": "Un Meurtre est-il facile ? D’après Agatha Christie",
-    "Saison": "Anthologie",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "11/05/2024",
-    "Titre": "NCIS",
-    "Saison": "Saison 21",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "13/05/2024",
-    "Titre": "C*A*P*T*I*F*S",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "14/05/2024",
-    "Titre": "Alex Rider",
-    "Saison": "Saison 3",
-    "Plateforme": "OCS Max"
+    "Plateforme": "TF1"
   },
   {
     "Date": "16/05/2024",
-    "Titre": "Outer Range",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video"
+    "Titre": "The Actor",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte"
   },
   {
-    "Date": "16/05/2024",
-    "Titre": "Creepshow",
-    "Saison": "Saison 4",
-    "Plateforme": "Paris Première"
+    "Date": "17/05/2024",
+    "Titre": "The Big Cigar",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
   },
   {
-    "Date": "06/06/2024",
-    "Titre": "Sweet Tooth",
-    "Saison": "Saison 3",
+    "Date": "23/05/2024",
+    "Titre": "Garôden : La voie du loup solitaire",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "10/07/2024",
-    "Titre": "Sunny",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Date": "31/05/2024",
+    "Titre": "Raising Voices",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/05/2024",
+    "Titre": "Bugarach",
+    "Saison": "Saison 1",
+    "Plateforme": "France.TV"
   }
 ]
