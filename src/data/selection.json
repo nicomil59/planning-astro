@@ -1,21 +1,9 @@
 [
   {
-    "Date": "10/04/2024",
-    "Titre": "Anthracite",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "11/04/2024",
     "Titre": "Fallout",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "15/04/2024",
-    "Titre": "The Sympathizer",
-    "Saison": "Mini-série",
-    "Plateforme": "Pass Warner"
   },
   {
     "Date": "22/04/2024",
@@ -34,5 +22,17 @@
     "Titre": "Fiasco",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "08/05/2024",
+    "Titre": "Dark Matter",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "11/05/2024",
+    "Titre": "Doctor Who (2024)",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]

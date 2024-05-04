@@ -1,86 +1,5 @@
 [
   {
-    "Date": "15/04/2024",
-    "Heure": "21:10:00",
-    "Titre": "Les Bracelets rouges",
-    "Saison": "Saison 5",
-    "Plateforme": "TF1+",
-    "Pays": "FRA",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "15/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Sympathizer",
-    "Saison": "Mini-série",
-    "Plateforme": "Pass Warner",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Dans cette vie ou une autre",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Grimm Variations",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "18/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Comme deux frères",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ISR",
-    "Note": null
-  },
-  {
-    "Date": "18/04/2024",
-    "Heure": "14:20:00",
-    "Titre": "OPJ",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "18/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "La Famille Upshaw",
-    "Saison": "Partie 5",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ark: The Animated Series",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Mayfair Witches",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "22/04/2024",
     "Heure": "20:55:00",
     "Titre": "Black Snow",
@@ -208,11 +127,38 @@
   },
   {
     "Date": "30/04/2024",
+    "Heure": "21:00:00",
+    "Titre": "Blood & Treasure",
+    "Saison": "Saison 2",
+    "Plateforme": "Syfy",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "30/04/2024",
     "Heure": "00:00:00",
     "Titre": "Fiasco",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Great North",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "À dire vrai",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -289,11 +235,38 @@
   },
   {
     "Date": "03/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Postcards",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "NIG",
+    "Note": null
+  },
+  {
+    "Date": "03/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Unbroken Voice",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
+    "Date": "03/05/2024",
     "Heure": "21:10:00",
     "Titre": "Tropiques criminels",
     "Saison": "Saison 5",
     "Plateforme": "France 2",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "04/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Une Famille atypique",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -335,6 +308,15 @@
   {
     "Date": "09/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Merci et au suivant !",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "09/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Bodkin",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -362,6 +344,15 @@
   {
     "Date": "10/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Entretien avec un vampire",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Blood of Zeus",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
@@ -380,8 +371,8 @@
   {
     "Date": "11/05/2024",
     "Heure": "00:00:00",
-    "Titre": "Doctor Who",
-    "Saison": "Saison 15",
+    "Titre": "Doctor Who (2024)",
+    "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "UK",
     "Note": null
@@ -393,6 +384,24 @@
     "Saison": "Saison 3",
     "Plateforme": "France 3",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "13/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Smiling Friends",
+    "Saison": "Saison 2",
+    "Plateforme": "Adult Swim",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Princess Power",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -460,6 +469,15 @@
   },
   {
     "Date": "16/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Le Blues du Maestro",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "GRE",
+    "Note": null
+  },
+  {
+    "Date": "16/05/2024",
     "Heure": "20:55:00",
     "Titre": "The Actor",
     "Saison": "Saison 1",
@@ -506,10 +524,28 @@
   {
     "Date": "17/05/2024",
     "Heure": "00:00:00",
+    "Titre": "The 8 Show",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "17/05/2024",
+    "Heure": "00:00:00",
     "Titre": "The Big Cigar",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/05/2024",
+    "Heure": "20:55:00",
+    "Titre": "Le Tueur de l’ombre, les liens du sang",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Pays": "DAN",
     "Note": null
   },
   {
@@ -524,10 +560,46 @@
   {
     "Date": "23/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Machine",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Arte"
+  },
+  {
+    "Date": "23/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Grosse Pression",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Titre original : “Tires”"
+  },
+  {
+    "Date": "23/05/2024",
+    "Heure": "20:55:00",
+    "Titre": "Little Bird",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "23/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Garôden : La voie du loup solitaire",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "24/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "Muligan",
+    "Saison": "Partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -551,10 +623,28 @@
   {
     "Date": "30/05/2024",
     "Heure": "00:00:00",
+    "Titre": "Geek Girl",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "CAN, UK",
+    "Note": null
+  },
+  {
+    "Date": "30/05/2024",
+    "Heure": "00:00:00",
     "Titre": "Eric",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "31/05/2024",
+    "Heure": "00:00:00",
+    "Titre": "How To Ruin Love: The Proposal",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "AFS",
     "Note": null
   },
   {
@@ -657,11 +747,29 @@
     "Note": "Titre original : “Land of Women”"
   },
   {
+    "Date": "28/06/2024",
+    "Heure": "00:00:00",
+    "Titre": "WondLa",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/07/2024",
     "Heure": "00:00:00",
     "Titre": "Sunny",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/07/2024",
+    "Heure": "00:00:00",
+    "Titre": "Cobra Kai",
+    "Saison": "Saison 6 partie 1",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -673,5 +781,32 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "15/08/2024",
+    "Heure": "00:00:00",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "12/09/2024",
+    "Heure": "00:00:00",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Cobra Kai",
+    "Saison": "Saison 6 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
   }
 ]
