@@ -1,149 +1,5 @@
 [
   {
-    "Date": "22/04/2024",
-    "Heure": "20:55:00",
-    "Titre": "Black Snow",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "22/04/2024",
-    "Heure": "21:00:00",
-    "Titre": "Terminal",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "23/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Briganti",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "24/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Deliver Me",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "24/04/2024",
-    "Heure": "21:10:00",
-    "Titre": "Disparition inquiétante",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "24/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Tracker",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "24/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Big Door Prize",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Eux",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": "Titre original : “Them”"
-  },
-  {
-    "Date": "25/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Dead Boy Detectives",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Goodbye Earth",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "26/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "L’Affaire Asunta",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "27/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Knuckles",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/04/2024",
-    "Heure": "20:55:00",
-    "Titre": "Fenris",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "NOR",
-    "Note": null
-  },
-  {
-    "Date": "29/04/2024",
-    "Heure": "22:00:00",
-    "Titre": "Broute 24",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": "Format court"
-  },
-  {
-    "Date": "30/04/2024",
-    "Heure": "21:00:00",
-    "Titre": "Blood & Treasure",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/04/2024",
-    "Heure": "00:00:00",
-    "Titre": "Fiasco",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/05/2024",
     "Heure": "00:00:00",
     "Titre": "The Great North",
@@ -621,6 +477,33 @@
     "Note": null
   },
   {
+    "Date": "27/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "Les Gouttes de Dieu",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA, JAP, US",
+    "Note": "Déjà diffusée sur Apple TV+"
+  },
+  {
+    "Date": "27/05/2024",
+    "Heure": "21:10:00",
+    "Titre": "Le Remplaçant",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "30/05/2024",
+    "Heure": "21:00:00",
+    "Titre": "A Gentleman in Moscow",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "30/05/2024",
     "Heure": "00:00:00",
     "Titre": "Geek Girl",
@@ -733,9 +616,9 @@
     "Heure": "00:00:00",
     "Titre": "House of The Dragon",
     "Saison": "Saison 2",
-    "Plateforme": "Pass Warner",
+    "Plateforme": "Max",
     "Pays": "US",
-    "Note": "Date à confirmer (lancement le 16 juin aux US sur HBO) - Diffusion en France sur le Pass Warner ou la nouvelle plateforme Max"
+    "Note": "Lancement de la nouvelle plateforme Max en France le 11 juin"
   },
   {
     "Date": "26/06/2024",
@@ -772,6 +655,33 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "19/07/2024",
+    "Heure": "00:00:00",
+    "Titre": "Betty La Fea, The Story Continues",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
+    "Date": "19/07/2024",
+    "Heure": "00:00:00",
+    "Titre": "Lady in The Lake",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "31/07/2024",
+    "Heure": "00:00:00",
+    "Titre": "Las Azules",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Pays": "MEX",
+    "Note": "Avec Natalie Portman"
   },
   {
     "Date": "08/08/2024",
