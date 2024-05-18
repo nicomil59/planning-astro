@@ -1,44 +1,116 @@
 [
   {
-    "Date": "27/05/2024",
-    "Titre": "Les Gouttes de Dieu",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
+    "Date": "14/05/2024",
+    "Titre": "Zorro",
+    "Saison": "Saison 1",
+    "Plateforme": "M6+"
   },
   {
-    "Date": "27/05/2024",
-    "Titre": "Le Remplaçant",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1"
+    "Date": "25/05/2024",
+    "Titre": "South Park : la fin de l'obésité",
+    "Saison": "Téléfilm",
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "30/05/2024",
-    "Titre": "A Gentleman in Moscow",
+    "Titre": "Pyramid Game",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "31/05/2024",
+    "Titre": "Frog and Toad",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "01/06/2024",
+    "Titre": "D.I. Ray",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "02/06/2024",
+    "Titre": "Un Monde en feu",
+    "Saison": "Saison 1",
+    "Plateforme": "Teva"
+  },
+  {
+    "Date": "03/06/2024",
+    "Titre": "Anonyme",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "03/06/2024",
+    "Titre": "Mary & George",
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
   },
   {
-    "Date": "17/06/2024",
-    "Titre": "House of The Dragon",
+    "Date": "04/06/2024",
+    "Titre": "Furia",
     "Saison": "Saison 2",
-    "Plateforme": "Max"
+    "Plateforme": "Série Club"
   },
   {
-    "Date": "19/07/2024",
-    "Titre": "Betty La Fea, The Story Continues",
+    "Date": "06/06/2024",
+    "Titre": "La Maison de la rue en pente",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "27/06/2024",
+    "Titre": "That '90s Show",
+    "Saison": "Saison 2 partie 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "27/08/2024",
+    "Titre": "Only Murders in The Buiding",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "29/08/2024",
+    "Titre": "Terminator: Zero",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "29/08/2024",
+    "Titre": "Le Seigneur des Anneaux : Les Anneaux de Pouvoir",
+    "Saison": "Saison 2",
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "19/07/2024",
-    "Titre": "Lady in The Lake",
+    "Date": "13/09/2024",
+    "Titre": "LEGO Star Wars : Reconstruire la Galaxie",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "31/07/2024",
-    "Titre": "Las Azules",
+    "Date": "18/09/2024",
+    "Titre": "Agatha All Along",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "26/09/2024",
+    "Titre": "Nobody Wants This",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "03/10/2024",
+    "Titre": "Heartstopper",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "24/10/2024",
+    "Titre": "That '90s Show",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix"
   }
 ]
