@@ -1,11 +1,5 @@
 [
   {
-    "Date": "30/04/2024",
-    "Titre": "Fiasco",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "08/05/2024",
     "Titre": "Dark Matter",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "Eric",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "30/05/2024",
+    "Titre": "A Gentleman in Moscow",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
   }
 ]

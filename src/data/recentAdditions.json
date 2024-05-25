@@ -1,116 +1,38 @@
 [
   {
     "Date": "14/05/2024",
-    "Titre": "Zorro",
-    "Saison": "Saison 1",
+    "Titre": "Les Espions de la terreur",
+    "Saison": "Mini-série",
     "Plateforme": "M6+"
   },
   {
-    "Date": "25/05/2024",
-    "Titre": "South Park : la fin de l'obésité",
-    "Saison": "Téléfilm",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "30/05/2024",
-    "Titre": "Pyramid Game",
+    "Date": "07/06/2024",
+    "Titre": "Hierarchy",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "31/05/2024",
-    "Titre": "Frog and Toad",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "01/06/2024",
-    "Titre": "D.I. Ray",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "02/06/2024",
-    "Titre": "Un Monde en feu",
-    "Saison": "Saison 1",
-    "Plateforme": "Teva"
-  },
-  {
-    "Date": "03/06/2024",
-    "Titre": "Anonyme",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "03/06/2024",
-    "Titre": "Mary & George",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "04/06/2024",
-    "Titre": "Furia",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "06/06/2024",
-    "Titre": "La Maison de la rue en pente",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
+    "Plateforme": "Netflix"
   },
   {
     "Date": "27/06/2024",
-    "Titre": "That '90s Show",
-    "Saison": "Saison 2 partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "27/08/2024",
-    "Titre": "Only Murders in The Buiding",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "29/08/2024",
-    "Titre": "Terminator: Zero",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "29/08/2024",
-    "Titre": "Le Seigneur des Anneaux : Les Anneaux de Pouvoir",
-    "Saison": "Saison 2",
+    "Titre": "My Lady Jane",
+    "Saison": "Mini-série",
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "13/09/2024",
-    "Titre": "LEGO Star Wars : Reconstruire la Galaxie",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "18/09/2024",
-    "Titre": "Agatha All Along",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "26/09/2024",
-    "Titre": "Nobody Wants This",
+    "Date": "24/07/2024",
+    "Titre": "Time Bandits",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Apple TV+"
   },
   {
-    "Date": "03/10/2024",
-    "Titre": "Heartstopper",
+    "Date": "12/08/2024",
+    "Titre": "Industry",
     "Saison": "Saison 3",
-    "Plateforme": "Netflix"
+    "Plateforme": "Max"
   },
   {
-    "Date": "24/10/2024",
-    "Titre": "That '90s Show",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix"
+    "Date": "14/08/2024",
+    "Titre": "Bad Monkey",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]
