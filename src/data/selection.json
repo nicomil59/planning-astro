@@ -1,17 +1,5 @@
 [
   {
-    "Date": "08/05/2024",
-    "Titre": "Dark Matter",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "11/05/2024",
-    "Titre": "Doctor Who (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "15/05/2024",
     "Titre": "Will Trent",
     "Saison": "Saison 1",
@@ -34,5 +22,17 @@
     "Titre": "A Gentleman in Moscow",
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
+  },
+  {
+    "Date": "03/06/2024",
+    "Titre": "Mary & George",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "05/06/2024",
+    "Titre": "The Acolyte",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]
