@@ -1,27 +1,9 @@
 [
   {
-    "Date": "15/05/2024",
-    "Titre": "Will Trent",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "16/05/2024",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 3 Partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "30/05/2024",
     "Titre": "Eric",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
-  },
-  {
-    "Date": "30/05/2024",
-    "Titre": "A Gentleman in Moscow",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
   },
   {
     "Date": "03/06/2024",
@@ -34,5 +16,23 @@
     "Titre": "The Acolyte",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "12/06/2024",
+    "Titre": "Présumé innocent",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "13/06/2024",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 3 Partie 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13/06/2024",
+    "Titre": "The Boys",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video"
   }
 ]

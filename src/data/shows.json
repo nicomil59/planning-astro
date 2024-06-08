@@ -1,86 +1,5 @@
 [
   {
-    "Date": "22/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Trying",
-    "Saison": "Saison 4",
-    "Plateforme": "Apple TV+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "23/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Machine",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur Arte"
-  },
-  {
-    "Date": "23/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Grosse Pression",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": "Titre original : “Tires”"
-  },
-  {
-    "Date": "23/05/2024",
-    "Heure": "20:55:00",
-    "Titre": "Little Bird",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "23/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Garôden : La voie du loup solitaire",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "24/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Muligan",
-    "Saison": "Partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "24/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Evil",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "24/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "Jurassic World: Chaos Theory",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/05/2024",
-    "Heure": "00:00:00",
-    "Titre": "South Park : la fin de l'obésité",
-    "Saison": "Téléfilm",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "27/05/2024",
     "Heure": "21:10:00",
     "Titre": "Les Gouttes de Dieu",
@@ -522,6 +441,33 @@
     "Note": null
   },
   {
+    "Date": "24/06/2024",
+    "Heure": "21:10:00",
+    "Titre": "Pour Marnie",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "24/06/2024",
+    "Heure": "21:00:00",
+    "Titre": "Spinners",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "AFS",
+    "Note": null
+  },
+  {
+    "Date": "26/06/2024",
+    "Heure": "21:10:00",
+    "Titre": "Magnum (2018)",
+    "Saison": "Saison 4",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "26/06/2024",
     "Heure": "00:00:00",
     "Titre": "Mercato",
@@ -785,10 +731,28 @@
   {
     "Date": "03/10/2024",
     "Heure": "00:00:00",
+    "Titre": "La Légende de Vox Machina",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/10/2024",
+    "Heure": "00:00:00",
     "Titre": "Heartstopper",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "10/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Tomb Raider: The Legend of Lara Croft",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
