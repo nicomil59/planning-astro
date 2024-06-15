@@ -1,11 +1,5 @@
 [
   {
-    "Date": "30/05/2024",
-    "Titre": "Eric",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "03/06/2024",
     "Titre": "Mary & George",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "The Boys",
     "Saison": "Saison 4",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "17/06/2024",
+    "Titre": "House of The Dragon",
+    "Saison": "Saison 2",
+    "Plateforme": "Max"
   }
 ]
