@@ -1,158 +1,5 @@
 [
   {
-    "Date": "01/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Younger",
-    "Saison": "Saisons 1 à 7",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Broadchurch",
-    "Saison": "Intégrale",
-    "Plateforme": "Paramount+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "01/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Chicago Med",
-    "Saison": "Saisons 5 à 7",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "New Amsterdam",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/06/2024",
-    "Heure": "20:55:00",
-    "Titre": "D.I. Ray",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "02/06/2024",
-    "Heure": "21:00:00",
-    "Titre": "Un Monde en feu",
-    "Saison": "Saison 1",
-    "Plateforme": "Teva",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "03/06/2024",
-    "Heure": "20:55:00",
-    "Titre": "Anonyme",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "03/06/2024",
-    "Heure": "21:00:00",
-    "Titre": "Mary & George",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "03/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Mayor of Kingstown",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/06/2024",
-    "Heure": "21:00:00",
-    "Titre": "Furia",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Pays": "ALL, NOR",
-    "Note": null
-  },
-  {
-    "Date": "05/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Star Wars: The Acolyte",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Kubra",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "06/06/2024",
-    "Heure": "20:55:00",
-    "Titre": "La Maison de la rue en pente",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "06/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Sweet Tooth",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Queenie",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "UK, US",
-    "Note": null
-  },
-  {
-    "Date": "07/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hierarchy",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "07/06/2024",
-    "Heure": "00:00:00",
-    "Titre": "Becoming Karl Lagerfeld",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "11/06/2024",
     "Heure": "00:00:00",
     "Titre": "The Girls on The Bus",
@@ -470,6 +317,15 @@
   {
     "Date": "01/07/2024",
     "Heure": "00:00:00",
+    "Titre": "Star Trek: Prodigy",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/07/2024",
+    "Heure": "00:00:00",
     "Titre": "Friends",
     "Saison": "Intégrale",
     "Plateforme": "Max",
@@ -492,6 +348,24 @@
     "Saison": "Mini-série",
     "Plateforme": "Canal+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2024",
+    "Heure": "20:30:00",
+    "Titre": "En Famille",
+    "Saison": "Saison 13",
+    "Plateforme": "M6",
+    "Pays": "FRA",
+    "Note": "Diffusion du lundi au vendredi"
+  },
+  {
+    "Date": "08/07/2024",
+    "Heure": "21:10:00",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -531,6 +405,15 @@
     "Note": null
   },
   {
+    "Date": "15/07/2024",
+    "Heure": "21:00:00",
+    "Titre": "Swimming With Sharks",
+    "Saison": "Mini-série",
+    "Plateforme": "Paris Première",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "17/07/2024",
     "Heure": "00:00:00",
     "Titre": "The Bear",
@@ -546,6 +429,15 @@
     "Saison": "Saison 6 partie 1",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/07/2024",
+    "Heure": "00:00:00",
+    "Titre": "Sweet Home",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
