@@ -1,32 +1,128 @@
 [
   {
     "Date": "01/07/2024",
-    "Titre": "Star Trek: Prodigy",
-    "Saison": "Saison 2",
+    "Titre": "The Rising of The Shield Hero",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "08/07/2024",
-    "Titre": "En Famille",
-    "Saison": "Saison 13",
-    "Plateforme": "M6"
+    "Date": "03/07/2024",
+    "Titre": "Red Swan",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "08/07/2024",
+    "Date": "03/07/2024",
+    "Titre": "Not Dead Yet",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "04/07/2024",
+    "Titre": "Le pays de Tanabata",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "09/07/2024",
+    "Titre": "Twisted Metal",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS"
+  },
+  {
+    "Date": "10/07/2024",
+    "Titre": "Les Simpson",
+    "Saison": "Saison 35",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "10/07/2024",
+    "Titre": "Under The Bridge",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "12/07/2024",
+    "Titre": "Exploding Kittens",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/07/2024",
     "Titre": "Camping Paradis",
     "Saison": "Inédit",
     "Plateforme": "TF1"
   },
   {
-    "Date": "15/07/2024",
-    "Titre": "Swimming With Sharks",
-    "Saison": "Mini-série",
-    "Plateforme": "Paris Première"
+    "Date": "16/07/2024",
+    "Titre": "R.I.P aimons-nous vivants !",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "19/07/2024",
-    "Titre": "Sweet Home",
-    "Saison": "Saison 3",
+    "Date": "17/07/2024",
+    "Titre": "T・P Bon",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "17/07/2024",
+    "Titre": "Hamster et Gretel",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "24/07/2024",
+    "Titre": "Will Trent",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "29/07/2024",
+    "Titre": "Futurama",
+    "Saison": "Saison 12",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "01/08/2024",
+    "Titre": "A Good Girl’s Guide to Murder",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/08/2024",
+    "Titre": "Batman: Caped Crusader",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "30/08/2024",
+    "Titre": "Respira",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "04/09/2024",
+    "Titre": "Slow Horses",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "15/09/2024",
+    "Titre": "Tulsa King",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "20/09/2024",
+    "Titre": "La Maison",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "11/10/2024",
+    "Titre": "Disclaimer",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
   }
 ]
