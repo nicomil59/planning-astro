@@ -1,11 +1,5 @@
 [
   {
-    "Date": "05/06/2024",
-    "Titre": "The Acolyte",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "12/06/2024",
     "Titre": "Présumé innocent",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "La Terre des femmes",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "10/07/2024",
+    "Titre": "Under The Bridge",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   }
 ]
