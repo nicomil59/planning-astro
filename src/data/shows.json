@@ -1,86 +1,5 @@
 [
   {
-    "Date": "01/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Rising of The Shield Hero",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "01/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Star Trek: Prodigy",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Friends",
-    "Saison": "Intégrale",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": "Friends quitte la plateforme Netflix le 30 juin"
-  },
-  {
-    "Date": "03/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Red Swan",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "03/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Not Dead Yet",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/07/2024",
-    "Heure": "22:10:00",
-    "Titre": "Such Brave Girls",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "04/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Le pays de Tanabata",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "04/07/2024",
-    "Heure": "21:00:00",
-    "Titre": "Boat Story",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "05/07/2024",
-    "Heure": "00:00:00",
-    "Titre": "Les Morceaux de notre vie",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
     "Date": "08/07/2024",
     "Heure": "20:50:00",
     "Titre": "Miss Scarlet, Détective privée",
@@ -567,6 +486,15 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "11/08/2024",
+    "Heure": "21:00:00",
+    "Titre": "Sort Of",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Teva",
+    "Pays": "CAN",
+    "Note": "Saison 3 inédite à partir du 25 août"
+  },
+  {
     "Date": "12/08/2024",
     "Heure": "00:00:00",
     "Titre": "Industry",
@@ -574,6 +502,15 @@
     "Plateforme": "Max",
     "Pays": "UK, US",
     "Note": null
+  },
+  {
+    "Date": "13/08/2024",
+    "Heure": "21:00:00",
+    "Titre": "Intelligence",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Série Club",
+    "Pays": "UK",
+    "Note": "Déjà diffusée sur Salto"
   },
   {
     "Date": "14/08/2024",
@@ -675,6 +612,24 @@
     "Note": null
   },
   {
+    "Date": "05/09/2024",
+    "Heure": "00:00:00",
+    "Titre": "Un Couple parfait",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Avec Nicole Kidman"
+  },
+  {
+    "Date": "06/09/2024",
+    "Heure": "00:00:00",
+    "Titre": "Zorro",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "BEL, FRA, ITA",
+    "Note": "Avec Jean Dujardin"
+  },
+  {
     "Date": "12/09/2024",
     "Heure": "00:00:00",
     "Titre": "Emily in Paris",
@@ -767,6 +722,15 @@
   {
     "Date": "10/10/2024",
     "Heure": "00:00:00",
+    "Titre": "Citadel: Diana",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "10/10/2024",
+    "Heure": "00:00:00",
     "Titre": "Tomb Raider: The Legend of Lara Croft",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -801,6 +765,15 @@
     "Note": null
   },
   {
+    "Date": "15/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Cobra Kai",
+    "Saison": "Saison 6 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Changement de date : prévue initialement le 28 novembre"
+  },
+  {
     "Date": "17/11/2024",
     "Heure": "00:00:00",
     "Titre": "Landman",
@@ -810,12 +783,12 @@
     "Note": null
   },
   {
-    "Date": "28/11/2024",
+    "Date": "29/11/2024",
     "Heure": "00:00:00",
-    "Titre": "Cobra Kai",
-    "Saison": "Saison 6 partie 2",
+    "Titre": "Senna",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
-    "Pays": "US",
+    "Pays": "BRE",
     "Note": null
   },
   {

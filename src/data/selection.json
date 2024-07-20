@@ -1,11 +1,5 @@
 [
   {
-    "Date": "13/06/2024",
-    "Titre": "The Boys",
-    "Saison": "Saison 4",
-    "Plateforme": "Prime Video"
-  },
-  {
     "Date": "17/06/2024",
     "Titre": "House of The Dragon",
     "Saison": "Saison 2",
@@ -34,5 +28,11 @@
     "Titre": "La Voix du Lac",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "26/07/2024",
+    "Titre": "Elite",
+    "Saison": "Saison 8",
+    "Plateforme": "Netflix"
   }
 ]
