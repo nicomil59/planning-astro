@@ -6,12 +6,6 @@
     "Plateforme": "Max"
   },
   {
-    "Date": "26/06/2024",
-    "Titre": "La Terre des femmes",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "10/07/2024",
     "Titre": "Under The Bridge",
     "Saison": "Mini-série",
@@ -33,6 +27,12 @@
     "Date": "26/07/2024",
     "Titre": "Elite",
     "Saison": "Saison 8",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "08/08/2024",
+    "Titre": "The Umbrella Academy",
+    "Saison": "Saison 4",
     "Plateforme": "Netflix"
   }
 ]
