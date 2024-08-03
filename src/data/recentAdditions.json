@@ -1,122 +1,128 @@
 [
   {
     "Date": "01/08/2024",
-    "Titre": "The Rising of The Shield Hero",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/08/2024",
-    "Titre": "Mad Men",
-    "Saison": "Intégrale",
+    "Titre": "Sawako : Kimi ni Todoke",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
     "Date": "07/08/2024",
-    "Titre": "The Great",
-    "Saison": "Intégrale",
-    "Plateforme": "Max"
+    "Titre": "Clem",
+    "Saison": "Saisons 1 à 12",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "09/08/2024",
-    "Titre": "Yo Gabba GabbaLand !",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "12/08/2024",
-    "Titre": "Nautilus",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "14/08/2024",
-    "Titre": "Salade grecque",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "15/08/2024",
-    "Titre": "Kengan Ashura",
+    "Date": "08/08/2024",
+    "Titre": "Shahmeran",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
+    "Date": "10/08/2024",
+    "Titre": "Romance in The House",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/08/2024",
+    "Titre": "Solar Opposites",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "14/08/2024",
+    "Titre": "Abbott Elementary",
+    "Saison": "Saison 3 partie 2",
+    "Plateforme": "Disney+"
+  },
+  {
     "Date": "15/08/2024",
-    "Titre": "Lost, les disparus",
+    "Titre": "Person of Interest",
     "Saison": "Intégrale",
-    "Plateforme": "Netflix"
+    "Plateforme": "Prime Video"
   },
   {
-    "Date": "15/08/2024",
-    "Titre": "Ouija, un été meurtrier",
-    "Saison": "Mini-série",
-    "Plateforme": "France 3"
+    "Date": "19/08/2024",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "15/08/2024",
-    "Titre": "Zorro (Esp)",
-    "Saison": "Saison 1",
-    "Plateforme": "W9"
+    "Date": "19/08/2024",
+    "Titre": "Crime",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "16/08/2024",
-    "Titre": "Rick et Morty: l’Anime",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "17/08/2024",
-    "Titre": "Tell Me everything",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "17/08/2024",
-    "Titre": "Love Next Door",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "20/08/2024",
-    "Titre": "Terror Tuesday: Extreme",
-    "Saison": "Saison 1",
+    "Date": "21/08/2024",
+    "Titre": "Deux fois 15 ans : deux fois 18 ans",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix"
   },
   {
     "Date": "21/08/2024",
-    "Titre": "Accidente",
+    "Titre": "Fais pas ci, fais pas ça",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "22/08/2024",
+    "Titre": "GG Precinct",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
     "Date": "22/08/2024",
-    "Titre": "Baby Fever",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "23/08/2024",
-    "Titre": "Odwilz : le dégel",
-    "Saison": "Saison 2",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "26/08/2024",
-    "Titre": "La Cité de Dieu : La lutte continue",
+    "Titre": "Silo",
     "Saison": "Saison 1",
-    "Plateforme": "Max"
+    "Plateforme": "Canal+"
   },
   {
     "Date": "29/08/2024",
-    "Titre": "En Place",
-    "Saison": "Saison 2",
+    "Titre": "Chastity High",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "02/10/2024",
-    "Titre": "Where’s Wanda?",
+    "Date": "20/09/2024",
+    "Titre": "The Penguin",
+    "Saison": "Mini-série",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "25/09/2024",
+    "Titre": "Midnight Family",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "24/10/2024",
+    "Titre": "Star Trek: Lower Decks",
+    "Saison": "Saison 5",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "25/10/2024",
+    "Titre": "Before",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "07/11/2024",
+    "Titre": "Citadel: Honey Bunny",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "15/11/2024",
+    "Titre": "Silo",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "26/12/2024",
+    "Titre": "Squid Game",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
   }
 ]

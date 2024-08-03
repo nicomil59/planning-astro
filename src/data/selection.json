@@ -1,11 +1,5 @@
 [
   {
-    "Date": "17/06/2024",
-    "Titre": "House of The Dragon",
-    "Saison": "Saison 2",
-    "Plateforme": "Max"
-  },
-  {
     "Date": "10/07/2024",
     "Titre": "Under The Bridge",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "The Umbrella Academy",
     "Saison": "Saison 4",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/08/2024",
+    "Titre": "Industry",
+    "Saison": "Saison 3",
+    "Plateforme": "Max"
   }
 ]
