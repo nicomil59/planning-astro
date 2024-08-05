@@ -1,5 +1,14 @@
 [
   {
+    "Date": "21/07/2024",
+    "Heure": "21:10:00",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 8",
+    "Plateforme": "CStar",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/07/2024",
     "Heure": "21:10:00",
     "Titre": "Camping Paradis",
@@ -159,6 +168,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "01/08/2024",
+    "Heure": "00:00:00",
+    "Titre": "FBI Portés Disparus",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -621,6 +639,24 @@
     "Note": "Titre original : “Respira”"
   },
   {
+    "Date": "02/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 12",
+    "Plateforme": "13ème Rue",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 3",
+    "Plateforme": "Syfy",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/09/2024",
     "Heure": "00:00:00",
     "Titre": "Slow Horses",
@@ -640,12 +676,39 @@
   },
   {
     "Date": "06/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "New York : Crime organisé",
+    "Saison": "Saison 4",
+    "Plateforme": "13ème Rue",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/09/2024",
     "Heure": "00:00:00",
     "Titre": "Zorro",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "BEL, FRA, ITA",
     "Note": "Avec Jean Dujardin"
+  },
+  {
+    "Date": "08/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "Le Ministère du temps",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Syfy",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "08/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "Grace",
+    "Saison": "Saison 4",
+    "Plateforme": "13ème Rue",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "12/09/2024",
