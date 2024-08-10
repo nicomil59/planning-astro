@@ -1,11 +1,5 @@
 [
   {
-    "Date": "10/07/2024",
-    "Titre": "Under The Bridge",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "17/07/2024",
     "Titre": "The Bear",
     "Saison": "Saison 3",
@@ -34,5 +28,11 @@
     "Titre": "Industry",
     "Saison": "Saison 3",
     "Plateforme": "Max"
+  },
+  {
+    "Date": "15/08/2024",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Netflix"
   }
 ]
