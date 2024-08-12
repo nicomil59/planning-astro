@@ -11,6 +11,11 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
 <!doctype html>
 <html lang="fr">
   <head>
+    <!-- Vercel Analytics -->
+    <script>
+      import { inject } from '@vercel/analytics';
+      inject();
+    </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script>
     <script is:inline>
