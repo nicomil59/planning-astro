@@ -532,6 +532,24 @@
   },
   {
     "Date": "02/09/2024",
+    "Heure": "21:10:00",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "02/09/2024",
+    "Heure": "21:00:00",
+    "Titre": "The Fortress",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "NOR",
+    "Note": null
+  },
+  {
+    "Date": "02/09/2024",
     "Heure": "21:00:00",
     "Titre": "Chicago Fire",
     "Saison": "Saison 12",
@@ -550,11 +568,47 @@
   },
   {
     "Date": "04/09/2024",
+    "Heure": "21:10:00",
+    "Titre": "L’Éclipse",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "04/09/2024",
+    "Heure": "00:00:00",
+    "Titre": "Prison Break",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/09/2024",
+    "Heure": "21:10:00",
+    "Titre": "Monk, le retour",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/09/2024",
     "Heure": "00:00:00",
     "Titre": "Slow Horses",
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "05/09/2024",
+    "Heure": "21:10:00",
+    "Titre": "Section de recherches",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -849,6 +903,15 @@
     "Date": "03/12/2024",
     "Heure": "00:00:00",
     "Titre": "Star Wars: Skeleton Crew",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Gagné ou perdu",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",

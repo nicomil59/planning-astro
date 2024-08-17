@@ -1,67 +1,43 @@
 [
   {
-    "Date": "24/08/2024",
-    "Titre": "Young Sheldon",
-    "Saison": "Saison 6",
-    "Plateforme": "NRJ 12"
-  },
-  {
-    "Date": "24/08/2024",
-    "Titre": "No Offence",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "26/08/2024",
+    "Date": "02/09/2024",
     "Titre": "Camping Paradis",
     "Saison": "Inédit",
     "Plateforme": "TF1"
   },
   {
-    "Date": "27/08/2024",
-    "Titre": "La Stagiaire",
-    "Saison": "Saison 9",
-    "Plateforme": "France 3"
+    "Date": "02/09/2024",
+    "Titre": "The Fortress",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "27/08/2024",
-    "Titre": "9-1-1",
-    "Saison": "Saison 7",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "27/08/2024",
-    "Titre": "Toutouyoutou",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS"
-  },
-  {
-    "Date": "29/08/2024",
-    "Titre": "Blood River",
+    "Date": "04/09/2024",
+    "Titre": "L’Éclipse",
     "Saison": "Mini-série",
-    "Plateforme": "Arte"
+    "Plateforme": "France 2"
   },
   {
-    "Date": "01/09/2024",
-    "Titre": "Alice et Jack",
-    "Saison": "Mini-série",
-    "Plateforme": "Teva"
-  },
-  {
-    "Date": "16/10/2024",
-    "Titre": "Shrinking",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "31/10/2024",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 2",
+    "Date": "04/09/2024",
+    "Titre": "Prison Break",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "03/12/2024",
-    "Titre": "Star Wars: Skeleton Crew",
+    "Date": "04/09/2024",
+    "Titre": "Monk, le retour",
+    "Saison": "Inédit",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "05/09/2024",
+    "Titre": "Section de recherches",
+    "Saison": "Inédit",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "06/12/2024",
+    "Titre": "Gagné ou perdu",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
   }
