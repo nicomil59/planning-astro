@@ -1,44 +1,122 @@
 [
   {
-    "Date": "02/09/2024",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "02/09/2024",
-    "Titre": "The Fortress",
+    "Date": "23/08/2024",
+    "Titre": "Les Silences de la forêt",
     "Saison": "Saison 1",
-    "Plateforme": "Canal+"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "04/09/2024",
-    "Titre": "L’Éclipse",
+    "Date": "26/08/2024",
+    "Titre": "No Gain No Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "29/08/2024",
+    "Titre": "L’Attaque du vol IC 814",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Next of Kin",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "02/09/2024",
+    "Titre": "Un Joe comme les autres",
+    "Saison": "Saison 1",
+    "Plateforme": "BET"
+  },
+  {
+    "Date": "05/09/2024",
+    "Titre": "Kingdom Business",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "BET"
+  },
+  {
+    "Date": "08/09/2024",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 11",
+    "Plateforme": "CStar"
+  },
+  {
+    "Date": "09/09/2024",
+    "Titre": "Follow",
     "Saison": "Mini-série",
     "Plateforme": "France 2"
   },
   {
-    "Date": "04/09/2024",
-    "Titre": "Prison Break",
-    "Saison": "Intégrale",
+    "Date": "09/09/2024",
+    "Titre": "La Novia Gitana",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "11/09/2024",
+    "Titre": "Chicago Med",
+    "Saison": "Saison 9",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "11/09/2024",
+    "Titre": "Good Doctor",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "12/09/2024",
+    "Titre": "HPI",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "13/09/2024",
+    "Titre": "Simon Coleman",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "19/09/2024",
+    "Titre": "Monstres : L’Histoire de Lyle et Erik Menendez",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "04/09/2024",
-    "Titre": "Monk, le retour",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
+    "Date": "17/10/2024",
+    "Titre": "La Défense Lincoln",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "05/09/2024",
-    "Titre": "Section de recherches",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "06/12/2024",
-    "Titre": "Gagné ou perdu",
+    "Date": "18/10/2024",
+    "Titre": "Rivals",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "18/10/2024",
+    "Titre": "The Office: Australia",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "23/10/2024",
+    "Titre": "Les Enfants sont rois",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "13/11/2024",
+    "Titre": "Bad Sisters",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "10/12/2024",
+    "Titre": "Secret Level",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   }
 ]
