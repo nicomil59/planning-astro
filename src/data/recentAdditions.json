@@ -1,122 +1,212 @@
 [
   {
-    "Date": "23/08/2024",
-    "Titre": "Les Silences de la forêt",
-    "Saison": "Saison 1",
+    "Date": "01/09/2024",
+    "Titre": "Zodiaque",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Young Sheldon",
+    "Saison": "Saison 6",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Profilage",
+    "Saison": "Saisons 1 à 10",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Diane, femme flic",
+    "Saison": "Saisons 1 à 7",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Sous le soleil",
+    "Saison": "Saisons 1 à 13",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/09/2024",
+    "Titre": "Young Sheldon",
+    "Saison": "Saison 6",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "26/08/2024",
-    "Titre": "No Gain No Love",
+    "Date": "02/09/2024",
+    "Titre": "Les Experts Las Vegas",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "04/09/2024",
+    "Titre": "Monstres & Cie : Au travail",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "04/09/2024",
+    "Titre": "Les Griffin",
+    "Saison": "Saison 22",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "04/09/2024",
+    "Titre": "The Resident",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "08/09/2024",
+    "Titre": "Shrink",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "29/08/2024",
-    "Titre": "L’Attaque du vol IC 814",
+    "Date": "09/09/2024",
+    "Titre": "Hit Monkey",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "09/09/2024",
+    "Titre": "Hot Wheels Let’s Race",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/09/2024",
+    "Titre": "Minuit au Pera Palace",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13/09/2024",
+    "Titre": "How To Die Alone",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "14/09/2024",
+    "Titre": "The Bay",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "15/09/2024",
+    "Titre": "Brokenwood",
+    "Saison": "Inédits",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "16/09/2024",
+    "Titre": "Salade Grecque",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "16/09/2024",
+    "Titre": "Fortune de France",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "16/09/2024",
+    "Titre": "Brocéliande",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "18/09/2024",
+    "Titre": "The Serpent Queen",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "18/09/2024",
+    "Titre": "Envieuse",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "19/09/2024",
+    "Titre": "The Queen of Villains",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "01/09/2024",
-    "Titre": "Next of Kin",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "02/09/2024",
-    "Titre": "Un Joe comme les autres",
-    "Saison": "Saison 1",
-    "Plateforme": "BET"
-  },
-  {
-    "Date": "05/09/2024",
-    "Titre": "Kingdom Business",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "BET"
-  },
-  {
-    "Date": "08/09/2024",
-    "Titre": "Chicago Fire",
-    "Saison": "Saison 11",
-    "Plateforme": "CStar"
-  },
-  {
-    "Date": "09/09/2024",
-    "Titre": "Follow",
+    "Date": "23/09/2024",
+    "Titre": "Paris Has Fallen",
     "Saison": "Mini-série",
-    "Plateforme": "France 2"
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "09/09/2024",
-    "Titre": "La Novia Gitana",
+    "Date": "23/09/2024",
+    "Titre": "Alert",
+    "Saison": "Saison 2",
+    "Plateforme": "Teva"
+  },
+  {
+    "Date": "25/09/2024",
+    "Titre": "Los Reyes de Oriente",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "11/09/2024",
-    "Titre": "Chicago Med",
-    "Saison": "Saison 9",
-    "Plateforme": "TF1"
+    "Date": "26/09/2024",
+    "Titre": "Dreaming of a Freaking Fairy Tale",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
   },
   {
-    "Date": "11/09/2024",
-    "Titre": "Good Doctor",
-    "Saison": "Saison 7",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "12/09/2024",
-    "Titre": "HPI",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "13/09/2024",
-    "Titre": "Simon Coleman",
+    "Date": "26/09/2024",
+    "Titre": "Nous voulons tous être sauvés",
     "Saison": "Saison 2",
-    "Plateforme": "France 2"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "19/09/2024",
-    "Titre": "Monstres : L’Histoire de Lyle et Erik Menendez",
+    "Date": "27/09/2024",
+    "Titre": "Miskina",
     "Saison": "Saison 2",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "29/09/2024",
+    "Titre": "Uzumaki",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "10/10/2024",
+    "Titre": "Outer Banks",
+    "Saison": "Saison 4 partie 1",
     "Plateforme": "Netflix"
   },
   {
     "Date": "17/10/2024",
-    "Titre": "La Défense Lincoln",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "18/10/2024",
-    "Titre": "Rivals",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "18/10/2024",
-    "Titre": "The Office: Australia",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "23/10/2024",
-    "Titre": "Les Enfants sont rois",
+    "Titre": "Rematch",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+"
+    "Plateforme": "Arte"
   },
   {
-    "Date": "13/11/2024",
-    "Titre": "Bad Sisters",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "10/12/2024",
-    "Titre": "Secret Level",
+    "Date": "24/10/2024",
+    "Titre": "Like a Dragon: Yakuza",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "27/10/2024",
+    "Titre": "Lioness",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "07/11/2024",
+    "Titre": "Outer Banks",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Netflix"
   }
 ]

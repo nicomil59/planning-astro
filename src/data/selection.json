@@ -1,17 +1,5 @@
 [
   {
-    "Date": "12/08/2024",
-    "Titre": "Industry",
-    "Saison": "Saison 3",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "15/08/2024",
-    "Titre": "Emily in Paris",
-    "Saison": "Saison 4 partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "23/08/2024",
     "Titre": "Pachinko",
     "Saison": "Saison 2",
@@ -34,5 +22,17 @@
     "Titre": "Le Seigneur des Anneaux : Les Anneaux de Pouvoir",
     "Saison": "Saison 2",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "05/09/2024",
+    "Titre": "Un Couple parfait",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "06/09/2024",
+    "Titre": "Zorro",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
   }
 ]
