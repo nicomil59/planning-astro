@@ -1,17 +1,5 @@
 [
   {
-    "Date": "23/08/2024",
-    "Titre": "Pachinko",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "27/08/2024",
-    "Titre": "Only Murders in The Building",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "29/08/2024",
     "Titre": "En Place",
     "Saison": "Saison 2",
@@ -34,5 +22,17 @@
     "Titre": "Zorro",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "11/11/2024",
+    "Titre": "Good Doctor",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "12/09/2024",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Netflix"
   }
 ]
