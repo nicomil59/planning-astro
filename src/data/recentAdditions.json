@@ -1,38 +1,50 @@
 [
   {
-    "Date": "22/09/2024",
-    "Titre": "End of Summer",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
+    "Date": "30/09/2024",
+    "Titre": "Halo",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "24/09/2024",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
+    "Date": "01/10/2024",
+    "Titre": "Tom et Lola",
+    "Saison": "Saison 1",
     "Plateforme": "France 3"
   },
   {
-    "Date": "26/09/2024",
-    "Titre": "Le Monde n’existe pas",
+    "Date": "01/10/2024",
+    "Titre": "Hotel Cocaïne",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS"
+  },
+  {
+    "Date": "03/10/2024",
+    "Titre": "Steeltown Murders",
     "Saison": "Mini-série",
     "Plateforme": "Arte"
   },
   {
-    "Date": "09/10/2024",
-    "Titre": "La Máquina",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
+    "Date": "04/10/2024",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "15/10/2024",
-    "Titre": "Beyond Black Beauty",
+    "Date": "07/10/2024",
+    "Titre": "The Franchise",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
+    "Plateforme": "Max"
   },
   {
-    "Date": "18/10/2024",
-    "Titre": "Culte",
+    "Date": "11/10/2024",
+    "Titre": "Une Amie dévouée",
     "Saison": "Mini-série",
-    "Plateforme": "Prime Video"
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "24/10/2024",
+    "Titre": "Beauty in Black",
+    "Saison": "Saison 1 partie 1",
+    "Plateforme": "Netflix"
   }
 ]
