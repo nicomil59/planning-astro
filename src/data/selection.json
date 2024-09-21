@@ -1,11 +1,5 @@
 [
   {
-    "Date": "06/09/2024",
-    "Titre": "Zorro",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
     "Date": "11/09/2024",
     "Titre": "Good Doctor",
     "Saison": "Saison 7",
@@ -34,5 +28,11 @@
     "Titre": "The Penguin",
     "Saison": "Mini-série",
     "Plateforme": "Max"
+  },
+  {
+    "Date": "23/09/2024",
+    "Titre": "Paris Has Fallen",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
   }
 ]

@@ -1,50 +1,110 @@
 [
   {
-    "Date": "30/09/2024",
-    "Titre": "Halo",
+    "Date": "18/09/2024",
+    "Titre": "Wild Cards",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV"
+  },
+  {
+    "Date": "05/10/2024",
+    "Titre": "D.I Ray",
     "Saison": "Saison 2",
-    "Plateforme": "Canal+"
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "01/10/2024",
-    "Titre": "Tom et Lola",
+    "Date": "07/10/2024",
+    "Titre": "Monsieur Parizot",
+    "Saison": "Inédit",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "07/10/2024",
+    "Titre": "The Suspect",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "08/10/2024",
+    "Titre": "Tulsa King",
     "Saison": "Saison 1",
-    "Plateforme": "France 3"
+    "Plateforme": "M6"
   },
   {
-    "Date": "01/10/2024",
-    "Titre": "Hotel Cocaïne",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS"
+    "Date": "09/10/2024",
+    "Titre": "Nightsleeper",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
   },
   {
-    "Date": "03/10/2024",
-    "Titre": "Steeltown Murders",
+    "Date": "10/10/2024",
+    "Titre": "L’Agent infiltré",
     "Saison": "Mini-série",
     "Plateforme": "Arte"
   },
   {
-    "Date": "04/10/2024",
+    "Date": "10/10/2024",
+    "Titre": "Time",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "11/10/2024",
+    "Titre": "Ghosts : Fantômes à la maison",
+    "Saison": "Saison 1",
+    "Plateforme": "TFX"
+  },
+  {
+    "Date": "11/10/2024",
     "Titre": "Capitaine Marleau",
     "Saison": "Inédit",
     "Plateforme": "France 2"
   },
   {
-    "Date": "07/10/2024",
-    "Titre": "The Franchise",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
+    "Date": "16/10/2024",
+    "Titre": "Wreck",
+    "Saison": "Saison 2",
+    "Plateforme": "Syfy"
   },
   {
-    "Date": "11/10/2024",
-    "Titre": "Une Amie dévouée",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
+    "Date": "18/10/2024",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 23",
+    "Plateforme": "13ème Rue"
   },
   {
     "Date": "24/10/2024",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 1 partie 1",
+    "Titre": "Territory",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "25/10/2024",
+    "Titre": "Hellbound",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "30/10/2024",
+    "Titre": "Lidia fait sa loi",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/11/2024",
+    "Titre": "Arcane",
+    "Saison": "Saison 2 partie 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "16/11/2024",
+    "Titre": "Arcane",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23/11/2024",
+    "Titre": "Arcane",
+    "Saison": "Saison 2 partie 3",
     "Plateforme": "Netflix"
   }
 ]
