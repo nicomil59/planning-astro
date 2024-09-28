@@ -1,140 +1,5 @@
 [
   {
-    "Date": "09/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hit Monkey",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hot Wheels Let’s Race",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2024",
-    "Heure": "21:05:00",
-    "Titre": "Follow",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2024",
-    "Heure": "20:55:00",
-    "Titre": "La Novia Gitana",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "11/09/2024",
-    "Heure": "23:45:00",
-    "Titre": "Chicago Med",
-    "Saison": "Saison 9",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/09/2024",
-    "Heure": "21:10:00",
-    "Titre": "Good Doctor",
-    "Saison": "Saison 7",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "12/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "Minuit au Pera Palace",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "12/09/2024",
-    "Heure": "21:10:00",
-    "Titre": "HPI",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "Emily in Paris",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "How To Die Alone",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/09/2024",
-    "Heure": "21:05:00",
-    "Titre": "Simon Coleman",
-    "Saison": "Saison 2",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "LEGO Star Wars : Reconstruire la Galaxie",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/09/2024",
-    "Heure": "20:55:00",
-    "Titre": "The Bay",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/09/2024",
-    "Heure": "21:05:00",
-    "Titre": "Brokenwood",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Pays": "NZ",
-    "Note": null
-  },
-  {
-    "Date": "15/09/2024",
-    "Heure": "00:00:00",
-    "Titre": "Tulsa King",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "16/09/2024",
     "Heure": "22:55:00",
     "Titre": "Salade Grecque",
@@ -370,6 +235,15 @@
   },
   {
     "Date": "01/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Rookie: Le flic de Los Angeles",
+    "Saison": "Saisons 4 et 5",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2024",
     "Heure": "21:05:00",
     "Titre": "Tom et Lola",
     "Saison": "Saison 1",
@@ -393,6 +267,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "03/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Blue Box",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -429,6 +312,15 @@
     "Saison": "Inédit",
     "Plateforme": "France 2",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "05/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ranma 1/2 (2024)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -586,6 +478,15 @@
   },
   {
     "Date": "16/10/2024",
+    "Heure": "21:05:00",
+    "Titre": "Un Soupçon",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "16/10/2024",
     "Heure": "21:00:00",
     "Titre": "Wreck",
     "Saison": "Saison 2",
@@ -600,6 +501,24 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Gundam : Requiem pour une vengeance",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "17/10/2024",
+    "Heure": "21:10:00",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -657,6 +576,15 @@
     "Note": null
   },
   {
+    "Date": "21/10/2024",
+    "Heure": "21:00:00",
+    "Titre": "Hacks",
+    "Saison": "Saison 3",
+    "Plateforme": "Teva",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "23/10/2024",
     "Heure": "00:00:00",
     "Titre": "Les Enfants sont rois",
@@ -708,6 +636,15 @@
     "Saison": "Saison 2 partie 2",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dernière nuit à Tremor",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -837,6 +774,15 @@
     "Note": null
   },
   {
+    "Date": "22/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "L’Impératrice",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
     "Date": "23/11/2024",
     "Heure": "00:00:00",
     "Titre": "Arcane",
@@ -864,20 +810,20 @@
     "Note": null
   },
   {
-    "Date": "06/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Gagné ou perdu",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "10/12/2024",
     "Heure": "00:00:00",
     "Titre": "Secret Level",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dream Productions",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -898,5 +844,14 @@
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "19/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Gagné ou perdu",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": "Nouvelle date"
   }
 ]

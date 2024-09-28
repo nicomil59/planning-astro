@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Territory",
-    "videoId": "casLTTqGfjk",
+    "titre": "Docteur Odyssey",
+    "videoId": "hi_2pyx1Y1s",
+    "plateforme": "Disney+"
+  },
+  {
+    "titre": "Outer Banks saison 4",
+    "videoId": "Tkdp1YELivk",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Squid Game saison 2",
-    "videoId": "TxnSt8CPvvg",
-    "plateforme": "Netflix"
-  },
-  {
-    "titre": "Wild Cards",
-    "videoId": "HuqqTuJoaIY",
-    "plateforme": "Warner TV"
+    "titre": "Cross",
+    "videoId": "-KX9hFDEEaY",
+    "plateforme": "Prime Video"
   }
 ]

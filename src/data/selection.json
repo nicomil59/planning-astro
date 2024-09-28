@@ -1,11 +1,5 @@
 [
   {
-    "Date": "11/09/2024",
-    "Titre": "Good Doctor",
-    "Saison": "Saison 7",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "12/09/2024",
     "Titre": "Emily in Paris",
     "Saison": "Saison 4 partie 2",
@@ -34,5 +28,11 @@
     "Titre": "Paris Has Fallen",
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
+  },
+  {
+    "Date": "30/09/2024",
+    "Titre": "The Walking Dead : Daryl Dixon",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
   }
 ]

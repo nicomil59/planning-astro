@@ -1,110 +1,68 @@
 [
   {
-    "Date": "18/09/2024",
-    "Titre": "Wild Cards",
+    "Date": "01/10/2024",
+    "Titre": "The Rookie: Le flic de Los Angeles",
+    "Saison": "Saisons 4 et 5",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "03/10/2024",
+    "Titre": "Blue Box",
     "Saison": "Saison 1",
-    "Plateforme": "Warner TV"
+    "Plateforme": "Netflix"
   },
   {
     "Date": "05/10/2024",
-    "Titre": "D.I Ray",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "07/10/2024",
-    "Titre": "Monsieur Parizot",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "07/10/2024",
-    "Titre": "The Suspect",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "08/10/2024",
-    "Titre": "Tulsa King",
+    "Titre": "Ranma 1/2 (2024)",
     "Saison": "Saison 1",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "09/10/2024",
-    "Titre": "Nightsleeper",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "10/10/2024",
-    "Titre": "L’Agent infiltré",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "10/10/2024",
-    "Titre": "Time",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "11/10/2024",
-    "Titre": "Ghosts : Fantômes à la maison",
-    "Saison": "Saison 1",
-    "Plateforme": "TFX"
-  },
-  {
-    "Date": "11/10/2024",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
+    "Plateforme": "Netflix"
   },
   {
     "Date": "16/10/2024",
-    "Titre": "Wreck",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy"
+    "Titre": "Un Soupçon",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "18/10/2024",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 23",
-    "Plateforme": "13ème Rue"
-  },
-  {
-    "Date": "24/10/2024",
-    "Titre": "Territory",
+    "Date": "17/10/2024",
+    "Titre": "Gundam : Requiem pour une vengeance",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
+    "Date": "17/10/2024",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "21/10/2024",
+    "Titre": "Hacks",
+    "Saison": "Saison 3",
+    "Plateforme": "Teva"
+  },
+  {
     "Date": "25/10/2024",
-    "Titre": "Hellbound",
+    "Titre": "Dernière nuit à Tremor",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/11/2024",
+    "Titre": "L’Impératrice",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "30/10/2024",
-    "Titre": "Lidia fait sa loi",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
+    "Date": "11/12/2024",
+    "Titre": "Dream Productions",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "09/11/2024",
-    "Titre": "Arcane",
-    "Saison": "Saison 2 partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "16/11/2024",
-    "Titre": "Arcane",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "23/11/2024",
-    "Titre": "Arcane",
-    "Saison": "Saison 2 partie 3",
-    "Plateforme": "Netflix"
+    "Date": "19/02/2025",
+    "Titre": "Gagné ou perdu",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]
