@@ -1,68 +1,206 @@
 [
   {
     "Date": "01/10/2024",
-    "Titre": "The Rookie: Le flic de Los Angeles",
-    "Saison": "Saisons 4 et 5",
-    "Plateforme": "Netflix"
+    "Titre": "NCIS",
+    "Saison": "Saisons 1 à 18",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/10/2024",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saisons 1 à 9",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "01/10/2024",
+    "Titre": "Buffy contre les vampires",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "02/10/2024",
+    "Titre": "A Discovery of Witches",
+    "Saison": "Intégrale",
+    "Plateforme": "Max"
   },
   {
     "Date": "03/10/2024",
-    "Titre": "Blue Box",
+    "Titre": "Spice Up Our Love",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "04/10/2024",
+    "Titre": "Angel of Death",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "04/10/2024",
+    "Titre": "From",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "05/10/2024",
-    "Titre": "Ranma 1/2 (2024)",
+    "Titre": "Glee",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "09/10/2024",
+    "Titre": "American Horror Story: Delicate",
+    "Saison": "Saison 12",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "09/10/2024",
+    "Titre": "El Secreto del Rio",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/10/2024",
+    "Titre": "L’Amour trompé",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "10/10/2024",
+    "Titre": "X-Files",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "11/10/2024",
+    "Titre": "HPI",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "11/10/2024",
+    "Titre": "Retour à Las Sabinas",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "11/10/2024",
+    "Titre": "Entretien avec un vampire",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "15/10/2024",
+    "Titre": "Drop Dead Diva",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video"
   },
   {
     "Date": "16/10/2024",
-    "Titre": "Un Soupçon",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
+    "Titre": "Ennemi Juré",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
     "Date": "17/10/2024",
-    "Titre": "Gundam : Requiem pour une vengeance",
+    "Titre": "Jurassic World : la théorie du chaos",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "18/10/2024",
+    "Titre": "Happiness Is",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "17/10/2024",
-    "Titre": "Master Crimes",
+    "Date": "18/10/2024",
+    "Titre": "The Devil’s Hour",
     "Saison": "Saison 2",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "21/10/2024",
+    "Titre": "Mrs. Davis",
+    "Saison": "Mini-série",
+    "Plateforme": "Warner TV"
+  },
+  {
+    "Date": "21/10/2024",
+    "Titre": "Le Daron",
+    "Saison": "Saison 1",
     "Plateforme": "TF1"
   },
   {
     "Date": "21/10/2024",
-    "Titre": "Hacks",
-    "Saison": "Saison 3",
-    "Plateforme": "Teva"
+    "Titre": "Troppo",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "25/10/2024",
-    "Titre": "Dernière nuit à Tremor",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
+    "Date": "23/10/2024",
+    "Titre": "What We Do in The Shadows",
+    "Saison": "Saison 6",
+    "Plateforme": "Canal+ Séries"
   },
   {
-    "Date": "22/11/2024",
-    "Titre": "L’Impératrice",
+    "Date": "24/10/2024",
+    "Titre": "Ronya, fille de brigand",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "11/12/2024",
-    "Titre": "Dream Productions",
+    "Date": "24/10/2024",
+    "Titre": "Docteur Odyssey",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "19/02/2025",
-    "Titre": "Gagné ou perdu",
-    "Saison": "Saison 1",
+    "Date": "25/10/2024",
+    "Titre": "Nos vies en l’air",
+    "Saison": "Mini-série",
+    "Plateforme": "France.TV"
+  },
+  {
+    "Date": "28/10/2024",
+    "Titre": "Somebody Somewhere",
+    "Saison": "Saison 3",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "30/10/2024",
+    "Titre": "Reasonable Doubt",
+    "Saison": "Saison 2",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "30/10/2024",
+    "Titre": "Relève-toi !",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/10/2024",
+    "Titre": "Velma",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "31/10/2024",
+    "Titre": "Les Meurtres zen",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/10/2024",
+    "Titre": "Ghosts",
+    "Saison": "Saison 5",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "12/12/2024",
+    "Titre": "No Good Deed",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]
