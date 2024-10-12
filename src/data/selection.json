@@ -1,17 +1,5 @@
 [
   {
-    "Date": "20/09/2024",
-    "Titre": "The Penguin",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "23/09/2024",
-    "Titre": "Paris Has Fallen",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
     "Date": "30/09/2024",
     "Titre": "The Walking Dead : Daryl Dixon",
     "Saison": "Saison 2",
@@ -34,5 +22,17 @@
     "Titre": "Une amie dévouée",
     "Saison": "Mini-série",
     "Plateforme": "Max"
+  },
+  {
+    "Date": "16/10/2024",
+    "Titre": "Shrinking",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "18/10/2024",
+    "Titre": "Culte",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video"
   }
 ]
