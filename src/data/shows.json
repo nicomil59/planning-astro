@@ -1,176 +1,5 @@
 [
   {
-    "Date": "01/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "NCIS",
-    "Saison": "Saisons 1 à 18",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Chicago Police Department",
-    "Saison": "Saisons 1 à 9",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Buffy contre les vampires",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Rookie: Le flic de Los Angeles",
-    "Saison": "Saisons 4 et 5",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/10/2024",
-    "Heure": "21:05:00",
-    "Titre": "Tom et Lola",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "01/10/2024",
-    "Heure": "20:50:00",
-    "Titre": "Hotel Cocaïne",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Pays": "AUS, US",
-    "Note": null
-  },
-  {
-    "Date": "02/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "A Discovery of Witches",
-    "Saison": "Intégrale",
-    "Plateforme": "Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "02/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Where’s Wanda?",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "03/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Spice Up Our Love",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "03/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Blue Box",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "03/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "Steeltown Murders",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "03/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "La Légende de Vox Machina",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Heartstopper",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "04/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Angel of Death",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "04/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "From",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/10/2024",
-    "Heure": "21:05:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Glee",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ranma 1/2 (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "05/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "D.I Ray",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "07/10/2024",
     "Heure": "23:00:00",
     "Titre": "New York Unité Spéciale",
@@ -387,6 +216,15 @@
     "Note": null
   },
   {
+    "Date": "14/10/2024",
+    "Heure": "21:00:00",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saison 9",
+    "Plateforme": "13ème Rue",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "15/10/2024",
     "Heure": "00:00:00",
     "Titre": "Drop Dead Diva",
@@ -492,6 +330,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "18/10/2024",
+    "Heure": "00:00:00",
+    "Titre": "Fallen",
+    "Saison": "Saison 1",
+    "Plateforme": "France.TV",
+    "Pays": "ALL, SUI",
     "Note": null
   },
   {
@@ -838,6 +685,15 @@
   },
   {
     "Date": "06/11/2024",
+    "Heure": "22:45:00",
+    "Titre": "Years and Years",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "UK",
+    "Note": "Déjà diffusée sur Canal+"
+  },
+  {
+    "Date": "06/11/2024",
     "Heure": "00:00:00",
     "Titre": "The Old Man",
     "Saison": "Saison 2",
@@ -865,6 +721,15 @@
   },
   {
     "Date": "08/11/2024",
+    "Heure": "21:05:00",
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 5",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "08/11/2024",
     "Heure": "00:00:00",
     "Titre": "La Cage",
     "Saison": "Saison 1",
@@ -888,6 +753,15 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
     "Pays": "IRL, UK, US",
+    "Note": null
+  },
+  {
+    "Date": "14/11/2024",
+    "Heure": "21:00:00",
+    "Titre": "Dumbsday",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Pays": "NOR",
     "Note": null
   },
   {
@@ -936,6 +810,15 @@
     "Note": null
   },
   {
+    "Date": "18/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Dune : Prophecy",
+    "Saison": "Saison 1",
+    "Plateforme": "Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/11/2024",
     "Heure": "00:00:00",
     "Titre": "L’Impératrice",
@@ -969,6 +852,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Black Doves",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1040,6 +932,15 @@
     "Titre": "Severance",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Invincible",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
   },
