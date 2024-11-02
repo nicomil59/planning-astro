@@ -1,11 +1,5 @@
 [
   {
-    "Date": "11/10/2024",
-    "Titre": "Une amie dévouée",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
-  },
-  {
     "Date": "16/10/2024",
     "Titre": "Shrinking",
     "Saison": "Saison 2",
@@ -33,6 +27,12 @@
     "Date": "31/10/2024",
     "Titre": "La Diplomate",
     "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "08/11/2024",
+    "Titre": "La Cage",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   }
 ]

@@ -1,134 +1,152 @@
 [
   {
-    "Date": "22/10/2024",
-    "Titre": "Reginald The Vampire",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy"
-  },
-  {
     "Date": "30/10/2024",
-    "Titre": "Les Innocents de la Candelaria",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/11/2024",
-    "Titre": "Tokyo Ghoul",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/11/2024",
-    "Titre": "L’Attaque des Titans",
-    "Saison": "Saison finale",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/11/2024",
-    "Titre": "Opération Banco Central",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "11/11/2024",
-    "Titre": "Yellowstone",
-    "Saison": "Saison 5 partie 2",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "11/11/2024",
-    "Titre": "Les Invisibles",
-    "Saison": "Saison 4",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "11/11/2024",
-    "Titre": "Cat’s Eyes",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "11/11/2024",
-    "Titre": "Hippocrate",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "12/11/2024",
-    "Titre": "Les Espions de la terreur",
-    "Saison": "Mini-série",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "12/11/2024",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "12/11/2024",
-    "Titre": "Three Pines",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "13/11/2024",
-    "Titre": "Grotesquerie",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "13/11/2024",
-    "Titre": "Esprits Criminels Évolution",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "14/11/2024",
-    "Titre": "The Chef, la série",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "21/11/2024",
-    "Titre": "Tokyo Override",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "21/11/2024",
-    "Titre": "Cruel Intentions",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "23/11/2024",
-    "Titre": "Outlander",
-    "Saison": "Saison 7 partie 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "26/11/2024",
-    "Titre": "Get Millie Black",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "28/11/2024",
-    "Titre": "The Madness",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "22/01/2025",
-    "Titre": "Prime Target",
+    "Titre": "Tu ferais pareil",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
   },
   {
-    "Date": "05/03/2025",
-    "Titre": "Daredevil: Born Again",
+    "Date": "02/11/2024",
+    "Titre": "Extras",
+    "Saison": "Intégrale",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "07/11/2024",
+    "Titre": "Born For The Spotlight",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "08/11/2024",
+    "Titre": "Mr. Plankton",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/11/2024",
+    "Titre": "Misfits",
+    "Saison": "Intégrale",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "11/11/2024",
+    "Titre": "Top of The Lake",
+    "Saison": "Intégrale",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "13/11/2024",
+    "Titre": "Les Mères pingouins",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "14/11/2024",
+    "Titre": "Beyond Goodbye",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "16/11/2024",
+    "Titre": "Luther",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "16/11/2024",
+    "Titre": "The Bay",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "17/11/2024",
+    "Titre": "Le Tueur de l’ombre",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "18/11/2024",
+    "Titre": "Bête noire",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "19/11/2024",
+    "Titre": "Chinatown, intérieur",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "19/11/2024",
+    "Titre": "Septième ciel",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS"
+  },
+  {
+    "Date": "20/11/2024",
+    "Titre": "Adorazione",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20/11/2024",
+    "Titre": "Tell Me Lies",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "21/11/2024",
+    "Titre": "The Sex Lives of College Girls",
+    "Saison": "Saison 3",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "21/11/2024",
+    "Titre": "Espion à l’ancienne",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "21/11/2024",
+    "Titre": "Commandant Saint-Barth",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "22/11/2024",
+    "Titre": "Le Casse du ciel",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "27/11/2024",
+    "Titre": "Rematch",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "29/11/2024",
+    "Titre": "The Agency",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "11/12/2024",
+    "Titre": "Ne dis rien",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "13/12/2024",
+    "Titre": 1992,
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/01/2025",
+    "Titre": "À l’aube de l’Amérique",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]

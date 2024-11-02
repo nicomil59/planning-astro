@@ -1,167 +1,5 @@
 [
   {
-    "Date": "15/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Drop Dead Diva",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Beyond Black Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ennemi Juré",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2024",
-    "Heure": "21:05:00",
-    "Titre": "Un Soupçon",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2024",
-    "Heure": "21:00:00",
-    "Titre": "Wreck",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Shrinking",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Jurassic World : la théorie du chaos",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Gundam : Requiem pour une vengeance",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "21:10:00",
-    "Titre": "Master Crimes",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "Rematch",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "FRA, HON",
-    "Note": "Disponible le 2 octobre sur Arte.tv"
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "La Défense Lincoln",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Office: Australia",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Fallen",
-    "Saison": "Saison 1",
-    "Plateforme": "France.TV",
-    "Pays": "ALL, SUI",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Happiness Is",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Devil’s Hour",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "21:00:00",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 23",
-    "Plateforme": "13ème Rue",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Culte",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Rivals",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "21/10/2024",
     "Heure": "20:55:00",
     "Titre": "Mrs. Davis",
@@ -380,6 +218,15 @@
   {
     "Date": "30/10/2024",
     "Heure": "00:00:00",
+    "Titre": "Tu ferais pareil",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "30/10/2024",
+    "Heure": "00:00:00",
     "Titre": "Les Innocents de la Candelaria",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
@@ -495,6 +342,15 @@
     "Note": "Crossover entre les séries “Astrid et Raphaëlle” et “Alexandra Ehle”"
   },
   {
+    "Date": "02/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Extras",
+    "Saison": "Intégrale",
+    "Plateforme": "Max",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "06/11/2024",
     "Heure": "22:45:00",
     "Titre": "Years and Years",
@@ -515,6 +371,15 @@
   {
     "Date": "07/11/2024",
     "Heure": "00:00:00",
+    "Titre": "Born For The Spotlight",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "TAI",
+    "Note": null
+  },
+  {
+    "Date": "07/11/2024",
+    "Heure": "00:00:00",
     "Titre": "Outer Banks",
     "Saison": "Saison 4 partie 2",
     "Plateforme": "Netflix",
@@ -528,6 +393,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "IND",
+    "Note": null
+  },
+  {
+    "Date": "08/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Mr. Plankton",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -560,10 +434,28 @@
   {
     "Date": "09/11/2024",
     "Heure": "00:00:00",
+    "Titre": "Misfits",
+    "Saison": "Intégrale",
+    "Plateforme": "Max",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "09/11/2024",
+    "Heure": "00:00:00",
     "Titre": "Arcane",
     "Saison": "Saison 2 partie 1",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Top of The Lake",
+    "Saison": "Intégrale",
+    "Plateforme": "Max",
+    "Pays": "AUS, NZ, UK",
     "Note": null
   },
   {
@@ -632,6 +524,15 @@
   {
     "Date": "13/11/2024",
     "Heure": "00:00:00",
+    "Titre": "Les Mères pingouins",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "13/11/2024",
+    "Heure": "00:00:00",
     "Titre": "Grotesquerie",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
@@ -654,6 +555,15 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
     "Pays": "IRL, UK, US",
+    "Note": null
+  },
+  {
+    "Date": "14/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Beyond Goodbye",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -704,10 +614,37 @@
   {
     "Date": "16/11/2024",
     "Heure": "00:00:00",
+    "Titre": "Luther",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Max",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "16/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "The Bay",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "16/11/2024",
+    "Heure": "00:00:00",
     "Titre": "Arcane",
     "Saison": "Saison 2 partie 2",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "Le Tueur de l’ombre",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
+    "Pays": "DAN",
     "Note": null
   },
   {
@@ -721,11 +658,83 @@
   },
   {
     "Date": "18/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "Bête noire",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "18/11/2024",
     "Heure": "00:00:00",
     "Titre": "Dune : Prophecy",
     "Saison": "Saison 1",
     "Plateforme": "Max",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Chinatown, intérieur",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2024",
+    "Heure": "20:50:00",
+    "Titre": "Septième ciel",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Adorazione",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Tell Me Lies",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Sex Lives of College Girls",
+    "Saison": "Saison 3",
+    "Plateforme": "Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Espion à l’ancienne",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Titre original : “A Man on The Inside”"
+  },
+  {
+    "Date": "21/11/2024",
+    "Heure": "21:10:00",
+    "Titre": "Commandant Saint-Barth",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -745,6 +754,15 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": "Adaptation du film éponyme de 1999 (”Sexe Intentions” en VF)"
+  },
+  {
+    "Date": "22/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Le Casse du ciel",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "SUE",
+    "Note": null
   },
   {
     "Date": "22/11/2024",
@@ -783,6 +801,15 @@
     "Note": null
   },
   {
+    "Date": "27/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Rematch",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "FRA, HON",
+    "Note": "Déjà diffusée sur Arte"
+  },
+  {
     "Date": "28/11/2024",
     "Heure": "00:00:00",
     "Titre": "The Madness",
@@ -790,6 +817,15 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "29/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Agency",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": "Adaptation US de la série “Le Bureau des Légendes”, avec Michael Fassbender"
   },
   {
     "Date": "29/11/2024",
@@ -839,6 +875,15 @@
   {
     "Date": "11/12/2024",
     "Heure": "00:00:00",
+    "Titre": "Ne dis rien",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "IRL, US",
+    "Note": null
+  },
+  {
+    "Date": "11/12/2024",
+    "Heure": "00:00:00",
     "Titre": "Cent ans de solitude",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -864,6 +909,15 @@
     "Note": null
   },
   {
+    "Date": "13/12/2024",
+    "Heure": "00:00:00",
+    "Titre": 1992,
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "19/12/2024",
     "Heure": "00:00:00",
     "Titre": "Virgin River",
@@ -880,6 +934,15 @@
     "Plateforme": "Netflix",
     "Pays": "CDS",
     "Note": null
+  },
+  {
+    "Date": "09/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "À l’aube de l’Amérique",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Titre original : “American Primeval”"
   },
   {
     "Date": "17/01/2025",
