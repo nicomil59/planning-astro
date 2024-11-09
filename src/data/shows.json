@@ -1,317 +1,11 @@
 [
   {
-    "Date": "21/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "Mrs. Davis",
-    "Saison": "Mini-série",
-    "Plateforme": "Warner TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2024",
-    "Heure": "21:10:00",
-    "Titre": "Le Daron",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "Troppo",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2024",
-    "Heure": "21:00:00",
-    "Titre": "Hacks",
-    "Saison": "Saison 3",
-    "Plateforme": "Teva",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/10/2024",
-    "Heure": "21:00:00",
-    "Titre": "Reginald The Vampire",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2024",
-    "Heure": "22:50:00",
-    "Titre": "What We Do in The Shadows",
-    "Saison": "Saison 6",
-    "Plateforme": "Canal+ Séries",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2024",
+    "Date": "01/11/2024",
     "Heure": "00:00:00",
-    "Titre": "Les Enfants sont rois",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ronya, fille de brigand",
-    "Saison": "Saison 2",
+    "Titre": "L’Attaque des Titans",
+    "Saison": "Saison finale",
     "Plateforme": "Netflix",
     "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Docteur Odyssey",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Territory",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 1 partie 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Like a Dragon: Yakuza",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "JAP, US",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Star Trek: Lower Decks",
-    "Saison": "Saison 5",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "25/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Nos vies en l’air",
-    "Saison": "Mini-série",
-    "Plateforme": "France.TV",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "25/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Dernière nuit à Tremor",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "25/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Hellbound",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "25/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Before",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/10/2024",
-    "Heure": "21:10:00",
-    "Titre": "Code Quantum (2022)",
-    "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Série Club"
-  },
-  {
-    "Date": "26/10/2024",
-    "Heure": "20:55:00",
-    "Titre": "Blue Lights",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "27/10/2024",
-    "Heure": "21:05:00",
-    "Titre": "Les enquêtes de Dan Sommerdahl",
-    "Saison": "Saison 4",
-    "Plateforme": "France 3",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "27/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Lioness",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Somebody Somewhere",
-    "Saison": "Saison 3",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/10/2024",
-    "Heure": "21:10:00",
-    "Titre": "Murder Club",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/10/2024",
-    "Heure": "20:50:00",
-    "Titre": "Sentinelles",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Tu ferais pareil",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Les Innocents de la Candelaria",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "21:05:00",
-    "Titre": "Dans l’ombre",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "21:10:00",
-    "Titre": "Les Experts : Las Vegas",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Reasonable Doubt",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Relève-toi !",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "30/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Lidia fait sa loi",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "31/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Velma",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "31/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "Les Meurtres zen",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "31/10/2024",
-    "Heure": "21:00:00",
-    "Titre": "Ghosts",
-    "Saison": "Saison 5",
-    "Plateforme": "Série Club",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "31/10/2024",
-    "Heure": "00:00:00",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
     "Note": null
   },
   {
@@ -319,15 +13,6 @@
     "Heure": "00:00:00",
     "Titre": "Tokyo Ghoul",
     "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "01/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "L’Attaque des Titans",
-    "Saison": "Saison finale",
     "Plateforme": "Netflix",
     "Pays": "JAP",
     "Note": null
@@ -351,6 +36,24 @@
     "Note": null
   },
   {
+    "Date": "03/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Chocolat amer",
+    "Saison": "Mini-série",
+    "Plateforme": "Max",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "06/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Old Man",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "06/11/2024",
     "Heure": "22:45:00",
     "Titre": "Years and Years",
@@ -360,11 +63,11 @@
     "Note": "Déjà diffusée sur Canal+"
   },
   {
-    "Date": "06/11/2024",
+    "Date": "07/11/2024",
     "Heure": "00:00:00",
-    "Titre": "The Old Man",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
+    "Titre": "Outer Banks",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -380,28 +83,10 @@
   {
     "Date": "07/11/2024",
     "Heure": "00:00:00",
-    "Titre": "Outer Banks",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/11/2024",
-    "Heure": "00:00:00",
     "Titre": "Citadel: Honey Bunny",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "08/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Mr. Plankton",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
     "Note": null
   },
   {
@@ -432,6 +117,15 @@
     "Note": "Nouvelle série créée par Franck Gastambide"
   },
   {
+    "Date": "08/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Mr. Plankton",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "09/11/2024",
     "Heure": "00:00:00",
     "Titre": "Misfits",
@@ -460,11 +154,29 @@
   },
   {
     "Date": "11/11/2024",
+    "Heure": "21:10:00",
+    "Titre": "Cat’s Eyes",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "11/11/2024",
     "Heure": "00:00:00",
     "Titre": "Yellowstone",
     "Saison": "Saison 5 partie 2",
     "Plateforme": "Paramount+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/11/2024",
+    "Heure": "21:00:00",
+    "Titre": "Hippocrate",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -477,21 +189,12 @@
     "Note": null
   },
   {
-    "Date": "11/11/2024",
-    "Heure": "21:10:00",
-    "Titre": "Cat’s Eyes",
+    "Date": "12/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "Three Pines",
     "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2024",
-    "Heure": "21:00:00",
-    "Titre": "Hippocrate",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
+    "Plateforme": "Polar+",
+    "Pays": "CAN, UK",
     "Note": null
   },
   {
@@ -513,12 +216,21 @@
     "Note": null
   },
   {
-    "Date": "12/11/2024",
-    "Heure": "20:55:00",
-    "Titre": "Three Pines",
+    "Date": "13/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Grotesquerie",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "CAN, UK",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Bad Sisters",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Pays": "IRL, UK, US",
     "Note": null
   },
   {
@@ -532,30 +244,12 @@
   },
   {
     "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Grotesquerie",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2024",
     "Heure": "21:10:00",
     "Titre": "Esprits Criminels Évolution",
     "Saison": "Saison 2",
     "Plateforme": "TF1",
     "Pays": "US",
     "Note": "Correspond à la saison 17 d’Esprits Criminels"
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Bad Sisters",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "IRL, UK, US",
-    "Note": null
   },
   {
     "Date": "14/11/2024",
@@ -568,12 +262,12 @@
   },
   {
     "Date": "14/11/2024",
-    "Heure": "21:00:00",
-    "Titre": "The Chef, la série",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": "Titre original : “Boiling Point”"
+    "Heure": "00:00:00",
+    "Titre": "Cross",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "14/11/2024",
@@ -586,21 +280,12 @@
   },
   {
     "Date": "14/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Cross",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Silo",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
+    "Heure": "21:00:00",
+    "Titre": "The Chef, la série",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Pays": "UK",
+    "Note": "Titre original : “Boiling Point”"
   },
   {
     "Date": "15/11/2024",
@@ -610,6 +295,15 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": "Changement de date : prévue initialement le 28 novembre"
+  },
+  {
+    "Date": "15/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Silo",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "16/11/2024",
@@ -640,20 +334,20 @@
   },
   {
     "Date": "17/11/2024",
-    "Heure": "20:55:00",
-    "Titre": "Le Tueur de l’ombre",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2024",
     "Heure": "00:00:00",
     "Titre": "Landman",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "Le Tueur de l’ombre",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
+    "Pays": "DAN",
     "Note": null
   },
   {
@@ -676,20 +370,20 @@
   },
   {
     "Date": "19/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Chinatown, intérieur",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/11/2024",
     "Heure": "20:50:00",
     "Titre": "Septième ciel",
     "Saison": "Saison 2",
     "Plateforme": "OCS",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Chinatown, intérieur",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -713,11 +407,11 @@
   {
     "Date": "21/11/2024",
     "Heure": "00:00:00",
-    "Titre": "The Sex Lives of College Girls",
-    "Saison": "Saison 3",
-    "Plateforme": "Max",
+    "Titre": "Cruel Intentions",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
     "Pays": "US",
-    "Note": null
+    "Note": "Adaptation du film éponyme de 1999 (”Sexe Intentions” en VF)"
   },
   {
     "Date": "21/11/2024",
@@ -740,28 +434,19 @@
   {
     "Date": "21/11/2024",
     "Heure": "00:00:00",
-    "Titre": "Tokyo Override",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
+    "Titre": "The Sex Lives of College Girls",
+    "Saison": "Saison 3",
+    "Plateforme": "Max",
+    "Pays": "US",
     "Note": null
   },
   {
     "Date": "21/11/2024",
     "Heure": "00:00:00",
-    "Titre": "Cruel Intentions",
+    "Titre": "Tokyo Override",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": "Adaptation du film éponyme de 1999 (”Sexe Intentions” en VF)"
-  },
-  {
-    "Date": "22/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Le Casse du ciel",
-    "Saison": "Mini-série",
     "Plateforme": "Netflix",
-    "Pays": "SUE",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -771,6 +456,15 @@
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "22/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Le Casse du ciel",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -792,6 +486,33 @@
     "Note": null
   },
   {
+    "Date": "23/11/2024",
+    "Heure": "21:05:00",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "24/11/2024",
+    "Heure": "21:05:00",
+    "Titre": "Les Enquêtes de Vera",
+    "Saison": "Saison 13",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "25/11/2024",
+    "Heure": "22:05:00",
+    "Titre": "Iris",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "26/11/2024",
     "Heure": "00:00:00",
     "Titre": "Get Millie Black",
@@ -810,12 +531,39 @@
     "Note": "Déjà diffusée sur Arte"
   },
   {
+    "Date": "27/11/2024",
+    "Heure": "21:05:00",
+    "Titre": "Ça, c’est Paris !",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "28/11/2024",
     "Heure": "00:00:00",
     "Titre": "The Madness",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/11/2024",
+    "Heure": "20:55:00",
+    "Titre": "Evil",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "29/11/2024",
+    "Heure": "00:00:00",
+    "Titre": "Senna",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "BRE",
     "Note": null
   },
   {
@@ -828,13 +576,13 @@
     "Note": "Adaptation US de la série “Le Bureau des Légendes”, avec Michael Fassbender"
   },
   {
-    "Date": "29/11/2024",
+    "Date": "01/12/2024",
     "Heure": "00:00:00",
-    "Titre": "Senna",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "BRE",
-    "Note": null
+    "Titre": "The Rookie : le flic de Los Angeles",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": "Saisons 1 à 6 (inédite) dispo sur le service streaming de Série Club"
   },
   {
     "Date": "03/12/2024",
@@ -875,15 +623,6 @@
   {
     "Date": "11/12/2024",
     "Heure": "00:00:00",
-    "Titre": "Ne dis rien",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "IRL, US",
-    "Note": null
-  },
-  {
-    "Date": "11/12/2024",
-    "Heure": "00:00:00",
     "Titre": "Cent ans de solitude",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
@@ -897,6 +636,15 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Ne dis rien",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "IRL, US",
     "Note": null
   },
   {

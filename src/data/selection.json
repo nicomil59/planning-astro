@@ -1,27 +1,9 @@
 [
   {
-    "Date": "16/10/2024",
-    "Titre": "Shrinking",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "18/10/2024",
     "Titre": "Culte",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "24/10/2024",
-    "Titre": "Docteur Odyssey",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "30/10/2024",
-    "Titre": "Dans l'ombre",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
   },
   {
     "Date": "31/10/2024",
@@ -34,5 +16,23 @@
     "Titre": "La Cage",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/11/2024",
+    "Titre": "Hippocrate",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "11/11/2024",
+    "Titre": "Cat's Eyes",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "15/11/2024",
+    "Titre": "Silo",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
   }
 ]

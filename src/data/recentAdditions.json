@@ -1,152 +1,44 @@
 [
   {
-    "Date": "30/10/2024",
-    "Titre": "Tu ferais pareil",
+    "Date": "03/11/2024",
+    "Titre": "Chocolat amer",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "02/11/2024",
-    "Titre": "Extras",
-    "Saison": "Intégrale",
     "Plateforme": "Max"
   },
   {
-    "Date": "07/11/2024",
-    "Titre": "Born For The Spotlight",
+    "Date": "23/11/2024",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "24/11/2024",
+    "Titre": "Les enquêtes de Vera",
+    "Saison": "Saison 13",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "25/11/2024",
+    "Titre": "Iris",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/11/2024",
-    "Titre": "Mr. Plankton",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "09/11/2024",
-    "Titre": "Misfits",
-    "Saison": "Intégrale",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "11/11/2024",
-    "Titre": "Top of The Lake",
-    "Saison": "Intégrale",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "13/11/2024",
-    "Titre": "Les Mères pingouins",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "14/11/2024",
-    "Titre": "Beyond Goodbye",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "16/11/2024",
-    "Titre": "Luther",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "16/11/2024",
-    "Titre": "The Bay",
-    "Saison": "Saison 5",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "17/11/2024",
-    "Titre": "Le Tueur de l’ombre",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "18/11/2024",
-    "Titre": "Bête noire",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "19/11/2024",
-    "Titre": "Chinatown, intérieur",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "19/11/2024",
-    "Titre": "Septième ciel",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS"
-  },
-  {
-    "Date": "20/11/2024",
-    "Titre": "Adorazione",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "20/11/2024",
-    "Titre": "Tell Me Lies",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "21/11/2024",
-    "Titre": "The Sex Lives of College Girls",
-    "Saison": "Saison 3",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "21/11/2024",
-    "Titre": "Espion à l’ancienne",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "21/11/2024",
-    "Titre": "Commandant Saint-Barth",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "22/11/2024",
-    "Titre": "Le Casse du ciel",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
+    "Plateforme": "Canal+"
   },
   {
     "Date": "27/11/2024",
-    "Titre": "Rematch",
+    "Titre": "Ça, c'est Paris !",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+"
+    "Plateforme": "France 2"
   },
   {
-    "Date": "29/11/2024",
-    "Titre": "The Agency",
+    "Date": "28/11/2024",
+    "Titre": "Evil (Suède)",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Arte"
   },
   {
-    "Date": "11/12/2024",
-    "Titre": "Ne dis rien",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "13/12/2024",
-    "Titre": 1992,
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "09/01/2025",
-    "Titre": "À l’aube de l’Amérique",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
+    "Date": "01/12/2024",
+    "Titre": "The Rookie",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Série Club"
   }
 ]
