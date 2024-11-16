@@ -1,11 +1,5 @@
 [
   {
-    "Date": "18/10/2024",
-    "Titre": "Culte",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video"
-  },
-  {
     "Date": "31/10/2024",
     "Titre": "La Diplomate",
     "Saison": "Saison 2",
@@ -34,5 +28,11 @@
     "Titre": "Silo",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "18/11/2024",
+    "Titre": "Dune : Prophecy",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
   }
 ]
