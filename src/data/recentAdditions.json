@@ -1,56 +1,98 @@
 [
   {
-    "Date": "30/11/2024",
-    "Titre": "Irrational",
+    "Date": "13/11/2024",
+    "Titre": "Deux soeurs nommées Guerra",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "28/11/2024",
+    "Titre": "Asaf",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "07/12/2024",
+    "Titre": "The Tower",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "07/12/2024",
+    "Titre": "Nos meilleures années",
+    "Saison": "Shortcom",
     "Plateforme": "M6"
   },
   {
-    "Date": "02/12/2024",
-    "Titre": "Escort Boys",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
+    "Date": "09/12/2024",
+    "Titre": "Shetland",
+    "Saison": "Saison 8",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "09/12/2024",
+    "Titre": "L'Ombre d'un fils",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "10/12/2024",
+    "Titre": "Alexandra Ehle",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
   },
   {
     "Date": "12/12/2024",
-    "Titre": "Bookie",
-    "Saison": "Saison 2",
-    "Plateforme": "Max"
+    "Titre": "Joan",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS"
   },
   {
-    "Date": "22/12/2024",
-    "Titre": "What If... ?",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+"
+    "Date": "12/12/2024",
+    "Titre": "Les Papiers de l'Anglais",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
   },
   {
-    "Date": "10/01/2025",
-    "Titre": "Chair de poule",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "23/01/2025",
-    "Titre": "The Night Agent",
+    "Date": "16/01/2025",
+    "Titre": "XO, Kitty",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "23/01/2025",
-    "Titre": "Harlem",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video"
+    "Date": "28/01/2025",
+    "Titre": "Paradise",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
-    "Date": "29/01/2025",
-    "Titre": "Mythic Quest",
-    "Saison": "Saison 4",
+    "Date": "13/02/2025",
+    "Titre": "Cobra Kai",
+    "Saison": "Saison 6 partie 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "20/02/2025",
+    "Titre": "Zero Day",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "14/03/2025",
+    "Titre": "Dope Thief",
+    "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
   },
   {
-    "Date": "22/04/2025",
-    "Titre": "Andor",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
+    "Date": "26/03/2025",
+    "Titre": "The Studio",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "11/04/2025",
+    "Titre": "Your Friends and Neighbors",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]
