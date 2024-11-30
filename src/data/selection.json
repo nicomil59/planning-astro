@@ -1,12 +1,6 @@
 [
   {
     "Date": "11/11/2024",
-    "Titre": "Hippocrate",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "11/11/2024",
     "Titre": "Cat's Eyes",
     "Saison": "Saison 1",
     "Plateforme": "TF1"
@@ -33,6 +27,12 @@
     "Date": "29/11/2024",
     "Titre": "Senna",
     "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "05/12/2024",
+    "Titre": "Black Doves",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   }
 ]

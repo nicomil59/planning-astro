@@ -1,98 +1,74 @@
 [
   {
-    "Date": "13/11/2024",
-    "Titre": "Deux soeurs nommées Guerra",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Date": "26/11/2024",
+    "Titre": "My Life is Murder",
+    "Saison": "Saison 4",
+    "Plateforme": "13ème Rue"
   },
   {
-    "Date": "28/11/2024",
-    "Titre": "Asaf",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "07/12/2024",
-    "Titre": "The Tower",
+    "Date": "04/12/2024",
+    "Titre": "En terrasse",
     "Saison": "Saison 2",
-    "Plateforme": "Polar+"
+    "Plateforme": "Prime Video"
   },
   {
-    "Date": "07/12/2024",
-    "Titre": "Nos meilleures années",
-    "Saison": "Shortcom",
-    "Plateforme": "M6"
+    "Date": "05/12/2024",
+    "Titre": "Créature Commandos",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
   },
   {
-    "Date": "09/12/2024",
-    "Titre": "Shetland",
-    "Saison": "Saison 8",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "09/12/2024",
-    "Titre": "L'Ombre d'un fils",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
+    "Date": "06/12/2024",
+    "Titre": "The Day of The Jackal",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   },
   {
     "Date": "10/12/2024",
+    "Titre": "The Convict",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "17/12/2024",
     "Titre": "Alexandra Ehle",
     "Saison": "Inédit",
     "Plateforme": "France 3"
   },
   {
-    "Date": "12/12/2024",
-    "Titre": "Joan",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS"
+    "Date": "18/12/2024",
+    "Titre": "Fais pas ci, fais pas ça",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "12/12/2024",
-    "Titre": "Les Papiers de l'Anglais",
+    "Date": "27/12/2024",
+    "Titre": "The Rookie : le flic de Los Angeles",
+    "Saison": "Saison 6",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "28/12/2024",
+    "Titre": "Le Blues du Maestro",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/12/2024",
+    "Titre": "New Amsterdam",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/12/2024",
+    "Titre": "Schitt's Creek",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/01/2025",
+    "Titre": "Tu me manques",
     "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "16/01/2025",
-    "Titre": "XO, Kitty",
-    "Saison": "Saison 2",
     "Plateforme": "Netflix"
-  },
-  {
-    "Date": "28/01/2025",
-    "Titre": "Paradise",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "13/02/2025",
-    "Titre": "Cobra Kai",
-    "Saison": "Saison 6 partie 3",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "20/02/2025",
-    "Titre": "Zero Day",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "14/03/2025",
-    "Titre": "Dope Thief",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "26/03/2025",
-    "Titre": "The Studio",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "11/04/2025",
-    "Titre": "Your Friends and Neighbors",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
   }
 ]

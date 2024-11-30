@@ -1,221 +1,5 @@
 [
   {
-    "Date": "11/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Top of The Lake",
-    "Saison": "Intégrale",
-    "Plateforme": "Polar+",
-    "Pays": "UK, NZ, AUS",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2024",
-    "Heure": "21:05:00",
-    "Titre": "Les Invisibles",
-    "Saison": "Saison 4",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2024",
-    "Heure": "21:10:00",
-    "Titre": "Cat's Eyes",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2024",
-    "Heure": "21:00:00",
-    "Titre": "Hippocrate",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Yellowstone",
-    "Saison": "Saison 5 partie 2",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2024",
-    "Heure": "21:10:00",
-    "Titre": "Les Espions de la terreur",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2024",
-    "Heure": "21:05:00",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2024",
-    "Heure": "20:55:00",
-    "Titre": "Three Pines",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Pays": "CAN, UK",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Bad Sisters",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US, IRL, UK",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Les Mères pingouins",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "21:10:00",
-    "Titre": "Esprits Criminels Évolution",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": "Correspond à la saison 17 d'Esprits Criminels"
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Grotesquerie",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Deux soeurs nommées Guerra",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Cross",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Beyond Goodbye",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2024",
-    "Heure": "21:00:00",
-    "Titre": "The Chef, la série",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": "Titre original : “Boiling Point”"
-  },
-  {
-    "Date": "14/11/2024",
-    "Heure": "21:00:00",
-    "Titre": "Dumbsday",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Pays": "NOR",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Silo",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Cobra Kai",
-    "Saison": "Saison 6 partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": "Changement de date : prévue initialement le 28 novembre"
-  },
-  {
-    "Date": "16/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Luther",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/11/2024",
-    "Heure": "20:55:00",
-    "Titre": "The Bay",
-    "Saison": "Saison 5",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Arcane",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2024",
-    "Heure": "20:55:00",
-    "Titre": "Le Tueur de l'ombre",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "17/11/2024",
-    "Heure": "00:00:00",
-    "Titre": "Landman",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "18/11/2024",
     "Heure": "20:55:00",
     "Titre": "Bête noire",
@@ -387,6 +171,15 @@
     "Note": null
   },
   {
+    "Date": "26/11/2024",
+    "Heure": "21:00:00",
+    "Titre": "My Life is Murder",
+    "Saison": "Saison 4",
+    "Plateforme": "13ème Rue",
+    "Pays": "AUS, NZ",
+    "Note": null
+  },
+  {
     "Date": "27/11/2024",
     "Heure": "21:05:00",
     "Titre": "Ça, c'est Paris !",
@@ -477,6 +270,15 @@
     "Note": null
   },
   {
+    "Date": "04/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "En terrasse",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "05/12/2024",
     "Heure": "00:00:00",
     "Titre": "Black Doves",
@@ -486,12 +288,30 @@
     "Note": null
   },
   {
+    "Date": "05/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Créature Commandos",
+    "Saison": "Saison 1",
+    "Plateforme": "Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "06/12/2024",
     "Heure": "00:00:00",
     "Titre": "The Sticky",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Day of The Jackal",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US, UK",
     "Note": null
   },
   {
@@ -546,6 +366,15 @@
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "10/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "The Convict",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Max",
+    "Pays": "POL",
     "Note": null
   },
   {
@@ -621,6 +450,24 @@
     "Note": null
   },
   {
+    "Date": "17/12/2024",
+    "Heure": "21:05:00",
+    "Titre": "Alexandra Ehle",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/12/2024",
+    "Heure": "21:05:00",
+    "Titre": "Fais pas ci, fais pas ça",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": "Épisode spécial intitulé \"On va marcher sur la Lune\""
+  },
+  {
     "Date": "19/12/2024",
     "Heure": "00:00:00",
     "Titre": "Virgin River",
@@ -646,6 +493,51 @@
     "Plateforme": "Netflix",
     "Pays": "CDS",
     "Note": null
+  },
+  {
+    "Date": "27/12/2024",
+    "Heure": "21:00:00",
+    "Titre": "The Rookie : le flic de Los Angeles",
+    "Saison": "Saison 6",
+    "Plateforme": "Série Club",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Le Blues du Maestro",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "GRE",
+    "Note": null
+  },
+  {
+    "Date": "31/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "New Amsterdam",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "31/12/2024",
+    "Heure": "00:00:00",
+    "Titre": "Schitt's Creek",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tu me manques",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": "titre original : \"Missing You\""
   },
   {
     "Date": "09/01/2025",
