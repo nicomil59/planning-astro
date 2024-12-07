@@ -1,17 +1,5 @@
 [
   {
-    "Date": "11/11/2024",
-    "Titre": "Cat's Eyes",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "15/11/2024",
-    "Titre": "Silo",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "18/11/2024",
     "Titre": "Dune : Prophecy",
     "Saison": "Saison 1",
@@ -32,6 +20,18 @@
   {
     "Date": "05/12/2024",
     "Titre": "Black Doves",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/12/2024",
+    "Titre": "Cent ans de solitude",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "12/12/2024",
+    "Titre": "Derrière la façade",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   }

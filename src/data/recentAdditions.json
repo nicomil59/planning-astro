@@ -1,74 +1,164 @@
 [
   {
-    "Date": "26/11/2024",
-    "Titre": "My Life is Murder",
-    "Saison": "Saison 4",
-    "Plateforme": "13ème Rue"
+    "Date": "01/12/2024",
+    "Titre": "La Brea",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/12/2024",
+    "Titre": "P-Valley",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/12/2024",
+    "Titre": "Bayblade X",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "04/12/2024",
-    "Titre": "En terrasse",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video"
+    "Titre": "Light Shop",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   },
   {
     "Date": "05/12/2024",
-    "Titre": "Créature Commandos",
+    "Titre": "Jentry Chau, une ado contre les démons",
     "Saison": "Saison 1",
-    "Plateforme": "Max"
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "06/12/2024",
-    "Titre": "The Day of The Jackal",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "10/12/2024",
-    "Titre": "The Convict",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "17/12/2024",
-    "Titre": "Alexandra Ehle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "18/12/2024",
-    "Titre": "Fais pas ci, fais pas ça",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "27/12/2024",
-    "Titre": "The Rookie : le flic de Los Angeles",
-    "Saison": "Saison 6",
-    "Plateforme": "Série Club"
-  },
-  {
-    "Date": "28/12/2024",
-    "Titre": "Le Blues du Maestro",
+    "Date": "05/12/2024",
+    "Titre": "Beastars",
     "Saison": "Saison 3",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "31/12/2024",
-    "Titre": "New Amsterdam",
-    "Saison": "Saison 5",
+    "Date": "06/12/2024",
+    "Titre": "Echoes of The Past",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "31/12/2024",
-    "Titre": "Schitt's Creek",
+    "Date": "12/12/2024",
+    "Titre": "La Palma",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/12/2024",
+    "Titre": "Parenthood",
     "Saison": "Intégrale",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "01/01/2025",
-    "Titre": "Tu me manques",
-    "Saison": "Mini-série",
+    "Date": "17/12/2024",
+    "Titre": "Les Simpson - Un Noël sous hypnose",
+    "Saison": "Inédit",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "18/12/2024",
+    "Titre": "Gabriel et ses petits démons",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "18/12/2024",
+    "Titre": "Cat's Eyes",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "18/12/2024",
+    "Titre": "English Teacher",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "19/12/2024",
+    "Titre": "Le Prince des dragons",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23/12/2024",
+    "Titre": "Zorro (2024)",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "25/12/2024",
+    "Titre": "Doctor Who - Joy To The World",
+    "Saison": "Inédit",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "27/12/2024",
+    "Titre": "Meurtre au paradis - spéciale Noël",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "31/12/2024",
+    "Titre": "Henry Danger",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "02/01/2025",
+    "Titre": "Les Chroniques de Spiderwick",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy"
+  },
+  {
+    "Date": "09/01/2025",
+    "Titre": "On Call",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "30/01/2025",
+    "Titre": "The Recruit",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "30/01/2025",
+    "Titre": "Mo",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "31/01/2025",
+    "Titre": "The Eastern Gate",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "21/02/2025",
+    "Titre": "Surface (2022)",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "23/02/2025",
+    "Titre": 1923,
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "26/02/2025",
+    "Titre": "Berlin ER",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "16/04/2025",
+    "Titre": "Government Cheese",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]
