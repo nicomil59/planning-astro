@@ -1,17 +1,5 @@
 [
   {
-    "Date": "18/11/2024",
-    "Titre": "Dune : Prophecy",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "25/11/2024",
-    "Titre": "Iris",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
     "Date": "29/11/2024",
     "Titre": "Senna",
     "Saison": "Mini-série",
@@ -33,6 +21,18 @@
     "Date": "12/12/2024",
     "Titre": "Derrière la façade",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "25/12/2024",
+    "Titre": "Doctor Who - Joy To The World",
+    "Saison": "Spécial Noël",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "26/12/2024",
+    "Titre": "Squid Game",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   }
 ]
