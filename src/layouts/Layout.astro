@@ -17,13 +17,22 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
       inject();
     </script> -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script>
-    <script is:inline>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script> -->
+    <script is:inline type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script>
+    <script is:inline type="text/partytown">
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
+
+      // This should ALWAYS be set before the gtag("config", "G-XXXXXXXXXX"); line
+      gtag("consent", "default", {
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+          analytics_storage: "denied",
+      });
 
       gtag("config", "G-MVLZP403HL");
     </script>
@@ -104,7 +113,7 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <meta name="generator" content={Astro.generator} />
     <!-- <title>{pageTitle}</title> -->
-    <ViewTransitions fallback="none"/>
+    <!-- <ViewTransitions fallback="none"/> -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
