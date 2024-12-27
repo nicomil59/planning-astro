@@ -1,0 +1,37 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const pageTitle = "Politique de cookies";
+const pageDescription = "Politique de cookies du site Planning Séries";
+const pageTitleOG = "Politique de cookies | Planning Séries";
+const OGType = "article";
+---
+
+<Layout
+  pageTitle={pageTitle}
+  pageDescription={pageDescription}
+  pageTitleOG={pageTitleOG}
+  OGType={OGType}
+>
+  <main class="px-4 pb-4 font-text mt-4 sm:mt-8 mb-16">
+    <h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">1. Qu'est-ce qu'un cookie ?</h2>
+    <p class="my-4">Un cookie est un petit fichier texte déposé sur votre terminal (ordinateur, tablette, mobile) lors de la visite d'un site web. Il permet de stocker des informations relatives à votre navigation.</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">2. Les cookies que nous utilisons</h2>
+    <p class="my-4">Cookies analytiques (Google Analytics) :</p>
+    <ul class="list-disc ml-6">
+      <li class="my-2">_ga : 2 ans - Cookie principal de Google Analytics pour distinguer les utilisateurs uniques</li>
+      <li class="my-2">_ga_[ID] : 2 ans - Cookie utilisé pour maintenir l'état de la session</li>
+    </ul>
+    <p class="my-4">Ces cookies nous permettent de mesurer l'audience de notre site et d'analyser la navigation des visiteurs pour améliorer notre service.</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">3. Gestion des cookies</h2>
+    <p class="my-4">Vous pouvez à tout moment modifier vos préférences en matière de cookies en cliquant sur le bouton "Gérer les cookies" situé en bas de page.</p>
+    <p class="my-4">Le refus des cookies analytiques n'affecte en rien la navigation sur le site.</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">4. Durée de conservation</h2>
+    <p class="my-4">Les cookies analytiques de Google Analytics ont une durée de vie de 2 ans maximum. Cette durée commence à chaque nouvelle visite sur le site.</p>
+  </main>
+</Layout>

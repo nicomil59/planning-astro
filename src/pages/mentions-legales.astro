@@ -1,0 +1,35 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const pageTitle = "Mentions légales";
+const pageDescription = "Mentions légales du site Planning Séries";
+const pageTitleOG = "Mentions légales | Planning Séries";
+const OGType = "article";
+---
+
+<Layout
+  pageTitle={pageTitle}
+  pageDescription={pageDescription}
+  pageTitleOG={pageTitleOG}
+  OGType={OGType}
+>
+  <main class="px-4 pb-4 font-text mt-4 sm:mt-8 mb-16">
+    <h1 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-8">{pageTitle}</h1>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">1. Édition du site</h2>
+    <p class="my-4">Le site Planning Séries est édité par : Nicolas Milhem</p>
+    <p class="my-4">Contact : <a class="hover:underline font-medium" href="/contact/">Se rendre à la page Contact</a></p>
+    <p class="my-4">Directeur de la publication : Nicolas Milhem</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">2. Hébergement</h2>
+    <p class="my-4">Ce site est hébergé par : Vercel Inc.</p>
+    <p class="my-4">Site internet : <a class="hover:underline font-medium" href="https://vercel.com/" target="_blank">vercel.com</a></p>
+    <p class="my-4">Siège social : 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">3. Propriété intellectuelle</h2>
+    <p class="my-4">L'ensemble du contenu de ce site (textes, images, logos) est protégé par le droit d'auteur. Toute reproduction ou représentation, intégrale ou partielle, est interdite sans autorisation expresse préalable.</p>
+
+    <h2 class="text-xl sm:text-2xl font-bold my-4 sm:my-8">4. Protection des données</h2>
+    <p class="my-4">Conformément au RGPD, vous disposez de droits concernant vos données personnelles. Pour plus d'informations, consultez notre <a href="/politique-de-confidentialite/" class="hover:underline font-medium">Politique de confidentialité</a>.</p>
+  </main>
+</Layout>
