@@ -4,6 +4,7 @@ import { SEO } from "astro-seo";
 import Header from "../components/Header.astro";
 import Footer from "../components/footer/Footer.astro";
 import { ViewTransitions } from "astro:transitions";
+import CookieConsent from "../components/CookieConsent.astro";
 
 const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
 ---
@@ -16,6 +17,7 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
       import { inject } from '@vercel/analytics';
       inject();
     </script> -->
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVLZP403HL"></script>
     <script is:inline>
@@ -24,6 +26,9 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
+      gtag('consent', 'default', {
+        'analytics_storage': 'denied'
+      });
       gtag("config", "G-MVLZP403HL");
     </script>
 
@@ -124,5 +129,7 @@ const { pageTitle, pageDescription, pageTitleOG, OGType } = Astro.props;
       <slot />
       <Footer />
     </div>
+    
+    <CookieConsent />
   </body>
 </html>

@@ -1,0 +1,110 @@
+---
+---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@2.8.0/dist/cookieconsent.css" />
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function() {
+    const script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@2.8.0/dist/cookieconsent.js';
+    
+    script.addEventListener('load', function() {
+      if (typeof initCookieConsent === 'function') {
+        const cc = initCookieConsent();
+        
+        cc.run({
+          current_lang: 'fr',
+          autoclear_cookies: true,
+          
+          gui_options: {
+            consent_modal: {
+              layout: 'bar',
+              position: 'bottom center'
+            },
+            settings_modal: {
+              layout: 'box'
+            }
+          },
+
+          languages: {
+            fr: {
+              consent_modal: {
+                title: 'Utilisation des cookies',
+                description: 'Nous utilisons des cookies analytiques pour améliorer votre expérience.',
+                primary_btn: {
+                  text: 'Tout accepter',
+                  role: 'accept_all'
+                },
+                secondary_btn: {
+                  text: 'Tout refuser',
+                  role: 'accept_necessary'
+                }
+              },
+              settings_modal: {
+                title: 'Préférences des cookies',
+                save_settings_btn: 'Enregistrer mes préférences',
+                accept_all_btn: 'Tout accepter',
+                reject_all_btn: 'Tout refuser',
+                close_btn_label: 'Fermer',
+                blocks: [
+                  {
+                    title: 'Cookies analytiques (Google Analytics)',
+                    description: 'Ces cookies nous permettent de mesurer l\'audience du site. Vous pouvez les désactiver sans que cela n\'affecte votre navigation.',
+                    toggle: {
+                      value: 'analytics',
+                      enabled: false,
+                      readonly: false
+                    }
+                  }
+                ]
+              }
+            }
+          },
+
+          onAccept: function(cookie) {
+            //console.log("Cookie status:", cookie);
+            if (cc.allowedCategory('analytics')) {
+              window.gtag('consent', 'update', {
+                'analytics_storage': 'granted'
+              });
+            }
+          },
+
+          onFirstAction: function(user_preferences) {
+            //console.log("First action:", user_preferences);
+          },
+
+          onChange: function(cookie, changed_preferences) {
+            //console.log("Cookie changed:", cookie);
+            // Mise à jour explicite de GA
+            window.gtag('consent', 'update', {
+              'analytics_storage': cc.allowedCategory('analytics') ? 'granted' : 'denied'
+            });
+            
+            // Force la suppression des cookies GA si refusés
+            if (!cc.allowedCategory('analytics')) {
+              const cookies = document.cookie.split(';');
+              for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i];
+                const eqPos = cookie.indexOf("=");
+                const name = eqPos > -1 ? cookie.substr(0, eqPos).trim() : cookie.trim();
+                if (name.startsWith('_ga')) {
+                  document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/';
+                }
+              }
+            }
+          }
+        });
+
+        // Gestionnaire pour le bouton "Gérer les cookies"
+        const manageCookiesBtn = document.getElementById('manage-cookies');
+        if (manageCookiesBtn) {
+          manageCookiesBtn.addEventListener('click', function() {
+            cc.showSettings();
+          });
+        }
+      }
+    });
+
+    document.head.appendChild(script);
+  });
+</script>
