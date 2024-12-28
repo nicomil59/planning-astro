@@ -1,140 +1,5 @@
 [
   {
-    "Date": "09/12/2024",
-    "Heure": "20:55:00",
-    "Titre": "Shetland",
-    "Saison": "Saison 8",
-    "Plateforme": "Polar+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "09/12/2024",
-    "Heure": "22:50:00",
-    "Titre": "L'Ombre d'un fils",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "IRL, FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Secret Level",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/12/2024",
-    "Heure": "21:05:00",
-    "Titre": "Alexandra Ehle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "The Convict",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "11/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Ne dis rien",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US, IRL",
-    "Note": null
-  },
-  {
-    "Date": "11/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Cent ans de solitude",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "11/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Dream Productions",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Derrière la façade",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": "titre original : \"No Good Deed\""
-  },
-  {
-    "Date": "12/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Bookie",
-    "Saison": "Saison 2",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/12/2024",
-    "Heure": "22:10:00",
-    "Titre": "Joan",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Pays": "UK, US",
-    "Note": null
-  },
-  {
-    "Date": "12/12/2024",
-    "Heure": "20:55:00",
-    "Titre": "Les Papiers de l'Anglais",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "POR",
-    "Note": null
-  },
-  {
-    "Date": "12/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "La Palma",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "NOR",
-    "Note": null
-  },
-  {
-    "Date": "13/12/2024",
-    "Heure": "00:00:00",
-    "Titre": 1992,
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2024",
-    "Heure": "00:00:00",
-    "Titre": "Parenthood",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "17/12/2024",
     "Heure": "21:05:00",
     "Titre": "Alexandra Ehle",
@@ -360,6 +225,15 @@
     "Note": null
   },
   {
+    "Date": "03/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Les Simpson",
+    "Saison": "Saison 36",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/01/2025",
     "Heure": "17:20:00",
     "Titre": "Quai Numéro 7",
@@ -513,6 +387,15 @@
     "Note": "Série dérivée de The Good Wife"
   },
   {
+    "Date": "08/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Station 19",
+    "Saison": "Saison 7",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "09/01/2025",
     "Heure": "00:00:00",
     "Titre": "À l'aube de l'Amérique",
@@ -603,12 +486,66 @@
     "Note": null
   },
   {
+    "Date": "10/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Waverly Place : les nouveaux sorciers",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "11/01/2025",
     "Heure": "00:00:00",
     "Titre": "Sakamoto Days",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "11/01/2025",
+    "Heure": "21:10:00",
+    "Titre": "Alert",
+    "Saison": "Saison 1",
+    "Plateforme": "M6",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "12/01/2025",
+    "Heure": "20:55:00",
+    "Titre": "Wisting",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Pays": "NOR",
+    "Note": null
+  },
+  {
+    "Date": "12/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Whiskey on The Rocks",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "13/01/2025",
+    "Heure": "20:50:00",
+    "Titre": "Pandore",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "14/01/2025",
+    "Heure": "21:00:00",
+    "Titre": "Factice",
+    "Saison": "Saison 1",
+    "Plateforme": "13ème Rue",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -636,6 +573,33 @@
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tracker",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Démasqué",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "15/01/2025",
+    "Heure": "21:05:00",
+    "Titre": "Made in France",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -720,6 +684,15 @@
     "Note": null
   },
   {
+    "Date": "24/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Garde partagée",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "28/01/2025",
     "Heure": "00:00:00",
     "Titre": "Paradise",
@@ -734,6 +707,15 @@
     "Titre": "Mythic Quest",
     "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "29/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Your Friendly Neighborhood Spider-Man",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
     "Pays": "US",
     "Note": null
   },
