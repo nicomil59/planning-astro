@@ -1,80 +1,86 @@
 [
   {
+    "Date": "02/01/2025",
+    "Titre": "Pantheon",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
     "Date": "03/01/2025",
-    "Titre": "Les Simpson",
-    "Saison": "Saison 36",
-    "Plateforme": "Disney+"
+    "Titre": "Apples Never Fall",
+    "Saison": "Mini-série",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "04/01/2025",
+    "Titre": "Demande aux étoiles",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "08/01/2025",
-    "Titre": "Station 19",
-    "Saison": "Saison 7",
-    "Plateforme": "Disney+"
+    "Titre": "Faux profil",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
   },
   {
     "Date": "10/01/2025",
-    "Titre": "Waverly Place : les nouveaux sorciers",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
+    "Titre": "Fire Country",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+"
   },
   {
     "Date": "11/01/2025",
-    "Titre": "Alert",
+    "Titre": "Übel Blatt",
     "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "15/01/2025",
+    "Titre": "Désordre public",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/01/2025",
+    "Titre": "Fortune de France",
+    "Saison": "Mini-série",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "16/01/2025",
+    "Titre": "Harley Quinn",
+    "Saison": "Saison 5",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "20/01/2025",
+    "Titre": "Cinéastes en séries",
+    "Saison": "Docu",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "21/01/2025",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "22/01/2025",
+    "Titre": "Le Tatoueur d'Auschwitz",
+    "Saison": "Mini-série",
     "Plateforme": "M6"
   },
   {
-    "Date": "12/01/2025",
-    "Titre": "Wisting",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "12/01/2025",
-    "Titre": "Whiskey on The Rocks",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "13/01/2025",
-    "Titre": "Pandore",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "14/01/2025",
-    "Titre": "Factice",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue"
-  },
-  {
-    "Date": "15/01/2025",
-    "Titre": "Tracker",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "15/01/2025",
-    "Titre": "Démasqué",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "15/01/2025",
-    "Titre": "Made in France",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
     "Date": "24/01/2025",
-    "Titre": "Garde partagée",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
+    "Titre": "FBI International",
+    "Saison": "Saison 4",
+    "Plateforme": "Paramount+"
   },
   {
-    "Date": "29/01/2025",
-    "Titre": "Your Friendly Neighborhood Spider-Man",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
+    "Date": "20/03/2025",
+    "Titre": "La Résidence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]
