@@ -1,86 +1,32 @@
 [
   {
-    "Date": "02/01/2025",
-    "Titre": "Pantheon",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "03/01/2025",
-    "Titre": "Apples Never Fall",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "04/01/2025",
-    "Titre": "Demande aux étoiles",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/01/2025",
-    "Titre": "Faux profil",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "10/01/2025",
-    "Titre": "Fire Country",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "11/01/2025",
-    "Titre": "Übel Blatt",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "15/01/2025",
-    "Titre": "Désordre public",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15/01/2025",
-    "Titre": "Fortune de France",
-    "Saison": "Mini-série",
-    "Plateforme": "Max"
-  },
-  {
     "Date": "16/01/2025",
-    "Titre": "Harley Quinn",
-    "Saison": "Saison 5",
-    "Plateforme": "Max"
+    "Titre": "Les Amoureux anonymes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   },
   {
-    "Date": "20/01/2025",
-    "Titre": "Cinéastes en séries",
-    "Saison": "Docu",
-    "Plateforme": "Canal+"
+    "Date": "25/01/2025",
+    "Titre": "The Tower",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "21/01/2025",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
+    "Date": "26/01/2025",
+    "Titre": "Inspecteur Barnaby",
+    "Saison": "Saison 24",
     "Plateforme": "France 3"
   },
   {
-    "Date": "22/01/2025",
-    "Titre": "Le Tatoueur d'Auschwitz",
+    "Date": "27/01/2025",
+    "Titre": "Conflict",
     "Saison": "Mini-série",
-    "Plateforme": "M6"
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "24/01/2025",
-    "Titre": "FBI International",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "20/03/2025",
-    "Titre": "La Résidence",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
+    "Date": "07/02/2025",
+    "Titre": "Dear You",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   }
 ]

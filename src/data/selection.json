@@ -1,11 +1,5 @@
 [
   {
-    "Date": "11/12/2024",
-    "Titre": "Cent ans de solitude",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "26/12/2024",
     "Titre": "Squid Game",
     "Saison": "Saison 2",
@@ -34,5 +28,11 @@
     "Titre": "The Pitt",
     "Saison": "Saison 1",
     "Plateforme": "Max"
+  },
+  {
+    "Date": "17/01/2025",
+    "Titre": "Severance",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
   }
 ]
