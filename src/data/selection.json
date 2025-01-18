@@ -1,11 +1,5 @@
 [
   {
-    "Date": "26/12/2024",
-    "Titre": "Squid Game",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "01/01/2025",
     "Titre": "Tu me manques",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "Severance",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "23/01/2025",
+    "Titre": "The Night Agent",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
   }
 ]
