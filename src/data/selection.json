@@ -1,11 +1,5 @@
 [
   {
-    "Date": "01/01/2025",
-    "Titre": "Tu me manques",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "08/01/2025",
     "Titre": "Elsbeth",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "The Night Agent",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "28/01/2025",
+    "Titre": "Paradise",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]

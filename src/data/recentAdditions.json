@@ -1,68 +1,104 @@
 [
   {
-    "Date": "01/02/2025",
+    "Date": "26/01/2025",
     "Titre": "Alert",
     "Saison": "Saison 2",
     "Plateforme": "M6"
   },
   {
     "Date": "03/02/2025",
-    "Titre": "Rapa",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "03/02/2025",
-    "Titre": "L'Art du crime",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "04/02/2025",
-    "Titre": "A priori",
+    "Titre": "Common Side Effects",
     "Saison": "Saison 1",
-    "Plateforme": "France 3"
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "05/02/2025",
+    "Titre": "The Head",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Max"
   },
   {
     "Date": "06/02/2025",
-    "Titre": "Dexter : Les Origines",
+    "Titre": "Cassandra",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "06/02/2025",
+    "Titre": "Meurtres à Åre",
     "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "06/02/2025",
-    "Titre": "Mademoiselle Holmes",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "06/02/2025",
-    "Titre": "En haute mer",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "06/02/2025",
-    "Titre": "Apple Cider Vinegar",
-    "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
   {
     "Date": "07/02/2025",
-    "Titre": "Dates IRL",
-    "Saison": "Mini-série",
-    "Plateforme": "France.tv"
+    "Titre": "Flair de famille",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
   },
   {
-    "Date": "24/04/2025",
-    "Titre": "You",
-    "Saison": "Saison 5",
+    "Date": "08/02/2025",
+    "Titre": "Disparues",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "09/02/2025",
+    "Titre": "L'Écho du silence",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "11/02/2025",
+    "Titre": "Funny Woman",
+    "Saison": "Saison 2",
+    "Plateforme": "OCS"
+  },
+  {
+    "Date": "13/02/2025",
+    "Titre": "Rapa",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "13/02/2025",
+    "Titre": "The Exchange",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "25/06/2025",
-    "Titre": "Ironheart",
-    "Saison": "Mini-série",
+    "Date": "14/02/2025",
+    "Titre": "Valeria",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/02/2025",
+    "Titre": "Dramaworld",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "21/02/2025",
+    "Titre": "A Thousand Blows",
+    "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "27/02/2025",
+    "Titre": "La Meneuse",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "27/02/2025",
+    "Titre": "Toxic Town",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/04/2025",
+    "Titre": "School Spirits",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+"
   }
 ]
