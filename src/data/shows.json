@@ -1,194 +1,5 @@
 [
   {
-    "Date": "13/01/2025",
-    "Heure": "20:50:00",
-    "Titre": "Pandore",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "BEL",
-    "Note": null
-  },
-  {
-    "Date": "14/01/2025",
-    "Heure": "21:00:00",
-    "Titre": "Factice",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'Odyssée de Kino",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Oshi No Ko",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Urusei Yatsura",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tracker",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "21:05:00",
-    "Titre": "Made in France",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Désordre public",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Fortune de France",
-    "Saison": "Mini-série",
-    "Plateforme": "Max",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur France 2"
-  },
-  {
-    "Date": "16/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "XO, Kitty",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Castlevania: Nocturne",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/01/2025",
-    "Heure": "21:00:00",
-    "Titre": "Blue Bloods",
-    "Saison": "Saison 14",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "16/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Harley Quinn",
-    "Saison": "Saison 5",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Les Amoureux anonymes",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Severance",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/01/2025",
-    "Heure": "23:40:00",
-    "Titre": "Cinéastes en séries",
-    "Saison": "Docu",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": "Le documentaire \"CINÉASTES EN SÉRIES\" explore le passage des réalisateurs de cinéma à la télévision, avec des témoignages et archives de grands cinéastes."
-  },
-  {
-    "Date": "21/01/2025",
-    "Heure": "21:05:00",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Whiskey on The Rocks",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Démasqué",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2025",
-    "Heure": "00:00:00",
-    "Titre": "Prime Target",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Tatoueur d'Auschwitz",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Pays": "UK, US",
-    "Note": null
-  },
-  {
     "Date": "23/01/2025",
     "Heure": "00:00:00",
     "Titre": "The Night Agent",
@@ -222,7 +33,7 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Pays": "FRA",
-    "Note": null
+    "Note": "Version française de la série espagnole Machos Alfa"
   },
   {
     "Date": "24/01/2025",
@@ -306,6 +117,15 @@
     "Note": null
   },
   {
+    "Date": "29/01/2025",
+    "Heure": "00:00:00",
+    "Titre": "Le Hooligan",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
     "Date": "30/01/2025",
     "Heure": "00:00:00",
     "Titre": "The Recruit",
@@ -351,6 +171,33 @@
     "Note": null
   },
   {
+    "Date": "01/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Young Sheldon",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Ghosts (US)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Missing: The Other Side",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "03/02/2025",
     "Heure": "21:00:00",
     "Titre": "Rapa",
@@ -378,6 +225,15 @@
     "Note": null
   },
   {
+    "Date": "03/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Transformers : Earth Spark",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/02/2025",
     "Heure": "21:05:00",
     "Titre": "A priori",
@@ -393,6 +249,33 @@
     "Saison": "Saisons 1 à 3",
     "Plateforme": "Max",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "9-1-1",
+    "Saison": "Saison 7",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Envieuse",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Sintonia",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix",
+    "Pays": "BRE",
     "Note": null
   },
   {
@@ -468,6 +351,15 @@
     "Note": null
   },
   {
+    "Date": "06/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Golden Kamui : La chasse aux évadés",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "07/02/2025",
     "Heure": "00:00:00",
     "Titre": "Dear You",
@@ -495,12 +387,39 @@
     "Note": null
   },
   {
+    "Date": "07/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Newtopia",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "07/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Entrevias",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "08/02/2025",
     "Heure": "20:55:00",
     "Titre": "Disparues",
     "Saison": "Mini-série",
     "Plateforme": "Polar+",
     "Pays": "IRL",
+    "Note": null
+  },
+  {
+    "Date": "08/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "NCIS: Sydney",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -558,6 +477,51 @@
     "Note": null
   },
   {
+    "Date": "14/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Bref",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Pays": "FRA",
+    "Note": "Retour avec des inédits de la série courte diffusée autrefois sur Canal+"
+  },
+  {
+    "Date": "14/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Commoner",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "NOR, SUE",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Power Book II : Ghost",
+    "Saison": "Saison 4",
+    "Plateforme": "Lionsgate+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Comme un film",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "14/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "I am Married... But !",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "TAI",
+    "Note": null
+  },
+  {
     "Date": "15/02/2025",
     "Heure": "23:25:00",
     "Titre": "Dramaworld",
@@ -576,12 +540,66 @@
     "Note": null
   },
   {
+    "Date": "17/02/2025",
+    "Heure": "21:00:00",
+    "Titre": "Marie-Antoinette : L'affaire du collier",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "17/02/2025",
+    "Heure": "21:10:00",
+    "Titre": "Le Nounou",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/02/2025",
+    "Heure": "21:10:00",
+    "Titre": "Mémoire vive",
+    "Saison": "Mini-série",
+    "Plateforme": "M6",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "19/02/2025",
     "Heure": "00:00:00",
     "Titre": "Gagné ou perdu",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/02/2025",
+    "Heure": "21:05:00",
+    "Titre": "Frotter frotter",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "19/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Murder",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": "Titre original : \"How To Get Away With Murder\""
+  },
+  {
+    "Date": "19/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "L'Histoire de ma famille",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ITA",
     "Note": null
   },
   {
@@ -601,6 +619,15 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "20/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Un Gentleman à Moscou",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": "Déjà diffusée sur Canal+"
   },
   {
     "Date": "21/02/2025",
@@ -639,6 +666,15 @@
     "Note": null
   },
   {
+    "Date": "26/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Abbott Elementary",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "27/02/2025",
     "Heure": "00:00:00",
     "Titre": "House of David",
@@ -666,6 +702,51 @@
     "Note": null
   },
   {
+    "Date": "27/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Pokémon, les horizons",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "La Fosse",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2025",
+    "Heure": "20:55:00",
+    "Titre": "Nismet",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "28/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Road Trip",
+    "Saison": "Mini-série",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "28/02/2025",
+    "Heure": "00:00:00",
+    "Titre": "Les Coqs",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "PB",
+    "Note": "Version néerlandaise de la série espagnole Machos Alfa"
+  },
+  {
     "Date": "05/03/2025",
     "Heure": "00:00:00",
     "Titre": "Daredevil: Born Again",
@@ -675,12 +756,39 @@
     "Note": null
   },
   {
+    "Date": "06/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "Beauty in Black",
+    "Saison": "Saison 1 partie 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "Paradis City",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "SUE",
+    "Note": null
+  },
+  {
     "Date": "13/03/2025",
     "Heure": "00:00:00",
     "Titre": "La Roue du Temps",
     "Saison": "Saison 3",
     "Plateforme": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "Adolescence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -702,6 +810,15 @@
     "Note": null
   },
   {
+    "Date": "21/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "Happy Face",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "26/03/2025",
     "Heure": "00:00:00",
     "Titre": "The Studio",
@@ -709,6 +826,42 @@
     "Plateforme": "Apple TV+",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "26/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "Atrapados",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2025",
+    "Heure": "00:00:00",
+    "Titre": "La Loi de la plus forte",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Devil May Cry (2025)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "08/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "How To Sell Drugs Online (Fast)",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Pays": "ALL",
+    "Note": "Dernière saison"
   },
   {
     "Date": "11/04/2025",
@@ -726,6 +879,15 @@
     "Saison": "Saison 2",
     "Plateforme": "Paramount+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Le Dôme de verre",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -756,12 +918,30 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "05/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Ginny & Georgia",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "25/06/2025",
     "Heure": "00:00:00",
     "Titre": "Ironheart",
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Squid Game",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
     "Note": null
   }
 ]

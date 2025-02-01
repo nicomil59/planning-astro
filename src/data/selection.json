@@ -1,11 +1,5 @@
 [
   {
-    "Date": "08/01/2025",
-    "Titre": "Elsbeth",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "09/01/2025",
     "Titre": "On Call",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "Paradise",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "06/02/2025",
+    "Titre": "Dexter: Les Origines",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   }
 ]

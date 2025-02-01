@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Zero Day",
-    "videoId": "sc3gu0FUKmM",
+    "titre": "Bref saison 2",
+    "videoId": "S757Hf_KGpI",
+    "plateforme": "Disney+"
+  },
+  {
+    "titre": "You saison 5",
+    "videoId": "FLbF6TLl8aY",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Paradise",
-    "videoId": "EUl9QEKcGIk",
-    "plateforme": "Disney+"
-  },
-  {
-    "titre": "A Thousand Blows",
-    "videoId": "20VjQNxo4TQ",
-    "plateforme": "Disney+"
+    "titre": "The White Lotus saison 3",
+    "videoId": "5-5mRdKQszI",
+    "plateforme": "Max"
   }
 ]
