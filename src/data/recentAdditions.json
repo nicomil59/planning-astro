@@ -1,248 +1,62 @@
 [
   {
-    "Date": "29/01/2025",
-    "Titre": "Le Hooligan",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/02/2025",
-    "Titre": "Young Sheldon",
-    "Saison": "Saisons 1 à 6",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "01/02/2025",
-    "Titre": "Ghosts (US)",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/02/2025",
-    "Titre": "Missing: The Other Side",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "03/02/2025",
-    "Titre": "Transformers : Earth Spark",
+    "Date": "04/02/2025",
+    "Titre": "Harry Wild",
     "Saison": "Saison 3",
-    "Plateforme": "Paramount+"
+    "Plateforme": "13ème Rue"
   },
   {
-    "Date": "05/02/2025",
-    "Titre": "9-1-1",
-    "Saison": "Saison 7",
-    "Plateforme": "Disney+"
+    "Date": "22/02/2025",
+    "Titre": "Cassandre",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
   },
   {
-    "Date": "05/02/2025",
-    "Titre": "Envieuse",
+    "Date": "23/02/2025",
+    "Titre": "Black Daisies",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "23/02/2025",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3"
+  },
+  {
+    "Date": "24/02/2025",
+    "Titre": "La Red Purpura",
     "Saison": "Saison 2",
-    "Plateforme": "Netflix"
+    "Plateforme": "Polar+"
   },
   {
-    "Date": "05/02/2025",
-    "Titre": "Sintonia",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "06/02/2025",
-    "Titre": "Golden Kamui : La chasse aux évadés",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "07/02/2025",
-    "Titre": "Newtopia",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "07/02/2025",
-    "Titre": "Entrevias",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/02/2025",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "Bref",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "The Commoner",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "Power Book II : Ghost",
-    "Saison": "Saison 4",
-    "Plateforme": "Lionsgate+"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "Comme un film",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "I am Married... But !",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "17/02/2025",
-    "Titre": "Marie-Antoinette : L'affaire du collier",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "17/02/2025",
-    "Titre": "Le Nounou",
+    "Date": "24/02/2025",
+    "Titre": "Clem : la rando en famille",
     "Saison": "Inédit",
     "Plateforme": "TF1"
   },
   {
-    "Date": "18/02/2025",
-    "Titre": "Mémoire vive",
-    "Saison": "Mini-série",
+    "Date": "24/02/2025",
+    "Titre": "Scènes de ménages, 15 ans : enfin réunis !",
+    "Saison": "Inédit",
     "Plateforme": "M6"
   },
   {
-    "Date": "19/02/2025",
-    "Titre": "Frotter frotter",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "19/02/2025",
-    "Titre": "Murder",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "19/02/2025",
-    "Titre": "L'Histoire de ma famille",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "20/02/2025",
-    "Titre": "Un Gentleman à Moscou",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "26/02/2025",
-    "Titre": "Abbott Elementary",
-    "Saison": "Saison 4 partie 1",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "27/02/2025",
-    "Titre": "Pokémon, les horizons",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "27/02/2025",
-    "Titre": "La Fosse",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "27/02/2025",
-    "Titre": "Nismet",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
     "Date": "28/02/2025",
-    "Titre": "The Road Trip",
+    "Titre": "Les Enquêtes de Foyle",
+    "Saison": "Saison 6",
+    "Plateforme": "Polar+"
+  },
+  {
+    "Date": "04/03/2025",
+    "Titre": "We Are Who We Are",
     "Saison": "Mini-série",
-    "Plateforme": "Paramount+"
+    "Plateforme": "Paris Première"
   },
   {
-    "Date": "28/02/2025",
-    "Titre": "Les Coqs",
+    "Date": "30/04/2025",
+    "Titre": "Carême",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "06/03/2025",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 1 partie 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "07/03/2025",
-    "Titre": "Paradis City",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "13/03/2025",
-    "Titre": "Adolescence",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "21/03/2025",
-    "Titre": "Happy Face",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
-    "Date": "26/03/2025",
-    "Titre": "Atrapados",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "27/03/2025",
-    "Titre": "La Loi de la plus forte",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "03/04/2025",
-    "Titre": "Devil May Cry (2025)",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/04/2025",
-    "Titre": "How To Sell Drugs Online (Fast)",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15/04/2025",
-    "Titre": "Le Dôme de verre",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "05/06/2025",
-    "Titre": "Ginny & Georgia",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "27/06/2025",
-    "Titre": "Squid Game",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
+    "Plateforme": "Apple TV+"
   }
 ]
