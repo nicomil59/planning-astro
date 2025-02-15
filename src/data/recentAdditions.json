@@ -1,62 +1,68 @@
 [
   {
-    "Date": "04/02/2025",
-    "Titre": "Harry Wild",
-    "Saison": "Saison 3",
-    "Plateforme": "13ème Rue"
+    "Date": "02/03/2025",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 12",
+    "Plateforme": "CStar"
   },
   {
-    "Date": "22/02/2025",
-    "Titre": "Cassandre",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "23/02/2025",
-    "Titre": "Black Daisies",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "23/02/2025",
-    "Titre": "Meurtres en eaux troubles",
-    "Saison": "Inédit",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "24/02/2025",
-    "Titre": "La Red Purpura",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "24/02/2025",
-    "Titre": "Clem : la rando en famille",
+    "Date": "03/03/2025",
+    "Titre": "Le Fil d'Ariane",
     "Saison": "Inédit",
     "Plateforme": "TF1"
   },
   {
-    "Date": "24/02/2025",
-    "Titre": "Scènes de ménages, 15 ans : enfin réunis !",
-    "Saison": "Inédit",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "28/02/2025",
-    "Titre": "Les Enquêtes de Foyle",
-    "Saison": "Saison 6",
-    "Plateforme": "Polar+"
-  },
-  {
     "Date": "04/03/2025",
-    "Titre": "We Are Who We Are",
-    "Saison": "Mini-série",
-    "Plateforme": "Paris Première"
+    "Titre": "Des gens bien ordinaires",
+    "Saison": "Chapitre 2",
+    "Plateforme": "Canal+"
   },
   {
-    "Date": "30/04/2025",
-    "Titre": "Carême",
+    "Date": "05/03/2025",
+    "Titre": "L'Intruse",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "06/03/2025",
+    "Titre": "Joseph, la crème de la crim",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "06/03/2025",
+    "Titre": "Douglas is Cancelled",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte"
+  },
+  {
+    "Date": "07/03/2025",
+    "Titre": "Trend",
+    "Saison": "Saison 1",
+    "Plateforme": "Trace Urban"
+  },
+  {
+    "Date": "08/03/2025",
+    "Titre": "La Brea",
+    "Saison": "Saison 3",
+    "Plateforme": "Série Club"
+  },
+  {
+    "Date": "10/03/2025",
+    "Titre": "The Righteous Gemstones",
+    "Saison": "Saison 4",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "09/04/2025",
+    "Titre": "The Handmaid's Tale",
+    "Saison": "Saison 6",
+    "Plateforme": "Ciné+ OCS"
+  },
+  {
+    "Date": "17/04/2025",
+    "Titre": "Nouvelle vie à Ransom Canyon",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]

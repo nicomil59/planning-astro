@@ -1,17 +1,5 @@
 [
   {
-    "Date": "10/01/2025",
-    "Titre": "The Pitt",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "17/01/2025",
-    "Titre": "Severance",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "23/01/2025",
     "Titre": "The Night Agent",
     "Saison": "Saison 2",
@@ -34,5 +22,17 @@
     "Titre": "Bref",
     "Saison": "Saison 2",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "17/02/2025",
+    "Titre": "The White Lotus",
+    "Saison": "Saison 3",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "20/02/2025",
+    "Titre": "Zero Day",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]
