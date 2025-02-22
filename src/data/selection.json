@@ -1,11 +1,5 @@
 [
-  {
-    "Date": "23/01/2025",
-    "Titre": "The Night Agent",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
+    {
     "Date": "28/01/2025",
     "Titre": "Paradise",
     "Saison": "Saison 1",
@@ -33,6 +27,12 @@
     "Date": "20/02/2025",
     "Titre": "Zero Day",
     "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "27/02/2025",
+    "Titre": "La Meneuse",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix"
   }
 ]
