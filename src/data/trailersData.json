@@ -1,17 +1,17 @@
 [
   {
+    "titre": "Pulse",
+    "videoId": "ln-8GbrflAg",
+    "plateforme": "Netflix"
+  },
+  {
     "titre": "Good American Family",
     "videoId": "r3x661NRaic",
     "plateforme": "Disney+"
   },
   {
-    "titre": "Andor saison 2",
-    "videoId": "UgUNyWe27lg",
-    "plateforme": "Disney+"
-  },
-  {
-    "titre": "The Walking Dead: Dead City saison 2",
-    "videoId": "tkU_2nkrQrs",
-    "plateforme": "Ciné+ OCS"
+    "titre": "Le Sens des choses",
+    "videoId": "hjT8ivF2cm0",
+    "plateforme": "Max"
   }
 ]

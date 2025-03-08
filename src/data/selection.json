@@ -1,10 +1,4 @@
 [
-    {
-    "Date": "28/01/2025",
-    "Titre": "Paradise",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
   {
     "Date": "06/02/2025",
     "Titre": "Dexter: Les Origines",
@@ -34,5 +28,11 @@
     "Titre": "La Meneuse",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "13/03/2025",
+    "Titre": "La Roue du temps",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video"
   }
 ]
