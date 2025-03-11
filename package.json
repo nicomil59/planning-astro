@@ -18,5 +18,8 @@
     "astro-seo": "^0.8.0",
     "dayjs": "^1.11.9",
     "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "prismjs": "^1.30.0"
   }
 }
