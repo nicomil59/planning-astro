@@ -1,17 +1,5 @@
 [
   {
-    "Date": "06/02/2025",
-    "Titre": "Dexter: Les Origines",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
-    "Date": "14/02/2025",
-    "Titre": "Bref",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "17/02/2025",
     "Titre": "The White Lotus",
     "Saison": "Saison 3",
@@ -34,5 +22,17 @@
     "Titre": "La Roue du temps",
     "Saison": "Saison 3",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "19/03/2025",
+    "Titre": "Grey's Anatomy",
+    "Saison": "Saison 20",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "20/03/2025",
+    "Titre": "La Résidence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]

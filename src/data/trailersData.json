@@ -1,17 +1,22 @@
 [
   {
-    "titre": "Pulse",
-    "videoId": "ln-8GbrflAg",
+    "titre": "The Last of Us saison 2",
+    "videoId": "2aVo4gCXZQc",
+    "plateforme": "Max"
+  },
+  {
+    "titre": "Black Mirror saison 7",
+    "videoId": "SxaZBi5mEV0",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Good American Family",
-    "videoId": "r3x661NRaic",
-    "plateforme": "Disney+"
+    "titre": "Vrais voisins, faux amis",
+    "videoId": "yO1aRBm31HA",
+    "plateforme": "Apple TV+"
   },
   {
-    "titre": "Le Sens des choses",
-    "videoId": "hjT8ivF2cm0",
-    "plateforme": "Max"
+    "titre": "Ghosts : Fantômes en héritage",
+    "videoId": "https://www.youtube.com/watch?v=cFIV3pw57Do",
+    "plateforme": "Disney+"
   }
 ]

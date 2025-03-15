@@ -1,221 +1,5 @@
 [
   {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Young Sheldon",
-    "Saison": "Saison 7",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Potato Lab",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Yellowstone",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Gilmore Girls",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Young Sheldon",
-    "Saison": "Saison 7",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Young Sheldon",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Resident Alien",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Sakura, chasseuse de cartes",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "02/03/2025",
-    "Heure": "21:10:00",
-    "Titre": "Chicago Fire",
-    "Saison": "Saison 12",
-    "Plateforme": "CStar",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/03/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Fil d'Ariane",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2025",
-    "Heure": "22:45:00",
-    "Titre": "We Are Who We Are",
-    "Saison": "Mini-série",
-    "Plateforme": "Paris Première",
-    "Pays": "US, ITA",
-    "Note": "Déjà diffusée sur OCS"
-  },
-  {
-    "Date": "04/03/2025",
-    "Heure": "23:20:00",
-    "Titre": "Des gens bien ordinaires",
-    "Saison": "Chapitre 2",
-    "Plateforme": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Daredevil: Born Again",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2025",
-    "Heure": "21:05:00",
-    "Titre": "L'Intruse",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Juste un regard",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Medusa",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Guépard",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "ITA, UK",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 1 partie 2",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2025",
-    "Heure": "21:10:00",
-    "Titre": "Joseph, la crème de la crim",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2025",
-    "Heure": "20:55:00",
-    "Titre": "Douglas is Cancelled",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Paradis City",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2025",
-    "Heure": "21:00:00",
-    "Titre": "Trend",
-    "Saison": "Saison 1",
-    "Plateforme": "Trace Urban",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Vie portera ses fruits",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "When No One Sees Us",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
     "Date": "08/03/2025",
     "Heure": "21:00:00",
     "Titre": "La Brea",
@@ -639,6 +423,42 @@
     "Note": null
   },
   {
+    "Date": "31/03/2025",
+    "Heure": "20:55:00",
+    "Titre": "Black Snow",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2025",
+    "Heure": "21:10:00",
+    "Titre": "Monsieur Parizot",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2025",
+    "Heure": "21:10:00",
+    "Titre": "Kaboul",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA, BEL, ALL, ITA, GRE",
+    "Note": null
+  },
+  {
+    "Date": "02/04/2025",
+    "Heure": "21:10:00",
+    "Titre": "Tout le monde ment",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Pays": "FRA, BEL",
+    "Note": null
+  },
+  {
     "Date": "03/04/2025",
     "Heure": "00:00:00",
     "Titre": "Devil May Cry (2025)",
@@ -666,12 +486,48 @@
     "Note": null
   },
   {
+    "Date": "03/04/2025",
+    "Heure": "20:55:00",
+    "Titre": "37 Secondes",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2025",
+    "Heure": "21:10:00",
+    "Titre": "Flashback",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Georgie & Mandy’s First Marriage",
+    "Saison": "Saison 1",
+    "Plateforme": "Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/04/2025",
     "Heure": "21:00:00",
     "Titre": "The Rookie : le flic de Los Angeles",
     "Saison": "Saison 7",
     "Plateforme": "Série Club",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/04/2025",
+    "Heure": "21:10:00",
+    "Titre": "Clean",
+    "Saison": "Saison 1",
+    "Plateforme": "M6",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -693,9 +549,36 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "09/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Ghosts : Fantômes en héritage",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Pays": "FRA",
+    "Note": "Adaptation française de la série britannique éponyme"
+  },
+  {
+    "Date": "10/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Black Mirror",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "10/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Chronique Arctique",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CAN, US",
+    "Note": "Titre original : \"North of North\""
+  },
+  {
     "Date": "11/04/2025",
     "Heure": "00:00:00",
-    "Titre": "Your Friends and Neighbors",
+    "Titre": "Vrais voisins, faux amis",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Pays": "US",
