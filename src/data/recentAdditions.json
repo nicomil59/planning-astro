@@ -1,68 +1,62 @@
 [
   {
-    "Date": "31/03/2025",
-    "Titre": "Black Snow",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+"
-  },
-  {
-    "Date": "31/03/2025",
-    "Titre": "Monsieur Parizot",
-    "Saison": "Inédit",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "31/03/2025",
-    "Titre": "Kaboul",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "02/04/2025",
-    "Titre": "Tout le monde ment",
-    "Saison": "Inédit",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "03/04/2025",
-    "Titre": "37 Secondes",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
-    "Date": "03/04/2025",
-    "Titre": "Flashback",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1"
-  },
-  {
-    "Date": "03/04/2025",
-    "Titre": "Georgie & Mandy’s First Marriage",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
+    "Date": "18/03/2025",
+    "Titre": "Les Enquêtes de Pearl Nolan",
+    "Saison": "Saison 3",
+    "Plateforme": "13ème Rue"
   },
   {
     "Date": "04/04/2025",
-    "Titre": "Clean",
-    "Saison": "Saison 1",
-    "Plateforme": "M6"
-  },
-  {
-    "Date": "09/04/2025",
-    "Titre": "Ghosts : Fantômes en héritage",
-    "Saison": "Saison 1",
+    "Titre": "Dying For Sex",
+    "Saison": "Mini-série",
     "Plateforme": "Disney+"
   },
   {
-    "Date": "10/04/2025",
-    "Titre": "Black Mirror",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix"
+    "Date": "07/04/2025",
+    "Titre": "Cimetière Indien",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   },
   {
     "Date": "10/04/2025",
-    "Titre": "Chronique Arctique",
+    "Titre": "Moonrise",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "01/05/2025",
+    "Titre": "Les Quatre saisons",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/05/2025",
+    "Titre": "The Reserve",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/05/2025",
+    "Titre": "Sirens (2025)",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23/05/2025",
+    "Titre": "Big Mouth",
+    "Saison": "Saison 8",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "30/05/2025",
+    "Titre": "MobLand",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+"
+  },
+  {
+    "Date": "18/06/2025",
+    "Titre": "The Buccaneers",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "Date": "17/02/2025",
-    "Titre": "The White Lotus",
-    "Saison": "Saison 3",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "20/02/2025",
-    "Titre": "Zero Day",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "27/02/2025",
     "Titre": "La Meneuse",
     "Saison": "Saison 1",
@@ -24,6 +12,12 @@
     "Plateforme": "Prime Video"
   },
   {
+    "Date": "13/03/2025",
+    "Titre": "Adolescence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
     "Date": "19/03/2025",
     "Titre": "Grey's Anatomy",
     "Saison": "Saison 20",
@@ -34,5 +28,12 @@
     "Titre": "La Résidence",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+
+  {
+    "Date": "26/03/2025",
+    "Titre": "The Studio",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]
