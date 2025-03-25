@@ -3,15 +3,16 @@ import { Image } from "astro:assets";
 import x from "./images/x.svg";
 import facebook from "./images/facebook.svg";
 import threads from "./images/threads.svg";
+import bluesky from "./images/bluesky.svg";
 ---
 
-<footer class="m-4 px-2 py-3 text-sm bg-notionyellow-50 rounded-lg dark:text-gray-800 dark:bg-darkbgBrown-300">
+<footer class="m-4 px-2 py-3 text-xs bg-notionyellow-50 rounded-lg dark:text-gray-800 dark:bg-darkbgBrown-300">
   <div
     class="w-full mx-auto md:w-10/12 sm:flex sm:justify-between sm:items-center"
   >
-    <div class="">© 2023-2025 Planning Séries - nicomil</div>
+    <div class="mr-1 flex items-center flex-wrap gap-1"><span>© 2025</span><span>Planning Séries</span></div>
     <ul
-      class="flex flex-wrap sm:justify-center mt-3 sm:mt-0 sm:items-center gap-3 sm:gap-4 font-medium ml-auto"
+      class="flex flex-wrap sm:justify-center mt-3 sm:mt-0 sm:items-center gap-3 sm:gap-4"
     >
       <li>
         <a class="hover:underline" href="/">Accueil</a>
@@ -34,7 +35,7 @@ import threads from "./images/threads.svg";
       <li>
         <button
           id="manage-cookies"
-          class="font-medium hover:underline focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 rounded"
+          class="hover:underline focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 rounded"
           type="button"
         >
           Gérer les cookies
@@ -42,14 +43,14 @@ import threads from "./images/threads.svg";
       </li>
     </ul>
     <div class="flex gap-4 sm:ml-6 mt-4 sm:mt-0">
-        <a class="" href="https://twitter.com/seriestvnews" target="_blank">
+        <a class="w-4" href="https://twitter.com/seriestvnews" target="_blank">
           <Image class="" src={x} alt="x icon" loading="eager" />
         </a>
-        <a class="" href="https://www.facebook.com/tvchronik" target="_blank">
+        <a class="w-4" href="https://www.facebook.com/tvchronik" target="_blank">
           <Image class="" src={facebook} alt="facebook icon" loading="eager" />
         </a>
-        <a class="" href="https://www.threads.net/@planningseries"target="_blank">
-          <Image class="" src={threads} alt="threads icon" loading="eager" />
+        <a class="w-4" href="https://bsky.app/profile/planningseries.fr" target="_blank">
+          <Image class="" src={bluesky} alt="bluesky icon" loading="eager" />
         </a>
     </div>
   </div>
