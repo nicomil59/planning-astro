@@ -1,182 +1,11 @@
 [
   {
-    "Date": "17/03/2025",
+    "Date": "25/03/2025",
     "Heure": "00:00:00",
-    "Titre": "J'irai cracher sur vos tombes",
+    "Titre": "Héros fragile",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "18/03/2025",
-    "Heure": "21:00:00",
-    "Titre": "Les Enquêtes de Pearl Nolan",
-    "Saison": "Saison 3",
-    "Plateforme": "13ème Rue",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "19/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Quiz",
-    "Saison": "Mini-série",
-    "Plateforme": "Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "19/03/2025",
-    "Heure": "22:50:00",
-    "Titre": "Grey's Anatomy: Station 19",
-    "Saison": "Saison 6",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Bloqués",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "19/03/2025",
-    "Heure": "21:10:00",
-    "Titre": "Grey's Anatomy",
-    "Saison": "Saison 20",
-    "Plateforme": "TF1",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Vengeances",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "ALL, AUT",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Résidence",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "21:00:00",
-    "Titre": "Matlock (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "21:00:00",
-    "Titre": "Dope Girls",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "On parie ?",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Roi Loup",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "20/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Khakee : chronique d'un flic du bengale",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "21/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Happy Face",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Be@rbrick",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "A Decent Man",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "21/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Go!",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "21/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "Knokke Off : jeunesse dorée",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Pays": "BEL",
-    "Note": null
-  },
-  {
-    "Date": "22/03/2025",
-    "Heure": "00:00:00",
-    "Titre": "A Very English Scandal",
-    "Saison": "Mini-série",
-    "Plateforme": "Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "22/03/2025",
-    "Heure": "21:10:00",
-    "Titre": "NCIS",
-    "Saison": "Saison 22",
-    "Plateforme": "M6",
-    "Pays": "US",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -369,6 +198,15 @@
     "Note": null
   },
   {
+    "Date": "03/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Jurassic World : La théorie du chaos",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/04/2025",
     "Heure": "21:00:00",
     "Titre": "The Rookie : le flic de Los Angeles",
@@ -396,12 +234,48 @@
     "Note": "Avec Michelle Williams"
   },
   {
+    "Date": "04/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Karma",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "04/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Sweetpea",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "06/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Chucky",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Salto"
+  },
+  {
     "Date": "07/04/2025",
     "Heure": "21:00:00",
     "Titre": "Cimetière Indien",
     "Saison": "Saison 1",
     "Plateforme": "Canal+",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/04/2025",
+    "Heure": "20:55:00",
+    "Titre": "Brilliant Minds",
+    "Saison": "Saison 1",
+    "Plateforme": "Warner TV",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -477,6 +351,15 @@
     "Note": null
   },
   {
+    "Date": "11/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "El Jardinero",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "12/04/2025",
     "Heure": "00:00:00",
     "Titre": "Doctor Who (2025)",
@@ -484,6 +367,15 @@
     "Plateforme": "Disney+",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "13/04/2025",
+    "Heure": "21:05:00",
+    "Titre": "Mystères au paradis",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Pays": "UK",
+    "Note": "Série dérivée de Meurtres au paradis"
   },
   {
     "Date": "14/04/2025",
@@ -495,12 +387,30 @@
     "Note": null
   },
   {
+    "Date": "14/04/2025",
+    "Heure": "21:05:00",
+    "Titre": "La Rebelle : Les aventures de la jeune George Sand",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "15/04/2025",
     "Heure": "00:00:00",
     "Titre": "Le Dôme de verre",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2025",
+    "Heure": "21:05:00",
+    "Titre": "Face à face",
+    "Saison": "Saison 3",
+    "Plateforme": "France 3",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -522,6 +432,15 @@
     "Note": null
   },
   {
+    "Date": "16/04/2025",
+    "Heure": "20:55:00",
+    "Titre": "Dark Winds",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "17/04/2025",
     "Heure": "00:00:00",
     "Titre": "Nouvelle vie à Ransom Canyon",
@@ -538,6 +457,24 @@
     "Plateforme": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "17/04/2025",
+    "Heure": "20:55:00",
+    "Titre": "No Man's Land",
+    "Saison": "Saison 2",
+    "Plateforme": "Arte",
+    "Pays": "FRA, BEL, ISR",
+    "Note": null
+  },
+  {
+    "Date": "20/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Hacks",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Teva"
   },
   {
     "Date": "23/04/2025",
@@ -567,11 +504,38 @@
     "Note": "Nouvelle série des créateurs de Gilmore Girls et The Marvelous Mrs. Maisel"
   },
   {
+    "Date": "25/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "WondLa",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "30/04/2025",
     "Heure": "00:00:00",
     "Titre": "Carême",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "30/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "L'Éternaute",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
+    "Date": "30/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Astérix & Obélix : Le combat des chefs",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
     "Pays": "FRA",
     "Note": null
   },
@@ -630,11 +594,29 @@
     "Note": null
   },
   {
+    "Date": "15/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Surcompensation",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "16/05/2025",
     "Heure": "00:00:00",
     "Titre": "Murderbot",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Duster",
+    "Saison": "Saison 1",
+    "Plateforme": "Max",
     "Pays": "US",
     "Note": null
   },
@@ -655,6 +637,15 @@
     "Plateforme": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "29/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Better Sister",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "30/05/2025",

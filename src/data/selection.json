@@ -1,11 +1,5 @@
 [
   {
-    "Date": "27/02/2025",
-    "Titre": "La Meneuse",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "13/03/2025",
     "Titre": "La Roue du temps",
     "Saison": "Saison 3",
@@ -35,5 +29,11 @@
     "Titre": "The Studio",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "04/04/2025",
+    "Titre": "Dying For Sex",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   }
 ]

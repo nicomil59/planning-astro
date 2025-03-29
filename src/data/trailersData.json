@@ -1,22 +1,22 @@
 [
   {
-    "titre": "The Last of Us saison 2",
-    "videoId": "2aVo4gCXZQc",
+    "titre": "Étoile",
+    "videoId": "Q9RjckSdVuU",
+    "plateforme": "Prime Video"
+  },
+  {
+    "titre": "You saison 5",
+    "videoId": "mO4l-jQ0Lx4",
+    "plateforme": "Netflix"
+  },
+  {
+    "titre": "Surcompensation",
+    "videoId": "KEF1wjWYTGQ",
+    "plateforme": "Prime Video"
+  },
+  {
+    "titre": "Duster",
+    "videoId": "bFvPEeAwKzw",
     "plateforme": "Max"
-  },
-  {
-    "titre": "La Rivière des disparues",
-    "videoId": "a6N045em52s",
-    "plateforme": "Max"
-  },
-  {
-    "titre": "Dying For Sex",
-    "videoId": "eyDiZn8CudA",
-    "plateforme": "Disney+"
-  },
-  {
-    "titre": "Carême",
-    "videoId": "7G6Hc5Q58Uw",
-    "plateforme": "Apple TV+"
   }
 ]
