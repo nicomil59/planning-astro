@@ -13,21 +13,21 @@ const updateDate = "5 avril 2025";
   </p>
   <p>Les dernières dates ajoutées au planning.</p>
 
-  <table class="my-4 text-xs sm:text-sm table-auto max-w-screen-md sm:w-4/5 m-auto border-separate border-spacing-1">
-    <thead>
-      <tr>
-        <th class="bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950">Date</th>
-        <th class="bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950">Titre</th>
-        <th class="bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950">Saison</th>
-        <th class="bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950">Plateforme</th>
-      </tr>
-    </thead>
-    <tbody>
+  <div class="md:space-y-2 my-8">
+    <div class="hidden md:grid grid-cols-[0.5fr_2fr_1fr_1fr] text-sm font-semibold bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950 px-4">
+      <div>Date</div>
+      <div>Titre</div>
+      <div>Saison</div>
+      <div>Plateforme</div>
+    </div>
+
+    <div class="flex flex-col gap-2 items-center">
       {
         recentAdditions.map((item) => (
           <RecentItem {...item} />
         ))
       }
-    </tbody>
-  </table>
+    </div>
+    
+  </div>
 </section>

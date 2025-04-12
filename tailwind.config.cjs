@@ -15,6 +15,7 @@ module.exports = {
 					600: '#e1980d'
 				},
 				notiongray: {
+					50: '#f7f7f5',
 					100: '#f1f1ef'
 				},
 				notionyellow: {
