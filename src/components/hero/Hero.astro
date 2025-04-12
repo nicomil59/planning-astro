@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets';
-import heroImage from "./images/la-residence-netflix.jpg";
+import heroImage from "./images/your-friends-and-neighbors.jpg";
 ---
 
 <style>
@@ -15,17 +15,17 @@ import heroImage from "./images/la-residence-netflix.jpg";
   }
 </style>
 
-<section class="hero flex flex-col lg:flex-row justify-center items-center gap-4 sm:gap-9 xl:gap-16 mt-4 sm:mt-8 lg:mt-16">
+<section class="hero flex flex-col lg:flex-row-reverse justify-center items-center gap-4 sm:gap-9 xl:gap-16 mt-4 sm:mt-8 lg:mt-16">
   <div class="hero-image">
     <figure>
       <Image
         class="rounded-lg lg:max-w-lg xl:max-w-xl"
         src={heroImage}
-        alt="Uzo Aduba dans la série La Résidence"
+        alt="Vrais voisins, faux amis"
         loading="eager"
       />
       <figcaption class="text-xs">
-        Uzo Aduba - <span class="font-semibold">La Résidence</span> - Netflix
+        Amanda Peet et Jon Hamm - <span class="font-semibold">Vrais voisins, faux amis</span> - Apple TV+
       </figcaption>
     </figure>
   </div>
