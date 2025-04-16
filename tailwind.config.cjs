@@ -37,6 +37,7 @@ module.exports = {
 				},
 				darkbgBrown: {
 					300: '#d0b786',
+					700: '#625329',
 					950: '#272210'
 				},
 				selectionDarkbg: {
