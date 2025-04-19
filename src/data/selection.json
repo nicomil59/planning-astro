@@ -1,17 +1,5 @@
 [
   {
-    "Date": "26/03/2025",
-    "Titre": "The Studio",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "04/04/2025",
-    "Titre": "Dying For Sex",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "08/04/2025",
     "Titre": "The Handmaid's Tale",
     "Saison": "Saison 6",
@@ -34,5 +22,17 @@
     "Titre": "The Last of Us",
     "Saison": "Saison 2",
     "Plateforme": "Max"
+  },
+  {
+    "Date": "23/04/2025",
+    "Titre": "Andor",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "24/04/2025",
+    "Titre": "Étoile",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
   }
 ]

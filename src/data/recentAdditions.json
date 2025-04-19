@@ -1,98 +1,86 @@
 [
   {
-    "Date": "17/04/2025",
-    "Titre": "Encyclopédie d'Istanbul",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "19/04/2025",
-    "Titre": "Mon Amour au paradis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "26/04/2025",
-    "Titre": "Money Shot",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+ Séries"
-  },
-  {
-    "Date": "28/04/2025",
-    "Titre": "Sam",
-    "Saison": "Saison 8",
+    "Date": "23/04/2025",
+    "Titre": "Grey's Anatomy",
+    "Saison": "Saison 21",
     "Plateforme": "TF1"
   },
   {
-    "Date": "01/05/2025",
-    "Titre": "Merlin",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "Robin des Bois",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "I Know Your Soul",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte"
-  },
-  {
     "Date": "02/05/2025",
-    "Titre": "Bad Boy",
+    "Titre": "Sous pression",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "France.tv"
   },
   {
     "Date": "04/05/2025",
-    "Titre": "Le Ministère du Temps",
+    "Titre": "McDonald & Dodds",
     "Saison": "Saison 4",
-    "Plateforme": "Syfy"
+    "Plateforme": "France 3"
   },
   {
-    "Date": "04/05/2025",
-    "Titre": "FBI",
-    "Saison": "Saison 6",
-    "Plateforme": "Série Club"
+    "Date": "05/05/2025",
+    "Titre": "Meurtres au paradis",
+    "Saison": "Saison 14",
+    "Plateforme": "France 2"
   },
   {
     "Date": "07/05/2025",
-    "Titre": "Knightfall",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+"
-  },
-  {
-    "Date": "14/05/2025",
-    "Titre": "Scandal",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+"
-  },
-  {
-    "Date": "14/05/2025",
-    "Titre": "MotherFatherSon",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+"
-  },
-  {
-    "Date": "15/05/2025",
-    "Titre": "Love, Death and Robots",
+    "Titre": "Parlement",
     "Saison": "Saison 4",
+    "Plateforme": "France.tv"
+  },
+  {
+    "Date": "08/05/2025",
+    "Titre": "Génération 90 : Les secrets des séries cultes",
+    "Saison": "Doc",
+    "Plateforme": "6ter"
+  },
+  {
+    "Date": "08/05/2025",
+    "Titre": "Blood of Zeus",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/05/2025",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "12/05/2025",
+    "Titre": "Intérim'air",
+    "Saison": "Série courte",
+    "Plateforme": "Teva"
   },
   {
     "Date": "16/05/2025",
-    "Titre": "Legado",
+    "Titre": "Cher Hongrang",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
   },
   {
-    "Date": "19/06/2025",
-    "Titre": "The Waterfront",
-    "Saison": "Saison 1",
+    "Date": "30/05/2025",
+    "Titre": "And Just Like That...",
+    "Saison": "Saison 3",
+    "Plateforme": "Max"
+  },
+  {
+    "Date": "27/06/2025",
+    "Titre": "Smoke",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "03/07/2025",
+    "Titre": "The Sandman",
+    "Saison": "Saison 2 partie 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "24/07/2025",
+    "Titre": "The Sandman",
+    "Saison": "Saison 2 partie 2",
     "Plateforme": "Netflix"
   }
 ]

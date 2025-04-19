@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Good American Family",
-    "videoId": "BwBbc_mGfn4",
-    "plateforme": "Disney+"
-  },
-  {
-    "titre": "Black Mirror saison 7",
-    "videoId": "e70f3p33dpY",
+    "titre": "Les Quatre saisons",
+    "videoId": "rd8ZudNEvMA",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Love, Death and Robots saison 4",
-    "videoId": "7jb49T80yKk",
+    "titre": "And Just Like That... saison 3",
+    "videoId": "kXyMC9hXvCs",
+    "plateforme": "Max"
+  },
+  {
+    "titre": "Ginny & Georgia saison 3",
+    "videoId": "X3q1ca82Pog",
     "plateforme": "Netflix"
   }
 ]
