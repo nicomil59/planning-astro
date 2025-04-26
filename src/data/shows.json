@@ -1,190 +1,11 @@
 [
   {
-    "Date": "14/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Last of Us",
-    "Saison": "Saison 2",
-    "Plateforme": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/04/2025",
-    "Heure": "21:05:00",
-    "Titre": "La Rebelle : Les aventures de la jeune George Sand",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Dôme de verre",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "15/04/2025",
-    "Heure": "21:05:00",
-    "Titre": "Face à face",
-    "Saison": "Saison 3",
-    "Plateforme": "France 3",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Livre perdu des sortilèges : A Discovery of Witches",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Government Cheese",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Stolen Girl",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "20:55:00",
-    "Titre": "Dark Winds",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Blue Bloods",
-    "Saison": "Saison 11",
-    "Plateforme": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Projekt UFO",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "16/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Good American Family",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Nouvelle vie à Ransom Canyon",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "#1 Happy Family USA",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2025",
-    "Heure": "20:55:00",
-    "Titre": "No Man's Land",
-    "Saison": "Saison 2",
-    "Plateforme": "Arte",
-    "Pays": "FRA, BEL, ISR",
-    "Note": null
-  },
-  {
-    "Date": "17/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Encyclopédie d'Istanbul",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "18/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Jane",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Obituary",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Pays": "IRL",
-    "Note": null
-  },
-  {
-    "Date": "19/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Mon Amour au paradis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "20/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Hacks",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Teva"
-  },
-  {
-    "Date": "20/04/2025",
-    "Heure": "20:55:00",
-    "Titre": "Black Sands",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Pays": "ISL",
-    "Note": null
-  },
-  {
     "Date": "21/04/2025",
     "Heure": "20:55:00",
     "Titre": "Critical Incident",
     "Saison": "Saison 1",
     "Plateforme": "Polar+",
+    "Categorie": "Câble",
     "Pays": "AUS",
     "Note": null
   },
@@ -194,6 +15,7 @@
     "Titre": "The Rehearsal",
     "Saison": "Saison 2",
     "Plateforme": "Max",
+    "Categorie": "Max",
     "Pays": "US",
     "Note": null
   },
@@ -203,6 +25,7 @@
     "Titre": "Le Nounou",
     "Saison": "Inédit",
     "Plateforme": "TF1",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
   },
@@ -212,6 +35,7 @@
     "Titre": "Andor",
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -221,6 +45,7 @@
     "Titre": "NCIS: Los Angeles",
     "Saison": "Saisons 7 et 12",
     "Plateforme": "Paramount+",
+    "Categorie": "SVOD",
     "Pays": "US",
     "Note": null
   },
@@ -230,6 +55,7 @@
     "Titre": "Cette nuit-là",
     "Saison": "Mini-série",
     "Plateforme": "France 2",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
   },
@@ -239,6 +65,7 @@
     "Titre": "Grey's Anatomy",
     "Saison": "Saison 21",
     "Plateforme": "TF1",
+    "Categorie": "TNT",
     "Pays": "US",
     "Note": null
   },
@@ -248,6 +75,7 @@
     "Titre": "You",
     "Saison": "Saison 5",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
   },
@@ -257,6 +85,7 @@
     "Titre": "Étoile",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Nouvelle série des créateurs de Gilmore Girls et The Marvelous Mrs. Maisel"
   },
@@ -266,6 +95,7 @@
     "Titre": "Léo Matteï",
     "Saison": "Saison 12",
     "Plateforme": "TF1",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
   },
@@ -275,7 +105,28 @@
     "Titre": "WondLa",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Héros fragile",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "25/04/2025",
+    "Heure": "00:00:00",
+    "Titre": "Trop de leçons à donner",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -284,6 +135,7 @@
     "Titre": "Money Shot",
     "Saison": "Saison 1",
     "Plateforme": "Canal+ Séries",
+    "Categorie": "Canal",
     "Pays": "FIN",
     "Note": null
   },
@@ -293,6 +145,7 @@
     "Titre": "Sam",
     "Saison": "Saison 8",
     "Plateforme": "TF1",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
   },
@@ -302,6 +155,7 @@
     "Titre": "Arcadia",
     "Saison": "Saison 2",
     "Plateforme": "Syfy",
+    "Categorie": "Câble",
     "Pays": "BEL, PB",
     "Note": null
   },
@@ -311,6 +165,7 @@
     "Titre": "Carême",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "FRA",
     "Note": null
   },
@@ -320,6 +175,7 @@
     "Titre": "L'Éternaute",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "ARG",
     "Note": null
   },
@@ -329,6 +185,7 @@
     "Titre": "Astérix & Obélix : Le combat des chefs",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "FRA",
     "Note": null
   },
@@ -338,6 +195,7 @@
     "Titre": "Les Quatre saisons",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Avec Tina Fey et Steve Carell"
   },
@@ -347,6 +205,7 @@
     "Titre": "Merlin",
     "Saison": "Intégrale",
     "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "UK",
     "Note": null
   },
@@ -356,6 +215,7 @@
     "Titre": "Robin des Bois",
     "Saison": "Intégrale",
     "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "UK",
     "Note": null
   },
@@ -365,7 +225,18 @@
     "Titre": "I Know Your Soul",
     "Saison": "Mini-série",
     "Plateforme": "Arte",
+    "Categorie": "TNT",
     "Pays": "BOS",
+    "Note": null
+  },
+  {
+    "Date": "01/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Hacks",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -374,6 +245,7 @@
     "Titre": "Malditos",
     "Saison": "Saison 1",
     "Plateforme": "Max",
+    "Categorie": "Max",
     "Pays": "FRA",
     "Note": null
   },
@@ -383,6 +255,7 @@
     "Titre": "Bad Boy",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "ISR",
     "Note": null
   },
@@ -392,7 +265,18 @@
     "Titre": "Sous pression",
     "Saison": "Saison 1",
     "Plateforme": "France.tv",
+    "Categorie": "SVOD",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "02/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Furtive",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AFS",
     "Note": null
   },
   {
@@ -401,6 +285,7 @@
     "Titre": "Star Wars: Tales of The Underworld",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -410,6 +295,7 @@
     "Titre": "Le Ministère du Temps",
     "Saison": "Saison 4",
     "Plateforme": "Syfy",
+    "Categorie": "Câble",
     "Pays": "ESP",
     "Note": null
   },
@@ -419,6 +305,7 @@
     "Titre": "FBI",
     "Saison": "Saison 6",
     "Plateforme": "Série Club",
+    "Categorie": "Câble",
     "Pays": "US",
     "Note": null
   },
@@ -428,6 +315,7 @@
     "Titre": "McDonald & Dodds",
     "Saison": "Saison 4",
     "Plateforme": "France 3",
+    "Categorie": "TNT",
     "Pays": "UK",
     "Note": null
   },
@@ -437,6 +325,7 @@
     "Titre": "The Walking Dead: Dead City",
     "Saison": "Saison 2",
     "Plateforme": "OCS",
+    "Categorie": "OCS",
     "Pays": "US",
     "Note": null
   },
@@ -446,6 +335,7 @@
     "Titre": "Meurtres au paradis",
     "Saison": "Saison 14",
     "Plateforme": "France 2",
+    "Categorie": "TNT",
     "Pays": "FRA, UK",
     "Note": null
   },
@@ -455,6 +345,7 @@
     "Titre": "Knightfall",
     "Saison": "Intégrale",
     "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "US",
     "Note": null
   },
@@ -464,6 +355,7 @@
     "Titre": "Parlement",
     "Saison": "Saison 4",
     "Plateforme": "France.tv",
+    "Categorie": "SVOD",
     "Pays": "FRA, BEL, ALL",
     "Note": null
   },
@@ -473,6 +365,7 @@
     "Titre": "Pour toujours",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -482,6 +375,7 @@
     "Titre": "Génération 90 : Les secrets des séries cultes",
     "Saison": "Doc",
     "Plateforme": "6ter",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": "Documentaire sur les séries des années 90"
   },
@@ -491,6 +385,7 @@
     "Titre": "Blood of Zeus",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
   },
@@ -500,8 +395,29 @@
     "Titre": "Capitaine Marleau",
     "Saison": "Inédit",
     "Plateforme": "France 2",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": "Épisode inédit avec Émilie Dequenne"
+  },
+  {
+    "Date": "09/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Royals (2025)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "IND",
+    "Note": null
+  },
+  {
+    "Date": "10/05/2025",
+    "Heure": "21:05:00",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "12/05/2025",
@@ -509,7 +425,18 @@
     "Titre": "Intérim'air",
     "Saison": "Série courte",
     "Plateforme": "Teva",
+    "Categorie": "Câble",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/05/2025",
+    "Heure": "20:55:00",
+    "Titre": "Matilha",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "POR",
     "Note": null
   },
   {
@@ -518,6 +445,17 @@
     "Titre": "Bad Thoughts",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/05/2025",
+    "Heure": "21:10:00",
+    "Titre": "9-1-1",
+    "Saison": "Saison 8",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
     "Pays": "US",
     "Note": null
   },
@@ -527,6 +465,7 @@
     "Titre": "Scandal",
     "Saison": "Intégrale",
     "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "US",
     "Note": null
   },
@@ -536,6 +475,7 @@
     "Titre": "MotherFatherSon",
     "Saison": "Mini-série",
     "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "UK",
     "Note": null
   },
@@ -545,17 +485,19 @@
     "Titre": "HPI",
     "Saison": "Saison 5",
     "Plateforme": "TF1",
+    "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
   },
   {
     "Date": "15/05/2025",
     "Heure": "00:00:00",
-    "Titre": "The Reserve",
+    "Titre": "Secrets We Keep",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "DAN",
-    "Note": null
+    "Note": "Titre original : Reservatet"
   },
   {
     "Date": "15/05/2025",
@@ -563,6 +505,7 @@
     "Titre": "Surcompensation",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -572,7 +515,28 @@
     "Titre": "Love, Death and Robots",
     "Saison": "Saison 4",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Bet",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CAN",
+    "Note": "Adaptation en live action du manga Kakegurui"
+  },
+  {
+    "Date": "15/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Merci et au suivant !",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
     "Note": null
   },
   {
@@ -581,6 +545,7 @@
     "Titre": "Murderbot",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "US",
     "Note": null
   },
@@ -590,6 +555,7 @@
     "Titre": "Duster",
     "Saison": "Saison 1",
     "Plateforme": "Max",
+    "Categorie": "Max",
     "Pays": "US",
     "Note": null
   },
@@ -599,6 +565,7 @@
     "Titre": "Legado",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "ESP",
     "Note": null
   },
@@ -608,7 +575,18 @@
     "Titre": "Cher Hongrang",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "16/05/2025",
+    "Heure": "21:05:00",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -617,8 +595,19 @@
     "Titre": "Sirens (2025)",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Avec Julianne Moore et Kevin Bacon"
+  },
+  {
+    "Date": "22/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "She The People",
+    "Saison": "Saison 1 partie 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "23/05/2025",
@@ -626,8 +615,19 @@
     "Titre": "Big Mouth",
     "Saison": "Saison 8",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "26/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Rick & Morty",
+    "Saison": "Saison 8",
+    "Plateforme": "Adult Swim",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "29/05/2025",
@@ -635,8 +635,19 @@
     "Titre": "The Better Sister",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "29/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Les Dossiers oubliés",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
+    "Note": "Titre original : Dept. Q"
   },
   {
     "Date": "30/05/2025",
@@ -644,6 +655,7 @@
     "Titre": "MobLand",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
+    "Categorie": "SVOD",
     "Pays": "US",
     "Note": null
   },
@@ -653,6 +665,7 @@
     "Titre": "And Just Like That...",
     "Saison": "Saison 3",
     "Plateforme": "Max",
+    "Categorie": "Max",
     "Pays": "US",
     "Note": null
   },
@@ -662,6 +675,7 @@
     "Titre": "Stick",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "US",
     "Note": null
   },
@@ -671,6 +685,7 @@
     "Titre": "Ginny & Georgia",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -680,6 +695,7 @@
     "Titre": "Grosse pression",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -689,6 +705,7 @@
     "Titre": "FUBAR",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -698,7 +715,18 @@
     "Titre": "The Buccaneers",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "18/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Nous, les menteurs",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -707,6 +735,7 @@
     "Titre": "The Waterfront",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Nouvelle série de Kevin Williamson, le créateur de Dawson et The Vampire Diaries"
   },
@@ -716,6 +745,7 @@
     "Titre": "Ironheart",
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -725,6 +755,7 @@
     "Titre": "Squid Game",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "CDS",
     "Note": null
   },
@@ -734,6 +765,7 @@
     "Titre": "Smoke",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
     "Pays": "US",
     "Note": null
   },
@@ -743,8 +775,19 @@
     "Titre": "The Sandman",
     "Saison": "Saison 2 partie 1",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": "La suite de la saison 2 sortira le 24 juillet"
+  },
+  {
+    "Date": "16/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "L'été où je suis devenue jolie",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Dernière saison"
   },
   {
     "Date": "24/07/2025",
@@ -752,6 +795,7 @@
     "Titre": "The Sandman",
     "Saison": "Saison 2 partie 2",
     "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -761,6 +805,47 @@
     "Titre": "Chief of War",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
+    "Categorie": "Apple",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Mercredi",
+    "Saison": "Saison 2 partie 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Seconde partie de la saison 2 le 3 septembre"
+  },
+  {
+    "Date": "14/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "She The People",
+    "Saison": "Saison 1 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Mercredi",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "29/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Star Wars: Visions",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   }

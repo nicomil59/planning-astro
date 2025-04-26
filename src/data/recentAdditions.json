@@ -1,86 +1,142 @@
 [
   {
-    "Date": "23/04/2025",
-    "Titre": "Grey's Anatomy",
-    "Saison": "Saison 21",
-    "Plateforme": "TF1"
+    "Date": "25/04/2025",
+    "Titre": "Héros fragile",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "25/04/2025",
+    "Titre": "Trop de leçons à donner",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/05/2025",
+    "Titre": "Hacks",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "02/05/2025",
-    "Titre": "Sous pression",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv"
-  },
-  {
-    "Date": "04/05/2025",
-    "Titre": "McDonald & Dodds",
-    "Saison": "Saison 4",
-    "Plateforme": "France 3"
-  },
-  {
-    "Date": "05/05/2025",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Saison 14",
-    "Plateforme": "France 2"
-  },
-  {
-    "Date": "07/05/2025",
-    "Titre": "Parlement",
-    "Saison": "Saison 4",
-    "Plateforme": "France.tv"
-  },
-  {
-    "Date": "08/05/2025",
-    "Titre": "Génération 90 : Les secrets des séries cultes",
-    "Saison": "Doc",
-    "Plateforme": "6ter"
-  },
-  {
-    "Date": "08/05/2025",
-    "Titre": "Blood of Zeus",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
+    "Titre": "Furtive",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "09/05/2025",
-    "Titre": "Capitaine Marleau",
+    "Titre": "The Royals (2025)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/05/2025",
+    "Titre": "Le Voyageur",
     "Saison": "Inédit",
-    "Plateforme": "France 2"
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
     "Date": "12/05/2025",
-    "Titre": "Intérim'air",
-    "Saison": "Série courte",
-    "Plateforme": "Teva"
+    "Titre": "Matilha",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/05/2025",
+    "Titre": "9-1-1",
+    "Saison": "Saison 8",
+    "Plateforme": "M6",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "15/05/2025",
+    "Titre": "Bet",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/05/2025",
+    "Titre": "Merci et au suivant !",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "16/05/2025",
-    "Titre": "Cher Hongrang",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "22/05/2025",
+    "Titre": "She The People",
+    "Saison": "Saison 1 partie 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "26/05/2025",
+    "Titre": "Rick & Morty",
+    "Saison": "Saison 8",
+    "Plateforme": "Adult Swim",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "29/05/2025",
+    "Titre": "Les Dossiers oubliés",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "30/05/2025",
-    "Titre": "And Just Like That...",
-    "Saison": "Saison 3",
-    "Plateforme": "Max"
-  },
-  {
-    "Date": "27/06/2025",
-    "Titre": "Smoke",
+    "Date": "18/06/2025",
+    "Titre": "Nous, les menteurs",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "03/07/2025",
-    "Titre": "The Sandman",
+    "Date": "16/07/2025",
+    "Titre": "L'été où je suis devenue jolie",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "06/08/2025",
+    "Titre": "Mercredi",
     "Saison": "Saison 2 partie 1",
-    "Plateforme": "Netflix"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "24/07/2025",
-    "Titre": "The Sandman",
+    "Date": "14/08/2025",
+    "Titre": "She The People",
+    "Saison": "Saison 1 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/09/2025",
+    "Titre": "Mercredi",
     "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "29/10/2025",
+    "Titre": "Star Wars: Visions",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   }
 ]
