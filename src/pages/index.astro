@@ -1,10 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Planning from '../components/planning/Planning.astro';
+// import Planning from '../components/planning/Planning.astro';
 import RecentAdditions from '../components/recent/RecentAdditions.astro';
 import Trailers from '../components/trailers/Trailers.astro';
 import Hero from '../components/hero/Hero.astro';
 import Selection from '../components/selection/Selection.astro';
+import PlanningJSX from '../components/planning/Planning'
 
 const pageTitle = "Planning Séries";
 const pageDescription = "Dans ce calendrier, retrouvez toutes les dates de sortie des séries en France sur les plateformes de streaming (comme Netflix, Prime Video ou Disney+) et les chaînes de télévision (TNT et câble)";
@@ -19,7 +20,8 @@ const OGType = "website";
 		<Selection />
 		<RecentAdditions />
 		<Trailers />
-		<Planning />
+		<!-- <Planning /> -->
+		<PlanningJSX client:load />
 	</main>
 </Layout>
 
