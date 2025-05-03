@@ -1,16 +1,35 @@
 import React, { useState } from "react";
 
 const ShowFilter = ({ categories, onFilterChange }) => {
-  const [selectedCategories, setSelectedCategories] = useState([]);
+  const [selectedCategories, setSelectedCategories] = useState(["Tous"]);
 
   const toggleCategory = (category) => {
-    const isSelected = selectedCategories.includes(category);
-    const updatedCategories = isSelected
-      ? selectedCategories.filter((cat) => cat !== category) // Retirer la catégorie si elle est déjà sélectionnée
-      : [...selectedCategories, category]; // Ajouter la catégorie si elle est non sélectionnée
+    
+    console.log("Category clicked", category);
+
+    let updatedCategories;
+
+    if(category === "Tous") {
+      updatedCategories = ["Tous"]; // si on clique sur "Tous", active uniquement "Tous"
+    } else {
+      if (selectedCategories.includes("Tous")) {
+        updatedCategories = [category]; // si on n'a pas cliqué sur "Tous" et que "Tous" est activé, on désactive "Tous"
+      } else {
+        // Cas où "Tous" n'était pas sélectionné        
+        const isSelected = selectedCategories.includes(category);
+        updatedCategories = isSelected
+          ? selectedCategories.filter((cat) => cat !== category)
+          : [...selectedCategories, category];
+        
+      }
+    }
+
+    if(updatedCategories.length === 0) {
+      updatedCategories = ["Tous"];
+    }
 
     setSelectedCategories(updatedCategories);
-    onFilterChange(updatedCategories); // Passer les catégories sélectionnées au parent
+    onFilterChange(updatedCategories);
   };
 
   return (
