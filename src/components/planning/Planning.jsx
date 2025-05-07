@@ -10,19 +10,6 @@ import {
 import ShowFilter from "./ShowFilter";
 
 const Planning = () => {
-  // const showsByDate = getShowsByDate(shows);
-  // const sortedShowsByDate = getSortedShowsByDate(showsByDate);
-
-  // const computedShows = sortedShowsByDate.map((group) => {
-  //   const showsByPlatform = getShowsByPlatform(group.shows);
-
-  //   return {
-  //     date: group.date,
-  //     shows: showsByPlatform,
-  //     id: Math.random().toString(36).slice(2, 12),
-  //   };
-  // });
-
   const formatShows = (shows) => {
     const showsByDate = getShowsByDate(shows);
     const sortedShowsByDate = getSortedShowsByDate(showsByDate);
@@ -40,8 +27,8 @@ const Planning = () => {
     return computedShows;
   };
 
-  // Génération dynamique des catégories
-  const categories = ["Tous", ...new Set(shows.map((s) => s.Categorie))];
+  // Génération manuelle des catégories
+  const CATEGORIES = ["Tous", "Netflix", "Prime Video", "Disney+", "Apple TV+", "Paramount+", "Max", "TNT", "SVOD", "Canal", "OCS", "Câble"];
 
   // État des séries filtrées
   const [filteredShows, setFilteredShows] = useState(shows);
@@ -64,12 +51,12 @@ const Planning = () => {
     <section id="planning" className="my-12 sm:my-24">
       <SectionTitleJSX text="Planning" />
 
-      <ShowFilter categories={categories} onFilterChange={filterShows} />
+      <ShowFilter categories={CATEGORIES} onFilterChange={filterShows} />
 
       <div className="transition-opacity duration-500 ease-in-out opacity-100">
-        {formatShows(filteredShows).map((dateGroup) => (
+        {filteredShows.length > 0 ? (formatShows(filteredShows).map((dateGroup) => (
           <GroupByDateJSX key={dateGroup.id} {...dateGroup} />
-        ))}
+        ))) : (<p className="text-lg">Aucune série disponible pour cette (ou ces) catégorie(s) actuellement... 🤷‍♂️</p>)}
       </div>
     </section>
   );

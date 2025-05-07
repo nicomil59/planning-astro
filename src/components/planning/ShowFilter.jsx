@@ -34,14 +34,14 @@ const ShowFilter = ({ categories, onFilterChange }) => {
 
   return (
     <div className="my-8">
-      <p className="text-lg font-bold">Show Filter</p>
+      <p className="mb-8">Filtrez les séries par plateforme pour afficher uniquement celles qui vous intéressent.</p>
       <div id="filters" className="flex flex-wrap gap-2 mb-6">
         {categories.map((cat) => (
           <button
             className={`px-3 py-1 rounded-full text-sm transition ${
               selectedCategories.includes(cat)
-                ? "bg-blue-500 text-white"
-                : "bg-gray-200 hover:bg-blue-100"
+                ? "bg-notionyellow-600 text-white"
+                : "bg-notionyellow-50 hover:bg-notionyellow-200"
             }`}
             data-categorie={cat}
             key={cat}
