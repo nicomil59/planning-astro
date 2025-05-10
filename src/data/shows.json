@@ -1,55 +1,5 @@
 [
   {
-    "Date": "28/04/2025",
-    "Heure": "21:10:00",
-    "Titre": "Sam",
-    "Saison": "Saison 8",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/04/2025",
-    "Heure": "21:00:00",
-    "Titre": "Arcadia",
-    "Saison": "Saison 2",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble",
-    "Pays": "BEL, PB",
-    "Note": null
-  },
-  {
-    "Date": "30/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Carême",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'Éternaute",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ARG",
-    "Note": null
-  },
-  {
-    "Date": "30/04/2025",
-    "Heure": "00:00:00",
-    "Titre": "Astérix & Obélix : Le combat des chefs",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/05/2025",
     "Heure": "00:00:00",
     "Titre": "Les Quatre saisons",
@@ -350,6 +300,16 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "08/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Soviet Jeans",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "LET",
+    "Note": null
+  },
+  {
     "Date": "09/05/2025",
     "Heure": "21:10:00",
     "Titre": "Capitaine Marleau",
@@ -470,6 +430,16 @@
     "Note": null
   },
   {
+    "Date": "14/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Abbott Elementary",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "15/05/2025",
     "Heure": "21:10:00",
     "Titre": "HPI",
@@ -550,12 +520,22 @@
     "Note": null
   },
   {
+    "Date": "15/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Black Clover",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "16/05/2025",
     "Heure": "00:00:00",
     "Titre": "Murderbot",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": null
   },
@@ -740,6 +720,16 @@
     "Note": null
   },
   {
+    "Date": "25/05/2025",
+    "Heure": "21:05:00",
+    "Titre": "Les carnets de Max Liebermann",
+    "Saison": "Saison 4",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "26/05/2025",
     "Heure": "00:00:00",
     "Titre": "Rick & Morty",
@@ -756,6 +746,16 @@
     "Saison": "Saison 14",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "26/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Plaine orientale",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal",
     "Pays": "FRA",
     "Note": null
   },
@@ -790,6 +790,16 @@
     "Note": null
   },
   {
+    "Date": "28/05/2025",
+    "Heure": "21:10:00",
+    "Titre": "Flash(s)",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA, BEL",
+    "Note": null
+  },
+  {
     "Date": "29/05/2025",
     "Heure": "00:00:00",
     "Titre": "The Better Sister",
@@ -820,6 +830,26 @@
     "Note": null
   },
   {
+    "Date": "29/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Mad Unicorn",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "THA",
+    "Note": null
+  },
+  {
+    "Date": "29/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Lost Boys and Fairies",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": "Diffusion sur Arte le 5 juin"
+  },
+  {
     "Date": "30/05/2025",
     "Heure": "00:00:00",
     "Titre": "MobLand",
@@ -845,7 +875,7 @@
     "Titre": "Stick",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": null
   },
@@ -867,6 +897,46 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Barracuda Queens",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "05/06/2025",
+    "Heure": "20:55:00",
+    "Titre": "Lost Boys and Fairies",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "06/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Survivors",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "06/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Sans merci",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -895,7 +965,7 @@
     "Titre": "The Buccaneers",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
+    "Categorie": "Apple TV+",
     "Pays": "UK",
     "Note": null
   },
@@ -927,6 +997,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "23/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Gilded Age",
+    "Saison": "Saison 3",
+    "Plateforme": "Max",
+    "Categorie": "Max",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -965,7 +1045,7 @@
     "Titre": "Smoke",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": null
   },
@@ -990,12 +1070,42 @@
     "Note": null
   },
   {
+    "Date": "11/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Foundation",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "12/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "South Park",
+    "Saison": "Saison 27",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "16/07/2025",
     "Heure": "00:00:00",
     "Titre": "L'été où je suis devenue jolie",
     "Saison": "Saison 3",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Dernière saison"
+  },
+  {
+    "Date": "23/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Acapulco",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": "Dernière saison"
   },
@@ -1015,7 +1125,7 @@
     "Titre": "Chief of War",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+",
-    "Categorie": "Apple",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": null
   },
@@ -1036,6 +1146,26 @@
     "Saison": "Saison 1 partie 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Long Story Short",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Peacemaker",
+    "Saison": "Saison 2",
+    "Plateforme": "Max",
+    "Categorie": "Max",
     "Pays": "US",
     "Note": null
   },

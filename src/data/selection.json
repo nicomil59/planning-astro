@@ -1,27 +1,9 @@
 [
   {
-    "Date": "11/04/2025",
-    "Titre": "Vrais voisins, faux amis",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "14/04/2025",
-    "Titre": "The Last of Us",
-    "Saison": "Saison 2",
-    "Plateforme": "Max"
-  },
-  {
     "Date": "23/04/2025",
     "Titre": "Andor",
     "Saison": "Saison 2",
     "Plateforme": "Disney+"
-  },
-  {
-    "Date": "24/04/2025",
-    "Titre": "Étoile",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
   },
   {
     "Date": "30/04/2025",
@@ -34,5 +16,23 @@
     "Titre": "Les Quatre saisons",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "15/05/2025",
+    "Titre": "HPI",
+    "Saison": "Saison 5",
+    "Plateforme": "TF1"
+  },
+  {
+    "Date": "16/05/2025",
+    "Titre": "Murderbot",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "16/04/2025",
+    "Titre": "Duster",
+    "Saison": "Saison 1",
+    "Plateforme": "Max"
   }
 ]

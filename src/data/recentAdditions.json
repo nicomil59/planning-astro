@@ -1,247 +1,121 @@
 [
   {
-    "Date": "01/05/2025",
-    "Titre": "Star Trek : la série animée",
-    "Saison": "Intégrale",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "Star Trek: Short Treks",
+    "Date": "08/05/2025",
+    "Titre": "Soviet Jeans",
     "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "Grey's Anatomy",
-    "Saison": "Saison 21",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "Lycée Toulouse-Lautrec",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "01/05/2025",
-    "Titre": "Les Randonneuses",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "02/05/2025",
-    "Titre": "Teacup",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "03/05/2025",
-    "Titre": "The Mindy Project",
-    "Saison": "Saisons 1 à 6",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "05/05/2025",
-    "Titre": "Scars of Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "07/05/2025",
-    "Titre": "Mademoiselle Holmes",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "07/05/2025",
-    "Titre": "Panda",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "09/05/2025",
-    "Titre": "The Prince",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "09/05/2025",
-    "Titre": "Coeurs Noirs",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "14/05/2025",
-    "Titre": "Le Jeu de l'échelle",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
   },
   {
     "Date": "15/05/2025",
-    "Titre": "Faussaires",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "15/05/2025",
-    "Titre": "Pernille",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "16/05/2025",
-    "Titre": "Football Parents",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "16/05/2025",
-    "Titre": "Skymed",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "19/05/2025",
-    "Titre": "Le Négociateur",
+    "Titre": "Black Clover",
     "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "20/05/2025",
-    "Titre": "Alex Hugo",
-    "Saison": "Saison 11",
+    "Date": "25/05/2025",
+    "Titre": "Les carnets de Max Liebermann",
+    "Saison": "Saison 4",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "20/05/2025",
-    "Titre": "Motorheads",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "21/05/2025",
-    "Titre": "Des vrais mecs",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "21/05/2025",
-    "Titre": "Neuf Puzzles",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "22/05/2025",
-    "Titre": "The Agency",
+    "Date": "26/05/2025",
+    "Titre": "Plaine orientale",
     "Saison": "Saison 1",
     "Plateforme": "Canal+",
     "Categorie": "Canal"
   },
   {
-    "Date": "22/05/2025",
-    "Titre": "Nine Perfect Strangers",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "28/05/2025",
+    "Titre": "Flash(s)",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "22/05/2025",
-    "Titre": "American Dad",
-    "Saison": "Saison 20",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "23/05/2025",
-    "Titre": "Forget You Not",
-    "Saison": "Saison 1",
+    "Date": "29/05/2025",
+    "Titre": "Mad Unicorn",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "26/05/2025",
-    "Titre": "Clem",
-    "Saison": "Saison 14",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "29/05/2025",
+    "Titre": "Lost Boys and Fairies",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "27/05/2025",
-    "Titre": "Le (2ème) Meilleur hôpital de la Galaxie",
+    "Date": "05/06/2025",
+    "Titre": "Barracuda Queens",
     "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "28/05/2025",
-    "Titre": "Mayfair Witches",
-    "Saison": "Saison 2",
+    "Date": "05/06/2025",
+    "Titre": "Lost Boys and Fairies",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "06/06/2025",
+    "Titre": "The Survivors",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/06/2025",
+    "Titre": "Sans merci",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "23/06/2025",
+    "Titre": "The Gilded Age",
+    "Saison": "Saison 3",
+    "Plateforme": "Max",
+    "Categorie": "Max"
+  },
+  {
+    "Date": "11/07/2025",
+    "Titre": "Foundation",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "12/07/2025",
+    "Titre": "South Park",
+    "Saison": "Saison 27",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+"
   },
   {
-    "Date": "28/05/2025",
-    "Titre": "Little Fires Everywhere",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "23/07/2025",
+    "Titre": "Acapulco",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
   },
   {
-    "Date": "29/05/2025",
-    "Titre": "Adults",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "13/06/2025",
-    "Titre": "Escort Boys",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "20/06/2025",
-    "Titre": "Olympo",
+    "Date": "22/08/2025",
+    "Titre": "Long Story Short",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "25/06/2025",
-    "Titre": "Countdown",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "03/07/2025",
-    "Titre": "Dan Da Dan",
+    "Date": "22/08/2025",
+    "Titre": "Peacemaker",
     "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Max",
+    "Categorie": "Max"
   }
 ]
