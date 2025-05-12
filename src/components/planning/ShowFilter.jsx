@@ -5,8 +5,6 @@ const ShowFilter = ({ categories, onFilterChange }) => {
 
   const toggleCategory = (category) => {
     
-    console.log("Category clicked", category);
-
     let updatedCategories;
 
     if(category === "Tous") {
