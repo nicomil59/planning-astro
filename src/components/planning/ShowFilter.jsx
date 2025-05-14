@@ -39,7 +39,7 @@ const ShowFilter = ({ categories, onFilterChange }) => {
             className={`px-3 py-1 rounded-full text-sm transition ${
               selectedCategories.includes(cat)
                 ? "bg-notionyellow-600 text-white"
-                : "bg-notionyellow-50 hover:bg-notionyellow-200"
+                : "bg-notionyellow-50 dark:bg-notionyellow-100 dark:text-gray-800 hover:bg-notionyellow-200 dark:hover:bg-notionyellow-300"
             }`}
             data-categorie={cat}
             key={cat}
