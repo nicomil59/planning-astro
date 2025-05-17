@@ -1,17 +1,5 @@
 [
   {
-    "Date": "23/04/2025",
-    "Titre": "Andor",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "30/04/2025",
-    "Titre": "Astérix & Obélix : Le combat des chefs",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "01/05/2025",
     "Titre": "Les Quatre saisons",
     "Saison": "Saison 1",
@@ -30,9 +18,21 @@
     "Plateforme": "Apple TV+"
   },
   {
-    "Date": "16/04/2025",
+    "Date": "16/05/2025",
     "Titre": "Duster",
     "Saison": "Saison 1",
     "Plateforme": "Max"
+  },
+    {
+    "Date": "22/05/2025",
+    "Titre": "The Agency",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
+  },
+    {
+    "Date": "22/05/2025",
+    "Titre": "Sirens",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]

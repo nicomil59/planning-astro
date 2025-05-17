@@ -1,121 +1,100 @@
 [
   {
-    "Date": "08/05/2025",
-    "Titre": "Soviet Jeans",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
+    "Date": "12/05/2025",
+    "Titre": "Allegiance",
+    "Saison": "Saison 2",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
   },
   {
-    "Date": "15/05/2025",
-    "Titre": "Black Clover",
-    "Saison": "Saison 2",
+    "Date": "12/05/2025",
+    "Titre": "À son goût",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "25/05/2025",
-    "Titre": "Les carnets de Max Liebermann",
-    "Saison": "Saison 4",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/05/2025",
-    "Titre": "Plaine orientale",
+    "Date": "24/05/2025",
+    "Titre": "Nouvelle page à Séoul",
     "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal"
-  },
-  {
-    "Date": "28/05/2025",
-    "Titre": "Flash(s)",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "29/05/2025",
-    "Titre": "Mad Unicorn",
-    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "29/05/2025",
-    "Titre": "Lost Boys and Fairies",
+    "Date": "02/06/2025",
+    "Titre": "Homeland",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "02/06/2025",
+    "Titre": "The Truth",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "04/06/2025",
+    "Titre": "Reign",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "04/06/2025",
+    "Titre": "Cacao",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "05/06/2025",
+    "Titre": "Querer",
     "Saison": "Mini-série",
     "Plateforme": "Arte.tv",
     "Categorie": "SVOD"
   },
   {
-    "Date": "05/06/2025",
-    "Titre": "Barracuda Queens",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "11/06/2025",
+    "Titre": "Revenge",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "05/06/2025",
-    "Titre": "Lost Boys and Fairies",
+    "Date": "12/06/2025",
+    "Titre": "Querer",
     "Saison": "Mini-série",
     "Plateforme": "Arte",
     "Categorie": "TNT"
   },
   {
-    "Date": "06/06/2025",
-    "Titre": "The Survivors",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "06/06/2025",
-    "Titre": "Sans merci",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "23/06/2025",
-    "Titre": "The Gilded Age",
-    "Saison": "Saison 3",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "11/07/2025",
-    "Titre": "Foundation",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
-  },
-  {
-    "Date": "12/07/2025",
-    "Titre": "South Park",
-    "Saison": "Saison 27",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "23/07/2025",
-    "Titre": "Acapulco",
+    "Date": "26/06/2025",
+    "Titre": "The Bear",
     "Saison": "Saison 4",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
-    "Date": "22/08/2025",
-    "Titre": "Long Story Short",
+    "Date": "10/07/2025",
+    "Titre": "Too Much",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "22/08/2025",
-    "Titre": "Peacemaker",
-    "Saison": "Saison 2",
-    "Plateforme": "Max",
-    "Categorie": "Max"
+    "Date": "17/07/2025",
+    "Titre": "Star Trek: Strange New Worlds",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "13/08/2025",
+    "Titre": "Alien: Earth",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   }
 ]
