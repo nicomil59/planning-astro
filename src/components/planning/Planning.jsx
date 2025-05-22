@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import shows from "../../data/showsWithCategory.json";
+import shows from "../../data/shows.json";
 import SectionTitleJSX from "../SectionTitle";
 import ShowFilter from "./ShowFilter";
 import ShowsList from "./ShowsList";
