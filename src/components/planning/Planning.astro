@@ -1,5 +1,5 @@
 ---
-import shows from "../../data/shows.json";
+import shows from "../../data/showsWithCategory.json";
 import {
   getShowsByDate,
   getSortedShowsByDate,
@@ -7,6 +7,10 @@ import {
 } from "../../scripts/utils";
 import GroupByDate from "./GroupByDate.astro";
 import SectionTitle from "../SectionTitle.astro";
+
+// récupération des noms de catégories
+const categories = ["Tous", ...new Set(shows.map(s => s.Categorie))];
+//console.log(categories);
 
 const showsByDate = getShowsByDate(shows);
 const sortedShowsByDate = getSortedShowsByDate(showsByDate);
