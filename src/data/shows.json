@@ -470,6 +470,16 @@
     "Note": null
   },
   {
+    "Date": "21/05/2025",
+    "Heure": "22:55:00",
+    "Titre": "Grey's Anatomy: Station 19",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/05/2025",
     "Heure": "00:00:00",
     "Titre": "Sirens (2025)",
@@ -685,7 +695,7 @@
     "Titre": "MobLand",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
-    "Categorie": "SVOD",
+    "Categorie": "Paramount+",
     "Pays": "US",
     "Note": null
   },
