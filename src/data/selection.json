@@ -1,17 +1,5 @@
 [
   {
-    "Date": "01/05/2025",
-    "Titre": "Les Quatre saisons",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15/05/2025",
-    "Titre": "HPI",
-    "Saison": "Saison 5",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "16/05/2025",
     "Titre": "Murderbot",
     "Saison": "Saison 1",
@@ -34,5 +22,17 @@
     "Titre": "Sirens",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+    {
+    "Date": "26/05/2025",
+    "Titre": "Plaine orientale",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
+  },
+    {
+    "Date": "29/05/2025",
+    "Titre": "The Better Sister",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video"
   }
 ]

@@ -1,100 +1,86 @@
 [
   {
-    "Date": "12/05/2025",
-    "Titre": "Allegiance",
-    "Saison": "Saison 2",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "12/05/2025",
-    "Titre": "À son goût",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "24/05/2025",
-    "Titre": "Nouvelle page à Séoul",
+    "Date": "28/05/2025",
+    "Titre": "Zonz",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "02/06/2025",
-    "Titre": "Homeland",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
+    "Plateforme": "France.tv Slash",
     "Categorie": "SVOD"
   },
   {
-    "Date": "02/06/2025",
-    "Titre": "The Truth",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
+    "Date": "09/06/2025",
+    "Titre": "Le Remplaçant",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "04/06/2025",
-    "Titre": "Reign",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Date": "10/06/2025",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "04/06/2025",
-    "Titre": "Cacao",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "05/06/2025",
-    "Titre": "Querer",
+    "Date": "12/06/2025",
+    "Titre": "A Life's Worth - Le Prix d'une vie",
     "Saison": "Mini-série",
     "Plateforme": "Arte.tv",
     "Categorie": "SVOD"
   },
   {
-    "Date": "11/06/2025",
-    "Titre": "Revenge",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "12/06/2025",
-    "Titre": "Querer",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
+    "Date": "13/06/2025",
+    "Titre": "À l'instinct",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "26/06/2025",
-    "Titre": "The Bear",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "10/07/2025",
-    "Titre": "Too Much",
+    "Date": "13/06/2025",
+    "Titre": "Tout pour la lumière",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "17/07/2025",
-    "Titre": "Star Trek: Strange New Worlds",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
+    "Date": "15/06/2025",
+    "Titre": "La Brea",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "13/08/2025",
-    "Titre": "Alien: Earth",
+    "Date": "19/06/2025",
+    "Titre": "A Life's Worth - Le Prix d'une vie",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "09/07/2025",
+    "Titre": "Ballard",
     "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "14/07/2025",
+    "Titre": "Sakamoto Days",
+    "Saison": "Saison 1 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "23/07/2025",
+    "Titre": "Washington Black",
+    "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
+  },
+  {
+    "Date": "06/08/2025",
+    "Titre": "Platonic",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
   }
 ]

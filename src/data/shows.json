@@ -1,265 +1,5 @@
 [
   {
-    "Date": "05/05/2025",
-    "Heure": "20:50:00",
-    "Titre": "The Walking Dead: Dead City",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/05/2025",
-    "Heure": "21:05:00",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Saison 14",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA, UK",
-    "Note": null
-  },
-  {
-    "Date": "05/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Scars of Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Knightfall",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Parlement",
-    "Saison": "Saison 4",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA, BEL, ALL",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Mademoiselle Holmes",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Panda",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pour toujours",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/05/2025",
-    "Heure": "21:10:00",
-    "Titre": "Génération 90 : Les secrets des séries cultes",
-    "Saison": "Doc",
-    "Plateforme": "6ter",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Documentaire sur les séries des années 90"
-  },
-  {
-    "Date": "08/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Blood of Zeus",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "08/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Soviet Jeans",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "LET",
-    "Note": null
-  },
-  {
-    "Date": "09/05/2025",
-    "Heure": "21:10:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Épisode inédit avec Émilie Dequenne"
-  },
-  {
-    "Date": "09/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Royals (2025)",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "09/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Prince",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Coeurs Noirs",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/05/2025",
-    "Heure": "21:05:00",
-    "Titre": "Le Voyageur",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2025",
-    "Heure": "20:50:00",
-    "Titre": "Intérim'air",
-    "Saison": "Série courte",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2025",
-    "Heure": "20:55:00",
-    "Titre": "Matilha",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "POR",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2025",
-    "Heure": "21:00:00",
-    "Titre": "Allegiance",
-    "Saison": "Saison 2",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "À son goût",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Bad Thoughts",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2025",
-    "Heure": "21:10:00",
-    "Titre": "9-1-1",
-    "Saison": "Saison 8",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Scandal",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "MotherFatherSon",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "14/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Jeu de l'échelle",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "14/05/2025",
-    "Heure": "00:00:00",
-    "Titre": "Abbott Elementary",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "15/05/2025",
     "Heure": "21:10:00",
     "Titre": "HPI",
@@ -640,6 +380,16 @@
     "Note": null
   },
   {
+    "Date": "28/05/2025",
+    "Heure": "00:00:00",
+    "Titre": "Zonz",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv Slash",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "29/05/2025",
     "Heure": "00:00:00",
     "Titre": "The Better Sister",
@@ -830,6 +580,26 @@
     "Note": null
   },
   {
+    "Date": "09/06/2025",
+    "Heure": "21:10:00",
+    "Titre": "Le Remplaçant",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "10/06/2025",
+    "Heure": "21:05:00",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "11/06/2025",
     "Heure": "00:00:00",
     "Titre": "Revenge",
@@ -860,6 +630,16 @@
     "Note": null
   },
   {
+    "Date": "12/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "A Life's Worth - Le Prix d'une vie",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA, SUE",
+    "Note": "Diffusion sur Arte le 19 juin"
+  },
+  {
     "Date": "13/06/2025",
     "Heure": "00:00:00",
     "Titre": "Escort Boys",
@@ -867,6 +647,36 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "13/06/2025",
+    "Heure": "21:10:00",
+    "Titre": "À l'instinct",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "13/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tout pour la lumière",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": "Lancement sur TF1 le 16 juin"
+  },
+  {
+    "Date": "15/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "La Brea",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -898,6 +708,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Nouvelle série de Kevin Williamson, le créateur de Dawson et The Vampire Diaries"
+  },
+  {
+    "Date": "19/06/2025",
+    "Heure": "20:55:00",
+    "Titre": "A Life's Worth - Le Prix d'une vie",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "FRA, SUE",
+    "Note": null
   },
   {
     "Date": "20/06/2025",
@@ -990,6 +810,16 @@
     "Note": null
   },
   {
+    "Date": "09/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Ballard",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/07/2025",
     "Heure": "00:00:00",
     "Titre": "Too Much",
@@ -1017,6 +847,16 @@
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Sakamoto Days",
+    "Saison": "Saison 1 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -1050,6 +890,16 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "23/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Washington Black",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "24/07/2025",
     "Heure": "00:00:00",
     "Titre": "The Sandman",
@@ -1078,6 +928,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Seconde partie de la saison 2 le 3 septembre"
+  },
+  {
+    "Date": "06/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Platonic",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "13/08/2025",

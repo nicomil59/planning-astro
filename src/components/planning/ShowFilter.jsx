@@ -32,7 +32,7 @@ const ShowFilter = ({ categories, onFilterChange }) => {
 
   return (
     <div className="my-8">
-      <p className="mb-8">Filtrez les séries par plateforme pour afficher uniquement celles qui vous intéressent.</p>
+      <p className="mb-8">🆕 ⚡️ Filtrez les séries par plateforme pour afficher uniquement celles qui vous intéressent.</p>
       <div id="filters" className="flex flex-wrap gap-2 mb-6">
         {categories.map((cat) => (
           <button
