@@ -1,12 +1,6 @@
 [
   {
     "Date": "16/05/2025",
-    "Titre": "Murderbot",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "16/05/2025",
     "Titre": "Duster",
     "Saison": "Saison 1",
     "Plateforme": "Max"
@@ -34,5 +28,11 @@
     "Titre": "The Better Sister",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
+  },
+    {
+    "Date": "04/06/2025",
+    "Titre": "Stick",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+"
   }
 ]
