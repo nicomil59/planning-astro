@@ -1,190 +1,162 @@
 [
   {
     "Date": "01/06/2025",
-    "Titre": "Fire Country",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "03/06/2025",
-    "Titre": "Sara, femme de l'ombre",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/06/2025",
-    "Titre": "Le code du crime",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/06/2025",
-    "Titre": "La Primera Vez",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/06/2025",
-    "Titre": "Spartacus",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "05/06/2025",
-    "Titre": "Chespirito : sans le vouloir",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "06/06/2025",
-    "Titre": "Sphinx",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "11/06/2025",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "11/06/2025",
-    "Titre": "Aniela",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/06/2025",
-    "Titre": "Pati",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "13/06/2025",
-    "Titre": "Mentiras (2025)",
-    "Saison": "Saison 1",
+    "Titre": "Chicago Med",
+    "Saison": "Saison 8",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "13/06/2025",
-    "Titre": "Kings of Jo'Burg",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "01/06/2025",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saison 10",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "13/06/2025",
-    "Titre": "Rana Naidu",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "01/06/2025",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 11",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "15/06/2025",
-    "Titre": "Vanina : Meurtres en Sicile",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
+    "Date": "01/06/2025",
+    "Titre": "New York Unité Spéciale",
+    "Saison": "Saison 24",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "15/06/2025",
-    "Titre": "Escort Boys",
-    "Saison": "Saison 1",
-    "Plateforme": "TMC",
-    "Categorie": "TNT"
+    "Date": "01/06/2025",
+    "Titre": "The Good Wife",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "16/06/2025",
-    "Titre": "Tout pour la lumière",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "17/06/2025",
-    "Titre": "Aspergirl",
-    "Saison": "Saison 2",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
-  },
-  {
-    "Date": "18/06/2025",
-    "Titre": "Une amitié dangereuse",
+    "Date": "04/06/2025",
+    "Titre": "Moi, addict",
     "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
-    "Date": "19/06/2025",
-    "Titre": "Scènes de ménages",
-    "Saison": "Inédit",
+    "Date": "11/06/2025",
+    "Titre": "Godfather of Harlem",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "20/06/2025",
+    "Titre": "HPI",
+    "Saison": "Saison 5 partie 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "21/06/2025",
+    "Titre": "The Rookie - Le flic de Los Angeles",
+    "Saison": "Saison 6",
     "Plateforme": "M6",
     "Categorie": "TNT"
   },
   {
-    "Date": "20/06/2025",
-    "Titre": "À l'instinct",
-    "Saison": "Inédit",
+    "Date": "23/06/2025",
+    "Titre": "Enquêtes au paradis",
+    "Saison": "Saison 1",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "25/06/2025",
-    "Titre": "Time After Time",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max"
+    "Date": "26/06/2025",
+    "Titre": "Yellowjackets",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal"
   },
   {
-    "Date": "27/06/2025",
-    "Titre": "Pati",
-    "Saison": "Saison 2",
-    "Plateforme": "Max",
-    "Categorie": "Max"
+    "Date": "02/07/2025",
+    "Titre": "Mocro Maffia",
+    "Saison": "Saison 6",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
   },
   {
-    "Date": "28/06/2025",
-    "Titre": "Veuves noires",
-    "Saison": "Intégrale",
-    "Plateforme": "Max",
-    "Categorie": "Max"
-  },
-  {
-    "Date": "31/07/2025",
-    "Titre": "Leanne",
+    "Date": "21/07/2025",
+    "Titre": "The Hunting Wives",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "27/08/2025",
-    "Titre": "The Terminal List: Dark Wolf",
-    "Saison": "Saison 1",
+    "Date": "31/07/2025",
+    "Titre": "The Sandman",
+    "Saison": "Inédit",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/08/2025",
+    "Titre": "Butterfly",
+    "Saison": "Mini-série",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
     "Date": "17/09/2025",
-    "Titre": "The Morning Show",
-    "Saison": "Saison 4",
+    "Titre": "Gen V",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "19/09/2025",
+    "Titre": "Haunted Hotel",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "24/09/2025",
+    "Titre": "Slow Horses",
+    "Saison": "Saison 5",
     "Plateforme": "Apple TV+",
     "Categorie": "Apple TV+"
   },
   {
-    "Date": "19/09/2025",
-    "Titre": "El refugio atómico",
-    "Saison": "Saison 1",
+    "Date": "23/10/2025",
+    "Titre": "Nobody Wants This",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/11/2025",
+    "Titre": "Maxton Hall",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "27/11/2025",
+    "Titre": "Stranger Things",
+    "Saison": "Saison 5 volume 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "26/12/2025",
+    "Titre": "Stranger Things",
+    "Saison": "Saison 5 volume 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/01/2026",
+    "Titre": "Stranger Things",
+    "Saison": "Final",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   }
