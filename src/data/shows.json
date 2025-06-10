@@ -302,16 +302,6 @@
   {
     "Date": "11/06/2025",
     "Heure": "00:00:00",
-    "Titre": "Mentiras (2025)",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "11/06/2025",
-    "Heure": "00:00:00",
     "Titre": "Godfather of Harlem",
     "Saison": "Saisons 1 à 3",
     "Plateforme": "Disney+",
@@ -348,6 +338,16 @@
     "Categorie": "SVOD",
     "Pays": "FRA, SUE",
     "Note": "Diffusion sur Arte le 19 juin"
+  },
+  {
+    "Date": "13/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "Mentiras (2025)",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "MEX",
+    "Note": null
   },
   {
     "Date": "13/06/2025",
@@ -669,7 +669,7 @@
     "Pays": "FIN",
     "Note": null
   },
-    {
+  {
     "Date": "01/07/2025",
     "Heure": "21:00:00",
     "Titre": "SurrealEstate",
