@@ -1,163 +1,37 @@
 [
   {
-    "Date": "01/06/2025",
-    "Titre": "Chicago Med",
-    "Saison": "Saison 8",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/06/2025",
-    "Titre": "Chicago Police Department",
-    "Saison": "Saison 10",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/06/2025",
-    "Titre": "Chicago Fire",
-    "Saison": "Saison 11",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/06/2025",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saison 24",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/06/2025",
-    "Titre": "The Good Wife",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "04/06/2025",
-    "Titre": "Moi, addict",
+    "Date": "28/06/2025",
+    "Titre": "Ceux qui restent",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "11/06/2025",
-    "Titre": "Godfather of Harlem",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "20/06/2025",
-    "Titre": "HPI",
-    "Saison": "Saison 5 partie 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "21/06/2025",
-    "Titre": "The Rookie - Le flic de Los Angeles",
-    "Saison": "Saison 6",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "23/06/2025",
-    "Titre": "Enquêtes au paradis",
-    "Saison": "Saison 1",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "26/06/2025",
-    "Titre": "Yellowjackets",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal"
-  },
-  {
-    "Date": "02/07/2025",
-    "Titre": "Mocro Maffia",
-    "Saison": "Saison 6",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "21/07/2025",
-    "Titre": "The Hunting Wives",
+    "Date": "30/06/2025",
+    "Titre": "Nouveau jour",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "M6",
+    "Categorie": "TNT"
   },
   {
-    "Date": "31/07/2025",
-    "Titre": "The Sandman",
+    "Date": "30/06/2025",
+    "Titre": "Camping Paradis",
     "Saison": "Inédit",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "13/08/2025",
-    "Titre": "Butterfly",
+    "Date": "04/07/2025",
+    "Titre": "Made in Finland",
     "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "17/09/2025",
-    "Titre": "Gen V",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "19/09/2025",
-    "Titre": "Haunted Hotel",
+    "Date": "11/07/2025",
+    "Titre": "Furia",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "24/09/2025",
-    "Titre": "Slow Horses",
-    "Saison": "Saison 5",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
-  },
-  {
-    "Date": "23/10/2025",
-    "Titre": "Nobody Wants This",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "07/11/2025",
-    "Titre": "Maxton Hall",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "27/11/2025",
-    "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "26/12/2025",
-    "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/01/2026",
-    "Titre": "Stranger Things",
-    "Saison": "Final",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Max",
+    "Categorie": "Max"
   }
 ]

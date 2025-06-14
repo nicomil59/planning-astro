@@ -1,10 +1,4 @@
 [
-  {
-    "Date": "16/05/2025",
-    "Titre": "Duster",
-    "Saison": "Saison 1",
-    "Plateforme": "Max"
-  },
     {
     "Date": "22/05/2025",
     "Titre": "The Agency",
@@ -34,5 +28,11 @@
     "Titre": "Stick",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
+  },
+    {
+    "Date": "19/06/2025",
+    "Titre": "The Waterfont",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]
