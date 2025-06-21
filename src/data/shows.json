@@ -1,195 +1,5 @@
 [
   {
-    "Date": "09/06/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Remplaçant",
-    "Saison": "Saison 3",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/06/2025",
-    "Heure": "21:05:00",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Revenge",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "Max",
-    "Categorie": "Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Aniela",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "11/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Godfather of Harlem",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "FUBAR",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/06/2025",
-    "Heure": "20:55:00",
-    "Titre": "Querer",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "12/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "A Life's Worth - Le Prix d'une vie",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA, SUE",
-    "Note": "Diffusion sur Arte le 19 juin"
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Mentiras (2025)",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Escort Boys",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "21:10:00",
-    "Titre": "À l'instinct",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tout pour la lumière",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": "Lancement sur TF1 le 16 juin"
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pati",
-    "Saison": "Saison 1",
-    "Plateforme": "Max",
-    "Categorie": "Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Kings of Jo'Burg",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "13/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "Rana Naidu",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Brea",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2025",
-    "Heure": "21:05:00",
-    "Titre": "Vanina : Meurtres en Sicile",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2025",
-    "Heure": "21:10:00",
-    "Titre": "Escort Boys",
-    "Saison": "Saison 1",
-    "Plateforme": "TMC",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Déjà disponible sur Prime Video"
-  },
-  {
     "Date": "16/06/2025",
     "Heure": "18:00:00",
     "Titre": "Tout pour la lumière",
@@ -327,6 +137,16 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "AUS, UK",
+    "Note": null
+  },
+  {
+    "Date": "23/06/2025",
+    "Heure": "00:00:00",
+    "Titre": "La Fée et le Bouvier",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -490,6 +310,36 @@
     "Note": null
   },
   {
+    "Date": "05/07/2025",
+    "Heure": "20:30:00",
+    "Titre": "En Famille",
+    "Saison": "Inédits",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/07/2025",
+    "Heure": "21:10:00",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2025",
+    "Heure": "21:05:00",
+    "Titre": "OPJ",
+    "Saison": "Saison 6",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "09/07/2025",
     "Heure": "00:00:00",
     "Titre": "Ballard",
@@ -568,6 +418,16 @@
     "Categorie": "Paramount+",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "17/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Une Nature sauvage",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Titre original : \"Untamed\""
   },
   {
     "Date": "21/07/2025",
@@ -660,6 +520,16 @@
     "Note": null
   },
   {
+    "Date": "09/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Outlander: Blood of My Blood",
+    "Saison": "Saison 1",
+    "Plateforme": "Max",
+    "Categorie": "Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "13/08/2025",
     "Heure": "00:00:00",
     "Titre": "Alien: Earth",
@@ -687,6 +557,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Hostage",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -836,6 +716,16 @@
     "Saison": "Final",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "30/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Yo Gabba GabbaLand!",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
     "Pays": "US",
     "Note": null
   }

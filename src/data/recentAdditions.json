@@ -1,37 +1,58 @@
 [
   {
-    "Date": "28/06/2025",
-    "Titre": "Ceux qui restent",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Date": "23/06/2025",
+    "Titre": "La Fée et le Bouvier",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "30/06/2025",
-    "Titre": "Nouveau jour",
-    "Saison": "Saison 1",
+    "Date": "05/07/2025",
+    "Titre": "En Famille",
+    "Saison": "Inédits",
     "Plateforme": "M6",
     "Categorie": "TNT"
   },
   {
-    "Date": "30/06/2025",
+    "Date": "07/07/2025",
     "Titre": "Camping Paradis",
     "Saison": "Inédit",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "04/07/2025",
-    "Titre": "Made in Finland",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
+    "Date": "08/07/2025",
+    "Titre": "OPJ",
+    "Saison": "Saison 6",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "11/07/2025",
-    "Titre": "Furia",
+    "Date": "17/07/2025",
+    "Titre": "Une Nature sauvage",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/08/2025",
+    "Titre": "Outlander: Blood of My Blood",
     "Saison": "Saison 1",
     "Plateforme": "Max",
     "Categorie": "Max"
+  },
+  {
+    "Date": "21/08/2025",
+    "Titre": "Hostage",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "30/01/2026",
+    "Titre": "Yo Gabba GabbaLand!",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
   }
 ]

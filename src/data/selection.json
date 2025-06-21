@@ -1,38 +1,38 @@
 [
-    {
-    "Date": "22/05/2025",
-    "Titre": "The Agency",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-    {
-    "Date": "22/05/2025",
-    "Titre": "Sirens",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-    {
-    "Date": "26/05/2025",
-    "Titre": "Plaine orientale",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-    {
+  {
     "Date": "29/05/2025",
     "Titre": "The Better Sister",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
   },
-    {
+  {
     "Date": "04/06/2025",
     "Titre": "Stick",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+"
   },
-    {
+  {
     "Date": "19/06/2025",
     "Titre": "The Waterfont",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "25/06/2025",
+    "Titre": "Ironheart",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "26/06/2025",
+    "Titre": "The Bear",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "27/06/2025",
+    "Titre": "Squid Game",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix"
   }
 ]

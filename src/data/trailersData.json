@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Squid Game saison 3",
-    "videoId": "aQAbx8XZBII",
+    "titre": "Ironheart",
+    "videoId": "Vm2a2WThTls",
+    "plateforme": "Disney+"
+  },
+  {
+    "titre": "Sandman saison 2",
+    "videoId": "dZaEv2UEugM",
     "plateforme": "Netflix"
   },
   {
-    "titre": "L’Été où je suis devenue jolie saison 3",
-    "videoId": "_wbRZqdMlEo",
+    "titre": "Hotel Costiera",
+    "videoId": "vwaujLp3bcc",
     "plateforme": "Prime Video"
-  },
-  {
-    "titre": "Too Much",
-    "videoId": "HJSs1kntwsU",
-    "plateforme": "Netflix"
   }
 ]
