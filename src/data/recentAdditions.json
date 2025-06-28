@@ -1,58 +1,170 @@
 [
   {
-    "Date": "23/06/2025",
-    "Titre": "La Fée et le Bouvier",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "25/06/2025",
+    "Titre": "unREAL",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "02/07/2025",
+    "Titre": "Superman et Lois",
+    "Saison": "Intégrale",
+    "Plateforme": "Max",
+    "Categorie": "Max"
   },
   {
     "Date": "05/07/2025",
-    "Titre": "En Famille",
-    "Saison": "Inédits",
+    "Titre": "The Summer Hiraku Died",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/07/2025",
+    "Titre": "Sherlock",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "09/07/2025",
+    "Titre": "Soleil Noir",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/07/2025",
+    "Titre": "Les 7 Ours",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/07/2025",
+    "Titre": "Léviathan",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/07/2025",
+    "Titre": "The Rookie - Le flic de Los Angeles",
+    "Saison": "Saison 7",
     "Plateforme": "M6",
     "Categorie": "TNT"
   },
   {
-    "Date": "07/07/2025",
+    "Date": "14/07/2025",
+    "Titre": "Un Monde meilleur",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal"
+  },
+  {
+    "Date": "14/07/2025",
     "Titre": "Camping Paradis",
     "Saison": "Inédit",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "08/07/2025",
-    "Titre": "OPJ",
-    "Saison": "Saison 6",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
+    "Date": "16/07/2025",
+    "Titre": "Episodes",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "16/07/2025",
+    "Titre": "Party Down",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "16/07/2025",
+    "Titre": "Low Life",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
     "Date": "17/07/2025",
-    "Titre": "Une Nature sauvage",
+    "Titre": "L'Institut",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/08/2025",
-    "Titre": "Outlander: Blood of My Blood",
-    "Saison": "Saison 1",
     "Plateforme": "Max",
     "Categorie": "Max"
   },
   {
-    "Date": "21/08/2025",
-    "Titre": "Hostage",
+    "Date": "17/07/2025",
+    "Titre": "Garde à nous !",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "18/07/2025",
+    "Titre": "Une Superstar",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "30/01/2026",
-    "Titre": "Yo Gabba GabbaLand!",
+    "Date": "24/07/2025",
+    "Titre": "Invasion",
     "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal"
+  },
+  {
+    "Date": "24/07/2025",
+    "Titre": "My Melody & Kuromi",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "25/07/2025",
+    "Titre": "Sur la gâchette",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/08/2025",
+    "Titre": "Eau-Paisible",
+    "Saison": "Saison 4",
     "Plateforme": "Apple TV+",
     "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "11/08/2025",
+    "Titre": "L'Amie prodigieuse",
+    "Saison": "Saison 4",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal"
+  },
+  {
+    "Date": "11/08/2025",
+    "Titre": "Fille de la nation",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal"
+  },
+  {
+    "Date": "08/09/2025",
+    "Titre": "The Walking Dead: Daryl Dixon",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "18/09/2025",
+    "Titre": "Black Rabbit",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]
