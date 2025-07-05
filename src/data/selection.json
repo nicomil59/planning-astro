@@ -1,11 +1,5 @@
 [
   {
-    "Date": "04/06/2025",
-    "Titre": "Stick",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "19/06/2025",
     "Titre": "The Waterfront",
     "Saison": "Saison 1",
@@ -33,6 +27,12 @@
     "Date": "27/06/2025",
     "Titre": "Smoke",
     "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
+  },
+    {
+    "Date": "11/07/2025",
+    "Titre": "Foundation",
+    "Saison": "Saison 3",
     "Plateforme": "Apple TV+"
   }
 ]
