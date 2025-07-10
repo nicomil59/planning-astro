@@ -13,10 +13,10 @@ const Planning = () => {
     "Disney+",
     "Apple TV+",
     "Paramount+",
-    "Max",
+    "HBO Max",
     "TNT",
     "SVOD",
-    "Canal",
+    "Canal+",
     "OCS",
     "Câble",
   ];
