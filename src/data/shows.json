@@ -251,6 +251,16 @@
   },
   {
     "Date": "12/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "South Park",
+    "Saison": "Saison 27",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "12/07/2025",
     "Heure": "21:10:00",
     "Titre": "The Rookie - Le flic de Los Angeles",
     "Saison": "Saison 7",
@@ -630,6 +640,16 @@
     "Note": null
   },
   {
+    "Date": "01/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Mad Men",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": "Disponible sur Netflix jusqu'au 31 juillet"
+  },
+  {
     "Date": "06/08/2025",
     "Heure": "00:00:00",
     "Titre": "Mercredi",
@@ -750,6 +770,16 @@
     "Note": null
   },
   {
+    "Date": "25/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Upload",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "27/08/2025",
     "Heure": "00:00:00",
     "Titre": "The Terminal List: Dark Wolf",
@@ -766,6 +796,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Ma vie avec les Walter Boys",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -870,6 +910,26 @@
     "Note": null
   },
   {
+    "Date": "25/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Alice in Borderland",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "22/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Monster of Florence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
     "Date": "23/10/2025",
     "Heure": "00:00:00",
     "Titre": "Nobody Wants This",
@@ -877,6 +937,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Culte - 2be3",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "FRA",
     "Note": null
   },
   {

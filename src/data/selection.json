@@ -1,11 +1,5 @@
 [
   {
-    "Date": "19/06/2025",
-    "Titre": "The Waterfront",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "25/06/2025",
     "Titre": "Ironheart",
     "Saison": "Mini-série",
@@ -23,16 +17,22 @@
     "Saison": "Saison 3",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "27/06/2025",
     "Titre": "Smoke",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV+"
   },
-    {
+  {
     "Date": "11/07/2025",
     "Titre": "Foundation",
     "Saison": "Saison 3",
     "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "17/07/2025",
+    "Titre": "L'Institut",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max"
   }
 ]

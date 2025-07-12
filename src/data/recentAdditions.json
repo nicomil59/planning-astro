@@ -1,184 +1,44 @@
 [
   {
-    "Date": "01/07/2025",
-    "Titre": "Departure",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "06/07/2025",
-    "Titre": "City The Animation",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "07/07/2025",
-    "Titre": "Beast Boy: Lone Wolf",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "09/07/2025",
-    "Titre": "Les Simpson",
-    "Saison": "Saison 36 ép 12 à 18",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "09/07/2025",
-    "Titre": 1923,
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/07/2025",
-    "Titre": "La Chasse aux gringos",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/07/2025",
-    "Titre": "Famille en réparation",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "10/07/2025",
-    "Titre": "Suspicious Minds",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "16/07/2025",
-    "Titre": "Bullet/Bullet",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "17/07/2025",
-    "Titre": "Le Catalogue d'Amina",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/07/2025",
-    "Titre": "Suits",
+    "Date": "01/08/2025",
+    "Titre": "Mad Men",
     "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "18/07/2025",
-    "Titre": "Liv",
-    "Saison": "Saisons 1 à 5",
     "Plateforme": "Arte.tv",
     "Categorie": "SVOD"
   },
   {
-    "Date": "18/07/2025",
-    "Titre": "Delirio",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "25/08/2025",
+    "Titre": "Upload",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "21/07/2025",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "21/07/2025",
-    "Titre": "Le Serpent",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "23/07/2025",
-    "Titre": "Les Lettres du passé",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "24/07/2025",
-    "Titre": "Opération Sabre",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "25/07/2025",
-    "Titre": "The Winning Try",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "30/07/2025",
-    "Titre": "Péchés inavouables",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "31/07/2025",
-    "Titre": "Marked",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "31/07/2025",
-    "Titre": "Glass Heart",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "31/07/2025",
-    "Titre": "Twisted Metal",
+    "Date": "28/08/2025",
+    "Titre": "Ma vie avec les Walter Boys",
     "Saison": "Saison 2",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "22/08/2025",
-    "Titre": "Invasion",
+    "Date": "25/09/2025",
+    "Titre": "Alice in Borderland",
     "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
-  },
-  {
-    "Date": "27/08/2025",
-    "Titre": "Eyes of Wakanda",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "11/09/2025",
-    "Titre": "Journal d'une fille larguée",
-    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "11/09/2025",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 2",
+    "Date": "22/10/2025",
+    "Titre": "The Monster of Florence",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "24/10/2025",
+    "Titre": "Culte - 2be3",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   }
 ]
