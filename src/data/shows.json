@@ -1,195 +1,5 @@
 [
   {
-    "Date": "01/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Departure",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CAN, UK",
-    "Note": null
-  },
-  {
-    "Date": "02/07/2025",
-    "Heure": "22:45:00",
-    "Titre": "Mocro Maffia",
-    "Saison": "Saison 6",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "02/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Superman et Lois",
-    "Saison": "Intégrale",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Sandman",
-    "Saison": "Saison 2 partie 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "La suite de la saison 2 sortira le 24 juillet"
-  },
-  {
-    "Date": "03/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Dan Da Dan",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "04/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Made in Finland",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "FIN",
-    "Note": null
-  },
-  {
-    "Date": "05/07/2025",
-    "Heure": "20:30:00",
-    "Titre": "En Famille",
-    "Saison": "Inédits",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Summer Hiraku Died",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "06/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Sherlock",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "06/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "City The Animation",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "07/07/2025",
-    "Heure": "21:10:00",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Beast Boy: Lone Wolf",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US, UK",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2025",
-    "Heure": "21:05:00",
-    "Titre": "OPJ",
-    "Saison": "Saison 6",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Ballard",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Soleil Noir",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Les Simpson",
-    "Saison": "Saison 36 ép 12 à 18",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": 1923,
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Chasse aux gringos",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Famille en réparation",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "10/07/2025",
     "Heure": "00:00:00",
     "Titre": "Too Much",
@@ -640,6 +450,16 @@
     "Note": "Disponible sur Netflix jusqu'au 31 juillet"
   },
   {
+    "Date": "03/08/2025",
+    "Heure": "22:50:00",
+    "Titre": "Zonz",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "06/08/2025",
     "Heure": "00:00:00",
     "Titre": "Mercredi",
@@ -707,6 +527,16 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Young Millionaires",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -820,6 +650,16 @@
     "Note": null
   },
   {
+    "Date": "10/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Girlfriend",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "11/09/2025",
     "Heure": "00:00:00",
     "Titre": "Journal d'une fille larguée",
@@ -907,6 +747,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "17/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Pêche interdite",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POR",
     "Note": null
   },
   {
