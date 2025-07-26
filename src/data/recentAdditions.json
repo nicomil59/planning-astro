@@ -1,30 +1,121 @@
 [
   {
-    "Date": "03/08/2025",
-    "Titre": "Zonz",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Date": "25/07/2025",
+    "Titre": "South Park",
+    "Saison": "Saison 27",
+    "Plateforme": "Comedy Central",
+    "Categorie": "Câble"
   },
   {
-    "Date": "13/08/2025",
-    "Titre": "Young Millionaires",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "26/07/2025",
+    "Titre": "South Park",
+    "Saison": "Saison 27",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
-    "Date": "10/09/2025",
-    "Titre": "The Girlfriend",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Pêche interdite",
+    "Date": "02/08/2025",
+    "Titre": "La Voie du droit",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/08/2025",
+    "Titre": "Gardiens de la nation",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "14/08/2025",
+    "Titre": "Dans la boue",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/08/2025",
+    "Titre": "Une Affaire privée",
+    "Saison": "Saison 1",
+    "Plateforme": "6ter",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "20/08/2025",
+    "Titre": "Pssica",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/08/2025",
+    "Titre": "Aema",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "29/08/2025",
+    "Titre": "Deux tombes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/09/2025",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 13",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "09/09/2025",
+    "Titre": "Only Murders in The Building",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "10/09/2025",
+    "Titre": "Tempest",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "26/09/2025",
+    "Titre": "The Savant",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "10/10/2025",
+    "Titre": "The Last Frontier",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "15/10/2025",
+    "Titre": "Loot",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "07/11/2025",
+    "Titre": "Pluribus",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "10/12/2025",
+    "Titre": "Percy Jackson et les Olympiens",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   }
 ]

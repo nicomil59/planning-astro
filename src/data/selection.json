@@ -1,11 +1,5 @@
 [
   {
-    "Date": "25/06/2025",
-    "Titre": "Ironheart",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "26/06/2025",
     "Titre": "The Bear",
     "Saison": "Saison 4",
@@ -34,5 +28,11 @@
     "Titre": "L'Institut",
     "Saison": "Mini-série",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "01/08/2025",
+    "Titre": "Chief of War",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV+"
   }
 ]
