@@ -16,7 +16,7 @@
   {
     "Date": "02/08/2025",
     "Titre": "La Voie du droit",
-    "Saison": "Saison 2",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
@@ -47,6 +47,13 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+    {
+    "Date": "21/08/2025",
+    "Titre": "Dexter : Resurrection",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
     "Date": "22/08/2025",
