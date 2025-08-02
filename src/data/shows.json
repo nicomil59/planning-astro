@@ -1,175 +1,5 @@
 [
   {
-    "Date": "14/07/2025",
-    "Heure": "21:00:00",
-    "Titre": "Un Monde meilleur",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "14/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Sakamoto Days",
-    "Saison": "Saison 1 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "14/07/2025",
-    "Heure": "21:10:00",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "16/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'été où je suis devenue jolie",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "16/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Episodes",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US, UK",
-    "Note": null
-  },
-  {
-    "Date": "16/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Party Down",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Low Life",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "16/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Bullet/Bullet",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Star Trek: Strange New Worlds",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Une Nature sauvage",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Titre original : \"Untamed\""
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'Institut",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Garde à nous !",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ARG",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Catalogue d'Amina",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "EGY",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Suits",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Une Superstar",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "18/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Liv",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "NOR",
-    "Note": null
-  },
-  {
-    "Date": "18/07/2025",
-    "Heure": "00:00:00",
-    "Titre": "Delirio",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
     "Date": "21/07/2025",
     "Heure": "21:10:00",
     "Titre": "Camping Paradis",
@@ -360,6 +190,16 @@
     "Note": null
   },
   {
+    "Date": "31/07/2025",
+    "Heure": "00:00:00",
+    "Titre": "Nothing Uncovered",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "01/08/2025",
     "Heure": "00:00:00",
     "Titre": "Chief of War",
@@ -403,7 +243,7 @@
     "Date": "02/08/2025",
     "Heure": "00:00:00",
     "Titre": "La Voie du droit",
-    "Saison": "Saison 1",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "CDS",
@@ -417,6 +257,16 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "04/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "King of The Hill",
+    "Saison": "Saison 14",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -540,6 +390,46 @@
     "Note": "Déjà diffusée sur Prime Video"
   },
   {
+    "Date": "15/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Betty La Fea - L'histoire continue",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
+    "Date": "18/08/2025",
+    "Heure": "21:10:00",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Women Wearing Shoulder Pads",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/08/2025",
+    "Heure": "21:10:00",
+    "Titre": "SWAT",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "20/08/2025",
     "Heure": "00:00:00",
     "Titre": "Pssica",
@@ -547,6 +437,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "20/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Twisted Tale of Amanda Knox",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Fisk",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AUS",
     "Note": null
   },
   {
@@ -559,7 +469,7 @@
     "Pays": "UK",
     "Note": null
   },
-    {
+  {
     "Date": "21/08/2025",
     "Heure": "21:00:00",
     "Titre": "Dexter : Resurrection",
@@ -567,6 +477,16 @@
     "Plateforme": "Canal+",
     "Categorie": "Canal+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Death Inc.",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -603,6 +523,26 @@
     "Date": "22/08/2025",
     "Heure": "00:00:00",
     "Titre": "Aema",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "22/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Heritage",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "23/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "Bon Appétit, Your Majesty",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
@@ -650,6 +590,26 @@
     "Note": null
   },
   {
+    "Date": "29/08/2025",
+    "Heure": "21:00:00",
+    "Titre": "Poker Face",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "30/08/2025",
+    "Heure": "00:00:00",
+    "Titre": "37 secondes",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "01/09/2025",
     "Heure": "21:00:00",
     "Titre": "Chicago Fire",
@@ -667,6 +627,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "La Reine de l'arnaque",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -707,6 +677,26 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "10/09/2025",
+    "Heure": "21:00:00",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saison 10",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Les Mortes",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "MEX",
     "Note": null
   },
   {
@@ -760,6 +750,16 @@
     "Note": "Avec Jason Bateman et Jude Law"
   },
   {
+    "Date": "18/09/2025",
+    "Heure": "21:00:00",
+    "Titre": "Magnum (2018)",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "19/09/2025",
     "Heure": "00:00:00",
     "Titre": "El refugio atómico",
@@ -776,6 +776,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tulsa King",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
     "Pays": "US",
     "Note": null
   },
@@ -797,6 +807,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "25/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Wayward",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "25/09/2025",
+    "Heure": "20:55:00",
+    "Titre": "Faithless",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -877,6 +907,26 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "29/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Down Cemetery Road",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "31/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Respira",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {

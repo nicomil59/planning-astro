@@ -1,128 +1,156 @@
 [
   {
-    "Date": "25/07/2025",
-    "Titre": "South Park",
-    "Saison": "Saison 27",
-    "Plateforme": "Comedy Central",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "26/07/2025",
-    "Titre": "South Park",
-    "Saison": "Saison 27",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "02/08/2025",
-    "Titre": "La Voie du droit",
+    "Date": "31/07/2025",
+    "Titre": "Nothing Uncovered",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "13/08/2025",
-    "Titre": "Gardiens de la nation",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "14/08/2025",
-    "Titre": "Dans la boue",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "04/08/2025",
+    "Titre": "King of The Hill",
+    "Saison": "Saison 14",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
     "Date": "15/08/2025",
-    "Titre": "Une Affaire privée",
+    "Titre": "Betty La Fea - L'histoire continue",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "18/08/2025",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "18/08/2025",
+    "Titre": "Women Wearing Shoulder Pads",
     "Saison": "Saison 1",
-    "Plateforme": "6ter",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "19/08/2025",
+    "Titre": "SWAT",
+    "Saison": "Saison 7",
+    "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
     "Date": "20/08/2025",
-    "Titre": "Pssica",
+    "Titre": "The Twisted Tale of Amanda Knox",
     "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "20/08/2025",
+    "Titre": "Fisk",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
-    {
+  {
     "Date": "21/08/2025",
-    "Titre": "Dexter : Resurrection",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
+    "Titre": "Death Inc.",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "22/08/2025",
-    "Titre": "Aema",
+    "Titre": "The Heritage",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "23/08/2025",
+    "Titre": "Bon Appétit, Your Majesty",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "29/08/2025",
-    "Titre": "Deux tombes",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Poker Face",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
   },
   {
-    "Date": "01/09/2025",
-    "Titre": "Chicago Fire",
-    "Saison": "Saison 13",
+    "Date": "30/08/2025",
+    "Titre": "37 secondes",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "06/09/2025",
+    "Titre": "La Reine de l'arnaque",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "10/09/2025",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saison 10",
     "Plateforme": "13ème Rue",
     "Categorie": "Câble"
   },
   {
-    "Date": "09/09/2025",
-    "Titre": "Only Murders in The Building",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
     "Date": "10/09/2025",
-    "Titre": "Tempest",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "26/09/2025",
-    "Titre": "The Savant",
+    "Titre": "Les Mortes",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "10/10/2025",
-    "Titre": "The Last Frontier",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
+    "Date": "18/09/2025",
+    "Titre": "Magnum (2018)",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
   },
   {
-    "Date": "15/10/2025",
-    "Titre": "Loot",
+    "Date": "21/09/2025",
+    "Titre": "Tulsa King",
     "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
-    "Date": "07/11/2025",
-    "Titre": "Pluribus",
+    "Date": "25/09/2025",
+    "Titre": "Wayward",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "25/09/2025",
+    "Titre": "Faithless",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "29/10/2025",
+    "Titre": "Down Cemetery Road",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Categorie": "Apple TV+"
   },
   {
-    "Date": "10/12/2025",
-    "Titre": "Percy Jackson et les Olympiens",
+    "Date": "31/10/2025",
+    "Titre": "Respira",
     "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]
