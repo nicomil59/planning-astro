@@ -1,11 +1,5 @@
 [
   {
-    "Date": "27/06/2025",
-    "Titre": "Smoke",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "11/07/2025",
     "Titre": "Foundation",
     "Saison": "Saison 3",
@@ -29,10 +23,16 @@
     "Saison": "Saison 2 partie 1",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "09/08/2025",
     "Titre": "Outlander: Blood of My Blood",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "13/08/2025",
+    "Titre": "Alien: Earth",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]

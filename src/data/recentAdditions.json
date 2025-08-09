@@ -1,156 +1,58 @@
 [
   {
-    "Date": "31/07/2025",
-    "Titre": "Nothing Uncovered",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/08/2025",
-    "Titre": "King of The Hill",
-    "Saison": "Saison 14",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "15/08/2025",
-    "Titre": "Betty La Fea - L'histoire continue",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "18/08/2025",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "18/08/2025",
-    "Titre": "Women Wearing Shoulder Pads",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "19/08/2025",
-    "Titre": "SWAT",
-    "Saison": "Saison 7",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "20/08/2025",
-    "Titre": "The Twisted Tale of Amanda Knox",
+    "Date": "25/08/2025",
+    "Titre": "Rien ne t'efface",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "20/08/2025",
-    "Titre": "Fisk",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "25/08/2025",
+    "Titre": "Scènes de ménages",
+    "Saison": "Saison 17",
+    "Plateforme": "M6",
+    "Categorie": "TNT"
   },
   {
-    "Date": "21/08/2025",
-    "Titre": "Death Inc.",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "26/08/2025",
+    "Titre": "La Stagiaire",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "22/08/2025",
-    "Titre": "The Heritage",
+    "Date": "27/08/2025",
+    "Titre": "Tracker",
     "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "23/08/2025",
-    "Titre": "Bon Appétit, Your Majesty",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
     "Date": "29/08/2025",
-    "Titre": "Poker Face",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble"
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "30/08/2025",
-    "Titre": "37 secondes",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "06/09/2025",
-    "Titre": "La Reine de l'arnaque",
+    "Date": "01/09/2025",
+    "Titre": "The Runarounds",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "10/09/2025",
-    "Titre": "Chicago Police Department",
-    "Saison": "Saison 10",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "10/09/2025",
-    "Titre": "Les Mortes",
+    "Date": "04/09/2025",
+    "Titre": "Au Pair",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "18/09/2025",
-    "Titre": "Magnum (2018)",
-    "Saison": "Saison 5",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "21/09/2025",
-    "Titre": "Tulsa King",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "25/09/2025",
-    "Titre": "Wayward",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "25/09/2025",
-    "Titre": "Faithless",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
     "Date": "29/10/2025",
-    "Titre": "Down Cemetery Road",
+    "Titre": "Twisted-Wonderland",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
-  },
-  {
-    "Date": "31/10/2025",
-    "Titre": "Respira",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   }
 ]
