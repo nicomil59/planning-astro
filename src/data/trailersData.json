@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Stranger Things saison 5",
-    "videoId": "OkuQOsOYQyU",
+    "titre": "The Girlfriend",
+    "videoId": "tZpgu2RhRFc",
+    "plateforme": "Prime Video"
+  },
+  {
+    "titre": "Mercredi saison 2 partie 2",
+    "videoId": "w7EPFFEAp8U",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Invasion saison 3",
-    "videoId": "-2WqTtn-Cmk",
-    "plateforme": "Apple TV+"
-  },
-  {
-    "titre": "Ma vie avec les Walter Boys saison 2",
-    "videoId": "yWUYxxxP0xI",
-    "plateforme": "Netflix"
+    "titre": "Only Murders in The Building saison 5",
+    "videoId": "XR7CTSe6MCY",
+    "plateforme": "Disney+"
   }
 ]

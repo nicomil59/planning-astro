@@ -1,58 +1,93 @@
 [
   {
-    "Date": "25/08/2025",
-    "Titre": "Rien ne t'efface",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "25/08/2025",
-    "Titre": "Scènes de ménages",
-    "Saison": "Saison 17",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/08/2025",
-    "Titre": "La Stagiaire",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "27/08/2025",
-    "Titre": "Tracker",
+    "Date": "01/09/2025",
+    "Titre": "Empathie",
     "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
-    "Date": "29/08/2025",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
+    "Date": "01/09/2025",
+    "Titre": "Miss Scarlet, Détective privée",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "01/09/2025",
+    "Titre": "Surface (2025)",
+    "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
     "Date": "01/09/2025",
-    "Titre": "The Runarounds",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Titre": "Immeuble partagé",
+    "Saison": "Série courte",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
     "Date": "04/09/2025",
-    "Titre": "Au Pair",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
+    "Titre": "HPI",
+    "Saison": "Inédits",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "29/10/2025",
-    "Titre": "Twisted-Wonderland",
+    "Date": "04/09/2025",
+    "Titre": "Wolf Hall",
+    "Saison": "Saison 2",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "08/09/2025",
+    "Titre": "Task",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "08/09/2025",
+    "Titre": "Hunting : Chasseur de criminels",
     "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "12/09/2025",
+    "Titre": "Toi et tout le reste",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/10/2025",
+    "Titre": "Boots",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/11/2025",
+    "Titre": "The Beast in Me",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "16/11/2025",
+    "Titre": "Landman",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "20/02/2026",
+    "Titre": "Strip Law",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

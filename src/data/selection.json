@@ -1,17 +1,5 @@
 [
   {
-    "Date": "11/07/2025",
-    "Titre": "Foundation",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV+"
-  },
-  {
-    "Date": "17/07/2025",
-    "Titre": "L'Institut",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "01/08/2025",
     "Titre": "Chief of War",
     "Saison": "Mini-série",
@@ -34,5 +22,17 @@
     "Titre": "Alien: Earth",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "21/08/2025",
+    "Titre": "Dexter : Resurrection",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+"
+  },
+    {
+    "Date": "21/08/2025",
+    "Titre": "Hostage",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]
