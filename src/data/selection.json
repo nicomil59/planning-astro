@@ -1,11 +1,5 @@
 [
   {
-    "Date": "01/08/2025",
-    "Titre": "Chief of War",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+"
-  },
-  {
     "Date": "06/08/2025",
     "Titre": "Mercredi",
     "Saison": "Saison 2 partie 1",
@@ -34,5 +28,11 @@
     "Titre": "Hostage",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+    {
+    "Date": "25/08/2025",
+    "Titre": "Rien ne t'efface",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
   }
 ]
