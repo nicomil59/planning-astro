@@ -1,11 +1,5 @@
 [
   {
-    "Date": "06/08/2025",
-    "Titre": "Mercredi",
-    "Saison": "Saison 2 partie 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "09/08/2025",
     "Titre": "Outlander: Blood of My Blood",
     "Saison": "Saison 1",
@@ -23,16 +17,22 @@
     "Saison": "Mini-série",
     "Plateforme": "Canal+"
   },
-    {
+  {
     "Date": "21/08/2025",
     "Titre": "Hostage",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "25/08/2025",
     "Titre": "Rien ne t'efface",
     "Saison": "Mini-série",
     "Plateforme": "TF1"
+  },
+  {
+    "Date": "03/09/2025",
+    "Titre": "Mercredi",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix"
   }
 ]
