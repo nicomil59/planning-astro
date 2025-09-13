@@ -6,18 +6,6 @@
     "Plateforme": "Canal+"
   },
   {
-    "Date": "21/08/2025",
-    "Titre": "Hostage",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "25/08/2025",
-    "Titre": "Rien ne t'efface",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "03/09/2025",
     "Titre": "Mercredi",
     "Saison": "Saison 2 partie 2",
@@ -34,5 +22,17 @@
     "Titre": "The Girlfriend",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "17/09/2025",
+    "Titre": "The Morning Show",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV+"
+  },
+  {
+    "Date": "18/09/2025",
+    "Titre": "Black Rabbit",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]

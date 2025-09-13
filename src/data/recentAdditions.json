@@ -1,155 +1,71 @@
 [
   {
-    "Date": "01/09/2025",
-    "Titre": "Downton Abbey",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "01/09/2025",
-    "Titre": "Superstore",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "03/09/2025",
-    "Titre": "Reminder",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "03/09/2025",
-    "Titre": "Boy, Girl, etc.",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "12/09/2025",
-    "Titre": "Breslau",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "14/09/2025",
-    "Titre": "Dexter : Les Origines",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "15/09/2025",
-    "Titre": "Nuit des Emmy Awards",
-    "Saison": "Événement",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "18/09/2025",
-    "Titre": "Parallel Me",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "20/09/2025",
-    "Titre": "NCIS",
-    "Saison": "Saison 19",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "22/09/2025",
-    "Titre": "Alice Nevers",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "22/09/2025",
-    "Titre": "La Vallée fracturée",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "23/09/2025",
-    "Titre": "La Stagiaire",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "24/09/2025",
-    "Titre": "Marvel Zombies",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "25/09/2025",
-    "Titre": "Bistromania",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "25/09/2025",
-    "Titre": "Infidèles",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/09/2025",
-    "Titre": "Cat's Eyes (2025)",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "28/09/2025",
-    "Titre": "Murder in a Small Town",
-    "Saison": "Saison 1",
-    "Plateforme": "Teva",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "30/09/2025",
-    "Titre": "Chad Powers",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "02/10/2025",
-    "Titre": "Revival",
+    "Date": "07/09/2025",
+    "Titre": "Librarians : L'héritage de Flynn Carson",
     "Saison": "Saison 1",
     "Plateforme": "Syfy",
     "Categorie": "Câble"
   },
   {
-    "Date": "27/10/2025",
-    "Titre": "Ça : Bienvenue à Derry",
+    "Date": "26/09/2025",
+    "Titre": "Porni",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "29/09/2025",
+    "Titre": "Montmartre",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "29/09/2025",
+    "Titre": "Les Sentinelles",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Nero",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/10/2025",
+    "Titre": "The Rookie : FBI",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/10/2025",
+    "Titre": "The Chair Company",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
   },
   {
-    "Date": "30/10/2025",
-    "Titre": "Amsterdam Empire",
+    "Date": "05/11/2025",
+    "Titre": "Heweliusz",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/11/2025",
+    "Titre": "Tu étais là",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "11/12/2025",
-    "Titre": "Tomb Raider : La légende de Lara Croft",
-    "Saison": "Saison 2",
+    "Date": "13/11/2025",
+    "Titre": "Last Samurai Standing",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   }

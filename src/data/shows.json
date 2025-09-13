@@ -230,6 +230,16 @@
     "Note": null
   },
   {
+    "Date": "07/09/2025",
+    "Heure": "21:00:00",
+    "Titre": "Librarians : L'héritage de Flynn Carson",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": "Disponible sur Universal+"
+  },
+  {
     "Date": "08/09/2025",
     "Heure": "00:00:00",
     "Titre": "The Walking Dead: Daryl Dixon",
@@ -800,6 +810,16 @@
     "Note": null
   },
   {
+    "Date": "26/09/2025",
+    "Heure": "00:00:00",
+    "Titre": "Porni",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "NOR",
+    "Note": "Saison 3 disponible le 3 octobre"
+  },
+  {
     "Date": "28/09/2025",
     "Heure": "21:00:00",
     "Titre": "Murder in a Small Town",
@@ -808,6 +828,26 @@
     "Categorie": "Câble",
     "Pays": "CAN, US",
     "Note": "Avec Kristin Kreuk"
+  },
+  {
+    "Date": "29/09/2025",
+    "Heure": "21:10:00",
+    "Titre": "Montmartre",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "29/09/2025",
+    "Heure": "21:00:00",
+    "Titre": "Les Sentinelles",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "30/09/2025",
@@ -900,6 +940,16 @@
     "Note": "Titre original : \"The New Force\""
   },
   {
+    "Date": "08/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Nero",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "09/10/2025",
     "Heure": "00:00:00",
     "Titre": "Boots",
@@ -910,12 +960,32 @@
     "Note": "Ancien titre : \"The Corps\""
   },
   {
+    "Date": "09/10/2025",
+    "Heure": "21:00:00",
+    "Titre": "The Rookie : FBI",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": "Série dérivée de The Rookie dont l'unique saison a été diffusée sur ABC en 2022-2023"
+  },
+  {
     "Date": "10/10/2025",
     "Heure": "00:00:00",
     "Titre": "The Last Frontier",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV+",
     "Categorie": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Chair Company",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
   },
@@ -1080,6 +1150,16 @@
     "Note": null
   },
   {
+    "Date": "05/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Heweliusz",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
     "Date": "06/11/2025",
     "Heure": "00:00:00",
     "Titre": "Le Président foudroyé",
@@ -1110,6 +1190,16 @@
     "Note": "Nouvelle série de Vince Gilligan, le créateur de Breaking Bad"
   },
   {
+    "Date": "07/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tu étais là",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "12/11/2025",
     "Heure": "00:00:00",
     "Titre": "Palm Royale",
@@ -1127,6 +1217,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Last Samurai Standing",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
