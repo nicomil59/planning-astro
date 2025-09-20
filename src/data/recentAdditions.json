@@ -1,72 +1,135 @@
 [
   {
-    "Date": "07/09/2025",
-    "Titre": "Librarians : L'héritage de Flynn Carson",
+    "Date": "30/09/2025",
+    "Titre": "La Stagiaire",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "01/10/2025",
+    "Titre": "Henry Danger",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/10/2025",
+    "Titre": "Enquête en famille",
     "Saison": "Saison 1",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "26/09/2025",
-    "Titre": "Porni",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "29/09/2025",
-    "Titre": "Montmartre",
-    "Saison": "Mini-série",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "29/09/2025",
-    "Titre": "Les Sentinelles",
+    "Date": "02/10/2025",
+    "Titre": "Phoenix",
     "Saison": "Saison 1",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "03/10/2025",
+    "Titre": "Les Soeurs Grimm",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Les Disparues de la gare",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Rosemary's Baby",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "The Secret She Keeps",
+    "Saison": "Saison 1",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Homicide",
+    "Saison": "Intégrale",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Le Parfum du bonheur",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "09/10/2025",
+    "Titre": "La Brea",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "09/10/2025",
+    "Titre": "Playing Gracie Darling",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "09/10/2025",
+    "Titre": "The Narrow Road",
+    "Saison": "Mini-série",
     "Plateforme": "Canal+",
     "Categorie": "Canal+"
   },
   {
-    "Date": "08/10/2025",
-    "Titre": "Nero",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "09/10/2025",
+    "Titre": "Reykjavik 112",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
   },
   {
-    "Date": "09/10/2025",
-    "Titre": "The Rookie : FBI",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
+    "Date": "11/10/2025",
+    "Titre": "Hacks",
+    "Saison": "Saison 4",
+    "Plateforme": "Teva",
     "Categorie": "Câble"
   },
   {
     "Date": "13/10/2025",
-    "Titre": "The Chair Company",
+    "Titre": "Snowpiercer",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "15/10/2025",
+    "Titre": "Murdaugh Murders",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "30/10/2025",
+    "Titre": "The Witcher",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "14/11/2025",
+    "Titre": "Merteuil",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
-  },
-  {
-    "Date": "05/11/2025",
-    "Titre": "Heweliusz",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "07/11/2025",
-    "Titre": "Tu étais là",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/11/2025",
-    "Titre": "Last Samurai Standing",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
   }
 ]
