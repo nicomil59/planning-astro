@@ -1,11 +1,5 @@
 [
   {
-    "Date": "08/09/2025",
-    "Titre": "Task",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "10/09/2025",
     "Titre": "The Girlfriend",
     "Saison": "Mini-série",
@@ -34,5 +28,11 @@
     "Titre": "Montmartre",
     "Saison": "Mini-série",
     "Plateforme": "TF1"
+  },
+  {
+    "Date": "03/10/2025",
+    "Titre": "Monstre : L’histoire d’Ed Gein",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]
