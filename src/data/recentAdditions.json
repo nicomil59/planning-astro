@@ -1,331 +1,177 @@
 [
   {
     "Date": "01/10/2025",
-    "Titre": "Black Sails",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "01/10/2025",
-    "Titre": "Zoey et son incroyable playlist",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/10/2025",
-    "Titre": "Home Economics",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "02/10/2025",
-    "Titre": "Winx Club : la magie est de retour",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "02/10/2025",
-    "Titre": "Wolf",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "02/10/2025",
-    "Titre": "De Mâle en pis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Blue Bloods",
+    "Saison": "Saison 12",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
     "Date": "03/10/2025",
-    "Titre": "Véto des villes",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Sanda",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
     "Date": "04/10/2025",
-    "Titre": "Ranma 1/2",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Lego City: No Limits",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
     "Date": "06/10/2025",
-    "Titre": "Smiling Friends",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "09/10/2025",
-    "Titre": "The Resurrected",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/10/2025",
-    "Titre": "Vgly",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "10/10/2025",
-    "Titre": "L'Héritière et l'ambitieux",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/10/2025",
-    "Titre": "Kurukshetra : La guerre du Mahabharata",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "11/10/2025",
-    "Titre": "Typhoon Family",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "12/10/2025",
-    "Titre": "Killer Coaster",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "13/10/2025",
-    "Titre": "Watson",
+    "Titre": "The Agency (2024)",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+"
   },
   {
-    "Date": "13/10/2025",
-    "Titre": "Bête Noire",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
+    "Date": "07/10/2025",
+    "Titre": "High Potential",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Fate",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "10/10/2025",
+    "Titre": "SEAL Team",
+    "Saison": "Saison 5",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
     "Date": "15/10/2025",
-    "Titre": "Personne ne nous a vus partir",
+    "Titre": "To Cook a Bear",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
-    "Date": "16/10/2025",
-    "Titre": "Romantics Anonymous",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Odwilz: le dégel",
+    "Date": "15/10/2025",
+    "Titre": "NCIS: Sydney",
     "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
-    "Date": "17/10/2025",
-    "Titre": "La Grande Maison Tokyo",
+    "Date": "15/10/2025",
+    "Titre": "Preacher",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "18/10/2025",
+    "Titre": "Matlock (2024)",
     "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Plateforme": "M6",
+    "Categorie": "TNT"
   },
   {
-    "Date": "17/10/2025",
-    "Titre": "Baby Assassins",
+    "Date": "19/10/2025",
+    "Titre": "Les Enquêtes de Dan Sommerdahl",
+    "Saison": "Saison 5",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "21/10/2025",
+    "Titre": "La Famille Rose",
     "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
-    "Date": "17/10/2025",
-    "Titre": "Before and After",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Ignite",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Dans notre tanière",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Love is For The Dogs",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Mister Mikami's Classroom",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Please Die My Beloved",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Until I Destroyed my Husband's Family",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Vivant",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Qui a vu le Paon danser ?",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Transformers : Earth Spark",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "LEGO Ninjago : le soulèvement des dragons",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/10/2025",
-    "Titre": "Radiation House",
+    "Date": "22/10/2025",
+    "Titre": "Baby Bandito",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "20/10/2025",
-    "Titre": "Haha You Clowns",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "20/10/2025",
-    "Titre": "LEGO Ninjago : le soulèvement des dragons",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
     "Date": "22/10/2025",
-    "Titre": "Tokyo Tarareba Girls",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Candice Renoir",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "23/10/2025",
+    "Titre": "Section de recherches",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "23/10/2025",
+    "Titre": "The Deal",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
   },
   {
     "Date": "24/10/2025",
-    "Titre": "SWAT",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 6",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "25/10/2025",
-    "Titre": "La Vie rêvée de M. Kim",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "24/10/2025",
+    "Titre": "Chucky",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
-    "Date": "26/10/2025",
-    "Titre": "Ichikei’s Crow : The Criminal Court Judges ",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "27/10/2025",
-    "Titre": "The Asset",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "24/10/2025",
+    "Titre": "Meurtres à Sandhamn",
+    "Saison": "Saison 10",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
   },
   {
     "Date": "29/10/2025",
-    "Titre": "Maîtres du jeu",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "30/10/2025",
-    "Titre": "Son of a Donkey",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "30/10/2025",
-    "Titre": "Zomvivor",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Hazbin Hotel",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
     "Date": "31/10/2025",
-    "Titre": "Bad Influencer",
+    "Titre": "Dime Tu Nombre",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "13/11/2025",
+    "Titre": "Si je n'avais vu le soleil",
+    "Saison": "Partie 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/12/2025",
+    "Titre": "The Abandons",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/11/2025",
-    "Titre": "Mrs Playmen",
-    "Saison": "Mini-série",
+    "Date": "11/12/2025",
+    "Titre": "Si je n'avais vu le soleil",
+    "Saison": "Partie 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
-  },
-  {
-    "Date": "03/12/2025",
-    "Titre": "Traqués",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
   }
 ]

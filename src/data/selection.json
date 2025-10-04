@@ -1,11 +1,5 @@
 [
   {
-    "Date": "10/09/2025",
-    "Titre": "The Girlfriend",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video"
-  },
-  {
     "Date": "17/09/2025",
     "Titre": "The Morning Show",
     "Saison": "Saison 4",
@@ -34,5 +28,11 @@
     "Titre": "Monstre : L’histoire d’Ed Gein",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "08/10/2025",
+    "Titre": "Les Disparues de la gare",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   }
 ]
