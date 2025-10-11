@@ -1,17 +1,17 @@
 [
   {
-    "titre": "Monstre : L'histoire d'Ed Gein",
-    "videoId": "Q6iIbLEuHhw",
+    "titre": "A Knight of The Seven Kingdoms",
+    "videoId": "lYnuXW35dBc",
+    "plateforme": "HBO Max"
+  },
+  {
+    "titre": "The Witcher saison 4",
+    "videoId": "7W2V3HKUo98",
     "plateforme": "Netflix"
   },
   {
-    "titre": "Nobody Wants This saison 2",
-    "videoId": "Ek-8weebKGg",
-    "plateforme": "Netflix"
-  },
-  {
-    "titre": "Maxton Hall saison 2",
-    "videoId": "nvD3-KOHdeg",
-    "plateforme": "Prime Video"
+    "titre": "Pluribus",
+    "videoId": "gpnizY19kEM",
+    "plateforme": "Apple TV+"
   }
 ]

@@ -1,177 +1,72 @@
 [
   {
-    "Date": "01/10/2025",
-    "Titre": "Blue Bloods",
-    "Saison": "Saison 12",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "03/10/2025",
-    "Titre": "Sanda",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "04/10/2025",
-    "Titre": "Lego City: No Limits",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "06/10/2025",
-    "Titre": "The Agency (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "07/10/2025",
-    "Titre": "High Potential",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "08/10/2025",
-    "Titre": "Fate",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "10/10/2025",
-    "Titre": "SEAL Team",
-    "Saison": "Saison 5",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "15/10/2025",
-    "Titre": "To Cook a Bear",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "15/10/2025",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "15/10/2025",
-    "Titre": "Preacher",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "18/10/2025",
-    "Titre": "Matlock (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "19/10/2025",
-    "Titre": "Les Enquêtes de Dan Sommerdahl",
-    "Saison": "Saison 5",
+    "Date": "25/10/2025",
+    "Titre": "La Brigade du fleuve",
+    "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "21/10/2025",
-    "Titre": "La Famille Rose",
+    "Date": "26/10/2025",
+    "Titre": "Le Temps des loups",
     "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
   },
   {
-    "Date": "22/10/2025",
-    "Titre": "Baby Bandito",
-    "Saison": "Saison 2",
+    "Date": "03/11/2025",
+    "Titre": "The Hunting Wives",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "04/11/2025",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 4",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "04/11/2025",
+    "Titre": "All's Fair",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "05/11/2025",
+    "Titre": "Alicia Tout Simplement",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "22/10/2025",
-    "Titre": "Candice Renoir",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "23/10/2025",
-    "Titre": "Section de recherches",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "23/10/2025",
-    "Titre": "The Deal",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "24/10/2025",
-    "Titre": "Astrid et Raphaëlle",
-    "Saison": "Saison 6",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "24/10/2025",
-    "Titre": "Chucky",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "24/10/2025",
-    "Titre": "Meurtres à Sandhamn",
-    "Saison": "Saison 10",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "29/10/2025",
-    "Titre": "Hazbin Hotel",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "31/10/2025",
-    "Titre": "Dime Tu Nombre",
+    "Date": "14/11/2025",
+    "Titre": "Malice",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "13/11/2025",
-    "Titre": "Si je n'avais vu le soleil",
-    "Saison": "Partie 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/12/2025",
-    "Titre": "The Abandons",
+    "Date": "19/01/2026",
+    "Titre": "A Knight of The Seven Kingdoms",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
-    "Date": "11/12/2025",
-    "Titre": "Si je n'avais vu le soleil",
-    "Saison": "Partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "21/01/2026",
+    "Titre": "Les Gouttes de Dieu",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+"
+  },
+  {
+    "Date": "11/02/2026",
+    "Titre": "Cross",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   }
 ]

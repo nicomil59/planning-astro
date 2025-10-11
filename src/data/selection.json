@@ -6,12 +6,6 @@
     "Plateforme": "Apple TV+"
   },
   {
-    "Date": "18/09/2025",
-    "Titre": "Black Rabbit",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "25/09/2025",
     "Titre": "House of Guinness",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "Les Disparues de la gare",
     "Saison": "Mini-série",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "16/10/2025",
+    "Titre": "La Diplomate",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
   }
 ]

@@ -1,75 +1,5 @@
 [
   {
-    "Date": "29/09/2025",
-    "Heure": "21:10:00",
-    "Titre": "Montmartre",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/09/2025",
-    "Heure": "21:00:00",
-    "Titre": "Les Sentinelles",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/09/2025",
-    "Heure": "00:00:00",
-    "Titre": "Gossip Girl",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/09/2025",
-    "Heure": "00:00:00",
-    "Titre": "Gilmore Girls",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/09/2025",
-    "Heure": "00:00:00",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/09/2025",
-    "Heure": "00:00:00",
-    "Titre": "Chad Powers",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/09/2025",
-    "Heure": "21:10:00",
-    "Titre": "La Stagiaire",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/10/2025",
     "Heure": "00:00:00",
     "Titre": "Riv4lités",
@@ -1000,6 +930,16 @@
     "Note": null
   },
   {
+    "Date": "25/10/2025",
+    "Heure": "21:10:00",
+    "Titre": "La Brigade du fleuve",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "26/10/2025",
     "Heure": "00:00:00",
     "Titre": "Mayor of Kingstown",
@@ -1017,6 +957,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "26/10/2025",
+    "Heure": "20:55:00",
+    "Titre": "Le Temps des loups",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "SUE",
     "Note": null
   },
   {
@@ -1170,6 +1120,36 @@
     "Note": null
   },
   {
+    "Date": "03/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Hunting Wives",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/11/2025",
+    "Heure": "21:00:00",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 4",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "All's Fair",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Avec Kim Kardashian, Glenn Close et Naomi Watts"
+  },
+  {
     "Date": "05/11/2025",
     "Heure": "00:00:00",
     "Titre": "Heweliusz",
@@ -1177,6 +1157,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "05/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Alicia Tout Simplement",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "COL",
     "Note": null
   },
   {
@@ -1278,6 +1268,16 @@
     "Categorie": "HBO Max",
     "Pays": "FRA",
     "Note": null
+  },
+  {
+    "Date": "14/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Malice",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "UK",
+    "Note": "Avec David Duchovny"
   },
   {
     "Date": "16/11/2025",
@@ -1400,12 +1400,42 @@
     "Note": null
   },
   {
+    "Date": "19/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "A Knight of The Seven Kingdoms",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Nouvelle série dérivée de Game of Thrones"
+  },
+  {
+    "Date": "21/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Gouttes de Dieu",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV+",
+    "Categorie": "Apple TV+",
+    "Pays": "FRA, US, JAP",
+    "Note": null
+  },
+  {
     "Date": "30/01/2026",
     "Heure": "00:00:00",
     "Titre": "Yo Gabba GabbaLand!",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV+",
     "Categorie": "Apple TV+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Cross",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
