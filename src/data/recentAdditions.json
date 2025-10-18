@@ -1,72 +1,93 @@
 [
   {
-    "Date": "25/10/2025",
-    "Titre": "La Brigade du fleuve",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/10/2025",
-    "Titre": "Le Temps des loups",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "03/11/2025",
-    "Titre": "The Hunting Wives",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "04/11/2025",
-    "Titre": "Resident Alien",
-    "Saison": "Saison 4",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "04/11/2025",
-    "Titre": "All's Fair",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/11/2025",
-    "Titre": "Alicia Tout Simplement",
+    "Date": "19/10/2025",
+    "Titre": "Si le monde est une scène",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
+    "Date": "22/10/2025",
+    "Titre": "Validé",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/11/2025",
+    "Titre": "Des Vivants",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "04/11/2025",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "08/11/2025",
+    "Titre": "Accused",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/11/2025",
+    "Titre": "Delhi Crime",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
     "Date": "14/11/2025",
-    "Titre": "Malice",
+    "Titre": "Le Coup gagnant",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "19/01/2026",
-    "Titre": "A Knight of The Seven Kingdoms",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Date": "29/11/2025",
+    "Titre": "Unforgotten",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
   },
   {
-    "Date": "21/01/2026",
-    "Titre": "Les Gouttes de Dieu",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+"
+    "Date": "12/12/2025",
+    "Titre": "Home For Christmas",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "11/02/2026",
-    "Titre": "Cross",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "08/01/2026",
+    "Titre": "His & Hers",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "28/01/2026",
+    "Titre": "Wonder Man",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "29/01/2026",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "26/02/2026",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 4 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]
