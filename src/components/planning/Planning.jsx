@@ -11,7 +11,7 @@ const Planning = () => {
     "Netflix",
     "Prime Video",
     "Disney+",
-    "Apple TV+",
+    "Apple TV",
     "Paramount+",
     "HBO Max",
     "TNT",

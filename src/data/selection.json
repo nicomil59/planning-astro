@@ -1,21 +1,9 @@
 [
   {
-    "Date": "29/09/2025",
-    "Titre": "Montmartre",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1"
-  },
-  {
     "Date": "03/10/2025",
     "Titre": "Monstre : L’histoire d’Ed Gein",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
-  },
-  {
-    "Date": "08/10/2025",
-    "Titre": "Les Disparues de la gare",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
   },
   {
     "Date": "16/10/2025",
@@ -34,5 +22,17 @@
     "Titre": "Culte - 2be3",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
+  },
+    {
+    "Date": "27/10/2025",
+    "Titre": "Ça : Bienvenue à Derry",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max"
+  },
+   {
+    "Date": "30/10/2025",
+    "Titre": "The Witcher",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix"
   }
 ]

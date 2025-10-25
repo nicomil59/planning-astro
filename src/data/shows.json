@@ -1,255 +1,5 @@
 [
   {
-    "Date": "06/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Smiling Friends",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US, AUS",
-    "Note": null
-  },
-  {
-    "Date": "06/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Agency (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "High Potential",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Nero",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Les Disparues de la gare",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Rosemary's Baby",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Secret She Keeps",
-    "Saison": "Saison 1",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "20:55:00",
-    "Titre": "Homicide",
-    "Saison": "Intégrale",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": "Rediffusion rare de la brillante série policière des années 90 "
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Parfum du bonheur",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Fate",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Boots",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Ancien titre : \"The Corps\""
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "The Rookie : FBI",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": "Série dérivée de The Rookie dont l'unique saison a été diffusée sur ABC en 2022-2023"
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Brea",
-    "Saison": "Intégrale",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Playing Gracie Darling",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "The Narrow Road",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "20:55:00",
-    "Titre": "Reykjavik 112",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "FIN, ISL",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Resurrected",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TAI",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Vgly",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "10/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Last Frontier",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'Héritière et l'ambitieux",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "10/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Kurukshetra : La guerre du Mahabharata",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "10/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "SEAL Team",
-    "Saison": "Saison 5",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "Hacks",
-    "Saison": "Saison 4",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Typhoon Family",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "12/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "Killer Coaster",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Disponible sur Prime Video"
-  },
-  {
     "Date": "13/10/2025",
     "Heure": "00:00:00",
     "Titre": "The Chair Company",
@@ -304,8 +54,8 @@
     "Heure": "00:00:00",
     "Titre": "Loot",
     "Saison": "Saison 3",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },
@@ -570,6 +320,16 @@
     "Note": null
   },
   {
+    "Date": "19/10/2025",
+    "Heure": "21:00:00",
+    "Titre": "Grace",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "20/10/2025",
     "Heure": "00:00:00",
     "Titre": "Haha You Clowns",
@@ -598,6 +358,16 @@
     "Categorie": "OCS",
     "Pays": "FRA",
     "Note": null
+  },
+  {
+    "Date": "21/10/2025",
+    "Heure": "23:45:00",
+    "Titre": "La Brea",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Dernière saison, disponible sur TF1+"
   },
   {
     "Date": "22/10/2025",
@@ -740,6 +510,16 @@
     "Note": null
   },
   {
+    "Date": "24/10/2025",
+    "Heure": "00:00:00",
+    "Titre": "Rosehaven",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
     "Date": "25/10/2025",
     "Heure": "00:00:00",
     "Titre": "La Vie rêvée de M. Kim",
@@ -824,8 +604,8 @@
     "Heure": "00:00:00",
     "Titre": "Down Cemetery Road",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "UK",
     "Note": null
   },
@@ -1034,8 +814,8 @@
     "Heure": "00:00:00",
     "Titre": "Pluribus",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Nouvelle série de Vince Gilligan, le créateur de Breaking Bad"
   },
@@ -1060,12 +840,32 @@
     "Note": null
   },
   {
+    "Date": "10/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Ghosts : Fantômes en héritage",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Disney+"
+  },
+  {
+    "Date": "11/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "12/11/2025",
     "Heure": "00:00:00",
     "Titre": "Palm Royale",
     "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },
@@ -1077,6 +877,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Désenchantées",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1120,6 +930,26 @@
     "Note": null
   },
   {
+    "Date": "13/11/2025",
+    "Heure": "21:00:00",
+    "Titre": "L'Heure Zéro",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "13/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "L'École des Licornes",
+    "Saison": "Chapitre 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US, CAN",
+    "Note": null
+  },
+  {
     "Date": "14/11/2025",
     "Heure": "00:00:00",
     "Titre": "Merteuil",
@@ -1150,6 +980,16 @@
     "Note": null
   },
   {
+    "Date": "14/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Le Coucou de Cristal",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "16/11/2025",
     "Heure": "00:00:00",
     "Titre": "Landman",
@@ -1160,6 +1000,36 @@
     "Note": null
   },
   {
+    "Date": "17/11/2025",
+    "Heure": "21:00:00",
+    "Titre": "New York : Crime organisé",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Gabby et la maison magique",
+    "Saison": "Saison 12",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Envieuse",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
     "Date": "20/11/2025",
     "Heure": "00:00:00",
     "Titre": "Espion à l'ancienne",
@@ -1167,6 +1037,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Jurassic World : La théorie du chaos",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "23/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Dix pour cent",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1194,8 +1084,8 @@
     "Heure": "00:00:00",
     "Titre": "Traqués",
     "Saison": "Mini-série",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "FRA",
     "Note": "Ancien titre : \"À L'ombre des forêts\""
   },
@@ -1300,6 +1190,16 @@
     "Note": null
   },
   {
+    "Date": "14/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Hijack",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "19/01/2026",
     "Heure": "00:00:00",
     "Titre": "A Knight of The Seven Kingdoms",
@@ -1314,8 +1214,8 @@
     "Heure": "00:00:00",
     "Titre": "Les Gouttes de Dieu",
     "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "FRA, US, JAP",
     "Note": null
   },
@@ -1326,6 +1226,16 @@
     "Saison": "Mini-série",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "28/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Shrinking",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },
@@ -1344,8 +1254,8 @@
     "Heure": "00:00:00",
     "Titre": "Yo Gabba GabbaLand!",
     "Saison": "Saison 2",
-    "Plateforme": "Apple TV+",
-    "Categorie": "Apple TV+",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },

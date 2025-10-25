@@ -1,93 +1,114 @@
 [
   {
     "Date": "19/10/2025",
-    "Titre": "Si le monde est une scène",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Grace",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
   },
   {
-    "Date": "22/10/2025",
-    "Titre": "Validé",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "03/11/2025",
-    "Titre": "Des Vivants",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
+    "Date": "21/10/2025",
+    "Titre": "La Brea",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "04/11/2025",
+    "Date": "24/10/2025",
+    "Titre": "Rosehaven",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "10/11/2025",
+    "Titre": "Ghosts : Fantômes en héritage",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "11/11/2025",
     "Titre": "Alex Hugo",
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "08/11/2025",
-    "Titre": "Accused",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble"
+    "Date": "12/11/2025",
+    "Titre": "Désenchantées",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
     "Date": "13/11/2025",
-    "Titre": "Delhi Crime",
-    "Saison": "Saison 3",
+    "Titre": "L'Heure Zéro",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "13/11/2025",
+    "Titre": "L'École des Licornes",
+    "Saison": "Chapitre 4",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "14/11/2025",
-    "Titre": "Le Coup gagnant",
-    "Saison": "Saison 1",
+    "Titre": "Le Coucou de Cristal",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "29/11/2025",
-    "Titre": "Unforgotten",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
+    "Date": "17/11/2025",
+    "Titre": "New York : Crime organisé",
+    "Saison": "Saison 5",
+    "Plateforme": "13ème Rue",
     "Categorie": "Câble"
   },
   {
-    "Date": "12/12/2025",
-    "Titre": "Home For Christmas",
+    "Date": "17/11/2025",
+    "Titre": "Gabby et la maison magique",
+    "Saison": "Saison 12",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "19/11/2025",
+    "Titre": "Envieuse",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "08/01/2026",
-    "Titre": "His & Hers",
-    "Saison": "Mini-série",
+    "Date": "20/11/2025",
+    "Titre": "Jurassic World : La théorie du chaos",
+    "Saison": "Saison 4",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "23/11/2025",
+    "Titre": "Dix pour cent",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "14/01/2026",
+    "Titre": "Hijack",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   },
   {
     "Date": "28/01/2026",
-    "Titre": "Wonder Man",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "29/01/2026",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 4 partie 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "26/02/2026",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Shrinking",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]
