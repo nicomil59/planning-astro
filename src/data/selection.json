@@ -1,23 +1,5 @@
 [
   {
-    "Date": "03/10/2025",
-    "Titre": "Monstre : L’histoire d’Ed Gein",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "16/10/2025",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix"
-  },
-    {
-    "Date": "23/10/2025",
-    "Titre": "Nobody Wants This",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "24/10/2025",
     "Titre": "Culte - 2be3",
     "Saison": "Mini-série",
@@ -34,5 +16,23 @@
     "Titre": "The Witcher",
     "Saison": "Saison 4",
     "Plateforme": "Netflix"
+  },
+    {
+    "Date": "03/11/2025",
+    "Titre": "Des Vivants",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+    {
+    "Date": "04/11/2025",
+    "Titre": "All's Fair",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+    {
+    "Date": "07/11/2025",
+    "Titre": "Pluribus",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV"
   }
 ]

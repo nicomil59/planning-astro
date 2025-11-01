@@ -1,114 +1,212 @@
 [
   {
-    "Date": "19/10/2025",
-    "Titre": "Grace",
-    "Saison": "Saison 5",
-    "Plateforme": "13ème Rue",
+    "Date": "30/10/2025",
+    "Titre": "Generation Z",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
     "Categorie": "Câble"
   },
   {
-    "Date": "21/10/2025",
-    "Titre": "La Brea",
-    "Saison": "Saison 3",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Date": "01/11/2025",
+    "Titre": "Luther",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "24/10/2025",
-    "Titre": "Rosehaven",
+    "Date": "03/11/2025",
+    "Titre": "Au Plaisir de ne pas faire ta connaissance",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "04/11/2025",
+    "Titre": "Hightown",
     "Saison": "Intégrale",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/11/2025",
+    "Titre": "The Vince Staples Show",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/11/2025",
+    "Titre": "The Assassin",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "08/11/2025",
+    "Titre": "Tatsuki Fujimoto Anthologie 17-26",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
     "Date": "10/11/2025",
-    "Titre": "Ghosts : Fantômes en héritage",
+    "Titre": "Bat-Fam",
     "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "11/11/2025",
-    "Titre": "Alex Hugo",
+    "Date": "10/11/2025",
+    "Titre": "Lana Longuebarbe",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "12/11/2025",
+    "Titre": "Dynamite Kiss",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/11/2025",
+    "Titre": "Gossip Girl",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "15/11/2025",
+    "Titre": "The Rookie",
+    "Saison": "Saison 6",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "16/11/2025",
+    "Titre": "Les Enquêtes de Vera",
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "12/11/2025",
-    "Titre": "Désenchantées",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "13/11/2025",
-    "Titre": "L'Heure Zéro",
-    "Saison": "Mini-série",
+    "Date": "17/11/2025",
+    "Titre": "Validé",
+    "Saison": "Saison 3",
     "Plateforme": "Canal+",
     "Categorie": "Canal+"
   },
   {
-    "Date": "13/11/2025",
-    "Titre": "L'École des Licornes",
-    "Saison": "Chapitre 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "14/11/2025",
-    "Titre": "Le Coucou de Cristal",
+    "Date": "17/11/2025",
+    "Titre": "Menace imminente",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
     "Date": "17/11/2025",
-    "Titre": "New York : Crime organisé",
-    "Saison": "Saison 5",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
+    "Titre": 4400,
+    "Saison": "Saison 1",
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT"
   },
   {
-    "Date": "17/11/2025",
-    "Titre": "Gabby et la maison magique",
-    "Saison": "Saison 12",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "18/11/2025",
+    "Titre": "Extra-Lucide",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
     "Date": "19/11/2025",
-    "Titre": "Envieuse",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Will Trent",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "19/11/2025",
+    "Titre": "The Mighty Nein",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "19/11/2025",
+    "Titre": "Laetitia",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "20/11/2025",
-    "Titre": "Jurassic World : La théorie du chaos",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "High Class",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "23/11/2025",
-    "Titre": "Dix pour cent",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "20/11/2025",
+    "Titre": "Inheritors",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "14/01/2026",
-    "Titre": "Hijack",
+    "Date": "20/11/2025",
+    "Titre": "Pinnochio",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "20/11/2025",
+    "Titre": "Doctor John",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "20/11/2025",
+    "Titre": "Le Daron",
     "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "28/01/2026",
-    "Titre": "Shrinking",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Date": "20/11/2025",
+    "Titre": "Los Años nuevos",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "25/11/2025",
+    "Titre": "SUPERmad",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "26/11/2025",
+    "Titre": "Des Vivants",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "29/11/2025",
+    "Titre": "It's Florida, Man",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "10/03/2026",
+    "Titre": "One Piece",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

@@ -1,335 +1,5 @@
 [
   {
-    "Date": "13/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Chair Company",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "Snowpiercer",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": "Saisons 1 à 3 disponible sur Netflix, saison 4 à venir sur Série Club"
-  },
-  {
-    "Date": "13/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Watson",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/10/2025",
-    "Heure": "20:55:00",
-    "Titre": "Bête Noire",
-    "Saison": "Saison 3",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "14/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Splinter Cell: Deathwatch",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Loot",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Murdaugh Murders",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Personne ne nous a vus partir",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "To Cook a Bear",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Preacher",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Romantics Anonymous",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pêche interdite",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POR",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Odwilz: le dégel",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "La Grande Maison Tokyo",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Baby Assassins",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Before and After",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Ignite",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Dans notre tanière",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Love is For The Dogs",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Mister Mikami's Classroom",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Please Die My Beloved",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Until I Destroyed my Husband's Family",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Vivant",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Qui a vu le Paon danser ?",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Transformers : Earth Spark",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "LEGO Ninjago : le soulèvement des dragons",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Radiation House",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2025",
-    "Heure": "21:10:00",
-    "Titre": "Matlock (2024)",
-    "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/10/2025",
-    "Heure": "21:10:00",
-    "Titre": "Les Enquêtes de Dan Sommerdahl",
-    "Saison": "Saison 5",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "19/10/2025",
-    "Heure": "00:00:00",
-    "Titre": "Si le monde est une scène",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "19/10/2025",
-    "Heure": "21:00:00",
-    "Titre": "Grace",
-    "Saison": "Saison 5",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "20/10/2025",
     "Heure": "00:00:00",
     "Titre": "Haha You Clowns",
@@ -680,6 +350,16 @@
     "Note": null
   },
   {
+    "Date": "30/10/2025",
+    "Heure": "22:00:00",
+    "Titre": "Generation Z",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "31/10/2025",
     "Heure": "00:00:00",
     "Titre": "Respira",
@@ -707,6 +387,16 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Luther",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -740,6 +430,16 @@
     "Note": null
   },
   {
+    "Date": "03/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Au Plaisir de ne pas faire ta connaissance",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "04/11/2025",
     "Heure": "21:00:00",
     "Titre": "Resident Alien",
@@ -770,6 +470,16 @@
     "Note": null
   },
   {
+    "Date": "04/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Hightown",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Starzplay"
+  },
+  {
     "Date": "05/11/2025",
     "Heure": "00:00:00",
     "Titre": "Heweliusz",
@@ -797,6 +507,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Vince Staples Show",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Assassin",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK, IRL",
     "Note": null
   },
   {
@@ -840,6 +570,16 @@
     "Note": null
   },
   {
+    "Date": "08/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Tatsuki Fujimoto Anthologie 17-26",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "10/11/2025",
     "Heure": "21:10:00",
     "Titre": "Ghosts : Fantômes en héritage",
@@ -848,6 +588,26 @@
     "Categorie": "TNT",
     "Pays": "FRA",
     "Note": "Déjà diffusée sur Disney+"
+  },
+  {
+    "Date": "10/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Bat-Fam",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Lana Longuebarbe",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA, CAN, ALL",
+    "Note": null
   },
   {
     "Date": "11/11/2025",
@@ -887,6 +647,16 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Dynamite Kiss",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -990,6 +760,26 @@
     "Note": null
   },
   {
+    "Date": "15/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Gossip Girl",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Rookie",
+    "Saison": "Saison 6",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "16/11/2025",
     "Heure": "00:00:00",
     "Titre": "Landman",
@@ -997,6 +787,16 @@
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Les Enquêtes de Vera",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1020,6 +820,46 @@
     "Note": null
   },
   {
+    "Date": "17/11/2025",
+    "Heure": "21:00:00",
+    "Titre": "Validé",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "17/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Menace imminente",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "17/11/2025",
+    "Heure": "21:00:00",
+    "Titre": 4400,
+    "Saison": "Saison 1",
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Syfy"
+  },
+  {
+    "Date": "18/11/2025",
+    "Heure": "20:50:00",
+    "Titre": "Extra-Lucide",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS",
+    "Categorie": "OCS",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "19/11/2025",
     "Heure": "00:00:00",
     "Titre": "Envieuse",
@@ -1028,6 +868,36 @@
     "Categorie": "Netflix",
     "Pays": "ARG",
     "Note": null
+  },
+  {
+    "Date": "19/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Will Trent",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Mighty Nein",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Laetitia",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur France TV"
   },
   {
     "Date": "20/11/2025",
@@ -1050,6 +920,66 @@
     "Note": null
   },
   {
+    "Date": "20/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "High Class",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Inheritors",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Pinnochio",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Doctor John",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Le Daron",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2025",
+    "Heure": "20:55:00",
+    "Titre": "Los Años nuevos",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "ESP, FRA",
+    "Note": null
+  },
+  {
     "Date": "23/11/2025",
     "Heure": "00:00:00",
     "Titre": "Dix pour cent",
@@ -1058,6 +988,26 @@
     "Categorie": "Netflix",
     "Pays": "FRA",
     "Note": null
+  },
+  {
+    "Date": "25/11/2025",
+    "Heure": "21:00:00",
+    "Titre": "SUPERmad",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "26/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Des Vivants",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur France TV"
   },
   {
     "Date": "27/11/2025",
@@ -1077,6 +1027,16 @@
     "Plateforme": "Polar+",
     "Categorie": "Câble",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "29/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "It's Florida, Man",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -1287,6 +1247,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "One Piece",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US, JAP",
     "Note": null
   }
 ]
