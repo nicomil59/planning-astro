@@ -1,245 +1,5 @@
 [
   {
-    "Date": "01/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Luther",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "03/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "I Love LA",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/11/2025",
-    "Heure": "20:55:00",
-    "Titre": "The Hunting Wives",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Des Vivants",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "03/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Au Plaisir de ne pas faire ta connaissance",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "03/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Crutch",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/11/2025",
-    "Heure": "21:00:00",
-    "Titre": "Resident Alien",
-    "Saison": "Saison 4",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "All's Fair",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Avec Kim Kardashian, Glenn Close et Naomi Watts"
-  },
-  {
-    "Date": "04/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "04/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Hightown",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Starzplay"
-  },
-  {
-    "Date": "04/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Montmartre",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur TF1"
-  },
-  {
-    "Date": "05/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Heweliusz",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "05/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Alicia Tout Simplement",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "05/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Manipulated",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "05/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Bob's Burgers",
-    "Saison": "Saison 15",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Président foudroyé",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Vince Staples Show",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Assassin",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK, IRL",
-    "Note": null
-  },
-  {
-    "Date": "06/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Drop Dead Diva",
-    "Saison": "Intégrale",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Maxton Hall",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "07/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pluribus",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": "Nouvelle série de Vince Gilligan, le créateur de Breaking Bad"
-  },
-  {
-    "Date": "07/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tu étais là",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "08/11/2025",
-    "Heure": "21:00:00",
-    "Titre": "Accused",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tatsuki Fujimoto Anthologie 17-26",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "10/11/2025",
     "Heure": "21:10:00",
     "Titre": "Ghosts : Fantômes en héritage",
@@ -440,6 +200,26 @@
     "Note": null
   },
   {
+    "Date": "14/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "The Great",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Starzplay"
+  },
+  {
+    "Date": "14/11/2025",
+    "Heure": "00:00:00",
+    "Titre": "Future Man",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur OCS"
+  },
+  {
     "Date": "15/11/2025",
     "Heure": "00:00:00",
     "Titre": "Gossip Girl",
@@ -538,6 +318,16 @@
     "Categorie": "TNT",
     "Pays": "US",
     "Note": "Déjà diffusée sur Syfy"
+  },
+  {
+    "Date": "17/11/2025",
+    "Heure": "16:50:00",
+    "Titre": "Mom",
+    "Saison": "Intégrale",
+    "Plateforme": "Warner TV",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Comédie+"
   },
   {
     "Date": "18/11/2025",
@@ -780,6 +570,26 @@
     "Note": null
   },
   {
+    "Date": "29/11/2025",
+    "Heure": "17:30:00",
+    "Titre": "La Petite Histoire de France",
+    "Saison": "Saison 6",
+    "Plateforme": "W9",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "29/11/2025",
+    "Heure": "21:10:00",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "01/12/2025",
     "Heure": "20:55:00",
     "Titre": "Ann Ming : Le combat d'une mère",
@@ -787,6 +597,26 @@
     "Plateforme": "Polar+",
     "Categorie": "Câble",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "La Disparue de Compostelle",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Talamasca : The Secret Order",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -800,6 +630,16 @@
     "Note": "Ancien titre : \"À L'ombre des forêts\""
   },
   {
+    "Date": "03/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "Ardennes",
+    "Saison": "Pilote",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Episode pilote de cette nouvelle série avec David Hallyday"
+  },
+  {
     "Date": "04/12/2025",
     "Heure": "00:00:00",
     "Titre": "The Abandons",
@@ -808,6 +648,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "04/12/2025",
+    "Heure": "20:55:00",
+    "Titre": "La Tour",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "UK",
+    "Note": "Déjà diffusée sur Canal+ et Polar+"
   },
   {
     "Date": "05/12/2025",
@@ -820,6 +670,16 @@
     "Note": null
   },
   {
+    "Date": "09/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Pax Massilia",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "10/12/2025",
     "Heure": "00:00:00",
     "Titre": "Percy Jackson et les Olympiens",
@@ -827,6 +687,26 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Accidente",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "10/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Valkyrie Apocalypse",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -850,6 +730,16 @@
     "Note": null
   },
   {
+    "Date": "11/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Seul Face au bébé",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
+    "Note": "Suite de la mini-série \"Seul face à l'abeille\", avec Rowan Atkinson"
+  },
+  {
     "Date": "12/12/2025",
     "Heure": "00:00:00",
     "Titre": "Home For Christmas",
@@ -857,6 +747,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "NOR",
+    "Note": null
+  },
+  {
+    "Date": "12/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Cité des ombres",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -920,6 +820,16 @@
     "Note": null
   },
   {
+    "Date": "09/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Machos Alfa",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "11/01/2026",
     "Heure": "00:00:00",
     "Titre": "The Night Manager (2016)",
@@ -928,6 +838,16 @@
     "Categorie": "Prime Video",
     "Pays": "UK",
     "Note": "Suite de la série d'espionnage avec Tom Hiddleston"
+  },
+  {
+    "Date": "13/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tell Me Lies",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "14/01/2026",
@@ -1047,6 +967,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Monarch: Legacy of Monsters",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US, JAP",
     "Note": null
   },
   {

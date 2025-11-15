@@ -1,38 +1,38 @@
 [
-    {
-    "Date": "27/10/2025",
-    "Titre": "Ça : Bienvenue à Derry",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-   {
+  {
     "Date": "30/10/2025",
     "Titre": "The Witcher",
     "Saison": "Saison 4",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "03/11/2025",
     "Titre": "Des Vivants",
     "Saison": "Mini-série",
     "Plateforme": "France 2"
   },
-    {
+  {
     "Date": "07/11/2025",
     "Titre": "Pluribus",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
   },
-      {
+  {
     "Date": "13/11/2025",
     "Titre": "The Beast in Me",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
-      {
+  {
     "Date": "14/11/2025",
     "Titre": "Merteuil",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "17/11/2025",
+    "Titre": "Validé",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+"
   }
 ]

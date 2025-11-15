@@ -1,133 +1,119 @@
 [
   {
-    "Date": "03/11/2025",
-    "Titre": "Crutch",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "04/11/2025",
-    "Titre": "Montmartre",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/11/2025",
-    "Titre": "The Manipulated",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/11/2025",
-    "Titre": "Bob's Burgers",
-    "Saison": "Saison 15",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "06/11/2025",
-    "Titre": "Drop Dead Diva",
-    "Saison": "Intégrale",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD"
-  },
-  {
     "Date": "14/11/2025",
-    "Titre": "Absentia",
+    "Titre": "The Great",
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "14/11/2025",
-    "Titre": "The Big C",
+    "Titre": "Future Man",
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "15/11/2025",
-    "Titre": "The Rookie",
+    "Date": "17/11/2025",
+    "Titre": "Mom",
+    "Saison": "Intégrale",
+    "Plateforme": "Warner TV",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "29/11/2025",
+    "Titre": "La Petite Histoire de France",
     "Saison": "Saison 6",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "W9",
+    "Categorie": "TNT"
   },
   {
-    "Date": "19/11/2025",
-    "Titre": "English Teacher",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "21/11/2025",
-    "Titre": "Fireflies",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "25/11/2025",
-    "Titre": "Tom et Lola",
-    "Saison": "Saison 2",
+    "Date": "29/11/2025",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "26/11/2025",
-    "Titre": "The Great North",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "26/11/2025",
-    "Titre": "WondLa",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Date": "01/12/2025",
+    "Titre": "La Disparue de Compostelle",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
     "Date": "01/12/2025",
-    "Titre": "Ann Ming : Le combat d'une mère",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "05/12/2025",
-    "Titre": "Le Prix des aveux",
+    "Titre": "Talamasca : The Secret Order",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "01/01/2026",
-    "Titre": "Run Away",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "03/12/2025",
+    "Titre": "Ardennes",
+    "Saison": "Pilote",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "11/01/2026",
-    "Titre": "The Night Manager (2016)",
+    "Date": "04/12/2025",
+    "Titre": "La Tour",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "09/12/2025",
+    "Titre": "Pax Massilia",
     "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "15/01/2026",
-    "Titre": "Les Sept cadrans d'Agatha Christie",
+    "Date": "10/12/2025",
+    "Titre": "Accidente",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/12/2025",
+    "Titre": "Valkyrie Apocalypse",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "11/12/2025",
+    "Titre": "Seul Face au bébé",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "20/02/2026",
-    "Titre": "La Dernière chose qu'il m'a dite",
+    "Date": "12/12/2025",
+    "Titre": "Cité des ombres",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/01/2026",
+    "Titre": "Machos Alfa",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/01/2026",
+    "Titre": "Tell Me Lies",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "27/02/2026",
+    "Titre": "Monarch: Legacy of Monsters",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
