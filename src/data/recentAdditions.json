@@ -1,121 +1,65 @@
 [
   {
-    "Date": "14/11/2025",
-    "Titre": "The Great",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "14/11/2025",
-    "Titre": "Future Man",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/11/2025",
-    "Titre": "Mom",
-    "Saison": "Intégrale",
-    "Plateforme": "Warner TV",
+    "Date": "04/12/2025",
+    "Titre": "Mistletoe Murders",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "AB1",
     "Categorie": "Câble"
   },
   {
-    "Date": "29/11/2025",
-    "Titre": "La Petite Histoire de France",
-    "Saison": "Saison 6",
-    "Plateforme": "W9",
-    "Categorie": "TNT"
+    "Date": "06/12/2025",
+    "Titre": "Spartacus : House of Ashur",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
-    "Date": "29/11/2025",
+    "Date": "06/12/2025",
     "Titre": "Le Voyageur",
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "01/12/2025",
-    "Titre": "La Disparue de Compostelle",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
+    "Date": "08/12/2025",
+    "Titre": "R.I.P.",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
     "Categorie": "TNT"
-  },
-  {
-    "Date": "01/12/2025",
-    "Titre": "Talamasca : The Secret Order",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "03/12/2025",
-    "Titre": "Ardennes",
-    "Saison": "Pilote",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "04/12/2025",
-    "Titre": "La Tour",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "09/12/2025",
-    "Titre": "Pax Massilia",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/12/2025",
-    "Titre": "Accidente",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/12/2025",
-    "Titre": "Valkyrie Apocalypse",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
   },
   {
     "Date": "11/12/2025",
-    "Titre": "Seul Face au bébé",
+    "Titre": "Belphégor",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "11/12/2025",
+    "Titre": "Kasaba",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/12/2025",
-    "Titre": "Cité des ombres",
-    "Saison": "Mini-série",
+    "Date": "15/12/2025",
+    "Titre": "Younger",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/01/2026",
-    "Titre": "Machos Alfa",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "18/12/2025",
+    "Titre": "FBI",
+    "Saison": "Saison 7",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
   },
   {
-    "Date": "13/01/2026",
-    "Titre": "Tell Me Lies",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "27/02/2026",
-    "Titre": "Monarch: Legacy of Monsters",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Date": "21/01/2026",
+    "Titre": "Steal",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   }
 ]

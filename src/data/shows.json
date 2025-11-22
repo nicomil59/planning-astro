@@ -1,255 +1,5 @@
 [
   {
-    "Date": "10/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Ghosts : Fantômes en héritage",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur Disney+"
-  },
-  {
-    "Date": "10/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Bat-Fam",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Lana Longuebarbe",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA, CAN, ALL",
-    "Note": null
-  },
-  {
-    "Date": "11/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Palm Royale",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Mrs Playmen",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Désenchantées",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Dynamite Kiss",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Beast in Me",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Last Samurai Standing",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Si je n'avais vu le soleil",
-    "Saison": "Partie 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CHINE, TAI",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Delhi Crime",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "21:00:00",
-    "Titre": "L'Heure Zéro",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "13/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "L'École des Licornes",
-    "Saison": "Chapitre 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US, CAN",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Merteuil",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Malice",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": "Avec David Duchovny"
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Coup gagnant",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Coucou de Cristal",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Absentia",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Big C",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Great",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Starzplay"
-  },
-  {
-    "Date": "14/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Future Man",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur OCS"
-  },
-  {
-    "Date": "15/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Gossip Girl",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Rookie",
-    "Saison": "Saison 6",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Rookie",
-    "Saison": "Saison 6",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "16/11/2025",
     "Heure": "00:00:00",
     "Titre": "Landman",
@@ -627,7 +377,7 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "FRA",
-    "Note": "Ancien titre : \"À L'ombre des forêts\""
+    "Note": "DÉPROGRAMMÉE ! Apple a retiré toute mention de la diffusion de la mini-série..."
   },
   {
     "Date": "03/12/2025",
@@ -660,6 +410,16 @@
     "Note": "Déjà diffusée sur Canal+ et Polar+"
   },
   {
+    "Date": "04/12/2025",
+    "Heure": "20:55:00",
+    "Titre": "Mistletoe Murders",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "AB1",
+    "Categorie": "Câble",
+    "Pays": "CAN, US",
+    "Note": null
+  },
+  {
     "Date": "05/12/2025",
     "Heure": "00:00:00",
     "Titre": "Le Prix des aveux",
@@ -667,6 +427,36 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "06/12/2025",
+    "Heure": "20:50:00",
+    "Titre": "Spartacus : House of Ashur",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS",
+    "Categorie": "OCS",
+    "Pays": "US",
+    "Note": "Nouvelle série dérivée de Spartacus"
+  },
+  {
+    "Date": "06/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "08/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "R.I.P.",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -740,6 +530,26 @@
     "Note": "Suite de la mini-série \"Seul face à l'abeille\", avec Rowan Atkinson"
   },
   {
+    "Date": "11/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Belphégor",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "11/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Kasaba",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
+    "Note": null
+  },
+  {
     "Date": "12/12/2025",
     "Heure": "00:00:00",
     "Titre": "Home For Christmas",
@@ -760,6 +570,16 @@
     "Note": null
   },
   {
+    "Date": "15/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Younger",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "17/12/2025",
     "Heure": "00:00:00",
     "Titre": "Fallout",
@@ -776,6 +596,16 @@
     "Saison": "Saison 5",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/12/2025",
+    "Heure": "21:00:00",
+    "Titre": "FBI",
+    "Saison": "Saison 7",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
     "Pays": "US",
     "Note": null
   },
@@ -888,6 +718,16 @@
     "Categorie": "Apple TV",
     "Pays": "FRA, US, JAP",
     "Note": null
+  },
+  {
+    "Date": "21/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Steal",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "UK",
+    "Note": "Avec Sophie Turner"
   },
   {
     "Date": "28/01/2026",

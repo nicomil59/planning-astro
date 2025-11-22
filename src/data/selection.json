@@ -6,12 +6,6 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "03/11/2025",
-    "Titre": "Des Vivants",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
     "Date": "07/11/2025",
     "Titre": "Pluribus",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "Validé",
     "Saison": "Saison 3",
     "Plateforme": "Canal+"
+  },
+    {
+    "Date": "27/11/2025",
+    "Titre": "Stranger Things",
+    "Saison": "Saison 5 volume 1",
+    "Plateforme": "Netflix"
   }
 ]
