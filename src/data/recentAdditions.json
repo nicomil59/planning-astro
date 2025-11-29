@@ -1,63 +1,112 @@
 [
   {
     "Date": "04/12/2025",
-    "Titre": "Mistletoe Murders",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "AB1",
-    "Categorie": "Câble"
+    "Titre": "The Believers",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "06/12/2025",
-    "Titre": "Spartacus : House of Ashur",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
-  },
-  {
-    "Date": "06/12/2025",
-    "Titre": "Le Voyageur",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "08/12/2025",
-    "Titre": "R.I.P.",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "11/12/2025",
-    "Titre": "Belphégor",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "11/12/2025",
-    "Titre": "Kasaba",
-    "Saison": "Mini-série",
+    "Titre": "Pro Bono",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "15/12/2025",
-    "Titre": "Younger",
-    "Saison": "Intégrale",
+    "Titre": "Monarch: Legacy of Monsters",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "15/12/2025",
+    "Titre": "Shetland",
+    "Saison": "Saison 9",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "15/12/2025",
+    "Titre": "Bistronomia",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "15/12/2025",
+    "Titre": "Solar Opposites",
+    "Saison": "Saisons 2 et 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "17/12/2025",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "17/12/2025",
+    "Titre": "Gabriel et ses petits démons",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "18/12/2025",
-    "Titre": "FBI",
-    "Saison": "Saison 7",
-    "Plateforme": "Série Club",
+    "Titre": "Les Saisons",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "19/12/2025",
+    "Titre": "How To Ruin Love",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/12/2025",
+    "Titre": "Sicilia Express",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/12/2025",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 24",
+    "Plateforme": "13ème Rue",
     "Categorie": "Câble"
   },
   {
-    "Date": "21/01/2026",
-    "Titre": "Steal",
+    "Date": "24/12/2025",
+    "Titre": "Winter Palace",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "12/01/2026",
+    "Titre": "Industry",
+    "Saison": "Saison 4",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "15/01/2026",
+    "Titre": "Le Prisme de l'amour",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "11/03/2026",
+    "Titre": "Scarpetta",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
