@@ -1,11 +1,5 @@
 [
   {
-    "Date": "30/10/2025",
-    "Titre": "The Witcher",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "07/11/2025",
     "Titre": "Pluribus",
     "Saison": "Saison 1",
@@ -18,21 +12,27 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "14/11/2025",
-    "Titre": "Merteuil",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "17/11/2025",
     "Titre": "Validé",
     "Saison": "Saison 3",
     "Plateforme": "Canal+"
   },
-    {
+  {
     "Date": "27/11/2025",
     "Titre": "Stranger Things",
     "Saison": "Saison 5 volume 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "11/12/2025",
+    "Titre": "Seul face au bébé",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+   {
+    "Date": "12/12/2025",
+    "Titre": "Home For Christmas",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix"
   }
 ]
