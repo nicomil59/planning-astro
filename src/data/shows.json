@@ -1,55 +1,5 @@
 [
   {
-    "Date": "27/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Dernière saison. Partie 2 : 26 décembre. Final : 1er janvier."
-  },
-  {
-    "Date": "29/11/2025",
-    "Heure": "20:55:00",
-    "Titre": "Unforgotten",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "29/11/2025",
-    "Heure": "00:00:00",
-    "Titre": "It's Florida, Man",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/11/2025",
-    "Heure": "17:30:00",
-    "Titre": "La Petite Histoire de France",
-    "Saison": "Saison 6",
-    "Plateforme": "W9",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/11/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Voyageur",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/12/2025",
     "Heure": "20:55:00",
     "Titre": "Ann Ming : Le combat d'une mère",
@@ -237,6 +187,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "09/12/2025",
+    "Heure": "21:00:00",
+    "Titre": "Harry Wild",
+    "Saison": "Saison 4",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "IRL",
     "Note": null
   },
   {
@@ -640,6 +600,16 @@
     "Note": "Déjà diffusée sur Amazon Prime Video"
   },
   {
+    "Date": "22/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Idol I",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "24/12/2025",
     "Heure": "21:00:00",
     "Titre": "Winter Palace",
@@ -720,6 +690,26 @@
     "Note": "\"Amis pour toujours\""
   },
   {
+    "Date": "28/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "Dolomites : piégés au sommets",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "29/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "Joséphine, ange gardien",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "31/12/2025",
     "Heure": "00:00:00",
     "Titre": "Shameless (US)",
@@ -758,6 +748,36 @@
     "Categorie": "Netflix",
     "Pays": "UK",
     "Note": "Nouvelle mini-série d'Harlan Coben (Double piège, Tu me manques)"
+  },
+  {
+    "Date": "02/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Land of Sin",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "05/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "Snowpiercer",
+    "Saison": "Saison 4",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "La Guerre des Royaumes",
+    "Saison": "Mini-série",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble",
+    "Pays": "ALL",
+    "Note": null
   },
   {
     "Date": "08/01/2026",
@@ -807,6 +827,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "ISR",
+    "Note": null
+  },
+  {
+    "Date": "09/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Pitt",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -880,6 +910,26 @@
     "Note": null
   },
   {
+    "Date": "15/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Famille Upshaw",
+    "Saison": "Partie 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Dernière saison"
+  },
+  {
+    "Date": "16/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Comment traduire cet amour ?",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "19/01/2026",
     "Heure": "00:00:00",
     "Titre": "A Knight of The Seven Kingdoms",
@@ -940,6 +990,16 @@
     "Note": null
   },
   {
+    "Date": "28/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "School Spirits",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "29/01/2026",
     "Heure": "00:00:00",
     "Titre": "La Chronique des Bridgerton",
@@ -960,6 +1020,26 @@
     "Note": null
   },
   {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Lionnes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Défense Lincoln",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/02/2026",
     "Heure": "00:00:00",
     "Titre": "Le Renard : Prince des voleurs",
@@ -974,6 +1054,16 @@
     "Heure": "00:00:00",
     "Titre": "Cross",
     "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "56 Days",
+    "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
@@ -1006,6 +1096,16 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "23/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Paradise",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -1050,6 +1150,16 @@
     "Note": "Avec Nicole Kidman, Jamie Lee Curtis et Simon Baker"
   },
   {
+    "Date": "19/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Beauty in Black",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "20/03/2026",
     "Heure": "00:00:00",
     "Titre": "Peaky Blinders : L'Immortel",
@@ -1067,6 +1177,46 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Knokke Off : jeunesse dorée",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "08/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Boys",
+    "Saison": "Saison 5",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Dernière saison"
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Margo a des problèmes d'argent",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Michelle Pfeiffer, Elle Fanning et Nicole Kidman"
+  },
+  {
+    "Date": "15/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Berlin et La Dame à l'hermine",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   }
 ]

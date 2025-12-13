@@ -12,12 +12,6 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "17/11/2025",
-    "Titre": "Validé",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+"
-  },
-  {
     "Date": "27/11/2025",
     "Titre": "Stranger Things",
     "Saison": "Saison 5 volume 1",
@@ -29,10 +23,16 @@
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
   },
-   {
-    "Date": "12/12/2025",
-    "Titre": "Home For Christmas",
-    "Saison": "Saison 3",
+  {
+    "Date": "17/12/2025",
+    "Titre": "Fallout",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video"
+  },
+    {
+    "Date": "18/12/2025",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 5",
     "Plateforme": "Netflix"
   }
 ]
