@@ -1,142 +1,205 @@
 [
   {
-    "Date": "09/12/2025",
-    "Titre": "Harry Wild",
-    "Saison": "Saison 4",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "22/12/2025",
-    "Titre": "Idol I",
+    "Date": "12/12/2025",
+    "Titre": "Soulmates",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "28/12/2025",
-    "Titre": "Dolomites : piégés au sommets",
+    "Date": "17/12/2025",
+    "Titre": "Moonhaven",
     "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "18/12/2025",
+    "Titre": "Fargo",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "29/12/2025",
+    "Titre": "Meurtres au paradis",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "01/01/2026",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 22",
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "01/01/2026",
+    "Titre": "Good Doctor",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/01/2026",
+    "Titre": "Bureau des coeurs",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/01/2026",
+    "Titre": "The Island",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "05/01/2026",
+    "Titre": "Catch Me a Killer",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "05/01/2026",
+    "Titre": "Mitterrand confidentiel",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "06/01/2026",
+    "Titre": "Face à Face",
+    "Saison": "Saison 4",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "29/12/2025",
-    "Titre": "Joséphine, ange gardien",
-    "Saison": "Inédit",
+    "Date": "07/01/2026",
+    "Titre": "Elsbeth",
+    "Saison": "Saison 2 partie 2",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "02/01/2026",
-    "Titre": "Land of Sin",
+    "Date": "07/01/2026",
+    "Titre": "Il était deux fois",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "05/01/2026",
-    "Titre": "Snowpiercer",
-    "Saison": "Saison 4",
+    "Date": "08/01/2026",
+    "Titre": "Playing Nice",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "08/01/2026",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "08/01/2026",
+    "Titre": "Twin Peaks",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "08/01/2026",
+    "Titre": "Boglands, enquête en terre noire",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "09/01/2026",
+    "Titre": "César Wagner",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "11/01/2026",
+    "Titre": "Most Wanted Criminals",
+    "Saison": "Saison 6",
     "Plateforme": "Série Club",
     "Categorie": "Câble"
   },
   {
-    "Date": "06/01/2026",
-    "Titre": "La Guerre des Royaumes",
-    "Saison": "Mini-série",
-    "Plateforme": "Syfy",
+    "Date": "11/01/2026",
+    "Titre": "Toronto : Section Criminelle",
+    "Saison": "Saison 1",
+    "Plateforme": "13ème Rue",
     "Categorie": "Câble"
   },
   {
-    "Date": "09/01/2026",
-    "Titre": "The Pitt",
+    "Date": "12/01/2026",
+    "Titre": "B.R.I.",
     "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "14/01/2026",
+    "Titre": "Taskaree",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "15/01/2026",
-    "Titre": "La Famille Upshaw",
-    "Saison": "Partie 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "16/01/2026",
-    "Titre": "Comment traduire cet amour ?",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "28/01/2026",
-    "Titre": "School Spirits",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "05/02/2026",
-    "Titre": "Les Lionnes",
+    "Titre": "L'Amour à perte",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "05/02/2026",
-    "Titre": "La Défense Lincoln",
-    "Saison": "Saison 4",
+    "Date": "22/01/2026",
+    "Titre": "Rêve de glace",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "18/02/2026",
-    "Titre": "56 Days",
+    "Date": "06/02/2026",
+    "Titre": "Salvador",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/03/2026",
+    "Titre": "Young Sherlock",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "23/02/2026",
-    "Titre": "Paradise",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "19/03/2026",
-    "Titre": "Beauty in Black",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "03/04/2026",
-    "Titre": "Knokke Off : jeunesse dorée",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "08/04/2026",
-    "Titre": "The Boys",
-    "Saison": "Saison 5",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/04/2026",
-    "Titre": "Margo a des problèmes d'argent",
+    "Date": "18/03/2026",
+    "Titre": "Imperfect Women",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
   },
   {
-    "Date": "15/05/2026",
-    "Titre": "Berlin et La Dame à l'hermine",
-    "Saison": "Saison 2",
+    "Date": "26/03/2026",
+    "Titre": "Détective Hole",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "29/04/2026",
+    "Titre": "Widow's Bay",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]

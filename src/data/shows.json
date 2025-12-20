@@ -1,205 +1,5 @@
 [
   {
-    "Date": "01/12/2025",
-    "Heure": "20:55:00",
-    "Titre": "Ann Ming : Le combat d'une mère",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "01/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "La Disparue de Compostelle",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "01/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Talamasca : The Secret Order",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Fringe",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Superman & Lois",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Traqués",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "FRA",
-    "Note": "DÉPROGRAMMÉE ! Apple a retiré toute mention de la diffusion de la mini-série..."
-  },
-  {
-    "Date": "03/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Ardennes",
-    "Saison": "Pilote",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Episode pilote de cette nouvelle série avec David Hallyday"
-  },
-  {
-    "Date": "03/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Hunters",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Amazon Prime Video"
-  },
-  {
-    "Date": "04/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Abandons",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/12/2025",
-    "Heure": "20:55:00",
-    "Titre": "La Tour",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "UK",
-    "Note": "Déjà diffusée sur Canal+ et Polar+"
-  },
-  {
-    "Date": "04/12/2025",
-    "Heure": "20:55:00",
-    "Titre": "Mistletoe Murders",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "AB1",
-    "Categorie": "Câble",
-    "Pays": "CAN, US",
-    "Note": null
-  },
-  {
-    "Date": "04/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Believers",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "05/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Le Prix des aveux",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "06/12/2025",
-    "Heure": "20:50:00",
-    "Titre": "Spartacus : House of Ashur",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "US",
-    "Note": "Nouvelle série dérivée de Spartacus"
-  },
-  {
-    "Date": "06/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Voyageur",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "06/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pro Bono",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "08/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "R.I.P.",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Star Wars : Les Aventures des Petits Jedi",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Pax Massilia",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/12/2025",
-    "Heure": "21:00:00",
-    "Titre": "Harry Wild",
-    "Saison": "Saison 4",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "IRL",
-    "Note": null
-  },
-  {
     "Date": "10/12/2025",
     "Heure": "00:00:00",
     "Titre": "Percy Jackson et les Olympiens",
@@ -326,6 +126,16 @@
     "Saison": "Saison 2",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "12/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Soulmates",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -500,6 +310,16 @@
     "Note": null
   },
   {
+    "Date": "17/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Moonhaven",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Syfy"
+  },
+  {
     "Date": "18/12/2025",
     "Heure": "00:00:00",
     "Titre": "Emily in Paris",
@@ -537,6 +357,16 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/12/2025",
+    "Heure": "00:00:00",
+    "Titre": "Fargo",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -710,6 +540,16 @@
     "Note": null
   },
   {
+    "Date": "29/12/2025",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres au paradis",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "31/12/2025",
     "Heure": "00:00:00",
     "Titre": "Shameless (US)",
@@ -742,12 +582,42 @@
   {
     "Date": "01/01/2026",
     "Heure": "00:00:00",
-    "Titre": "Run Away",
+    "Titre": "Ne t'enfuis plus",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "UK",
-    "Note": "Nouvelle mini-série d'Harlan Coben (Double piège, Tu me manques)"
+    "Note": "Titre original : \"Run Away\". Nouvelle mini-série d'Harlan Coben (Double piège, Tu me manques)"
+  },
+  {
+    "Date": "01/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saison 22",
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Disponible sur TF1+"
+  },
+  {
+    "Date": "01/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Good Doctor",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bureau des coeurs",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "MEX",
+    "Note": null
   },
   {
     "Date": "02/01/2026",
@@ -757,6 +627,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "03/01/2026",
+    "Heure": "20:55:00",
+    "Titre": "The Island",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -770,6 +650,26 @@
     "Note": null
   },
   {
+    "Date": "05/01/2026",
+    "Heure": "20:55:00",
+    "Titre": "Catch Me a Killer",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "AFS",
+    "Note": null
+  },
+  {
+    "Date": "05/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Mitterrand confidentiel",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "06/01/2026",
     "Heure": "21:00:00",
     "Titre": "La Guerre des Royaumes",
@@ -777,6 +677,36 @@
     "Plateforme": "Syfy",
     "Categorie": "Câble",
     "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "06/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Face à Face",
+    "Saison": "Saison 4",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Elsbeth",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Il était deux fois",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -797,6 +727,46 @@
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "Playing Nice",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Master Crimes",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Twin Peaks",
+    "Saison": "Intégrale",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "08/01/2026",
+    "Heure": "20:55:00",
+    "Titre": "Boglands, enquête en terre noire",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "IRL, UK",
     "Note": null
   },
   {
@@ -840,6 +810,16 @@
     "Note": null
   },
   {
+    "Date": "09/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "César Wagner",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "11/01/2026",
     "Heure": "00:00:00",
     "Titre": "The Night Manager (2016)",
@@ -850,6 +830,26 @@
     "Note": "Suite de la série d'espionnage avec Tom Hiddleston"
   },
   {
+    "Date": "11/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "Most Wanted Criminals",
+    "Saison": "Saison 6",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": "Dernière saison"
+  },
+  {
+    "Date": "11/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "Toronto : Section Criminelle",
+    "Saison": "Saison 1",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
     "Date": "12/01/2026",
     "Heure": "00:00:00",
     "Titre": "Industry",
@@ -857,6 +857,16 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "UK, US",
+    "Note": null
+  },
+  {
+    "Date": "12/01/2026",
+    "Heure": "21:00:00",
+    "Titre": "B.R.I.",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -877,6 +887,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "14/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Taskaree",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "IND",
     "Note": null
   },
   {
@@ -918,6 +938,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "15/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "L'Amour à perte",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
+    "Note": null
   },
   {
     "Date": "16/01/2026",
@@ -968,6 +998,16 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": "Avec Evan Peters (Dahmer)"
+  },
+  {
+    "Date": "22/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rêve de glace",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CAN",
+    "Note": null
   },
   {
     "Date": "28/01/2026",
@@ -1037,6 +1077,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Salvador",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -1130,6 +1180,16 @@
     "Note": null
   },
   {
+    "Date": "04/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Young Sherlock",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/03/2026",
     "Heure": "00:00:00",
     "Titre": "One Piece",
@@ -1150,6 +1210,16 @@
     "Note": "Avec Nicole Kidman, Jamie Lee Curtis et Simon Baker"
   },
   {
+    "Date": "18/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Imperfect Women",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Elisabeth Moss, Kate Mara et Kerry Washington"
+  },
+  {
     "Date": "19/03/2026",
     "Heure": "00:00:00",
     "Titre": "Beauty in Black",
@@ -1168,6 +1238,16 @@
     "Categorie": "Netflix",
     "Pays": "UK",
     "Note": "Film de conclusion de l'histoire de la série Peaky Blinders"
+  },
+  {
+    "Date": "26/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Détective Hole",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "NOR",
+    "Note": null
   },
   {
     "Date": "03/04/2026",
@@ -1208,6 +1288,16 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Michelle Pfeiffer, Elle Fanning et Nicole Kidman"
+  },
+  {
+    "Date": "29/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Widow's Bay",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Matthew Rhys"
   },
   {
     "Date": "15/05/2026",

@@ -12,12 +12,6 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "27/11/2025",
-    "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "11/12/2025",
     "Titre": "Seul face au bébé",
     "Saison": "Mini-série",
@@ -29,10 +23,16 @@
     "Saison": "Saison 2",
     "Plateforme": "Prime Video"
   },
-    {
+  {
     "Date": "18/12/2025",
     "Titre": "Emily in Paris",
     "Saison": "Saison 5",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "26/12/2025",
+    "Titre": "Stranger Things",
+    "Saison": "Saison 5 volume 2",
     "Plateforme": "Netflix"
   }
 ]
