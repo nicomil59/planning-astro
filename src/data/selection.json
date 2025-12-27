@@ -1,11 +1,5 @@
 [
   {
-    "Date": "07/11/2025",
-    "Titre": "Pluribus",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "13/11/2025",
     "Titre": "The Beast in Me",
     "Saison": "Mini-série",
@@ -30,9 +24,15 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "26/12/2025",
+    "Date": "01/01/2026",
     "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 2",
+    "Saison": "Final",
+    "Plateforme": "Netflix"
+  },
+    {
+    "Date": "01/01/2026",
+    "Titre": "Ne t'enfuis plus",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix"
   }
 ]
