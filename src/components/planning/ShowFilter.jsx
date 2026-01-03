@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-const ShowFilter = ({ categories, onFilterChange }) => {
-  const [selectedCategories, setSelectedCategories] = useState(["Tous"]);
+const ShowFilter = ({ categories, onFilterChange, selectedCategories }) => {
+  //const [selectedCategories, setSelectedCategories] = useState(["Tous"]);
 
   const toggleCategory = (category) => {
     
@@ -26,7 +26,7 @@ const ShowFilter = ({ categories, onFilterChange }) => {
       updatedCategories = ["Tous"];
     }
 
-    setSelectedCategories(updatedCategories);
+    //setSelectedCategories(updatedCategories);
     onFilterChange(updatedCategories);
   };
 
