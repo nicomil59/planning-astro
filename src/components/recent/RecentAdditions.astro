@@ -3,18 +3,22 @@ import recentAdditions from "../../data/recentAdditions.json";
 import SectionTitle from "../SectionTitle.astro";
 import RecentItem from "./RecentItem.astro";
 
-const updateDate = "27 décembre 2025";
+const updateDate = "3 janvier 2026";
 ---
 
 <section id="recent" class="my-12 sm:my-24">
   <SectionTitle text="Derniers ajouts" />
-  <p class="my-8 sm:my-12 text-sm sm:text-lg font-semibold text-center rounded bg-notionyellow-50 sm:w-80 m-auto px-2 py-1 dark:bg-darkbgBrown-950">
-    🕔 Mise à jour : <span>{updateDate}</span>
+  <p
+    class="my-8 sm:my-12 text-sm sm:text-lg font-semibold text-center rounded bg-notionyellow-50 sm:w-80 m-auto px-2 py-1 dark:bg-darkbgBrown-950"
+  >
+    Mise à jour : <span>{updateDate}</span>
   </p>
   <p>Les dernières dates ajoutées au planning.</p>
 
   <div class="md:space-y-2 my-8">
-    <div class="hidden md:grid grid-cols-[0.5fr_2fr_1fr_1fr] text-sm font-semibold bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950 px-4">
+    <div
+      class="hidden md:grid grid-cols-[0.5fr_2fr_1fr_1fr] text-sm font-semibold bg-notionyellow-100 p-2 dark:bg-tableDarkbg-950 px-4"
+    >
       <div>Date</div>
       <div>Titre</div>
       <div>Saison</div>
@@ -22,12 +26,7 @@ const updateDate = "27 décembre 2025";
     </div>
 
     <div class="flex flex-col gap-2 items-center">
-      {
-        recentAdditions.map((item) => (
-          <RecentItem {...item} />
-        ))
-      }
+      {recentAdditions.map((item) => <RecentItem {...item} />)}
     </div>
-    
   </div>
 </section>

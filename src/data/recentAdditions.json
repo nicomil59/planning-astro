@@ -1,128 +1,177 @@
 [
   {
-    "Date": "24/12/2025",
-    "Titre": "Made in Korea",
-    "Saison": "Saison 1",
+    "Date": "01/01/2026",
+    "Titre": "The Walking Dead",
+    "Saison": "Intégrale",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "26/12/2025",
-    "Titre": "Red Road",
+    "Date": "01/01/2026",
+    "Titre": "Stargate SG-1",
     "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "31/12/2025",
-    "Titre": "Rick et Morty",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
   },
   {
     "Date": "01/01/2026",
-    "Titre": "Fire Country",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "New Amsterdam",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
-    "Date": "01/01/2026",
-    "Titre": "Le Temps des mouches",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/01/2026",
-    "Titre": "Downton Abbey",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/01/2026",
-    "Titre": "Ray Donovan",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "10/01/2026",
-    "Titre": "NCIS : Tony & Ziva",
+    "Date": "02/01/2026",
+    "Titre": "Your Turn To Kill",
     "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "10/01/2026",
+    "Date": "07/01/2026",
+    "Titre": "Abbott Elementary",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "07/01/2026",
+    "Titre": "Les Simpson",
+    "Saison": "Saison 37",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "07/01/2026",
+    "Titre": "This is Us",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "07/01/2026",
+    "Titre": "Bitten",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "07/01/2026",
+    "Titre": "Shiboyugi",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "14/01/2026",
+    "Titre": "Manhunt (2024)",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "14/01/2026",
+    "Titre": "Buffy contre les vampires",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/01/2026",
+    "Titre": "Quai Numéro 7",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/01/2026",
+    "Titre": "The Fall",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "16/01/2026",
+    "Titre": "Juste Humaine",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "17/01/2026",
     "Titre": "Enquête parallèle",
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "12/01/2026",
-    "Titre": "Le Diplôme",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
+    "Date": "18/01/2026",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "14/01/2026",
-    "Titre": "La Reina Del Flow",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "15/01/2026",
-    "Titre": "The Borgias",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "16/01/2026",
-    "Titre": "César Wagner",
-    "Saison": "Inédit",
+    "Date": "19/01/2026",
+    "Titre": "Coeurs noirs",
+    "Saison": "Saison 2",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "17/01/2026",
-    "Titre": "Mystères croisés",
-    "Saison": "Inédit",
-    "Plateforme": "Teva",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "17/01/2026",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saisons 1 à 16",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "10/02/2026",
-    "Titre": "Motorvalley",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "02/03/2026",
-    "Titre": "Marshals: a Yellowstone Story",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "12/05/2026",
-    "Titre": "Devil May Cry (2025)",
+    "Date": "21/01/2026",
+    "Titre": "Waverly Place : Les nouveaux sorciers",
     "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "21/01/2026",
+    "Titre": "Madam Secretary",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "22/01/2026",
+    "Titre": "Free Bert",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/01/2026",
+    "Titre": "Ravages",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "23/01/2026",
+    "Titre": "Lovesick",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "23/01/2026",
+    "Titre": "Crime au village",
+    "Saison": "Inédit",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "24/01/2026",
+    "Titre": "Medalist",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "10/04/2026",
+    "Titre": "Malcolm : Rien n'a changé",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   }
 ]

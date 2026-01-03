@@ -1,235 +1,5 @@
 [
   {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Younger",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Monarch: Legacy of Monsters",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "US, JAP",
-    "Note": "Déjà diffusée sur Apple TV"
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "20:55:00",
-    "Titre": "Shetland",
-    "Saison": "Saison 9",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "22:45:00",
-    "Titre": "Bistronomia",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Solar Opposites",
-    "Saison": "Saisons 2 et 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "21:00:00",
-    "Titre": "L'Art de la joie",
-    "Saison": "Mini-série",
-    "Plateforme": "T18",
-    "Categorie": "TNT",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Love & Death",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Canal+"
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Unforgettable",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Arabesque",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Fallout",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Gabriel et ses petits démons",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tracker",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "One Piece",
-    "Saison": "Saisons 12 à 15",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Moonhaven",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Syfy"
-  },
-  {
-    "Date": "18/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Emily in Paris",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/12/2025",
-    "Heure": "21:00:00",
-    "Titre": "FBI",
-    "Saison": "Saison 7",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/12/2025",
-    "Heure": "20:55:00",
-    "Titre": "Les Saisons",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "18/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Tu préfères ?",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "18/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Fargo",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "How To Ruin Love",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "21/12/2025",
-    "Heure": "21:15:00",
-    "Titre": "Les Mystères de l'Amour",
-    "Saison": "Inédit",
-    "Plateforme": "TMC",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "\"Last Christmas\""
-  },
-  {
     "Date": "22/12/2025",
     "Heure": "00:00:00",
     "Titre": "Sicilia Express",
@@ -530,6 +300,36 @@
     "Note": null
   },
   {
+    "Date": "01/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Stargate SG-1",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "New Amsterdam",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/01/2026",
     "Heure": "00:00:00",
     "Titre": "Land of Sin",
@@ -537,6 +337,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "02/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Your Turn To Kill",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -617,6 +427,56 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Abbott Elementary",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Simpson",
+    "Saison": "Saison 37",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "This is Us",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bitten",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "07/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Shiboyugi",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -850,6 +710,26 @@
     "Note": null
   },
   {
+    "Date": "14/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Manhunt (2024)",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Buffy contre les vampires",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "15/01/2026",
     "Heure": "00:00:00",
     "Titre": "Les Sept cadrans d'Agatha Christie",
@@ -910,6 +790,26 @@
     "Note": null
   },
   {
+    "Date": "15/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Quai Numéro 7",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Fall",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "16/01/2026",
     "Heure": "00:00:00",
     "Titre": "Comment traduire cet amour ?",
@@ -927,6 +827,16 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "16/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Juste Humaine",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -950,6 +860,26 @@
     "Note": null
   },
   {
+    "Date": "17/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Enquête parallèle",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "18/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
     "Date": "19/01/2026",
     "Heure": "00:00:00",
     "Titre": "A Knight of The Seven Kingdoms",
@@ -958,6 +888,16 @@
     "Categorie": "HBO Max",
     "Pays": "US",
     "Note": "Nouvelle série dérivée de Game of Thrones"
+  },
+  {
+    "Date": "19/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Coeurs noirs",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Prime Video"
   },
   {
     "Date": "21/01/2026",
@@ -980,6 +920,26 @@
     "Note": "Avec Sophie Turner"
   },
   {
+    "Date": "21/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Waverly Place : Les nouveaux sorciers",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Madam Secretary",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/01/2026",
     "Heure": "00:00:00",
     "Titre": "The Beauty",
@@ -997,6 +957,56 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "22/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Free Bert",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/01/2026",
+    "Heure": "20:55:00",
+    "Titre": "Ravages",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "CAN",
+    "Note": "Disponible le 15 janvier sur Arte.tv"
+  },
+  {
+    "Date": "23/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lovesick",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "23/01/2026",
+    "Heure": "20:55:00",
+    "Titre": "Crime au village",
+    "Saison": "Inédit",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "AUT",
+    "Note": null
+  },
+  {
+    "Date": "24/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Medalist",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -1252,7 +1262,7 @@
   {
     "Date": "26/03/2026",
     "Heure": "00:00:00",
-    "Titre": "Détective Hole",
+    "Titre": "Harry Hole",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
@@ -1267,7 +1277,7 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
-    "Note": null
+    "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
   },
   {
     "Date": "03/04/2026",
@@ -1288,6 +1298,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "10/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Malcolm : Rien n'a changé",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Revival en 4 épisodes de la comédie Malcolm"
   },
   {
     "Date": "15/04/2026",

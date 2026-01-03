@@ -1,27 +1,9 @@
 [
   {
-    "Date": "13/11/2025",
-    "Titre": "The Beast in Me",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "11/12/2025",
-    "Titre": "Seul face au bébé",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "17/12/2025",
     "Titre": "Fallout",
     "Saison": "Saison 2",
     "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "18/12/2025",
-    "Titre": "Emily in Paris",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix"
   },
   {
     "Date": "01/01/2026",
@@ -29,10 +11,28 @@
     "Saison": "Final",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "01/01/2026",
     "Titre": "Ne t'enfuis plus",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "07/01/2026",
+    "Titre": "Il était deux fois",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "08/01/2026",
+    "Titre": "His & Hers",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "09/01/2026",
+    "Titre": "The Pitt",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max"
   }
 ]
