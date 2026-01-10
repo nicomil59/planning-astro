@@ -1,215 +1,5 @@
 [
   {
-    "Date": "22/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Sicilia Express",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2025",
-    "Heure": "21:00:00",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 24",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "The Chosen",
-    "Saison": "Saison 5",
-    "Plateforme": "CStar",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "A Very Royal Scandal",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK",
-    "Note": "Déjà diffusée sur Amazon Prime Video"
-  },
-  {
-    "Date": "22/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Idol I",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "24/12/2025",
-    "Heure": "21:00:00",
-    "Titre": "Winter Palace",
-    "Saison": "Mini-série",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "SUI",
-    "Note": null
-  },
-  {
-    "Date": "24/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Made in Korea",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Stranger Things",
-    "Saison": "Saison 5 volume 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Cashero",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Le Comte de Monte Cristo",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA, ITA",
-    "Note": "Avec Sam Claflin, Ana Girardot et Jeremy Irons"
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Heaven",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "The Lowdown",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Avec Ethan Hawke"
-  },
-  {
-    "Date": "26/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Red Road",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "27/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Maxima",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "28/12/2025",
-    "Heure": "21:15:00",
-    "Titre": "Les Mystères de l'Amour",
-    "Saison": "Inédit",
-    "Plateforme": "TMC",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "\"Amis pour toujours\""
-  },
-  {
-    "Date": "28/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Dolomites : piégés au sommets",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "29/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Joséphine, ange gardien",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "29/12/2025",
-    "Heure": "21:10:00",
-    "Titre": "Meurtres au paradis",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "31/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Shameless (US)",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "31/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saisons 14 à 17",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "31/12/2025",
-    "Heure": "00:00:00",
-    "Titre": "Rick et Morty",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "01/01/2026",
     "Heure": "00:00:00",
     "Titre": "Stranger Things",
@@ -670,12 +460,42 @@
     "Note": null
   },
   {
+    "Date": "12/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Dernière aventure : le making-of de Stranger Things 5",
+    "Saison": "Documentaire",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Les coulisses de la 5ème et dernière saison de Stranger Things"
+  },
+  {
+    "Date": "12/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Primal",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "13/01/2026",
     "Heure": "00:00:00",
     "Titre": "Tell Me Lies",
     "Saison": "Saison 3",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Smallville",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -810,6 +630,16 @@
     "Note": null
   },
   {
+    "Date": "15/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Two Summers",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "BEL",
+    "Note": "Déjà diffusée sur Canal+"
+  },
+  {
     "Date": "16/01/2026",
     "Heure": "00:00:00",
     "Titre": "Comment traduire cet amour ?",
@@ -867,6 +697,16 @@
     "Plateforme": "France 3",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "17/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Mission de Miss Hong",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -980,6 +820,16 @@
     "Note": "Disponible le 15 janvier sur Arte.tv"
   },
   {
+    "Date": "22/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "L'Affaire Laura Stern",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "23/01/2026",
     "Heure": "00:00:00",
     "Titre": "Lovesick",
@@ -1007,6 +857,36 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "25/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
+    "Date": "26/01/2026",
+    "Heure": "21:00:00",
+    "Titre": 1923,
+    "Saison": "Saison 1",
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Paramount+"
+  },
+  {
+    "Date": "27/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Bellefond",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1050,6 +930,16 @@
     "Note": null
   },
   {
+    "Date": "29/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Le Signal 149 kHz",
+    "Saison": "Saison 1",
+    "Plateforme": "Novo19",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "30/01/2026",
     "Heure": "00:00:00",
     "Titre": "Yo Gabba GabbaLand!",
@@ -1090,6 +980,16 @@
     "Note": null
   },
   {
+    "Date": "06/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Heated Rivalry",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
     "Date": "10/02/2026",
     "Heure": "00:00:00",
     "Titre": "Le Renard : Prince des voleurs",
@@ -1117,6 +1017,26 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Enfants de plomb",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "13/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Le Musée de l'innocence",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
     "Note": null
   },
   {
@@ -1230,6 +1150,16 @@
     "Note": "Avec Nicole Kidman, Jamie Lee Curtis et Simon Baker"
   },
   {
+    "Date": "12/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Virgin River",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "18/03/2026",
     "Heure": "00:00:00",
     "Titre": "Imperfect Women",
@@ -1267,7 +1197,7 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "NOR",
-    "Note": null
+    "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
   },
   {
     "Date": "03/04/2026",
@@ -1277,7 +1207,7 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
-    "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
+    "Note": null
   },
   {
     "Date": "03/04/2026",
@@ -1320,6 +1250,16 @@
     "Note": "Avec Michelle Pfeiffer, Elle Fanning et Nicole Kidman"
   },
   {
+    "Date": "16/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Acharnés",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "29/04/2026",
     "Heure": "00:00:00",
     "Titre": "Widow's Bay",
@@ -1347,6 +1287,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "11/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "À l'ombre des Magnolias",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   }
 ]

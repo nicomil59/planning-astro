@@ -1,11 +1,5 @@
 [
   {
-    "Date": "17/12/2025",
-    "Titre": "Fallout",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video"
-  },
-  {
     "Date": "01/01/2026",
     "Titre": "Stranger Things",
     "Saison": "Final",
@@ -18,12 +12,6 @@
     "Plateforme": "Netflix"
   },
   {
-    "Date": "07/01/2026",
-    "Titre": "Il était deux fois",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
     "Date": "08/01/2026",
     "Titre": "His & Hers",
     "Saison": "Mini-série",
@@ -34,5 +22,17 @@
     "Titre": "The Pitt",
     "Saison": "Saison 2",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "12/01/2025",
+    "Titre": "Industry",
+    "Saison": "Saison 4",
+    "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "14/01/2025",
+    "Titre": "Hijack",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV"
   }
 ]
