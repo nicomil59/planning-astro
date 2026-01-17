@@ -1,114 +1,121 @@
 [
   {
-    "Date": "12/01/2026",
-    "Titre": "La Dernière aventure : le making-of de Stranger Things 5",
-    "Saison": "Documentaire",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "12/01/2026",
-    "Titre": "Primal",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "13/01/2026",
-    "Titre": "Smallville",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "15/01/2026",
-    "Titre": "Two Summers",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "17/01/2026",
-    "Titre": "La Mission de Miss Hong",
+    "Date": "30/01/2026",
+    "Titre": "Karma, trop jeunes pour se taire",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "22/01/2026",
-    "Titre": "L'Affaire Laura Stern",
+    "Date": "30/01/2026",
+    "Titre": "Apparences",
     "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "25/01/2026",
+    "Date": "31/01/2026",
+    "Titre": "Flair de famille",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "01/02/2026",
+    "Titre": "The Darkness",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "01/02/2026",
     "Titre": "Meurtres en eaux troubles",
     "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "26/01/2026",
-    "Titre": 1923,
-    "Saison": "Saison 1",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "27/01/2026",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "29/01/2026",
-    "Titre": "Le Signal 149 kHz",
-    "Saison": "Saison 1",
-    "Plateforme": "Novo19",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "06/02/2026",
-    "Titre": "Heated Rivalry",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "11/02/2026",
-    "Titre": "Les Enfants de plomb",
+    "Date": "02/02/2026",
+    "Titre": "La Belle et le boulanger",
     "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "03/02/2026",
+    "Titre": "Arcanes",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "04/02/2026",
+    "Titre": "Anaon",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "Stalk",
+    "Saison": "Saison 3",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "La Voisine danoise",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "Unfamiliar",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/02/2026",
+    "Titre": "Code of Silence",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "10/02/2026",
+    "Titre": "Domino Day",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "12/02/2026",
+    "Titre": "Million-Follower Detective",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "13/02/2026",
-    "Titre": "Le Musée de l'innocence",
+    "Titre": "The Art of Sarah",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/03/2026",
-    "Titre": "Virgin River",
-    "Saison": "Saison 7",
+    "Date": "02/04/2026",
+    "Titre": "The Ramparts of Ice",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "16/04/2026",
-    "Titre": "Acharnés",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "11/06/2026",
-    "Titre": "À l'ombre des Magnolias",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "13/04/2026",
+    "Titre": "Euphoria",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   }
 ]

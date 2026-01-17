@@ -1,275 +1,5 @@
 [
   {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Stranger Things",
-    "Saison": "Final",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ne t'enfuis plus",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "UK",
-    "Note": "Titre original : \"Run Away\". Nouvelle mini-série d'Harlan Coben (Double piège, Tu me manques)"
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 22",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Disponible sur TF1+"
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Good Doctor",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Bureau des coeurs",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fire Country",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Temps des mouches",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ARG",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Downton Abbey",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ray Donovan",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Walking Dead",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Stargate SG-1",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "New Amsterdam",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "02/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Land of Sin",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "02/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Your Turn To Kill",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "03/01/2026",
-    "Heure": "20:55:00",
-    "Titre": "The Island",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "05/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "Snowpiercer",
-    "Saison": "Saison 4",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/01/2026",
-    "Heure": "20:55:00",
-    "Titre": "Catch Me a Killer",
-    "Saison": "Mini-série",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "05/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Mitterrand confidentiel",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "06/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "La Guerre des Royaumes",
-    "Saison": "Mini-série",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "06/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Face à Face",
-    "Saison": "Saison 4",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Elsbeth",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Il était deux fois",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Abbott Elementary",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Simpson",
-    "Saison": "Saison 37",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "This is Us",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Bitten",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "07/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Shiboyugi",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "08/01/2026",
     "Heure": "00:00:00",
     "Titre": "His & Hers",
@@ -950,6 +680,86 @@
     "Note": null
   },
   {
+    "Date": "30/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Karma, trop jeunes pour se taire",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "30/01/2026",
+    "Heure": "00:00:00",
+    "Titre": "Apparences",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "31/01/2026",
+    "Heure": "21:10:00",
+    "Titre": "Flair de famille",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "The Darkness",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "ISL, US",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Meurtres en eaux troubles",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "La Belle et le boulanger",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "03/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "Arcanes",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "04/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Anaon",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Amazon Prime Video"
+  },
+  {
     "Date": "05/02/2026",
     "Heure": "00:00:00",
     "Titre": "Les Lionnes",
@@ -967,6 +777,36 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Stalk",
+    "Saison": "Saison 3",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "La Voisine danoise",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "FRA, ISL",
+    "Note": null
+  },
+  {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Unfamiliar",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ALL",
     "Note": null
   },
   {
@@ -990,6 +830,16 @@
     "Note": null
   },
   {
+    "Date": "09/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "Code of Silence",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "10/02/2026",
     "Heure": "00:00:00",
     "Titre": "Le Renard : Prince des voleurs",
@@ -1007,6 +857,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "10/02/2026",
+    "Heure": "21:00:00",
+    "Titre": "Domino Day",
+    "Saison": "Saison 1",
+    "Plateforme": "Syfy",
+    "Categorie": "Câble",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1030,6 +890,16 @@
     "Note": null
   },
   {
+    "Date": "12/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Million-Follower Detective",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TAI",
+    "Note": null
+  },
+  {
     "Date": "13/02/2026",
     "Heure": "00:00:00",
     "Titre": "Le Musée de l'innocence",
@@ -1037,6 +907,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "13/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Art of Sarah",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -1200,6 +1080,16 @@
     "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
   },
   {
+    "Date": "02/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Ramparts of Ice",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "03/04/2026",
     "Heure": "00:00:00",
     "Titre": "Vrais voisins, faux amis",
@@ -1238,6 +1128,16 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": "Revival en 4 épisodes de la comédie Malcolm"
+  },
+  {
+    "Date": "13/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Euphoria",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "15/04/2026",

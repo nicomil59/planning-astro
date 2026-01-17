@@ -1,17 +1,5 @@
 [
   {
-    "Date": "01/01/2026",
-    "Titre": "Stranger Things",
-    "Saison": "Final",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "01/01/2026",
-    "Titre": "Ne t'enfuis plus",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "08/01/2026",
     "Titre": "His & Hers",
     "Saison": "Mini-série",
@@ -34,5 +22,17 @@
     "Titre": "Hijack",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "19/01/2026",
+    "Titre": "A Knight of The Seven Kingdoms",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max"
+  },
+    {
+    "Date": "22/01/2026",
+    "Titre": "The Beauty",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]
