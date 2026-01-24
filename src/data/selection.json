@@ -1,11 +1,5 @@
 [
   {
-    "Date": "08/01/2026",
-    "Titre": "His & Hers",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "09/01/2026",
     "Titre": "The Pitt",
     "Saison": "Saison 2",
@@ -34,5 +28,11 @@
     "Titre": "The Beauty",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+    {
+    "Date": "28/01/2026",
+    "Titre": "Shrinking",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV"
   }
 ]

@@ -1,235 +1,5 @@
 [
   {
-    "Date": "08/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "His & Hers",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Girl Taken",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "08/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "Playing Nice",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "08/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Master Crimes",
-    "Saison": "Saison 3",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "08/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Twin Peaks",
-    "Saison": "Intégrale",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/01/2026",
-    "Heure": "20:55:00",
-    "Titre": "Boglands, enquête en terre noire",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "IRL, UK",
-    "Note": null
-  },
-  {
-    "Date": "09/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Machos Alfa",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "09/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "A Thousand Blows",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "09/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Téhéran",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "ISR",
-    "Note": null
-  },
-  {
-    "Date": "09/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Pitt",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "César Wagner",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "NCIS : Tony & Ziva",
-    "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Nouvelle série dérivée de NCIS"
-  },
-  {
-    "Date": "10/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Enquête parallèle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "11/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Night Manager (2016)",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": "Suite de la série d'espionnage avec Tom Hiddleston"
-  },
-  {
-    "Date": "11/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "Most Wanted Criminals",
-    "Saison": "Saison 6",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "11/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "Toronto : Section Criminelle",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "12/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Industry",
-    "Saison": "Saison 4",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK, US",
-    "Note": null
-  },
-  {
-    "Date": "12/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "B.R.I.",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Le Diplôme",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Dernière aventure : le making-of de Stranger Things 5",
-    "Saison": "Documentaire",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Les coulisses de la 5ème et dernière saison de Stranger Things"
-  },
-  {
-    "Date": "12/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Primal",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Tell Me Lies",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Smallville",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "14/01/2026",
     "Heure": "00:00:00",
     "Titre": "Hijack",
@@ -730,6 +500,26 @@
     "Note": null
   },
   {
+    "Date": "01/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Retour à Sullivan's Crossing",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bones",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/02/2026",
     "Heure": "21:10:00",
     "Titre": "La Belle et le boulanger",
@@ -737,6 +527,26 @@
     "Plateforme": "TF1",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "It's a Sin",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "02/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Made For Love",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -750,6 +560,16 @@
     "Note": null
   },
   {
+    "Date": "03/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Animal Kingdom",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/02/2026",
     "Heure": "21:10:00",
     "Titre": "Anaon",
@@ -758,6 +578,26 @@
     "Categorie": "TNT",
     "Pays": "FRA",
     "Note": "Déjà diffusée sur Amazon Prime Video"
+  },
+  {
+    "Date": "04/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Murder",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Missing",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "05/02/2026",
@@ -810,6 +650,26 @@
     "Note": null
   },
   {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Samuel",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Arte"
+  },
+  {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Retour à Sullivan's Crossing",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
     "Date": "06/02/2026",
     "Heure": "00:00:00",
     "Titre": "Salvador",
@@ -827,6 +687,36 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "06/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "Sous le feu de Sonja",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "SER",
+    "Note": null
+  },
+  {
+    "Date": "07/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Blanca",
+    "Saison": "Saison 3",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "08/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Déluge mortel",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -870,6 +760,26 @@
     "Note": null
   },
   {
+    "Date": "10/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Urgences",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Un si grand soleil",
+    "Saison": "Inédits",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Programmation de 5 épisodes inédits"
+  },
+  {
     "Date": "11/02/2026",
     "Heure": "00:00:00",
     "Titre": "Cross",
@@ -890,6 +800,16 @@
     "Note": null
   },
   {
+    "Date": "11/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Elementary",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "12/02/2026",
     "Heure": "00:00:00",
     "Titre": "Million-Follower Detective",
@@ -897,6 +817,56 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "TAI",
+    "Note": null
+  },
+  {
+    "Date": "12/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "King & Conqueror",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "12/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Phoenix",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "ALL, BEL, FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Léo Matteï",
+    "Saison": "Saison 13",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "12/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dear You",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Prime Video"
+  },
+  {
+    "Date": "12/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "De Belfast au Paradis ?",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -920,12 +890,42 @@
     "Note": null
   },
   {
+    "Date": "15/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Stargate SG-1",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2026",
+    "Heure": "21:00:00",
+    "Titre": "In Flight",
+    "Saison": "Saison 1",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "18/02/2026",
     "Heure": "00:00:00",
-    "Titre": "56 Days",
+    "Titre": "56 Jours",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Siren",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
     "Pays": "US",
     "Note": null
   },
@@ -1050,6 +1050,16 @@
     "Note": "Avec Elisabeth Moss, Kate Mara et Kerry Washington"
   },
   {
+    "Date": "18/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Invincible",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "19/03/2026",
     "Heure": "00:00:00",
     "Titre": "Beauty in Black",
@@ -1070,6 +1080,26 @@
     "Note": "Film de conclusion de l'histoire de la série Peaky Blinders"
   },
   {
+    "Date": "23/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lucky Luke",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "25/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bait",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "26/03/2026",
     "Heure": "00:00:00",
     "Titre": "Harry Hole",
@@ -1078,6 +1108,16 @@
     "Categorie": "Netflix",
     "Pays": "NOR",
     "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
+  },
+  {
+    "Date": "27/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "For All Mankind",
+    "Saison": "Saison 5",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "02/04/2026",
@@ -1108,6 +1148,16 @@
     "Categorie": "Netflix",
     "Pays": "BEL",
     "Note": null
+  },
+  {
+    "Date": "06/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Star Wars: Maul - Seigneur de l'ombre",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Série d'animation autour du personnage du Sith Maul"
   },
   {
     "Date": "08/04/2026",
@@ -1160,6 +1210,16 @@
     "Note": null
   },
   {
+    "Date": "27/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tout droit en enfer",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "29/04/2026",
     "Heure": "00:00:00",
     "Titre": "Widow's Bay",
@@ -1198,5 +1258,15 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "01/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Elle",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Prequel du film \"La Revanche d'une blonde\""
   }
 ]

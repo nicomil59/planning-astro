@@ -1,17 +1,22 @@
 [
   {
-    "titre": "Euphoria saison 3",
-    "videoId": "sHi75dl1nz8",
-    "plateforme": "HBO Max"
+    "titre": "The Night Agent saison 3",
+    "videoId": "f2dBViC4BAA",
+    "plateforme": "Netflix"
   },
   {
-    "titre": "Steal",
-    "videoId": "nBaeGvX-Q2Y",
+    "titre": "56 Jours",
+    "videoId": "wKZotemwtiA",
     "plateforme": "Prime Video"
   },
-     {
-    "titre": "One Piece saison 2",
-    "videoId": "UaqM18C8lG8",
-    "plateforme": "Netflix"
+  {
+    "titre": "Star Wars: Maul - Seigneur de l'ombre",
+    "videoId": "eFP2QHhda-Q",
+    "plateforme": "Disney+"
+  },
+  {
+    "titre": "Heated Rivalry",
+    "videoId": "YO2_JFb_zio",
+    "plateforme": "HBO Max"
   }
 ]

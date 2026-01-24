@@ -1,121 +1,212 @@
 [
   {
-    "Date": "30/01/2026",
-    "Titre": "Karma, trop jeunes pour se taire",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
+    "Date": "01/02/2026",
+    "Titre": "Retour à Sullivan's Crossing",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "30/01/2026",
-    "Titre": "Apparences",
+    "Date": "01/02/2026",
+    "Titre": "Bones",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/02/2026",
+    "Titre": "It's a Sin",
     "Saison": "Mini-série",
-    "Plateforme": "France.tv",
+    "Plateforme": "M6+",
     "Categorie": "SVOD"
   },
   {
-    "Date": "31/01/2026",
-    "Titre": "Flair de famille",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
+    "Date": "02/02/2026",
+    "Titre": "Made For Love",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "03/02/2026",
+    "Titre": "Animal Kingdom",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/02/2026",
+    "Titre": "Murder",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "04/02/2026",
+    "Titre": "The Missing",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "Samuel",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "Retour à Sullivan's Crossing",
+    "Saison": "Saison 3",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "06/02/2026",
+    "Titre": "Sous le feu de Sonja",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "07/02/2026",
+    "Titre": "Blanca",
+    "Saison": "Saison 3",
+    "Plateforme": "M6",
     "Categorie": "TNT"
   },
   {
-    "Date": "01/02/2026",
-    "Titre": "The Darkness",
+    "Date": "08/02/2026",
+    "Titre": "Déluge mortel",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "01/02/2026",
-    "Titre": "Meurtres en eaux troubles",
-    "Saison": "Inédit",
     "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "02/02/2026",
-    "Titre": "La Belle et le boulanger",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
+    "Date": "10/02/2026",
+    "Titre": "Urgences",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/02/2026",
+    "Titre": "Un si grand soleil",
+    "Saison": "Inédits",
+    "Plateforme": "France 3",
     "Categorie": "TNT"
   },
   {
-    "Date": "03/02/2026",
-    "Titre": "Arcanes",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
+    "Date": "11/02/2026",
+    "Titre": "Elementary",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "04/02/2026",
-    "Titre": "Anaon",
+    "Date": "12/02/2026",
+    "Titre": "King & Conqueror",
     "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
-    "Date": "05/02/2026",
-    "Titre": "Stalk",
-    "Saison": "Saison 3",
+    "Date": "12/02/2026",
+    "Titre": "Phoenix",
+    "Saison": "Saison 1",
     "Plateforme": "France.tv",
     "Categorie": "SVOD"
   },
   {
-    "Date": "05/02/2026",
-    "Titre": "La Voisine danoise",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
+    "Date": "12/02/2026",
+    "Titre": "Léo Matteï",
+    "Saison": "Saison 13",
+    "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "05/02/2026",
-    "Titre": "Unfamiliar",
+    "Date": "12/02/2026",
+    "Titre": "Dear You",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/02/2026",
-    "Titre": "Code of Silence",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "10/02/2026",
-    "Titre": "Domino Day",
-    "Saison": "Saison 1",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble"
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
   },
   {
     "Date": "12/02/2026",
-    "Titre": "Million-Follower Detective",
+    "Titre": "De Belfast au Paradis ?",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "13/02/2026",
-    "Titre": "The Art of Sarah",
-    "Saison": "Mini-série",
+    "Date": "15/02/2026",
+    "Titre": "Stargate SG-1",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "02/04/2026",
-    "Titre": "The Ramparts of Ice",
+    "Date": "15/02/2026",
+    "Titre": "In Flight",
+    "Saison": "Saison 1",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "18/02/2026",
+    "Titre": "Siren",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "18/03/2026",
+    "Titre": "Invincible",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "23/03/2026",
+    "Titre": "Lucky Luke",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "25/03/2026",
+    "Titre": "Bait",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "27/03/2026",
+    "Titre": "For All Mankind",
+    "Saison": "Saison 5",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "06/04/2026",
+    "Titre": "Star Wars: Maul - Seigneur de l'ombre",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "27/04/2026",
+    "Titre": "Tout droit en enfer",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "13/04/2026",
-    "Titre": "Euphoria",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Date": "01/07/2026",
+    "Titre": "Elle",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   }
 ]
