@@ -1,11 +1,5 @@
 [
   {
-    "Date": "09/01/2026",
-    "Titre": "The Pitt",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "12/01/2025",
     "Titre": "Industry",
     "Saison": "Saison 4",
@@ -17,22 +11,29 @@
     "Saison": "Saison 2",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "19/01/2026",
     "Titre": "A Knight of The Seven Kingdoms",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
   },
-    {
-    "Date": "22/01/2026",
-    "Titre": "The Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-    {
+
+  {
     "Date": "28/01/2026",
     "Titre": "Shrinking",
     "Saison": "Saison 3",
     "Plateforme": "Apple TV"
+  },
+  {
+    "Date": "05/02/2026",
+    "Titre": "Les Lionnes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "06/02/2026",
+    "Titre": "Heated Rivalry",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max"
   }
 ]

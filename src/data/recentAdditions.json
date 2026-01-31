@@ -1,212 +1,177 @@
 [
   {
-    "Date": "01/02/2026",
-    "Titre": "Retour à Sullivan's Crossing",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/02/2026",
-    "Titre": "Bones",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
     "Date": "02/02/2026",
-    "Titre": "It's a Sin",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "02/02/2026",
-    "Titre": "Made For Love",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "03/02/2026",
-    "Titre": "Animal Kingdom",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Dona Beja",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "04/02/2026",
-    "Titre": "Murder",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/02/2026",
-    "Titre": "The Missing",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "05/02/2026",
-    "Titre": "Samuel",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "05/02/2026",
-    "Titre": "Retour à Sullivan's Crossing",
-    "Saison": "Saison 3",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "06/02/2026",
-    "Titre": "Sous le feu de Sonja",
+    "Titre": "Autopsie d'un drame",
     "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "07/02/2026",
-    "Titre": "Blanca",
-    "Saison": "Saison 3",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "08/02/2026",
-    "Titre": "Déluge mortel",
-    "Saison": "Saison 1",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "10/02/2026",
-    "Titre": "Urgences",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/02/2026",
-    "Titre": "Un si grand soleil",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "11/02/2026",
-    "Titre": "Elementary",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "12/02/2026",
-    "Titre": "King & Conqueror",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "12/02/2026",
-    "Titre": "Phoenix",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "12/02/2026",
-    "Titre": "Léo Matteï",
-    "Saison": "Saison 13",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "12/02/2026",
-    "Titre": "Dear You",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "12/02/2026",
-    "Titre": "De Belfast au Paradis ?",
-    "Saison": "Saison 1",
+    "Titre": "Kohrra : brumes hivernales",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "15/02/2026",
-    "Titre": "Stargate SG-1",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "15/02/2026",
-    "Titre": "In Flight",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "18/02/2026",
-    "Titre": "Siren",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "18/03/2026",
-    "Titre": "Invincible",
-    "Saison": "Saison 4",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "23/03/2026",
-    "Titre": "Lucky Luke",
+    "Date": "13/02/2026",
+    "Titre": "Love Story",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "25/03/2026",
-    "Titre": "Bait",
+    "Date": "13/02/2026",
+    "Titre": "Dans la boue",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/02/2026",
+    "Titre": "Chocolat amer",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "19/02/2026",
+    "Titre": "Code rouge",
     "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "20/02/2026",
+    "Titre": "Banksters",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "21/02/2026",
+    "Titre": "Charlotte's Web",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "25/02/2026",
+    "Titre": "The Walking Dead",
+    "Saison": "Intégrale",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "26/02/2026",
+    "Titre": "Walker",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "26/02/2026",
+    "Titre": "Kacken-sur-Seum",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "26/02/2026",
+    "Titre": "Blossoms Shangai",
+    "Saison": "Saison 1",
+    "Plateforme": "MUBI",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "26/02/2026",
+    "Titre": "Baki-Dou - Le samouraï invincible",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/02/2026",
+    "Titre": "Agents du mystère",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/03/2026",
+    "Titre": "DFT St. Louis",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "05/03/2026",
+    "Titre": "Le Délicieux Professeur V.",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/03/2026",
+    "Titre": "Esa Noche",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "20/03/2026",
+    "Titre": "Jury Duty",
+    "Saison": "Saison 2",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "27/03/2026",
-    "Titre": "For All Mankind",
-    "Saison": "Saison 5",
+    "Date": "25/03/2026",
+    "Titre": "Daredevil: Born Again",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "26/03/2026",
+    "Titre": "Un très mauvais pressentiment",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/04/2026",
+    "Titre": "Kujo l'implacable",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "08/04/2026",
+    "Titre": "The Testaments",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "22/04/2026",
+    "Titre": "Criminal Record",
+    "Saison": "Saison 2",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
   },
   {
-    "Date": "06/04/2026",
-    "Titre": "Star Wars: Maul - Seigneur de l'ombre",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "27/04/2026",
-    "Titre": "Tout droit en enfer",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Elle",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "19/06/2026",
+    "Titre": "Sugar",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]

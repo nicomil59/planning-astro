@@ -1,225 +1,5 @@
 [
   {
-    "Date": "14/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Hijack",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "14/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Taskaree",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "14/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Reina Del Flow",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "14/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Manhunt (2024)",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Buffy contre les vampires",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Sept cadrans d'Agatha Christie",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Prisme de l'amour",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Star Trek: Starfleet Academy",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Famille Upshaw",
-    "Saison": "Partie 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "L'Amour à perte",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Borgias",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Quai Numéro 7",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Fall",
-    "Saison": "Intégrale",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Two Summers",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "BEL",
-    "Note": "Déjà diffusée sur Canal+"
-  },
-  {
-    "Date": "16/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Comment traduire cet amour ?",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "16/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "César Wagner",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "16/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Juste Humaine",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2026",
-    "Heure": "21:00:00",
-    "Titre": "Mystères croisés",
-    "Saison": "Inédit",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saisons 1 à 16",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Enquête parallèle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "17/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Mission de Miss Hong",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "18/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Meurtres en eaux troubles",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "ALL, AUT",
-    "Note": null
-  },
-  {
     "Date": "19/01/2026",
     "Heure": "00:00:00",
     "Titre": "A Knight of The Seven Kingdoms",
@@ -550,6 +330,16 @@
     "Note": null
   },
   {
+    "Date": "02/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dona Beja",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "BRE",
+    "Note": null
+  },
+  {
     "Date": "03/02/2026",
     "Heure": "20:55:00",
     "Titre": "Arcanes",
@@ -598,6 +388,16 @@
     "Categorie": "SVOD",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "04/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Autopsie d'un drame",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK",
+    "Note": "Titre original : \"Little Disasters\""
   },
   {
     "Date": "05/02/2026",
@@ -810,6 +610,16 @@
     "Note": null
   },
   {
+    "Date": "11/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Kohrra : brumes hivernales",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "IND",
+    "Note": null
+  },
+  {
     "Date": "12/02/2026",
     "Heure": "00:00:00",
     "Titre": "Million-Follower Detective",
@@ -890,6 +700,26 @@
     "Note": null
   },
   {
+    "Date": "13/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Love Story",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Première saison centrée sur la relation entre John F. Kennedy Jr. et Carolyn Bessette"
+  },
+  {
+    "Date": "13/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dans la boue",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
     "Date": "15/02/2026",
     "Heure": "00:00:00",
     "Titre": "Stargate SG-1",
@@ -907,6 +737,16 @@
     "Plateforme": "13ème Rue",
     "Categorie": "Câble",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Chocolat amer",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "MEX, US",
     "Note": null
   },
   {
@@ -940,6 +780,16 @@
     "Note": null
   },
   {
+    "Date": "19/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Code rouge",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "20/02/2026",
     "Heure": "00:00:00",
     "Titre": "Strip Law",
@@ -960,12 +810,42 @@
     "Note": null
   },
   {
+    "Date": "20/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Banksters",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "21/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Charlotte's Web",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "23/02/2026",
     "Heure": "00:00:00",
     "Titre": "Paradise",
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead",
+    "Saison": "Intégrale",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
   },
@@ -980,6 +860,46 @@
     "Note": null
   },
   {
+    "Date": "26/02/2026",
+    "Heure": "21:00:00",
+    "Titre": "Walker",
+    "Saison": "Saison 1",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "26/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Kacken-sur-Seum",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "26/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Blossoms Shangai",
+    "Saison": "Saison 1",
+    "Plateforme": "MUBI",
+    "Categorie": "SVOD",
+    "Pays": "HK, CHI",
+    "Note": null
+  },
+  {
+    "Date": "26/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Baki-Dou - Le samouraï invincible",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "27/02/2026",
     "Heure": "00:00:00",
     "Titre": "Monarch: Legacy of Monsters",
@@ -987,6 +907,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US, JAP",
+    "Note": null
+  },
+  {
+    "Date": "27/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Agents du mystère",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -1000,6 +930,16 @@
     "Note": "Nouvelle série dérivée de Yellowstone; titre original : \"Y: Marshals\""
   },
   {
+    "Date": "02/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "DFT St. Louis",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Avec Jason Bateman et David Harbour"
+  },
+  {
     "Date": "04/03/2026",
     "Heure": "00:00:00",
     "Titre": "Young Sherlock",
@@ -1008,6 +948,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "05/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Le Délicieux Professeur V.",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Avec Rachel Weisz; titre original : \"Vladimir\""
   },
   {
     "Date": "10/03/2026",
@@ -1037,6 +987,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Esa Noche",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -1080,6 +1040,16 @@
     "Note": "Film de conclusion de l'histoire de la série Peaky Blinders"
   },
   {
+    "Date": "20/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Jury Duty",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "23/03/2026",
     "Heure": "00:00:00",
     "Titre": "Lucky Luke",
@@ -1100,6 +1070,16 @@
     "Note": null
   },
   {
+    "Date": "25/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Daredevil: Born Again",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "26/03/2026",
     "Heure": "00:00:00",
     "Titre": "Harry Hole",
@@ -1108,6 +1088,16 @@
     "Categorie": "Netflix",
     "Pays": "NOR",
     "Note": "Titre original : \"Jo Nesbo's Detective Hole\""
+  },
+  {
+    "Date": "26/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Un très mauvais pressentiment",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Mini-série produite par les créateurs de Stranger Things"
   },
   {
     "Date": "27/03/2026",
@@ -1123,6 +1113,16 @@
     "Date": "02/04/2026",
     "Heure": "00:00:00",
     "Titre": "The Ramparts of Ice",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Kujo l'implacable",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
@@ -1170,6 +1170,16 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "08/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Testaments",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Série dérivée de The Handmaid's Tale"
+  },
+  {
     "Date": "10/04/2026",
     "Heure": "00:00:00",
     "Titre": "Malcolm : Rien n'a changé",
@@ -1207,6 +1217,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Criminal Record",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1256,6 +1276,16 @@
     "Saison": "Saison 5",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Sugar",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },
