@@ -1,22 +1,17 @@
 [
   {
-    "titre": "The Night Agent saison 3",
-    "videoId": "f2dBViC4BAA",
-    "plateforme": "Netflix"
+    "titre": "Lucky",
+    "videoId": "w6LKDec_iLk",
+    "plateforme": "Apple TV"
   },
   {
-    "titre": "Paradise saison 2",
-    "videoId": "l50IkdtcOgY",
-    "plateforme": "Disney+"
-  },
-  {
-    "titre": "Berlin et la Dame à l'hermine",
-    "videoId": "cPUNTSbufXY",
-    "plateforme": "Netflix"
-  },
-  {
-    "titre": "Heated Rivalry",
-    "videoId": "YO2_JFb_zio",
+    "titre": "Rooster saison 1",
+    "videoId": "cWG9_Awjrtk",
     "plateforme": "HBO Max"
+  },
+  {
+    "titre": "Love Story : John F. Kennedy Jr. & Carolyn Bessette",
+    "videoId": "GXkhKYwEFyM",
+    "plateforme": "Disney+"
   }
 ]

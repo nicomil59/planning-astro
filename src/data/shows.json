@@ -1,265 +1,5 @@
 [
   {
-    "Date": "19/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "A Knight of The Seven Kingdoms",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": "Nouvelle série dérivée de Game of Thrones"
-  },
-  {
-    "Date": "19/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Coeurs noirs",
-    "Saison": "Saison 2",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "21/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Gouttes de Dieu",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "FRA, US, JAP",
-    "Note": null
-  },
-  {
-    "Date": "21/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Steal",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": "Avec Sophie Turner"
-  },
-  {
-    "Date": "21/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Waverly Place : Les nouveaux sorciers",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Madam Secretary",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Avec Evan Peters (Dahmer)"
-  },
-  {
-    "Date": "22/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Rêve de glace",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Free Bert",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/01/2026",
-    "Heure": "20:55:00",
-    "Titre": "Ravages",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "CAN",
-    "Note": "Disponible le 15 janvier sur Arte.tv"
-  },
-  {
-    "Date": "22/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "L'Affaire Laura Stern",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "23/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Lovesick",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "23/01/2026",
-    "Heure": "20:55:00",
-    "Titre": "Crime au village",
-    "Saison": "Inédit",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "AUT",
-    "Note": null
-  },
-  {
-    "Date": "24/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Medalist",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "25/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Meurtres en eaux troubles",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "ALL, AUT",
-    "Note": null
-  },
-  {
-    "Date": "26/01/2026",
-    "Heure": "21:00:00",
-    "Titre": 1923,
-    "Saison": "Saison 1",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Paramount+"
-  },
-  {
-    "Date": "27/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Bellefond",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "28/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Wonder Man",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Shrinking",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "School Spirits",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 4 partie 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "29/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Le Signal 149 kHz",
-    "Saison": "Saison 1",
-    "Plateforme": "Novo19",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Yo Gabba GabbaLand!",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "30/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Karma, trop jeunes pour se taire",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "30/01/2026",
-    "Heure": "00:00:00",
-    "Titre": "Apparences",
-    "Saison": "Mini-série",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "31/01/2026",
-    "Heure": "21:10:00",
-    "Titre": "Flair de famille",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/02/2026",
     "Heure": "20:55:00",
     "Titre": "The Darkness",
@@ -296,6 +36,16 @@
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Penny Dreadful",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -470,6 +220,16 @@
     "Note": null
   },
   {
+    "Date": "05/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ghost Whisperer",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "06/02/2026",
     "Heure": "00:00:00",
     "Titre": "Salvador",
@@ -491,7 +251,7 @@
   },
   {
     "Date": "06/02/2026",
-    "Heure": "20:55:00",
+    "Heure": "00:00:00",
     "Titre": "Sous le feu de Sonja",
     "Saison": "Mini-série",
     "Plateforme": "Arte.tv",
@@ -750,6 +510,36 @@
     "Note": null
   },
   {
+    "Date": "15/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lost",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Falling Skies",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Beavis & Butt-Head (2022)",
+    "Saison": "Saison 3",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "18/02/2026",
     "Heure": "00:00:00",
     "Titre": "56 Jours",
@@ -767,6 +557,26 @@
     "Plateforme": "M6+",
     "Categorie": "SVOD",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Middle",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Huitième famille",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "TUR",
     "Note": null
   },
   {
@@ -788,6 +598,16 @@
     "Categorie": "HBO Max",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "19/02/2026",
+    "Heure": "20:55:00",
+    "Titre": "Meurtres à Varjakka",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "FIN, EST",
+    "Note": "Saisons 1 à 3 disponibles à partir du 12 février"
   },
   {
     "Date": "20/02/2026",
@@ -840,12 +660,62 @@
     "Note": null
   },
   {
+    "Date": "23/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "Le Nounou",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "23/02/2026",
+    "Heure": "21:10:00",
+    "Titre": "L'Art du crime",
+    "Saison": "Saison 9",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "23/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Fire Country",
+    "Saison": "Saison 4 partie 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "25/02/2026",
     "Heure": "00:00:00",
     "Titre": "The Walking Dead",
     "Saison": "Intégrale",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Snowfall",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/02/2026",
+    "Heure": "00:00:00",
+    "Titre": "Vampirina : L'ado vampire",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -892,7 +762,7 @@
   {
     "Date": "26/02/2026",
     "Heure": "00:00:00",
-    "Titre": "Baki-Dou - Le samouraï invincible",
+    "Titre": "Baki-Dou - Le samurai invincible",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
@@ -932,12 +802,22 @@
   {
     "Date": "02/03/2026",
     "Heure": "00:00:00",
-    "Titre": "DFT St. Louis",
+    "Titre": "DTF St. Louis",
     "Saison": "Mini-série",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "US",
     "Note": "Avec Jason Bateman et David Harbour"
+  },
+  {
+    "Date": "03/03/2026",
+    "Heure": "20:50:00",
+    "Titre": "Pécheresses",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS",
+    "Categorie": "OCS",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "04/03/2026",
@@ -958,6 +838,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Avec Rachel Weisz; titre original : \"Vladimir\""
+  },
+  {
+    "Date": "09/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rooster",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Avec Steve Carell"
   },
   {
     "Date": "10/03/2026",
@@ -1017,6 +907,16 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Emergência Radioativa",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "BRE",
     "Note": null
   },
   {
@@ -1230,6 +1130,16 @@
     "Note": null
   },
   {
+    "Date": "23/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Stranger Things : Chroniques de 1985",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Série animée dérivée de Stranger Things"
+  },
+  {
     "Date": "27/04/2026",
     "Heure": "00:00:00",
     "Titre": "Tout droit en enfer",
@@ -1270,6 +1180,36 @@
     "Note": null
   },
   {
+    "Date": "15/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rivals",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "20/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Maximum Pleasure Guaranteed",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Tatiana Maslany et Jake Johnson"
+  },
+  {
+    "Date": "05/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Cape Fear",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Amy Adams, Patrick Wilson et Javier Bardem"
+  },
+  {
     "Date": "11/06/2026",
     "Heure": "00:00:00",
     "Titre": "À l'ombre des Magnolias",
@@ -1298,5 +1238,15 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Prequel du film \"La Revanche d'une blonde\""
+  },
+  {
+    "Date": "15/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lucky (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": "Avec Anya Taylor-Joy, Annette Bening et Timothy Olyphant"
   }
 ]
