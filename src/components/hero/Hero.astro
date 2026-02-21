@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import { Image } from "astro:assets";
 import heroImage from "./images/the-night-agent-saison3.jpg";
 ---
 
@@ -10,12 +10,14 @@ import heroImage from "./images/the-night-agent-saison3.jpg";
 
   @media screen and (max-width: 640px) {
     .hero-title {
-      line-height: 2.0rem;
+      line-height: 2rem;
     }
   }
 </style>
 
-<section class="hero flex flex-col lg:flex-row-reverse justify-center items-center gap-4 sm:gap-9 xl:gap-16 mt-4 sm:mt-8 lg:mt-16">
+<section
+  class="hero flex flex-col lg:flex-row-reverse justify-center items-center gap-4 sm:gap-9 xl:gap-16 mt-4 sm:mt-8 lg:mt-16"
+>
   <div class="hero-image">
     <figure>
       <Image
@@ -30,16 +32,26 @@ import heroImage from "./images/the-night-agent-saison3.jpg";
     </figure>
   </div>
   <div class="flex flex-col text-left">
-    <h1 class="hero-title text-2xl sm:text-3xl xl:text-4xl font-bold mt-4 mb-4 sm:mt-0">
-      Bienvenue sur Planning Séries, <span class="hidden sm:inline">
+    <h1
+      class="hero-title text-2xl sm:text-3xl xl:text-4xl font-bold mt-4 mb-4 sm:mt-0"
+    >
+      <span class="text-notionyellow-600">Planning Séries</span> : le guide complet<span
+        class="hidden sm:inline"
+      >
         <br />
-      </span class="hidden sm:inline">
-      <span class="text-notionyellow-600"
-        >le guide ultime pour ne rien manquer !</span>
+      </span> des sorties TV et streaming
     </h1>
-    <p class="leading-relaxed">Retrouvez dans ce calendrier toutes les dates de sortie<span class="hidden sm:inline">
-      <br>
-    </span> et de diffusion des séries sur toutes les plateformes et chaînes françaises.</p>
-    <a href="/#planning" class="cursor-pointer mt-8 py-3 px-4 font-medium text-sm text-center text-white rounded bg-notionyellow-600 sm:w-fit hover:bg-notionyellow-500 focus:ring-4 focus:outline-none focus:ring-notionyellow-300">Accéder au planning</a>
+    <p class="leading-relaxed font-medium">
+      Ne manquez plus aucun épisode de vos séries préférées.<span
+        class="hidden sm:inline"
+      >
+        <br />
+      </span> Toutes les dates de diffusion sur les plateformes de streaming et chaînes TV en France.
+    </p>
+    <a
+      href="/#planning"
+      class="cursor-pointer mt-8 py-3 px-4 font-medium text-sm text-center text-white rounded bg-notionyellow-600 sm:w-fit hover:bg-notionyellow-500 focus:ring-4 focus:outline-none focus:ring-notionyellow-300"
+      >Voir le planning</a
+    >
   </div>
 </section>
