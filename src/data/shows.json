@@ -1,255 +1,5 @@
 [
   {
-    "Date": "09/02/2026",
-    "Heure": "20:55:00",
-    "Titre": "Code of Silence",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Renard : Prince des voleurs",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Motorvalley",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2026",
-    "Heure": "21:00:00",
-    "Titre": "Domino Day",
-    "Saison": "Saison 1",
-    "Plateforme": "Syfy",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Urgences",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "Un si grand soleil",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Programmation de 5 épisodes inédits"
-  },
-  {
-    "Date": "11/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Cross",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Enfants de plomb",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "11/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Elementary",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Kohrra : brumes hivernales",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Million-Follower Detective",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TAI",
-    "Note": null
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "King & Conqueror",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Phoenix",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "ALL, BEL, FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "Léo Matteï",
-    "Saison": "Saison 13",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dear You",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "12/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "De Belfast au Paradis ?",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "13/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Musée de l'innocence",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "13/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Art of Sarah",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "13/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Love Story",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Première saison centrée sur la relation entre John F. Kennedy Jr. et Carolyn Bessette"
-  },
-  {
-    "Date": "13/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dans la boue",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ARG",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Stargate SG-1",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2026",
-    "Heure": "21:00:00",
-    "Titre": "In Flight",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Chocolat amer",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "MEX, US",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Lost",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Falling Skies",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "17/02/2026",
     "Heure": "00:00:00",
     "Titre": "Beavis & Butt-Head (2022)",
@@ -513,7 +263,7 @@
     "Date": "28/02/2026",
     "Heure": "21:10:00",
     "Titre": "Cassandre",
-    "Saison": "Inédit",
+    "Saison": "Inédits",
     "Plateforme": "France 3",
     "Categorie": "TNT",
     "Pays": "FRA",
@@ -527,6 +277,16 @@
     "Plateforme": "France 3",
     "Categorie": "TNT",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Resident",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -570,6 +330,16 @@
     "Note": null
   },
   {
+    "Date": "02/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Freak Brothers",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "03/03/2026",
     "Heure": "20:50:00",
     "Titre": "Pécheresses",
@@ -580,6 +350,16 @@
     "Note": null
   },
   {
+    "Date": "03/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Good Cop/Bad Cop",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AUS, US",
+    "Note": "Avec Leighton Meester"
+  },
+  {
     "Date": "04/03/2026",
     "Heure": "00:00:00",
     "Titre": "Young Sherlock",
@@ -587,6 +367,16 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Traqués (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -620,6 +410,26 @@
     "Note": null
   },
   {
+    "Date": "06/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Celeste",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "06/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Boyfriend on Demand",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "09/03/2026",
     "Heure": "00:00:00",
     "Titre": "Rooster",
@@ -628,6 +438,16 @@
     "Categorie": "HBO Max",
     "Pays": "US",
     "Note": "Avec Steve Carell"
+  },
+  {
+    "Date": "09/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "Maison de retraite, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "10/03/2026",
@@ -650,6 +470,36 @@
     "Note": "Avec Nicole Kidman, Jamie Lee Curtis et Simon Baker"
   },
   {
+    "Date": "11/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "SWAT",
+    "Saison": "Saison 8 partie 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "L'Affaire Laura Stern",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur HBO Max"
+  },
+  {
+    "Date": "11/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Man in The High Castle",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Prime Video"
+  },
+  {
     "Date": "12/03/2026",
     "Heure": "00:00:00",
     "Titre": "Virgin River",
@@ -667,6 +517,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Je sais pas",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "13/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "Tropiques criminels",
+    "Saison": "Saison 7",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -740,6 +610,16 @@
     "Note": null
   },
   {
+    "Date": "20/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Deadloch",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
     "Date": "23/03/2026",
     "Heure": "00:00:00",
     "Titre": "Lucky Luke",
@@ -768,6 +648,16 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "25/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Hartley, coeurs à vif (2022)",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AUS",
+    "Note": "Dernière saison"
   },
   {
     "Date": "26/03/2026",
@@ -807,6 +697,16 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Maison de David",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -857,6 +757,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Clans de la coke",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -1068,5 +978,15 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Anya Taylor-Joy, Annette Bening et Timothy Olyphant"
+  },
+  {
+    "Date": "06/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bass X Machina",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
   }
 ]

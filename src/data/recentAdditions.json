@@ -1,72 +1,121 @@
 [
   {
-    "Date": "28/02/2026",
-    "Titre": "Cassandre",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
     "Date": "01/03/2026",
-    "Titre": "Mystères au paradis",
-    "Saison": "Saison 2",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "02/03/2026",
-    "Titre": "Un Prophète",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "02/03/2026",
-    "Titre": "Blue Lights",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "05/03/2026",
-    "Titre": "Le Complot Caravaggio",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "06/03/2026",
-    "Titre": "Erica",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "18/03/2026",
-    "Titre": "Furies",
-    "Saison": "Saison 2",
+    "Titre": "The Resident",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "27/03/2026",
-    "Titre": "Privilèges",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Date": "02/03/2026",
+    "Titre": "The Freak Brothers",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "02/04/2026",
-    "Titre": "XO, Kitty",
+    "Date": "03/03/2026",
+    "Titre": "Good Cop/Bad Cop",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/03/2026",
+    "Titre": "Traqués (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "06/03/2026",
+    "Titre": "Celeste",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "06/03/2026",
+    "Titre": "Boyfriend on Demand",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/03/2026",
+    "Titre": "Maison de retraite, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "11/03/2026",
+    "Titre": "SWAT",
+    "Saison": "Saison 8 partie 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "11/03/2026",
+    "Titre": "L'Affaire Laura Stern",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "11/03/2026",
+    "Titre": "The Man in The High Castle",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/03/2026",
+    "Titre": "Je sais pas",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "13/03/2026",
+    "Titre": "Tropiques criminels",
+    "Saison": "Saison 7",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "20/03/2026",
+    "Titre": "Deadloch",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "25/03/2026",
+    "Titre": "Hartley, coeurs à vif (2022)",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "27/05/2026",
-    "Titre": "Spider-Noir",
-    "Saison": "Saison 1",
+    "Date": "27/03/2026",
+    "Titre": "La Maison de David",
+    "Saison": "Saison 2",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
+  },
+  {
+    "Date": "03/04/2026",
+    "Titre": "Les Clans de la coke",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/10/2026",
+    "Titre": "Bass X Machina",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

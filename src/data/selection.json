@@ -1,17 +1,5 @@
 [
   {
-    "Date": "19/01/2026",
-    "Titre": "A Knight of The Seven Kingdoms",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
-    "Date": "28/01/2026",
-    "Titre": "Shrinking",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "05/02/2026",
     "Titre": "Les Lionnes",
     "Saison": "Saison 1",
@@ -33,6 +21,18 @@
     "Date": "19/02/2026",
     "Titre": "The Night Agent",
     "Saison": "Saison 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23/02/2026",
+    "Titre": "Paradise",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+    {
+    "Date": "26/02/2026",
+    "Titre": "La Chronique des Bridgerton",
+    "Saison": "Saison 4 partie 2",
     "Plateforme": "Netflix"
   }
 ]
