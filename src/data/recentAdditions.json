@@ -1,247 +1,198 @@
 [
   {
-    "Date": "26/02/2026",
-    "Titre": "Accrocs",
+    "Date": "01/03/2026",
+    "Titre": "Friday Night Lights",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "01/03/2026",
+    "Titre": "Grimm",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "01/03/2026",
+    "Titre": "Blue Bloods",
+    "Saison": "Saisons 1 à 10",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "01/03/2026",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saisons 17 à 20",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "03/03/2026",
+    "Titre": "How To Make It In America",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/03/2026",
+    "Titre": "NCIS: Sydney",
+    "Saison": "Saison 3 partie 2",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "04/03/2026",
+    "Titre": "Les Griffin",
+    "Saison": "Saison 23",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "06/03/2026",
+    "Titre": "Hello Bachhon",
     "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/03/2026",
-    "Titre": "Profession : reporter",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/03/2026",
-    "Titre": "Mentalist",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "04/03/2026",
-    "Titre": "Body of Proof",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/03/2026",
-    "Titre": "Touch",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/03/2026",
-    "Titre": "Luther",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/03/2026",
-    "Titre": "Orgueuil et préjugés (1995)",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/03/2026",
-    "Titre": "Person of Interest",
-    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "06/03/2026",
-    "Titre": "Women's Hell",
+    "Titre": "Comme tu brilles",
     "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "07/03/2026",
-    "Titre": "Girl From Nowhere: The Reset",
-    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "07/03/2026",
-    "Titre": "Beastars",
-    "Saison": "Saison 3 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "07/03/2026",
-    "Titre": "Outlander",
-    "Saison": "Saison 8",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/03/2026",
-    "Titre": "The Staircase",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "11/03/2026",
-    "Titre": "Ma Sorcière bien-aimée",
+    "Date": "06/03/2026",
+    "Titre": "Schitt's Creek",
     "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "11/03/2026",
-    "Titre": "Les Frères Scott",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "12/03/2026",
-    "Titre": "Beartown",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "13/03/2026",
-    "Titre": "Fatal Seduction",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/03/2026",
-    "Titre": "Mira : Life After Divorce",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "14/03/2026",
-    "Titre": "Lost Media",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "14/03/2026",
-    "Titre": "Love & Death",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "16/03/2026",
-    "Titre": "Royal Scandal",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1 Séries Films",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "17/03/2026",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "18/03/2026",
-    "Titre": "Beauty and The Beast",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "18/03/2026",
-    "Titre": "La Primera Vez",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "19/03/2026",
-    "Titre": "Quelqu'un devrait interdire les dimanches après-midi",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "19/03/2026",
-    "Titre": "This Town",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "23/03/2026",
-    "Titre": "Mon Comeback",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "25/03/2026",
-    "Titre": "Teen Wolf",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "10/04/2026",
-    "Titre": "Pêche interdite",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "15/04/2026",
-    "Titre": "Scrubs (2026)",
-    "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "23/04/2026",
-    "Titre": "La Meneuse",
+    "Date": "11/03/2026",
+    "Titre": "Solar Opposites",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "19/03/2026",
+    "Titre": "JoJo’s Bizarre Adventure - Steel Ball Run",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "21/03/2026",
+    "Titre": "Trigger Point",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "23/03/2026",
+    "Titre": 113,
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "23/03/2026",
+    "Titre": "Maison de retraite, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "25/03/2026",
+    "Titre": "Apparences",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "26/03/2026",
+    "Titre": "Gangs of London",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "26/03/2026",
+    "Titre": "Step Up: High Water ",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "27/03/2026",
+    "Titre": "Under Salt Marsh",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "31/03/2026",
+    "Titre": "The Rookie",
+    "Saison": "Saison 8",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "31/03/2026",
+    "Titre": "The Rookie",
+    "Saison": "Saison 7",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "03/04/2026",
+    "Titre": "La Traque dans le sang",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "08/05/2026",
-    "Titre": "Unconditional",
+    "Date": "20/04/2026",
+    "Titre": "Kevin",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "21/05/2026",
-    "Titre": "The Boroughs",
+    "Date": "07/05/2026",
+    "Titre": "Octobre",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/05/2026",
+    "Titre": "Mating Season",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "28/05/2026",
-    "Titre": "Viral Hit",
-    "Saison": "Saison 1",
+    "Titre": "Les Quatre saisons",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "29/05/2026",
-    "Titre": "Star City",
+    "Date": "03/06/2026",
+    "Titre": "La Légende de Vox Machina",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "09/07/2026",
+    "Titre": "La Petite maison dans la prairie (2026)",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

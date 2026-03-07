@@ -1,235 +1,5 @@
 [
   {
-    "Date": "19/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Night Agent",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Code rouge",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "19/02/2026",
-    "Heure": "20:55:00",
-    "Titre": "Meurtres à Varjakka",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "FIN, EST",
-    "Note": "Saisons 1 à 3 disponibles à partir du 12 février"
-  },
-  {
-    "Date": "20/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Strip Law",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Dernière chose qu'il m'a dite",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "20/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Banksters",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "21/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Charlotte's Web",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "23/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Paradise",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "23/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "Le Nounou",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "23/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "L'Art du crime",
-    "Saison": "Saison 9",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "23/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fire Country",
-    "Saison": "Saison 4 partie 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Walking Dead",
-    "Saison": "Intégrale",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Snowfall",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "25/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Vampirina : L'ado vampire",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "21:00:00",
-    "Titre": "Walker",
-    "Saison": "Saison 1",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Kacken-sur-Seum",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Blossoms Shangai",
-    "Saison": "Saison 1",
-    "Plateforme": "MUBI",
-    "Categorie": "SVOD",
-    "Pays": "HK, CHI",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Baki-Dou - Le samurai invincible",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "26/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Accrocs",
-    "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "27/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Monarch: Legacy of Monsters",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US, JAP",
-    "Note": null
-  },
-  {
-    "Date": "27/02/2026",
-    "Heure": "00:00:00",
-    "Titre": "Agents du mystère",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "28/02/2026",
-    "Heure": "21:10:00",
-    "Titre": "Cassandre",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
     "Date": "01/03/2026",
     "Heure": "21:10:00",
     "Titre": "Mystères au paradis",
@@ -266,6 +36,46 @@
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Friday Night Lights",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Grimm",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Blue Bloods",
+    "Saison": "Saisons 1 à 10",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "New York Police Judiciaire",
+    "Saison": "Saisons 17 à 20",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -340,6 +150,16 @@
     "Note": "Avec Leighton Meester"
   },
   {
+    "Date": "03/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "How To Make It In America",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "04/03/2026",
     "Heure": "00:00:00",
     "Titre": "Young Sherlock",
@@ -410,6 +230,26 @@
     "Note": null
   },
   {
+    "Date": "04/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "NCIS: Sydney",
+    "Saison": "Saison 3 partie 2",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
+    "Date": "04/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Griffin",
+    "Saison": "Saison 23",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "05/03/2026",
     "Heure": "00:00:00",
     "Titre": "Le Délicieux Professeur V.",
@@ -467,6 +307,36 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "06/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Hello Bachhon",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "IND",
+    "Note": null
+  },
+  {
+    "Date": "06/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Comme tu brilles",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "06/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Schitt's Creek",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -596,6 +466,16 @@
     "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Solar Opposites",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -800,6 +680,16 @@
     "Note": null
   },
   {
+    "Date": "19/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "JoJo’s Bizarre Adventure - Steel Ball Run",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "20/03/2026",
     "Heure": "00:00:00",
     "Titre": "Peaky Blinders : L'Immortel",
@@ -830,6 +720,16 @@
     "Note": null
   },
   {
+    "Date": "21/03/2026",
+    "Heure": "20:55:00",
+    "Titre": "Trigger Point",
+    "Saison": "Saison 3",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "23/03/2026",
     "Heure": "00:00:00",
     "Titre": "Lucky Luke",
@@ -848,6 +748,26 @@
     "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "23/03/2026",
+    "Heure": "20:55:00",
+    "Titre": 113,
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "ALL, AUT",
+    "Note": null
+  },
+  {
+    "Date": "23/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Maison de retraite, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur TF1"
   },
   {
     "Date": "25/03/2026",
@@ -890,6 +810,16 @@
     "Note": null
   },
   {
+    "Date": "25/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "Apparences",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "26/03/2026",
     "Heure": "00:00:00",
     "Titre": "Harry Hole",
@@ -908,6 +838,26 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Mini-série produite par les créateurs de Stranger Things"
+  },
+  {
+    "Date": "26/03/2026",
+    "Heure": "21:00:00",
+    "Titre": "Gangs of London",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "26/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Step Up: High Water ",
+    "Saison": "Intégrale",
+    "Plateforme": "TF1+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "27/03/2026",
@@ -936,6 +886,36 @@
     "Saison": "Saison 2",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Under Salt Marsh",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2026",
+    "Heure": "21:00:00",
+    "Titre": "The Rookie",
+    "Saison": "Saison 8",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Rookie",
+    "Saison": "Saison 7",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
     "Pays": "US",
     "Note": null
   },
@@ -997,6 +977,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "03/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Traque dans le sang",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -1090,6 +1080,16 @@
     "Note": null
   },
   {
+    "Date": "20/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Kevin",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/04/2026",
     "Heure": "00:00:00",
     "Titre": "Criminal Record",
@@ -1138,6 +1138,16 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Matthew Rhys"
+  },
+  {
+    "Date": "07/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Octobre",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "DAN",
+    "Note": null
   },
   {
     "Date": "08/05/2026",
@@ -1200,6 +1210,16 @@
     "Note": null
   },
   {
+    "Date": "22/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Mating Season",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "27/05/2026",
     "Heure": "00:00:00",
     "Titre": "Spider-Noir",
@@ -1220,6 +1240,16 @@
     "Note": null
   },
   {
+    "Date": "28/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Quatre saisons",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "29/05/2026",
     "Heure": "00:00:00",
     "Titre": "Star City",
@@ -1228,6 +1258,16 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Série dérivée de For All Mankind"
+  },
+  {
+    "Date": "03/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Légende de Vox Machina",
+    "Saison": "Saison 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "05/06/2026",
@@ -1268,6 +1308,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Prequel du film \"La Revanche d'une blonde\""
+  },
+  {
+    "Date": "09/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Petite maison dans la prairie (2026)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "15/07/2026",
