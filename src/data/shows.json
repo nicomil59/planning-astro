@@ -900,6 +900,26 @@
     "Note": null
   },
   {
+    "Date": "28/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "La Petite Histoire de France",
+    "Saison": "Inédit",
+    "Plateforme": "W9",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "30/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "Monsieur Parizot",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "31/03/2026",
     "Heure": "21:00:00",
     "Titre": "The Rookie",
@@ -917,6 +937,36 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Rookie",
+    "Saison": "Saison 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "31/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "A Priori",
+    "Saison": "Saison 2",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dorohedoro",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -947,6 +997,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "02/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Agent From Above",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TAI",
     "Note": null
   },
   {
@@ -1020,6 +1080,26 @@
     "Note": "Série dérivée de The Handmaid's Tale"
   },
   {
+    "Date": "09/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bandi",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "09/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Big Mistakes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/04/2026",
     "Heure": "00:00:00",
     "Titre": "Malcolm : Rien n'a changé",
@@ -1090,6 +1170,16 @@
     "Note": null
   },
   {
+    "Date": "20/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "From",
+    "Saison": "Saison 4",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "22/04/2026",
     "Heure": "00:00:00",
     "Titre": "Criminal Record",
@@ -1138,6 +1228,16 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Matthew Rhys"
+  },
+  {
+    "Date": "30/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Man On Fire",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "07/05/2026",
@@ -1216,6 +1316,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rick et Morty",
+    "Saison": "Saison 9",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
   },

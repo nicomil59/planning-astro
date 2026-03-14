@@ -1,10 +1,5 @@
 [
-  {
-    "Date": "23/02/2026",
-    "Titre": "Paradise",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
+
   {
     "Date": "26/02/2026",
     "Titre": "La Chronique des Bridgerton",
@@ -34,5 +29,11 @@
     "Titre": "One Piece",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
+  },
+    {
+    "Date": "18/03/2026",
+    "Titre": "Imperfect Women",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV"
   }
 ]
