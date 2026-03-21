@@ -1,39 +1,39 @@
 [
-
-  {
-    "Date": "26/02/2026",
-    "Titre": "La Chronique des Bridgerton",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Netflix"
-  },
   {
     "Date": "02/03/2026",
     "Titre": "Un Prophète",
     "Saison": "Saison 1",
     "Plateforme": "Canal+"
   },
+
   {
-    "Date": "05/03/2026",
-    "Titre": "Le Délicieux Professeur V.",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-    {
     "Date": "09/03/2026",
     "Titre": "Rooster",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
   },
-    {
+  {
     "Date": "10/03/2026",
     "Titre": "One Piece",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
   },
-    {
+  {
     "Date": "18/03/2026",
     "Titre": "Imperfect Women",
     "Saison": "Mini-série",
+    "Plateforme": "Apple TV"
+  },
+  {
+    "Date": "25/03/2026",
+    "Titre": "Daredevil: Born Again",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "27/03/2026",
+    "Titre": "For All Mankind",
+    "Saison": "Saison 5",
     "Plateforme": "Apple TV"
   }
 ]

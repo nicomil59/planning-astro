@@ -1,375 +1,5 @@
 [
   {
-    "Date": "01/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "Mystères au paradis",
-    "Saison": "Saison 2",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Resident",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Profession : reporter",
-    "Saison": "Saisons 1 à 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "AUS",
-    "Note": "Titre original: \"The Newsreader\"; déjà diffusée sur Arte"
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Mentalist",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Friday Night Lights",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Grimm",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Blue Bloods",
-    "Saison": "Saisons 1 à 10",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saisons 17 à 20",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "02/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Marshals: a Yellowstone Story",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": "Nouvelle série dérivée de Yellowstone; titre original : \"Y: Marshals\""
-  },
-  {
-    "Date": "02/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "DTF St. Louis",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": "Avec Jason Bateman et David Harbour"
-  },
-  {
-    "Date": "02/03/2026",
-    "Heure": "21:00:00",
-    "Titre": "Un Prophète",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "02/03/2026",
-    "Heure": "21:55:00",
-    "Titre": "Blue Lights",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "02/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Freak Brothers",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "03/03/2026",
-    "Heure": "20:50:00",
-    "Titre": "Pécheresses",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "03/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Good Cop/Bad Cop",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "AUS, US",
-    "Note": "Avec Leighton Meester"
-  },
-  {
-    "Date": "03/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "How To Make It In America",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Young Sherlock",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Traqués (2026)",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Body of Proof",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Touch",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Luther",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Orgueuil et préjugés (1995)",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Person of Interest",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "NCIS: Sydney",
-    "Saison": "Saison 3 partie 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "AUS",
-    "Note": null
-  },
-  {
-    "Date": "04/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Griffin",
-    "Saison": "Saison 23",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Délicieux Professeur V.",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Avec Rachel Weisz; titre original : \"Vladimir\""
-  },
-  {
-    "Date": "05/03/2026",
-    "Heure": "20:55:00",
-    "Titre": "Le Complot Caravaggio",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "ITA, SUI, FRA, ALL",
-    "Note": null
-  },
-  {
-    "Date": "05/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "Erica",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Celeste",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Boyfriend on Demand",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Women's Hell",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Hello Bachhon",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "IND",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Comme tu brilles",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "06/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Schitt's Creek",
-    "Saison": "Intégrale",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Girl From Nowhere: The Reset",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Beastars",
-    "Saison": "Saison 3 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "07/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Outlander",
-    "Saison": "Saison 8",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "09/03/2026",
     "Heure": "00:00:00",
     "Titre": "Rooster",
@@ -960,6 +590,16 @@
     "Note": null
   },
   {
+    "Date": "31/03/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ripple",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
     "Date": "01/04/2026",
     "Heure": "00:00:00",
     "Titre": "Dorohedoro",
@@ -967,6 +607,56 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bull",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Orgueil et préjugés (1995)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Jane Eyre (2006)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Misérables (2018)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Guerre et paix",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1060,6 +750,16 @@
     "Note": "Série d'animation autour du personnage du Sith Maul"
   },
   {
+    "Date": "06/04/2026",
+    "Heure": "22:55:00",
+    "Titre": "Trop mortel",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "08/04/2026",
     "Heure": "00:00:00",
     "Titre": "The Boys",
@@ -1100,6 +800,26 @@
     "Note": null
   },
   {
+    "Date": "09/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Flashback",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "09/04/2026",
+    "Heure": "20:55:00",
+    "Titre": "Mystery Road : les origines",
+    "Saison": "Saison 2",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
     "Date": "10/04/2026",
     "Heure": "00:00:00",
     "Titre": "Malcolm : Rien n'a changé",
@@ -1130,6 +850,16 @@
     "Note": null
   },
   {
+    "Date": "14/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Crooks",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
     "Date": "15/04/2026",
     "Heure": "00:00:00",
     "Titre": "Margo a des problèmes d'argent",
@@ -1150,6 +880,56 @@
     "Note": null
   },
   {
+    "Date": "15/04/2026",
+    "Heure": "21:00:00",
+    "Titre": "All Her Fault",
+    "Saison": "Mini-série",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": "Avec Sarah Snook (Succession) et Dakota Fanning"
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Great",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Victoria",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Maîtres et valets (2010)",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lidia fait sa loi",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
     "Date": "16/04/2026",
     "Heure": "00:00:00",
     "Titre": "Acharnés",
@@ -1157,6 +937,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "17/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Machos Alfa",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -1206,6 +996,16 @@
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "My Brother The Minotaur",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   },
@@ -1264,6 +1064,26 @@
     "Heure": "00:00:00",
     "Titre": "Devil May Cry (2025)",
     "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Off Campus",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Nemesis",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",

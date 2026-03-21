@@ -1,79 +1,135 @@
 [
   {
-    "Date": "28/03/2026",
-    "Titre": "La Petite Histoire de France",
-    "Saison": "Inédit",
-    "Plateforme": "W9",
+    "Date": "31/03/2026",
+    "Titre": "Ripple",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/04/2026",
+    "Titre": "Bull",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "01/04/2026",
+    "Titre": "Orgueil et préjugés (1995)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "01/04/2026",
+    "Titre": "Jane Eyre (2006)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "01/04/2026",
+    "Titre": "Les Misérables (2018)",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "01/04/2026",
+    "Titre": "Guerre et paix",
+    "Saison": "Mini-série",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "06/04/2026",
+    "Titre": "Trop mortel",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "30/03/2026",
-    "Titre": "Monsieur Parizot",
-    "Saison": "Inédit",
+    "Date": "09/04/2026",
+    "Titre": "Flashback",
+    "Saison": "Saison 2",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "31/03/2026",
-    "Titre": "The Rookie",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "31/03/2026",
-    "Titre": "A Priori",
+    "Date": "09/04/2026",
+    "Titre": "Mystery Road : les origines",
     "Saison": "Saison 2",
-    "Plateforme": "France 3",
+    "Plateforme": "Arte",
     "Categorie": "TNT"
   },
   {
-    "Date": "01/04/2026",
-    "Titre": "Dorohedoro",
+    "Date": "14/04/2026",
+    "Titre": "Crooks",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "02/04/2026",
-    "Titre": "Agent From Above",
-    "Saison": "Saison 1",
+    "Date": "15/04/2026",
+    "Titre": "All Her Fault",
+    "Saison": "Mini-série",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "The Great",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "Victoria",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "Maîtres et valets (2010)",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "Lidia fait sa loi",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/04/2026",
-    "Titre": "Bandi",
-    "Saison": "Saison 1",
+    "Date": "17/04/2026",
+    "Titre": "Machos Alfa",
+    "Saison": "Saison 5",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/04/2026",
-    "Titre": "Big Mistakes",
+    "Date": "24/04/2026",
+    "Titre": "My Brother The Minotaur",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "13/05/2026",
+    "Titre": "Off Campus",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "14/05/2026",
+    "Titre": "Nemesis",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
-  },
-  {
-    "Date": "20/04/2026",
-    "Titre": "From",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "30/04/2026",
-    "Titre": "Man On Fire",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "25/05/2026",
-    "Titre": "Rick et Morty",
-    "Saison": "Saison 9",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
   }
 ]
