@@ -1,205 +1,5 @@
 [
   {
-    "Date": "09/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Rooster",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": "Avec Steve Carell"
-  },
-  {
-    "Date": "09/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "Maison de retraite, la série",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "10/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "One Piece",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US, JAP",
-    "Note": null
-  },
-  {
-    "Date": "10/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Staircase",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Canal+"
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Scarpetta",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": "Avec Nicole Kidman, Jamie Lee Curtis et Simon Baker"
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "SWAT",
-    "Saison": "Saison 8 partie 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "L'Affaire Laura Stern",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur HBO Max"
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Man in The High Castle",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ma Sorcière bien-aimée",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Frères Scott",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "11/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Solar Opposites",
-    "Saison": "Saison 6",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Virgin River",
-    "Saison": "Saison 7",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Beartown",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1+",
-    "Categorie": "SVOD",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "13/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Esa Noche",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "13/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Je sais pas",
-    "Saison": "Mini-série",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/03/2026",
-    "Heure": "21:10:00",
-    "Titre": "Tropiques criminels",
-    "Saison": "Saison 7",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fatal Seduction",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "13/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Mira : Life After Divorce",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "14/03/2026",
-    "Heure": "23:05:00",
-    "Titre": "Lost Media",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "FRA",
-    "Note": "Série courte : 8 épisodes de 12 minutes"
-  },
-  {
-    "Date": "14/03/2026",
-    "Heure": "00:00:00",
-    "Titre": "Love & Death",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Canal+"
-  },
-  {
     "Date": "16/03/2026",
     "Heure": "21:10:00",
     "Titre": "Royal Scandal",
@@ -600,10 +400,20 @@
     "Note": null
   },
   {
+    "Date": "31/03/2026",
+    "Heure": "21:10:00",
+    "Titre": "Culte - Loft Story",
+    "Saison": "Saison 1",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Diffusion de la saison 1 en intégralité suite au décès de Loana; déjà diffusée sur Prime Video"
+  },
+  {
     "Date": "01/04/2026",
     "Heure": "00:00:00",
     "Titre": "Dorohedoro",
-    "Saison": "Saison 2",
+    "Saison": "Saison 2 partie 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
@@ -700,6 +510,16 @@
     "Note": null
   },
   {
+    "Date": "02/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Bad Guys : la série",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "03/04/2026",
     "Heure": "00:00:00",
     "Titre": "Vrais voisins, faux amis",
@@ -740,6 +560,16 @@
     "Note": null
   },
   {
+    "Date": "03/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dream Stage",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "06/04/2026",
     "Heure": "00:00:00",
     "Titre": "Star Wars: Maul - Seigneur de l'ombre",
@@ -757,6 +587,16 @@
     "Plateforme": "France 2",
     "Categorie": "TNT",
     "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "06/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Je sais pas",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -778,6 +618,16 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": "Série dérivée de The Handmaid's Tale"
+  },
+  {
+    "Date": "08/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Handmaid's Tale",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "09/04/2026",
@@ -820,6 +670,16 @@
     "Note": null
   },
   {
+    "Date": "09/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "4 Blocks",
+    "Saison": "Intégrale",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
     "Date": "10/04/2026",
     "Heure": "00:00:00",
     "Titre": "Malcolm : Rien n'a changé",
@@ -840,6 +700,16 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "11/04/2026",
+    "Heure": "20:55:00",
+    "Titre": "Unforgotten",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "13/04/2026",
     "Heure": "00:00:00",
     "Titre": "Euphoria",
@@ -847,6 +717,36 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/04/2026",
+    "Heure": "20:55:00",
+    "Titre": "Until I Kill You",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "13/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 13",
+    "Plateforme": "CStar",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Alter Ego",
+    "Saison": "Saison 1",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -930,6 +830,36 @@
     "Note": null
   },
   {
+    "Date": "15/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Grey's Anatomy",
+    "Saison": "Saison 22",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "21:10:00",
+    "Titre": "Phoenix",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA, ALL",
+    "Note": null
+  },
+  {
+    "Date": "15/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Faux profil",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
     "Date": "16/04/2026",
     "Heure": "00:00:00",
     "Titre": "Acharnés",
@@ -937,6 +867,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dandelion",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "16/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Then You Run",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "ALL, UK",
     "Note": null
   },
   {
@@ -948,6 +898,16 @@
     "Categorie": "Netflix",
     "Pays": "ESP",
     "Note": null
+  },
+  {
+    "Date": "17/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Intraçables",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "FRA, SUI",
+    "Note": "Avec Sofia Essaïdi; prochainement diffusée sur TF1"
   },
   {
     "Date": "20/04/2026",
@@ -970,6 +930,16 @@
     "Note": null
   },
   {
+    "Date": "21/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Unchosen",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "22/04/2026",
     "Heure": "00:00:00",
     "Titre": "Criminal Record",
@@ -978,6 +948,16 @@
     "Categorie": "Apple TV",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "22/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Saisons",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA",
+    "Note": "Déjà diffusée sur Arte"
   },
   {
     "Date": "23/04/2026",
@@ -1000,6 +980,16 @@
     "Note": null
   },
   {
+    "Date": "23/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Recalé",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "24/04/2026",
     "Heure": "00:00:00",
     "Titre": "My Brother The Minotaur",
@@ -1007,6 +997,26 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Half Man",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "24/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "If Wishes Could Kill",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -1020,6 +1030,16 @@
     "Note": null
   },
   {
+    "Date": "27/04/2026",
+    "Heure": "20:55:00",
+    "Titre": "Dark Winds",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "29/04/2026",
     "Heure": "00:00:00",
     "Titre": "Widow's Bay",
@@ -1028,6 +1048,46 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Matthew Rhys"
+  },
+  {
+    "Date": "29/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Gold Land",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "29/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Maison aux esprits",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "CHILI",
+    "Note": null
+  },
+  {
+    "Date": "29/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dorohedoro",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "29/04/2026",
+    "Heure": "00:00:00",
+    "Titre": "Maxima",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "PB",
+    "Note": null
   },
   {
     "Date": "30/04/2026",
@@ -1108,6 +1168,16 @@
     "Categorie": "Disney+",
     "Pays": "UK",
     "Note": null
+  },
+  {
+    "Date": "15/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dutton Ranch",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": "Série dérivée de Yellowstone, avec Cole Hauser et Kelly Reilly"
   },
   {
     "Date": "20/05/2026",
@@ -1210,6 +1280,16 @@
     "Note": "Avec Amy Adams, Patrick Wilson et Javier Bardem"
   },
   {
+    "Date": "10/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Every Year After",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "11/06/2026",
     "Heure": "00:00:00",
     "Titre": "À l'ombre des Magnolias",
@@ -1258,6 +1338,16 @@
     "Categorie": "Apple TV",
     "Pays": "US",
     "Note": "Avec Anya Taylor-Joy, Annette Bening et Timothy Olyphant"
+  },
+  {
+    "Date": "12/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Las Azules",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "MEX",
+    "Note": null
   },
   {
     "Date": "06/10/2026",

@@ -1,135 +1,205 @@
 [
   {
     "Date": "31/03/2026",
-    "Titre": "Ripple",
+    "Titre": "Culte - Loft Story",
     "Saison": "Saison 1",
+    "Plateforme": "M6",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "02/04/2026",
+    "Titre": "Les Bad Guys : la série",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "01/04/2026",
-    "Titre": "Bull",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/04/2026",
-    "Titre": "Orgueil et préjugés (1995)",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/04/2026",
-    "Titre": "Jane Eyre (2006)",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/04/2026",
-    "Titre": "Les Misérables (2018)",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/04/2026",
-    "Titre": "Guerre et paix",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Date": "03/04/2026",
+    "Titre": "Dream Stage",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "06/04/2026",
-    "Titre": "Trop mortel",
-    "Saison": "Saison 1",
+    "Titre": "Je sais pas",
+    "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
+    "Date": "08/04/2026",
+    "Titre": "The Handmaid's Tale",
+    "Saison": "Intégrale",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
     "Date": "09/04/2026",
-    "Titre": "Flashback",
-    "Saison": "Saison 2",
+    "Titre": "4 Blocks",
+    "Saison": "Intégrale",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "11/04/2026",
+    "Titre": "Unforgotten",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/04/2026",
+    "Titre": "Until I Kill You",
+    "Saison": "Mini-série",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/04/2026",
+    "Titre": "Chicago Fire",
+    "Saison": "Saison 13",
+    "Plateforme": "CStar",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "13/04/2026",
+    "Titre": "Alter Ego",
+    "Saison": "Saison 1",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "09/04/2026",
-    "Titre": "Mystery Road : les origines",
-    "Saison": "Saison 2",
-    "Plateforme": "Arte",
+    "Date": "15/04/2026",
+    "Titre": "Grey's Anatomy",
+    "Saison": "Saison 22",
+    "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "14/04/2026",
-    "Titre": "Crooks",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
     "Date": "15/04/2026",
-    "Titre": "All Her Fault",
+    "Titre": "Phoenix",
     "Saison": "Mini-série",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble"
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
     "Date": "15/04/2026",
-    "Titre": "The Great",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "15/04/2026",
-    "Titre": "Victoria",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "15/04/2026",
-    "Titre": "Maîtres et valets (2010)",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "15/04/2026",
-    "Titre": "Lidia fait sa loi",
+    "Titre": "Faux profil",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
+    "Date": "16/04/2026",
+    "Titre": "Dandelion",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "16/04/2026",
+    "Titre": "Then You Run",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
     "Date": "17/04/2026",
-    "Titre": "Machos Alfa",
-    "Saison": "Saison 5",
+    "Titre": "Intraçables",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "21/04/2026",
+    "Titre": "Unchosen",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "22/04/2026",
+    "Titre": "Les Saisons",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "23/04/2026",
+    "Titre": "Recalé",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "24/04/2026",
-    "Titre": "My Brother The Minotaur",
+    "Titre": "Half Man",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
-    "Date": "13/05/2026",
-    "Titre": "Off Campus",
+    "Date": "24/04/2026",
+    "Titre": "If Wishes Could Kill",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/04/2026",
+    "Titre": "Dark Winds",
+    "Saison": "Saison 4",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "29/04/2026",
+    "Titre": "Gold Land",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "29/04/2026",
+    "Titre": "La Maison aux esprits",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "14/05/2026",
-    "Titre": "Nemesis",
-    "Saison": "Saison 1",
+    "Date": "29/04/2026",
+    "Titre": "Dorohedoro",
+    "Saison": "Saison 2 partie 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "29/04/2026",
+    "Titre": "Maxima",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "15/05/2026",
+    "Titre": "Dutton Ranch",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "10/06/2026",
+    "Titre": "Every Year After",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "12/08/2026",
+    "Titre": "Las Azules",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]
