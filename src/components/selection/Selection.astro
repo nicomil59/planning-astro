@@ -6,6 +6,7 @@ import SelectionItem from "./SelectionItem.astro";
 
 <section id="selection" class="my-12 sm:my-24">
   <SectionTitle text="Sélection" />
+  <p class="my-8">Les sorties du moment à ne pas manquer.</p>
   <div class="my-8 sm:my-12 flex justify-center gap-4 flex-wrap">
     {
       selection.map(item => <SelectionItem  {...item} />)

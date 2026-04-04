@@ -1,22 +1,5 @@
 [
-  {
-    "Date": "09/03/2026",
-    "Titre": "Rooster",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
-    "Date": "10/03/2026",
-    "Titre": "One Piece",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "18/03/2026",
-    "Titre": "Imperfect Women",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV"
-  },
+
   {
     "Date": "25/03/2026",
     "Titre": "Daredevil: Born Again",
@@ -34,5 +17,23 @@
     "Titre": "Vrais voisins, faux amis",
     "Saison": "Saison 2",
     "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "08/04/2026",
+    "Titre": "The Testaments",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+    {
+    "Date": "08/04/2026",
+    "Titre": "The Boys",
+    "Saison": "Saison 5",
+    "Plateforme": "Prime Video"
+  },
+    {
+    "Date": "10/04/2026",
+    "Titre": "Malcolm : rien n'a changé",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
   }
 ]
