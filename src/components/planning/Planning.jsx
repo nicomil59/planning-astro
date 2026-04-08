@@ -56,11 +56,22 @@ const Planning = () => {
   //   }, 300); // Délai de 300ms pour l'effet visuel
   // };
 
+  // À ajouter juste avant le filteredShows pour déboguer
+  // const problematicShows = shows.filter(
+  //   (show) => !show.Titre || typeof show.Titre !== "string",
+  // );
+  // if (problematicShows.length > 0) {
+  //   console.warn("Shows avec Titre problématique:", problematicShows);
+  // }
+
   // Le filtrage se fait ici, en combinant les deux états
   const filteredShows = shows.filter((show) => {
-    const matchCategory = selectedCategories.includes("Tous") || 
-                          selectedCategories.includes(show.Categorie);
-    const matchSearch = show.Titre.toLowerCase().includes(searchTerm.toLowerCase());
+    const matchCategory =
+      selectedCategories.includes("Tous") ||
+      selectedCategories.includes(show.Categorie);
+    const matchSearch = String(show.Titre)
+      .toLowerCase()
+      .includes(searchTerm.toLowerCase());
     return matchCategory && matchSearch;
   });
 
@@ -76,9 +87,9 @@ const Planning = () => {
       />
       {/* Liste avec effet de transition opacity */}
       <div
-        // className={`transition-opacity duration-300 ease-out${
-        //   isUpdating ? "opacity-40" : "opacity-100"
-        // }`}
+      // className={`transition-opacity duration-300 ease-out${
+      //   isUpdating ? "opacity-40" : "opacity-100"
+      // }`}
       >
         <ShowsList showsToDisplay={filteredShows} />
       </div>
