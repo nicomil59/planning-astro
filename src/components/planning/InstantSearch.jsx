@@ -6,7 +6,7 @@ const InstantSearch = ({ searchTerm, onSearchChange }) => {
         placeholder="Rechercher une série..."
         value={searchTerm}
         onChange={(e) => onSearchChange(e.target.value)}
-        className="block w-full p-3 pl-4 pr-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow-sm transition-all outline-none"
+        className="block w-full p-3 pl-4 pr-10 text-base text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow-sm transition-all outline-none"
         onKeyDown={(e) => {
           if (e.key === "Escape") onSearchChange("");
         }}
