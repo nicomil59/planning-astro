@@ -1,39 +1,38 @@
 [
-
   {
-    "Date": "25/03/2026",
-    "Titre": "Daredevil: Born Again",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+"
-  },
-  {
-    "Date": "27/03/2026",
-    "Titre": "For All Mankind",
-    "Saison": "Saison 5",
-    "Plateforme": "Apple TV"
-  },
-    {
-    "Date": "03/04/2026",
-    "Titre": "Vrais voisins, faux amis",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV"
-  },
-    {
-    "Date": "08/04/2026",
-    "Titre": "The Testaments",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-    {
     "Date": "08/04/2026",
     "Titre": "The Boys",
     "Saison": "Saison 5",
     "Plateforme": "Prime Video"
   },
-    {
+  {
     "Date": "10/04/2026",
     "Titre": "Malcolm : rien n'a changé",
     "Saison": "Mini-série",
     "Plateforme": "Disney+"
+  },
+  {
+    "Date": "13/04/2026",
+    "Titre": "Euphoria",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "Margo a des problèmes d'argent",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV"
+  },
+  {
+    "Date": "15/04/2026",
+    "Titre": "Scrubs (2026)",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+    {
+    "Date": "16/04/2026",
+    "Titre": "Acharnés",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix"
   }
 ]
