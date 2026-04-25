@@ -1,93 +1,128 @@
 [
   {
-    "Date": "15/04/2026",
-    "Titre": "Chicago Med",
-    "Saison": "Saison 10",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "Glory",
+    "Date": "25/04/2026",
+    "Titre": "Mushoku Tensei : Jobless Reincarnation",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "04/05/2026",
-    "Titre": "Bref.2",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "05/05/2026",
-    "Titre": "Citadel",
+    "Date": "25/04/2026",
+    "Titre": "Blue Lock",
     "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "05/05/2026",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Date": "27/04/2026",
+    "Titre": "Rescue Me",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/05/2026",
+    "Titre": "30 Rock",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/05/2026",
+    "Titre": "Jujutsu Kaisën",
+    "Saison": "Saison 2 parties 1 et 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "06/05/2026",
-    "Titre": "Enchaînés",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
+    "Titre": "Citadel",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "07/05/2026",
-    "Titre": "Fringe",
+    "Date": "06/05/2026",
+    "Titre": "The Handmaid's Tale",
     "Saison": "Intégrale",
-    "Plateforme": "RMC Life",
-    "Categorie": "TNT"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "11/05/2026",
-    "Titre": "Everyone is Doing Great",
-    "Saison": "Saisons 1 et 2",
+    "Date": "08/05/2026",
+    "Titre": "Merci et au suivant !",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "12/05/2026",
-    "Titre": "We Come in Piece",
+    "Titre": "Deep",
     "Saison": "Saison 1",
-    "Plateforme": "SciFi",
-    "Categorie": "Câble"
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
-    "Date": "13/05/2026",
-    "Titre": "Good Omens",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "12/05/2026",
+    "Titre": "Alexandra Ehle",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "20/05/2026",
-    "Titre": "Jack Ryan : Guerre fantôme",
-    "Saison": "Film",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "14/05/2026",
+    "Titre": "The Madison",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "14/05/2026",
+    "Titre": "Âme soeur",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/05/2026",
+    "Titre": "Horimiya",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/05/2026",
+    "Titre": "The Wonderfools",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "21/05/2026",
-    "Titre": "Skymed",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
+    "Titre": "Etty",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "TNT"
   },
   {
-    "Date": "24/06/2026",
-    "Titre": "Le Chemin de l'olivier",
-    "Saison": "Saison 3",
+    "Date": "28/05/2026",
+    "Titre": "Deli Boys",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "28/05/2026",
+    "Titre": "Les Meurtres zen",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/07/2026",
+    "Titre": "Silo",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]

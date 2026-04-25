@@ -1,17 +1,5 @@
 [
   {
-    "Date": "08/04/2026",
-    "Titre": "The Boys",
-    "Saison": "Saison 5",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "10/04/2026",
-    "Titre": "Malcolm : rien n'a changé",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "13/04/2026",
     "Titre": "Euphoria",
     "Saison": "Saison 3",
@@ -34,5 +22,17 @@
     "Titre": "Acharnés",
     "Saison": "Saison 2",
     "Plateforme": "Netflix"
+  },
+    {
+    "Date": "27/04/2026",
+    "Titre": "Paris Police 1910",
+    "Saison": "Saison 3",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "29/04/2026",
+    "Titre": "Widow's Bay",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV"
   }
 ]
