@@ -1,289 +1,86 @@
 [
   {
-    "Date": "01/05/2026",
-    "Titre": "Vitrerie Joyal",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "Le Négociateur",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "The Good Wife",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "NCIS: Los Angeles",
-    "Saison": "Saisons 1 à 7",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "Medium",
-    "Saison": "Saisons 1 à 7",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/05/2026",
-    "Titre": "NCIS: Tony & Ziva",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "06/05/2026",
-    "Titre": "Taboo",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "06/05/2026",
-    "Titre": "Moscou Noir",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "06/05/2026",
-    "Titre": "Once Upon a Time",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "07/05/2026",
-    "Titre": "M.I.A.",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "08/05/2026",
-    "Titre": "My Royal Nemesis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "09/05/2026",
-    "Titre": "Song of The Samurai",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "13/05/2026",
-    "Titre": "The Americans",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "13/05/2026",
-    "Titre": "Entre père et fils",
-    "Saison": "Micro-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/05/2026",
-    "Titre": "Les Coqs",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/05/2026",
-    "Titre": "Désenchantées",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "15/05/2026",
-    "Titre": "It's Not Like That",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/05/2026",
-    "Titre": "Memory of a Killer",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/05/2026",
-    "Titre": "Nina",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/05/2026",
-    "Titre": "R.I.S : Police Scientifique",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "16/05/2026",
-    "Titre": "NCIS",
-    "Saison": "Saison 23",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "18/05/2026",
-    "Titre": "L'Été 36",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "19/05/2026",
-    "Titre": "Alexandra Ehle",
+    "Date": "05/05/2026",
+    "Titre": "The Bear",
     "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
   },
   {
-    "Date": "20/05/2026",
-    "Titre": "L'Or bleu",
-    "Saison": "Mini-série",
+    "Date": "22/05/2026",
+    "Titre": "Fifteen-Love",
+    "Saison": "Saison 1",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "23/05/2026",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "20/05/2026",
-    "Titre": "Carisima",
-    "Saison": "Micro-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "20/05/2026",
-    "Titre": "The Walking Dead",
-    "Saison": "Saisons 1 à 10",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "20/05/2026",
-    "Titre": "Perfect Crown",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "21/05/2026",
-    "Titre": "Vanished (2026)",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
     "Date": "24/05/2026",
-    "Titre": "Bad Thoughts",
+    "Titre": "Vanina : Meurtres en Sicile",
     "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "25/05/2026",
-    "Titre": "Fear The Walking Dead",
-    "Saison": "Saisons 1 à 8",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "26/05/2026",
+    "Titre": "Scènes de ménages - Cap sur la Bretagne",
+    "Saison": "Inédit",
+    "Plateforme": "M6",
+    "Categorie": "TNT"
   },
   {
-    "Date": "25/05/2026",
-    "Titre": "Falco",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "27/05/2026",
-    "Titre": "X-Files",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "28/05/2026",
-    "Titre": "Ponies",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "29/05/2026",
-    "Titre": "Le Troisième sacre",
+    "Date": "01/06/2026",
+    "Titre": "L'Été 36",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "08/06/2026",
-    "Titre": "Alice et Steve",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "22/06/2026",
-    "Titre": "House of The Dragon",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "23/07/2026",
-    "Titre": "Star Trek: Strange New Worlds",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "23/07/2026",
-    "Titre": "Nouvelle vie à Ransom Canyon",
-    "Saison": "Saison 2",
+    "Date": "02/06/2026",
+    "Titre": "Everwood",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "05/08/2026",
-    "Titre": "Ted Lasso",
-    "Saison": "Saison 4",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Date": "05/06/2026",
+    "Titre": "Que ça vous serve de leçon",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "05/08/2026",
-    "Titre": "Sterling Point",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "18/06/2026",
+    "Titre": "Sur tes traces",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "17/08/2026",
-    "Titre": "Lanterns",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Date": "26/06/2026",
+    "Titre": "The Bear",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "02/07/2026",
+    "Titre": "La Loi de la plus forte",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "28/08/2026",
+    "Titre": "La Fosse",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]
