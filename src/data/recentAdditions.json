@@ -1,86 +1,114 @@
 [
   {
-    "Date": "05/05/2026",
-    "Titre": "The Bear",
-    "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "27/05/2026",
+    "Titre": "Rick et Morty",
+    "Saison": "Saison 8",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "22/05/2026",
-    "Titre": "Fifteen-Love",
+    "Date": "29/05/2026",
+    "Titre": "Haute saison",
     "Saison": "Saison 1",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "23/05/2026",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "24/05/2026",
-    "Titre": "Vanina : Meurtres en Sicile",
-    "Saison": "Saison 2",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/05/2026",
-    "Titre": "Scènes de ménages - Cap sur la Bretagne",
-    "Saison": "Inédit",
-    "Plateforme": "M6",
-    "Categorie": "TNT"
+    "Date": "01/06/2026",
+    "Titre": "Sa Majesté des mouches",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
     "Date": "01/06/2026",
-    "Titre": "L'Été 36",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Titre": "Innato",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
   },
   {
-    "Date": "02/06/2026",
-    "Titre": "Everwood",
+    "Date": "01/06/2026",
+    "Titre": "Oxygen Masks Will (Not) Drop Automatically",
+    "Saison": "Saison 1",
+    "Plateforme": "App Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "03/06/2026",
+    "Titre": "This is Us",
     "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "05/06/2026",
-    "Titre": "Que ça vous serve de leçon",
+    "Date": "04/06/2026",
+    "Titre": "Silo",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "10/06/2026",
+    "Titre": "Justified",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "10/06/2026",
+    "Titre": "All Creatures Great and Small",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "24/06/2026",
+    "Titre": "Smallville",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "15/07/2026",
+    "Titre": "Ride or Die",
     "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "16/07/2026",
+    "Titre": "The Hawk",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "18/06/2026",
-    "Titre": "Sur tes traces",
+    "Date": "24/07/2026",
+    "Titre": "Stuart Fails To Save The Universe",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "14/10/2026",
+    "Titre": "Marvel's VisionQuest",
     "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "26/06/2026",
-    "Titre": "The Bear",
-    "Saison": "Saison 5",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "02/07/2026",
-    "Titre": "La Loi de la plus forte",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "21/10/2026",
+    "Titre": "The Terminal List",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   },
   {
-    "Date": "28/08/2026",
-    "Titre": "La Fosse",
+    "Date": "11/11/2026",
+    "Titre": "Les Anneaux de Pouvoir",
     "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
   }
 ]

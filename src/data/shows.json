@@ -1,115 +1,5 @@
 [
   {
-    "Date": "27/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Tout droit en enfer",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "27/04/2026",
-    "Heure": "20:55:00",
-    "Titre": "Dark Winds",
-    "Saison": "Saison 4",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "27/04/2026",
-    "Heure": "21:00:00",
-    "Titre": "Paris Police 1910",
-    "Saison": "Saison 3",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "FRA",
-    "Note": "Suite de Paris Police 1900 et Paris Police 1905"
-  },
-  {
-    "Date": "27/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Rescue Me",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/04/2026",
-    "Heure": "21:10:00",
-    "Titre": "Lockerbie : Attentat en plein vol",
-    "Saison": "Mini-série",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US, UK",
-    "Note": "Diffusion des 5 épisodes en une soirée"
-  },
-  {
-    "Date": "29/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Widow's Bay",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": "Avec Matthew Rhys"
-  },
-  {
-    "Date": "29/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Gold Land",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "29/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Maison aux esprits",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "CHILI",
-    "Note": null
-  },
-  {
-    "Date": "29/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dorohedoro",
-    "Saison": "Saison 2 partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "29/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Maxima",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "30/04/2026",
-    "Heure": "00:00:00",
-    "Titre": "Man On Fire",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "01/05/2026",
     "Heure": "00:00:00",
     "Titre": "Glory",
@@ -910,6 +800,16 @@
     "Note": null
   },
   {
+    "Date": "27/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rick et Morty",
+    "Saison": "Saison 8",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "28/05/2026",
     "Heure": "00:00:00",
     "Titre": "Viral Hit",
@@ -980,6 +880,16 @@
     "Note": null
   },
   {
+    "Date": "29/05/2026",
+    "Heure": "21:10:00",
+    "Titre": "Haute saison",
+    "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "01/06/2026",
     "Heure": "00:00:00",
     "Titre": "L'Été 36",
@@ -988,6 +898,36 @@
     "Categorie": "Netflix",
     "Pays": "FRA",
     "Note": "Déjà diffusée sur TF1"
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "21:00:00",
+    "Titre": "Sa Majesté des mouches",
+    "Saison": "Mini-série",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "20:55:00",
+    "Titre": "Innato",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Oxygen Masks Will (Not) Drop Automatically",
+    "Saison": "Saison 1",
+    "Plateforme": "App Canal+",
+    "Categorie": "Canal+",
+    "Pays": "BRE",
+    "Note": null
   },
   {
     "Date": "02/06/2026",
@@ -1018,6 +958,26 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "03/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "This is Us",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/06/2026",
+    "Heure": "21:00:00",
+    "Titre": "Silo",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "US",
+    "Note": "Disponible sur Apple TV"
   },
   {
     "Date": "05/06/2026",
@@ -1052,11 +1012,31 @@
   {
     "Date": "10/06/2026",
     "Heure": "00:00:00",
-    "Titre": "Every Year After",
+    "Titre": "Au fil des années",
     "Saison": "Saison 1",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": "Titre original : \"Every Year After\""
+  },
+  {
+    "Date": "10/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Justified",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "All Creatures Great and Small",
+    "Saison": "Saisons 1 à 6",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -1107,6 +1087,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "24/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Smallville",
+    "Saison": "Intégrale",
+    "Plateforme": "M6+",
+    "Categorie": "SVOD",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -1180,6 +1170,26 @@
     "Note": "Avec Anya Taylor-Joy, Annette Bening et Timothy Olyphant"
   },
   {
+    "Date": "15/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ride or Die",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Hawk",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Avec Will Ferrell"
+  },
+  {
     "Date": "23/07/2026",
     "Heure": "00:00:00",
     "Titre": "Star Trek: Strange New Worlds",
@@ -1198,6 +1208,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "24/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Stuart Fails To Save The Universe",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Série dérivée de The Big Bang Theory"
   },
   {
     "Date": "05/08/2026",
@@ -1276,6 +1296,36 @@
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "14/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Marvel's VisionQuest",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Terminal List",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "11/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Anneaux de Pouvoir",
+    "Saison": "Saison 3",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
