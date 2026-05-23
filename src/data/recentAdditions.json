@@ -1,114 +1,65 @@
 [
   {
-    "Date": "27/05/2026",
-    "Titre": "Rick et Morty",
-    "Saison": "Saison 8",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "29/05/2026",
-    "Titre": "Haute saison",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "01/06/2026",
-    "Titre": "Sa Majesté des mouches",
-    "Saison": "Mini-série",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "01/06/2026",
-    "Titre": "Innato",
-    "Saison": "Saison 1",
+    "Date": "06/06/2026",
+    "Titre": "Grantchester",
+    "Saison": "Saison 10",
     "Plateforme": "Polar+",
     "Categorie": "Câble"
   },
   {
-    "Date": "01/06/2026",
-    "Titre": "Oxygen Masks Will (Not) Drop Automatically",
-    "Saison": "Saison 1",
-    "Plateforme": "App Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "03/06/2026",
-    "Titre": "This is Us",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/06/2026",
-    "Titre": "Silo",
+    "Date": "07/06/2026",
+    "Titre": "Klangor",
     "Saison": "Saison 2",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
   },
   {
-    "Date": "10/06/2026",
-    "Titre": "Justified",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "10/06/2026",
-    "Titre": "All Creatures Great and Small",
-    "Saison": "Saisons 1 à 6",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "24/06/2026",
-    "Titre": "Smallville",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "15/07/2026",
-    "Titre": "Ride or Die",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "16/07/2026",
-    "Titre": "The Hawk",
+    "Date": "11/06/2026",
+    "Titre": "The Evil Lawyer",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "24/07/2026",
-    "Titre": "Stuart Fails To Save The Universe",
+    "Date": "12/06/2026",
+    "Titre": "Trouble du jugement",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/06/2026",
+    "Titre": "The Polygamist",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/06/2026",
+    "Titre": "Proud",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
   },
   {
-    "Date": "14/10/2026",
-    "Titre": "Marvel's VisionQuest",
+    "Date": "19/06/2026",
+    "Titre": "Oasis",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "17/07/2026",
+    "Titre": "La Carte des désirs",
     "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "21/10/2026",
-    "Titre": "The Terminal List",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "11/11/2026",
-    "Titre": "Les Anneaux de Pouvoir",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "10/09/2026",
+    "Titre": "Dix Pour Cent",
+    "Saison": "Film",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

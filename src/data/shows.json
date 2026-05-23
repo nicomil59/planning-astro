@@ -1,305 +1,5 @@
 [
   {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Glory",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "INDE",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "30 Rock",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Jujutsu Kaisën",
-    "Saison": "Saison 2 parties 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Vitrerie Joyal",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Négociateur",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Good Wife",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "NCIS: Los Angeles",
-    "Saison": "Saisons 1 à 7",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Medium",
-    "Saison": "Saisons 1 à 7",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "01/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "NCIS: Tony & Ziva",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur M6"
-  },
-  {
-    "Date": "02/05/2026",
-    "Heure": "20:55:00",
-    "Titre": "The Game (2025)",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "03/05/2026",
-    "Heure": "20:55:00",
-    "Titre": "Fallen",
-    "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "04/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Bref.2",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur Disney+"
-  },
-  {
-    "Date": "05/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Citadel",
-    "Saison": "Saison 1",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "05/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "05/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Bear",
-    "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Episode spécial intitulé \"Gary\". Saison 5 prévue le 26 juin."
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Enchaînés",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Citadel",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Handmaid's Tale",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Taboo",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US, UK",
-    "Note": null
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Moscou Noir",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "06/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Once Upon a Time",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Octobre",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "DAN",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2026",
-    "Heure": "21:00:00",
-    "Titre": "Walker",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Legends (2026)",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "07/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Fringe",
-    "Saison": "Intégrale",
-    "Plateforme": "RMC Life",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Disponible aussi sur RMC BFM Play"
-  },
-  {
-    "Date": "07/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "M.I.A.",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Unconditional",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "ISR",
-    "Note": null
-  },
-  {
-    "Date": "08/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Merci et au suivant !",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "08/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "My Royal Nemesis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "09/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Song of The Samurai",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "11/05/2026",
     "Heure": "00:00:00",
     "Titre": "Everyone is Doing Great",
@@ -1000,6 +700,26 @@
     "Note": null
   },
   {
+    "Date": "06/06/2026",
+    "Heure": "20:55:00",
+    "Titre": "Grantchester",
+    "Saison": "Saison 10",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "07/06/2026",
+    "Heure": "20:55:00",
+    "Titre": "Klangor",
+    "Saison": "Saison 2",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
     "Date": "08/06/2026",
     "Heure": "00:00:00",
     "Titre": "Alice et Steve",
@@ -1050,6 +770,46 @@
     "Note": null
   },
   {
+    "Date": "11/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Evil Lawyer",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "THA",
+    "Note": null
+  },
+  {
+    "Date": "12/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Trouble du jugement",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "12/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Polygamist",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AFS",
+    "Note": null
+  },
+  {
+    "Date": "12/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Proud",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "POL",
+    "Note": "Grand Prix du Festival Séries Mania à Lille"
+  },
+  {
     "Date": "18/06/2026",
     "Heure": "00:00:00",
     "Titre": "Sur tes traces",
@@ -1067,6 +827,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Oasis",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
     "Note": null
   },
   {
@@ -1190,6 +960,16 @@
     "Note": "Avec Will Ferrell"
   },
   {
+    "Date": "17/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Carte des désirs",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "23/07/2026",
     "Heure": "00:00:00",
     "Titre": "Star Trek: Strange New Worlds",
@@ -1288,6 +1068,16 @@
     "Categorie": "Netflix",
     "Pays": "TUR",
     "Note": null
+  },
+  {
+    "Date": "10/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Dix Pour Cent",
+    "Saison": "Film",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": "Suite de la série éponyme"
   },
   {
     "Date": "06/10/2026",

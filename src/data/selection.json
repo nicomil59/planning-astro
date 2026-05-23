@@ -1,11 +1,5 @@
 [
   {
-    "Date": "29/04/2026",
-    "Titre": "Widow's Bay",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "13/05/2026",
     "Titre": "Off Campus",
     "Saison": "Saison 1",
@@ -19,12 +13,6 @@
   },
   {
     "Date": "15/05/2026",
-    "Titre": "Berlin et La Dame à l'hermine",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "15/05/2026",
     "Titre": "Dutton Ranch",
     "Saison": "Saison 1",
     "Plateforme": "Paramount+"
@@ -32,6 +20,18 @@
   {
     "Date": "20/05/2026",
     "Titre": "Maximum Pleasure Guaranteed",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV"
+  },
+  {
+    "Date": "27/05/2026",
+    "Titre": "Spider-Noir",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "29/05/2026",
+    "Titre": "Star City",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
   }
