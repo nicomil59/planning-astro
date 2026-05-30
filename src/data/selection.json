@@ -12,12 +12,6 @@
     "Plateforme": "Canal+"
   },
   {
-    "Date": "15/05/2026",
-    "Titre": "Dutton Ranch",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+"
-  },
-  {
     "Date": "20/05/2026",
     "Titre": "Maximum Pleasure Guaranteed",
     "Saison": "Saison 1",
@@ -32,6 +26,12 @@
   {
     "Date": "29/05/2026",
     "Titre": "Star City",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "05/06/2026",
+    "Titre": "Cape Fear",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
   }

@@ -1,255 +1,5 @@
 [
   {
-    "Date": "11/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Everyone is Doing Great",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Devil May Cry (2025)",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2026",
-    "Heure": "21:00:00",
-    "Titre": "We Come in Piece",
-    "Saison": "Saison 1",
-    "Plateforme": "SciFi",
-    "Categorie": "Câble",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2026",
-    "Heure": "20:50:00",
-    "Titre": "Deep",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "Alexandra Ehle",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Off Campus",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Good Omens",
-    "Saison": "Saison 3",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "UK",
-    "Note": "Dernière saison"
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Americans",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Entre père et fils",
-    "Saison": "Micro-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": "Les épisodes sont prévus pour durer environ 10 minutes"
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Coqs",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "13/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Désenchantées",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur France 2"
-  },
-  {
-    "Date": "14/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Nemesis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/05/2026",
-    "Heure": "21:00:00",
-    "Titre": "The Madison",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "US",
-    "Note": "Avec Michelle Pfeiffer et Kurt Russell"
-  },
-  {
-    "Date": "14/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Âme soeur",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Berlin et La Dame à l'hermine",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Rivals",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dutton Ranch",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": "Série dérivée de Yellowstone, avec Cole Hauser et Kelly Reilly"
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Horimiya",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Wonderfools",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "It's Not Like That",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Memory of a Killer",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "Nina",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/05/2026",
-    "Heure": "00:00:00",
-    "Titre": "R.I.S : Police Scientifique",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "16/05/2026",
-    "Heure": "20:55:00",
-    "Titre": "Bookish",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/05/2026",
-    "Heure": "21:10:00",
-    "Titre": "NCIS",
-    "Saison": "Saison 23",
-    "Plateforme": "M6",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "18/05/2026",
     "Heure": "21:10:00",
     "Titre": "L'Été 36",
@@ -512,16 +262,6 @@
   {
     "Date": "28/05/2026",
     "Heure": "00:00:00",
-    "Titre": "Viral Hit",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "28/05/2026",
-    "Heure": "00:00:00",
     "Titre": "Les Quatre saisons",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
@@ -590,6 +330,16 @@
     "Note": null
   },
   {
+    "Date": "31/05/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lovely Runner",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "01/06/2026",
     "Heure": "00:00:00",
     "Titre": "L'Été 36",
@@ -627,6 +377,36 @@
     "Plateforme": "App Canal+",
     "Categorie": "Canal+",
     "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "New York Unité Spéciale",
+    "Saison": "Saisons 12 à 16",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Shangri-La Frontier",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lawmen : L'histoire de Bass Reeves",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -680,6 +460,36 @@
     "Note": "Disponible sur Apple TV"
   },
   {
+    "Date": "04/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Sous ses yeux",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
+    "Note": "Titre original : \"The Witness\""
+  },
+  {
+    "Date": "04/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Night Shift For Cuties",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDO",
+    "Note": null
+  },
+  {
+    "Date": "04/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Un Gars du Queens",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "05/06/2026",
     "Heure": "00:00:00",
     "Titre": "Cape Fear",
@@ -697,6 +507,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "05/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "I'm the Most Beautiful Count",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "THA",
+    "Note": null
+  },
+  {
+    "Date": "05/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "This Love Doesn't Have Long Beans",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "THA",
     "Note": null
   },
   {
@@ -760,6 +590,26 @@
     "Note": null
   },
   {
+    "Date": "10/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "L'Histoire de ma famille",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "11/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Viral Hit",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "11/06/2026",
     "Heure": "00:00:00",
     "Titre": "À l'ombre des Magnolias",
@@ -810,6 +660,66 @@
     "Note": "Grand Prix du Festival Séries Mania à Lille"
   },
   {
+    "Date": "14/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "My Adventures With Superman",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/06/2026",
+    "Heure": "21:00:00",
+    "Titre": "La Ville nous appartient",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "15/06/2026",
+    "Heure": "23:10:00",
+    "Titre": "Sugar",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "US",
+    "Note": "Disponible sur Apple TV"
+  },
+  {
+    "Date": "15/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Mon histoire d'amour avec Yamada à Lv999",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "16/06/2026",
+    "Heure": "20:50:00",
+    "Titre": "El Inmortal",
+    "Saison": "Saison 3",
+    "Plateforme": "OCS",
+    "Categorie": "OCS",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "17/06/2026",
+    "Heure": "21:10:00",
+    "Titre": "Good American Family",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Disney+"
+  },
+  {
     "Date": "18/06/2026",
     "Heure": "00:00:00",
     "Titre": "Sur tes traces",
@@ -818,6 +728,36 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Avec Sam Worthington, Britt Lower et Milo Ventimiglia. Titre original : \"I Will Find You\"."
+  },
+  {
+    "Date": "18/06/2026",
+    "Heure": "21:10:00",
+    "Titre": "Zodiaque (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Suite des mini-séries \"Zodiaque\" et \"Le Maître du Zodiaque\""
+  },
+  {
+    "Date": "18/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "BAKI-DOU: The Invincible Samurai ",
+    "Saison": "Saison 1 Partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "18/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Lady : A royal murder scandal ",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "19/06/2026",
@@ -838,6 +778,16 @@
     "Categorie": "Netflix",
     "Pays": "ESP",
     "Note": null
+  },
+  {
+    "Date": "20/06/2026",
+    "Heure": "21:00:00",
+    "Titre": "Rien à l'horizon : les disparus du vol 281",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": "Titre original : \"The Castaways\""
   },
   {
     "Date": "22/06/2026",
@@ -870,6 +820,16 @@
     "Note": null
   },
   {
+    "Date": "24/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Wild Cherry",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "25/06/2026",
     "Heure": "00:00:00",
     "Titre": "Avatar : Le dernier maître de l'air (2024)",
@@ -890,6 +850,16 @@
     "Note": "Dernière saison"
   },
   {
+    "Date": "26/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Agent Kim Reactivated",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "01/07/2026",
     "Heure": "00:00:00",
     "Titre": "Elle",
@@ -898,6 +868,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Prequel du film \"La Revanche d'une blonde\""
+  },
+  {
+    "Date": "01/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "X-Men '97",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "02/07/2026",
@@ -1070,6 +1050,16 @@
     "Note": null
   },
   {
+    "Date": "09/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Portée disparue",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "AUS",
+    "Note": "Titre original : \"Last Seen\""
+  },
+  {
     "Date": "10/09/2026",
     "Heure": "00:00:00",
     "Titre": "Dix Pour Cent",
@@ -1078,6 +1068,16 @@
     "Categorie": "Netflix",
     "Pays": "FRA",
     "Note": "Suite de la série éponyme"
+  },
+  {
+    "Date": "24/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "A Different World (2026)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Suite de la comédie \"A Different World\" (1987-1993) connue en France sous le titre \"Campus Show\""
   },
   {
     "Date": "06/10/2026",

@@ -1,64 +1,176 @@
 [
   {
-    "Date": "06/06/2026",
-    "Titre": "Grantchester",
-    "Saison": "Saison 10",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
+    "Date": "31/05/2026",
+    "Titre": "Lovely Runner",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "07/06/2026",
-    "Titre": "Klangor",
+    "Date": "01/06/2026",
+    "Titre": "New York Unité Spéciale",
+    "Saison": "Saisons 12 à 16",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/06/2026",
+    "Titre": "Shangri-La Frontier",
     "Saison": "Saison 2",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "11/06/2026",
-    "Titre": "The Evil Lawyer",
-    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/06/2026",
-    "Titre": "Trouble du jugement",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "12/06/2026",
-    "Titre": "The Polygamist",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "12/06/2026",
-    "Titre": "Proud",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "19/06/2026",
-    "Titre": "Oasis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/07/2026",
-    "Titre": "La Carte des désirs",
+    "Date": "01/06/2026",
+    "Titre": "Lawmen : L'histoire de Bass Reeves",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "10/09/2026",
-    "Titre": "Dix Pour Cent",
-    "Saison": "Film",
+    "Date": "04/06/2026",
+    "Titre": "Sous ses yeux",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/06/2026",
+    "Titre": "Night Shift For Cuties",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/06/2026",
+    "Titre": "Un Gars du Queens",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "05/06/2026",
+    "Titre": "I'm the Most Beautiful Count",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "05/06/2026",
+    "Titre": "This Love Doesn't Have Long Beans",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/06/2026",
+    "Titre": "L'Histoire de ma famille",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "14/06/2026",
+    "Titre": "My Adventures With Superman",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "15/06/2026",
+    "Titre": "La Ville nous appartient",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "15/06/2026",
+    "Titre": "Sugar",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "15/06/2026",
+    "Titre": "Mon histoire d'amour avec Yamada à Lv999",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "16/06/2026",
+    "Titre": "El Inmortal",
+    "Saison": "Saison 3",
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
+  },
+  {
+    "Date": "17/06/2026",
+    "Titre": "Good American Family",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "18/06/2026",
+    "Titre": "Zodiaque (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "18/06/2026",
+    "Titre": "BAKI-DOU: The Invincible Samurai ",
+    "Saison": "Saison 1 Partie 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "18/06/2026",
+    "Titre": "The Lady : A royal murder scandal ",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "20/06/2026",
+    "Titre": "Rien à l'horizon : les disparus du vol 281",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "24/06/2026",
+    "Titre": "Wild Cherry",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "26/06/2026",
+    "Titre": "Agent Kim Reactivated",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/07/2026",
+    "Titre": "X-Men '97",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "09/09/2026",
+    "Titre": "Portée disparue",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "24/09/2026",
+    "Titre": "A Different World (2026)",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   }
