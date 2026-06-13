@@ -1,163 +1,93 @@
 [
   {
-    "Date": "01/06/2026",
-    "Titre": "Chicago Med",
-    "Saison": "Saisons 5 à 7",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Date": "08/06/2026",
+    "Titre": "La Colo",
+    "Saison": "Saison 2",
+    "Plateforme": "France 4",
+    "Categorie": "TNT"
   },
   {
-    "Date": "01/06/2026",
-    "Titre": "Chicago Fire",
-    "Saison": "Saisons 8 à 10",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/06/2026",
-    "Titre": "Doctor On The Edge",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "03/06/2026",
-    "Titre": "Will Trent",
-    "Saison": "Saison 4",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/06/2026",
-    "Titre": "Among Us",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "10/06/2026",
-    "Titre": "9-1-1 Nashville",
-    "Saison": "Saison 1 partie 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "10/06/2026",
-    "Titre": "Dragon Striker",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "09/06/2026",
+    "Titre": "Southland",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "12/06/2026",
-    "Titre": "Bates Motel",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Titre": "The Hack",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "12/06/2026",
-    "Titre": "The Bold Type",
-    "Saison": "Intégrale",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/06/2026",
-    "Titre": "Fire Country",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "15/06/2026",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 22",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "17/06/2026",
-    "Titre": "Les Simpson - Extreme Makeover: Homer Edition",
+    "Date": "29/06/2026",
+    "Titre": "Camping Paradis",
     "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
   },
   {
-    "Date": "17/06/2026",
-    "Titre": "Good Trouble",
+    "Date": "01/07/2026",
+    "Titre": "All Her Fault",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "03/07/2026",
+    "Titre": "The Best Immigrant",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "08/07/2026",
+    "Titre": "Trying",
     "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   },
   {
-    "Date": "19/06/2026",
-    "Titre": "My Hero Academia",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "21/06/2026",
-    "Titre": "Hudson et Rex",
-    "Saison": "Saison 7",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "22/06/2026",
-    "Titre": "See You at Work Tomorrow !",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "25/06/2026",
-    "Titre": "O.P.J.",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "26/06/2026",
-    "Titre": "Le Garçon du dernier rang",
+    "Date": "08/07/2026",
+    "Titre": "Thunder 3",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "27/06/2026",
-    "Titre": "Atomic",
+    "Date": "27/07/2026",
+    "Titre": "Furious",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "30/06/2026",
-    "Titre": "Divorced Sistas",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "03/07/2026",
-    "Titre": "Les Simpson - Simpsley",
-    "Saison": "Inédit",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "02/08/2026",
-    "Titre": "Lioness",
-    "Saison": "Saison 3",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
-  },
-  {
-    "Date": "26/08/2026",
-    "Titre": "Les Simpson - Yellow Mirror",
-    "Saison": "Inédit",
+    "Date": "06/08/2026",
+    "Titre": "The Shards",
+    "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
+  },
+  {
+    "Date": "28/08/2026",
+    "Titre": "Adults",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "16/09/2026",
+    "Titre": "Slow Horses",
+    "Saison": "Saison 6",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "23/10/2026",
+    "Titre": "Lupin",
+    "Saison": "Partie 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

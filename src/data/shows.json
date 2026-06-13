@@ -270,6 +270,26 @@
     "Note": null
   },
   {
+    "Date": "08/06/2026",
+    "Heure": "20:05:00",
+    "Titre": "La Colo",
+    "Saison": "Saison 2",
+    "Plateforme": "France 4",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "09/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "Southland",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/06/2026",
     "Heure": "00:00:00",
     "Titre": "Au fil des années",
@@ -408,6 +428,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "12/06/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Hack",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "UK",
+    "Note": "Avec David Tennant et Robert Carlyle"
   },
   {
     "Date": "14/06/2026",
@@ -710,6 +740,16 @@
     "Note": null
   },
   {
+    "Date": "29/06/2026",
+    "Heure": "21:10:00",
+    "Titre": "Camping Paradis",
+    "Saison": "Inédit",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "30/06/2026",
     "Heure": "00:00:00",
     "Titre": "Divorced Sistas",
@@ -740,6 +780,16 @@
     "Note": null
   },
   {
+    "Date": "01/07/2026",
+    "Heure": "21:10:00",
+    "Titre": "All Her Fault",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Série Club"
+  },
+  {
     "Date": "02/07/2026",
     "Heure": "00:00:00",
     "Titre": "La Loi de la plus forte",
@@ -767,6 +817,36 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "03/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Best Immigrant",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "BEL",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Trying",
+    "Saison": "Saison 5",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Thunder 3",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -850,6 +930,16 @@
     "Note": "Série dérivée de The Big Bang Theory"
   },
   {
+    "Date": "27/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Furious",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Avec Emmy Rossum (Shameless)"
+  },
+  {
     "Date": "02/08/2026",
     "Heure": "00:00:00",
     "Titre": "Lioness",
@@ -878,6 +968,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
+  },
+  {
+    "Date": "06/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Shards",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Nouvelle série créée par Ryan Murphy (Glee, American Horror Story), adaptée du roman de Bret Easton Ellis"
   },
   {
     "Date": "12/08/2026",
@@ -940,6 +1040,16 @@
     "Note": null
   },
   {
+    "Date": "28/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Adults",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": "Date à confirmer"
+  },
+  {
     "Date": "09/09/2026",
     "Heure": "00:00:00",
     "Titre": "Portée disparue",
@@ -958,6 +1068,16 @@
     "Categorie": "Netflix",
     "Pays": "FRA",
     "Note": "Suite de la série éponyme"
+  },
+  {
+    "Date": "16/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Slow Horses",
+    "Saison": "Saison 6",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "UK",
+    "Note": null
   },
   {
     "Date": "24/09/2026",
@@ -997,6 +1117,16 @@
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "23/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Lupin",
+    "Saison": "Partie 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
     "Note": null
   },
   {

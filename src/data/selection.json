@@ -6,12 +6,6 @@
     "Plateforme": "Prime Video"
   },
   {
-    "Date": "14/05/2026",
-    "Titre": "The Madison",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-  {
     "Date": "20/05/2026",
     "Titre": "Maximum Pleasure Guaranteed",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "Cape Fear",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "18/06/2026",
+    "Titre": "Sur tes traces",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
   }
 ]
