@@ -1,93 +1,72 @@
 [
   {
-    "Date": "08/06/2026",
-    "Titre": "La Colo",
+    "Date": "15/06/2026",
+    "Titre": "Horimiya: The Missing Pieces",
     "Saison": "Saison 2",
-    "Plateforme": "France 4",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "09/06/2026",
-    "Titre": "Southland",
-    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/06/2026",
-    "Titre": "The Hack",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD"
+    "Date": "09/07/2026",
+    "Titre": "Miniature Wife",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
-    "Date": "29/06/2026",
-    "Titre": "Camping Paradis",
-    "Saison": "Inédit",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Date": "17/07/2026",
+    "Titre": "Heartstopper Forever",
+    "Saison": "Film",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "01/07/2026",
-    "Titre": "All Her Fault",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
+    "Date": "17/07/2026",
+    "Titre": "Le Palais de l'Est",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "03/07/2026",
-    "Titre": "The Best Immigrant",
-    "Saison": "Mini-série",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
+    "Date": "13/08/2026",
+    "Titre": "The Agency",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
   },
   {
-    "Date": "08/07/2026",
-    "Titre": "Trying",
+    "Date": "20/08/2026",
+    "Titre": "Outer Banks",
     "Saison": "Saison 5",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "08/07/2026",
-    "Titre": "Thunder 3",
+    "Date": "24/08/2026",
+    "Titre": "Gomorra : Les origines",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "10/09/2026",
+    "Titre": "Petits meurtres entre voisins",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "27/07/2026",
-    "Titre": "Furious",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "06/08/2026",
-    "Titre": "The Shards",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "28/08/2026",
-    "Titre": "Adults",
+    "Date": "19/09/2026",
+    "Titre": "Outlander: Blood of My Blood",
     "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
-    "Date": "16/09/2026",
-    "Titre": "Slow Horses",
-    "Saison": "Saison 6",
+    "Date": "23/09/2026",
+    "Titre": "Brothers",
+    "Saison": "Saison 1",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
-  },
-  {
-    "Date": "23/10/2026",
-    "Titre": "Lupin",
-    "Saison": "Partie 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
   }
 ]

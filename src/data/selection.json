@@ -1,17 +1,5 @@
 [
   {
-    "Date": "13/05/2026",
-    "Titre": "Off Campus",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "20/05/2026",
-    "Titre": "Maximum Pleasure Guaranteed",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "27/05/2026",
     "Titre": "Spider-Noir",
     "Saison": "Saison 1",
@@ -23,16 +11,28 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "05/06/2026",
     "Titre": "Cape Fear",
     "Saison": "Saison 1",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "18/06/2026",
     "Titre": "Sur tes traces",
     "Saison": "Mini-série",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/06/2026",
+    "Titre": "House of The Dragon",
+    "Saison": "Saison 3",
+    "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "26/06/2026",
+    "Titre": "The Bear",
+    "Saison": "Saison 5",
+    "Plateforme": "Disney+"
   }
 ]
