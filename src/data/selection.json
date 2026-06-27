@@ -1,17 +1,5 @@
 [
   {
-    "Date": "27/05/2026",
-    "Titre": "Spider-Noir",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
-  },
-  {
-    "Date": "29/05/2026",
-    "Titre": "Star City",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "05/06/2026",
     "Titre": "Cape Fear",
     "Saison": "Saison 1",
@@ -34,5 +22,17 @@
     "Titre": "The Bear",
     "Saison": "Saison 5",
     "Plateforme": "Disney+"
+  },
+    {
+    "Date": "01/07/2026",
+    "Titre": "All Her Fault",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1"
+  },
+    {
+    "Date": "03/07/2026",
+    "Titre": "Silo",
+    "Saison": "Saison 3",
+    "Plateforme": "Apple TV"
   }
 ]

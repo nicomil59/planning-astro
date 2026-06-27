@@ -1,72 +1,163 @@
 [
   {
-    "Date": "15/06/2026",
-    "Titre": "Horimiya: The Missing Pieces",
+    "Date": "01/07/2026",
+    "Titre": "Heroes",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "01/07/2026",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/07/2026",
+    "Titre": "Super Subbu",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "02/07/2026",
+    "Titre": "Human Vapor",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/07/2026",
-    "Titre": "Miniature Wife",
+    "Date": "04/07/2026",
+    "Titre": "Daemons of the Shadow Realm ",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "05/07/2026",
+    "Titre": "Étincelles de demain",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "08/07/2026",
+    "Titre": "Je n'ai pas peur",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "08/07/2026",
+    "Titre": "La Salsa de Salcedo",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/07/2026",
+    "Titre": "After The Party",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "13/07/2026",
+    "Titre": "Prisoner",
     "Saison": "Saison 1",
     "Plateforme": "Canal+",
     "Categorie": "Canal+"
   },
   {
-    "Date": "17/07/2026",
-    "Titre": "Heartstopper Forever",
-    "Saison": "Film",
+    "Date": "15/07/2026",
+    "Titre": "The Tick",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "17/07/2026",
-    "Titre": "Le Palais de l'Est",
+    "Date": "18/07/2026",
+    "Titre": "Spooky in Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "20/07/2026",
+    "Titre": "Les Rois du Texas",
+    "Saison": "Saison 15",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "22/07/2026",
+    "Titre": "GIGN",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/07/2026",
+    "Titre": "President Curtis",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "29/07/2026",
+    "Titre": "Fúria (2026)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "30/07/2026",
+    "Titre": "L'Attentat du vol Pan Am 103",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/08/2026",
+    "Titre": "Ma vie avec les Walter Boys",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/08/2026",
+    "Titre": "Alley Cats",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "13/08/2026",
-    "Titre": "The Agency",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "20/08/2026",
-    "Titre": "Outer Banks",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "24/08/2026",
-    "Titre": "Gomorra : Les origines",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+"
-  },
-  {
-    "Date": "10/09/2026",
-    "Titre": "Petits meurtres entre voisins",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "19/09/2026",
-    "Titre": "Outlander: Blood of My Blood",
-    "Saison": "Saison 2",
+    "Titre": "Tip Toe",
+    "Saison": "Mini-série",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
   },
   {
-    "Date": "23/09/2026",
-    "Titre": "Brothers",
+    "Date": "19/08/2026",
+    "Titre": "Un Joe comme les autres",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
+  },
+  {
+    "Date": "20/08/2026",
+    "Titre": "Blood Sacrifice",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/08/2026",
+    "Titre": "Leanne",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

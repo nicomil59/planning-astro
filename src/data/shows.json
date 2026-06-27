@@ -1,195 +1,5 @@
 [
   {
-    "Date": "14/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "My Adventures With Superman",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "21:00:00",
-    "Titre": "La Ville nous appartient",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "23:10:00",
-    "Titre": "Sugar",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "US",
-    "Note": "Disponible sur Apple TV"
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Mon histoire d'amour avec Yamada à Lv999",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fire Country",
-    "Saison": "Saison 4 partie 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "New York Police Judiciaire",
-    "Saison": "Saison 22",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Horimiya: The Missing Pieces",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "16/06/2026",
-    "Heure": "20:50:00",
-    "Titre": "El Inmortal",
-    "Saison": "Saison 3",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "17/06/2026",
-    "Heure": "21:10:00",
-    "Titre": "Good American Family",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Disney+"
-  },
-  {
-    "Date": "17/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Simpson - Extreme Makeover: Homer Edition",
-    "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Double épisode"
-  },
-  {
-    "Date": "17/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Good Trouble",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Sur tes traces",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Avec Sam Worthington, Britt Lower et Milo Ventimiglia. Titre original : \"I Will Find You\"."
-  },
-  {
-    "Date": "18/06/2026",
-    "Heure": "21:10:00",
-    "Titre": "Zodiaque (2026)",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Suite des mini-séries \"Zodiaque\" et \"Le Maître du Zodiaque\""
-  },
-  {
-    "Date": "18/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "BAKI-DOU: The Invincible Samurai ",
-    "Saison": "Saison 1 Partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "18/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Lady : A royal murder scandal ",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "19/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Sugar",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "Oasis",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "19/06/2026",
-    "Heure": "00:00:00",
-    "Titre": "My Hero Academia",
-    "Saison": "Saisons 1 et 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "20/06/2026",
-    "Heure": "21:00:00",
-    "Titre": "Rien à l'horizon : les disparus du vol 281",
-    "Saison": "Mini-série",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": "Titre original : \"The Castaways\""
-  },
-  {
     "Date": "21/06/2026",
     "Heure": "21:10:00",
     "Titre": "Hudson et Rex",
@@ -360,6 +170,26 @@
     "Note": "Déjà diffusée sur Série Club"
   },
   {
+    "Date": "01/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Heroes",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/07/2026",
     "Heure": "00:00:00",
     "Titre": "La Loi de la plus forte",
@@ -368,6 +198,26 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "02/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Super Subbu",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDE",
+    "Note": null
+  },
+  {
+    "Date": "02/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Human Vapor",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
   },
   {
     "Date": "03/07/2026",
@@ -400,6 +250,26 @@
     "Note": null
   },
   {
+    "Date": "04/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Daemons of the Shadow Realm ",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "05/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Étincelles de demain",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "08/07/2026",
     "Heure": "00:00:00",
     "Titre": "Trying",
@@ -417,6 +287,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Je n'ai pas peur",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "MEX",
+    "Note": null
+  },
+  {
+    "Date": "08/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Salsa de Salcedo",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "COL",
     "Note": null
   },
   {
@@ -440,6 +330,26 @@
     "Note": "Avec Elizabeth Banks et Matthew Macfadyen"
   },
   {
+    "Date": "10/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "After The Party",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte.tv",
+    "Categorie": "SVOD",
+    "Pays": "NZ",
+    "Note": null
+  },
+  {
+    "Date": "13/07/2026",
+    "Heure": "21:00:00",
+    "Titre": "Prisoner",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "15/07/2026",
     "Heure": "00:00:00",
     "Titre": "Lucky (2026)",
@@ -456,6 +366,16 @@
     "Saison": "Mini-série",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Tick",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -500,6 +420,36 @@
     "Note": null
   },
   {
+    "Date": "18/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Spooky in Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "20/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Rois du Texas",
+    "Saison": "Saison 15",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "22/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "GIGN",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": "Avec Tomer Sisley"
+  },
+  {
     "Date": "23/07/2026",
     "Heure": "00:00:00",
     "Titre": "Star Trek: Strange New Worlds",
@@ -538,6 +488,36 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": "Avec Emmy Rossum (Shameless)"
+  },
+  {
+    "Date": "27/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "President Curtis",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Série dérivée de Rick and Morty"
+  },
+  {
+    "Date": "29/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "Fúria (2026)",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "30/07/2026",
+    "Heure": "00:00:00",
+    "Titre": "L'Attentat du vol Pan Am 103",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK, US",
+    "Note": null
   },
   {
     "Date": "02/08/2026",
@@ -580,6 +560,26 @@
     "Note": "Nouvelle série créée par Ryan Murphy (Glee, American Horror Story), adaptée du roman de Bret Easton Ellis"
   },
   {
+    "Date": "06/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ma vie avec les Walter Boys",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Alley Cats",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK",
+    "Note": "Série d'animation créée par Ricky Gervais"
+  },
+  {
     "Date": "12/08/2026",
     "Heure": "00:00:00",
     "Titre": "Las Azules",
@@ -597,6 +597,16 @@
     "Plateforme": "Canal+",
     "Categorie": "Canal+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "13/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tip Toe",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "UK",
     "Note": null
   },
   {
@@ -620,6 +630,16 @@
     "Note": null
   },
   {
+    "Date": "19/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Un Joe comme les autres",
+    "Saison": "Saison 2",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "20/08/2026",
     "Heure": "00:00:00",
     "Titre": "Outer Banks",
@@ -628,6 +648,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "20/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Blood Sacrifice",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "SUE",
+    "Note": null
   },
   {
     "Date": "24/08/2026",
@@ -646,6 +676,16 @@
     "Saison": "Inédit",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Leanne",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
