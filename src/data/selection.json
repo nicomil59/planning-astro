@@ -1,17 +1,5 @@
 [
   {
-    "Date": "05/06/2026",
-    "Titre": "Cape Fear",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
-    "Date": "18/06/2026",
-    "Titre": "Sur tes traces",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "22/06/2026",
     "Titre": "House of The Dragon",
     "Saison": "Saison 3",
@@ -34,5 +22,17 @@
     "Titre": "Silo",
     "Saison": "Saison 3",
     "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "15/07/2026",
+    "Titre": "Lucky",
+    "Saison": "Mini-série",
+    "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "16/07/2026",
+    "Titre": "The Hawk",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
   }
 ]

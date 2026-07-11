@@ -1,247 +1,100 @@
 [
   {
-    "Date": "01/07/2026",
-    "Titre": "24h Chrono",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Jane The Virgin",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Friends",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Superman and Lois",
-    "Saison": "Saisons 3 et 4",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Flex X Cop",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "01/07/2026",
-    "Titre": "Veux-tu m'épouser ?",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "03/07/2026",
-    "Titre": "Deep Revenge",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "04/07/2026",
-    "Titre": "Magilumiere Co. Ltd",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "04/07/2026",
-    "Titre": "The Husband",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "08/07/2026",
-    "Titre": "Famille en réparation",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "09/07/2026",
-    "Titre": "The Iris Affair",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
-  },
-  {
-    "Date": "11/07/2026",
-    "Titre": "One Piece: Heroines",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "11/07/2026",
-    "Titre": "Syndic de Choc",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
     "Date": "13/07/2026",
-    "Titre": "Putain de chat !",
-    "Saison": "Série courte",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
+    "Titre": "Enquêtes au paradis",
+    "Saison": "Saison 2",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
   },
   {
-    "Date": "14/07/2026",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saison 23",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "15/07/2026",
-    "Titre": "Les Griffin",
-    "Saison": "Saison 24",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "16/07/2026",
-    "Titre": "Il était deux fois",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max"
+    "Date": "17/07/2026",
+    "Titre": "25 Years of You",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
     "Date": "20/07/2026",
-    "Titre": "En Famille",
-    "Saison": "Inédits",
-    "Plateforme": "M6",
+    "Titre": "Enquêtes au paradis",
+    "Saison": "Saison 2",
+    "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "21/07/2026",
-    "Titre": "Sous Pression",
+    "Date": "27/07/2026",
+    "Titre": "Fifteen-Love",
     "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "22/07/2026",
-    "Titre": "A Shop for Killers",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "29/07/2026",
+    "Titre": "NCIS: Los Angeles",
+    "Saison": "Saison 14",
+    "Plateforme": "Paris Première",
+    "Categorie": "Câble"
   },
   {
-    "Date": "24/07/2026",
-    "Titre": "Les Aventurières",
+    "Date": "29/07/2026",
+    "Titre": "Code Rouge",
     "Saison": "Saison 1",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "29/07/2026",
+    "Titre": "The Best Immigrant",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "07/08/2026",
+    "Titre": "La Mère et l'assassin",
+    "Saison": "Mini-série",
     "Plateforme": "France.tv",
     "Categorie": "SVOD"
   },
   {
-    "Date": "24/07/2026",
-    "Titre": "Musafir Café",
+    "Date": "03/09/2026",
+    "Titre": "The Gentlemen",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "10/09/2026",
+    "Titre": "Mal barrée",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "25/07/2026",
-    "Titre": "Riot Women",
-    "Saison": "Saison 1",
-    "Plateforme": "Teva",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "27/07/2026",
-    "Titre": "The Walking Dead : Dead City",
-    "Saison": "Saison 3",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
-  },
-  {
-    "Date": "29/07/2026",
-    "Titre": "Proyecto Final",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "29/07/2026",
-    "Titre": "Diarra From Detroit",
-    "Saison": "Saisons 1 et 2",
+    "Date": "18/09/2026",
+    "Titre": "MobLand",
+    "Saison": "Saison 2",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+"
   },
   {
-    "Date": "30/07/2026",
-    "Titre": "Les Sartori, une histoire italienne",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS",
-    "Categorie": "OCS"
-  },
-  {
-    "Date": "31/07/2026",
-    "Titre": "Batman, le justicier masqué",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "31/07/2026",
-    "Titre": "Fire Up!",
+    "Date": "25/09/2026",
+    "Titre": "Paolo",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
   },
   {
-    "Date": "05/08/2026",
-    "Titre": "Star Wars : Visions présente Le Neuvième Jedi",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "12/08/2026",
-    "Titre": "Reacher",
-    "Saison": "Saison 4",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "13/08/2026",
-    "Titre": "Grosse Pression",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "28/08/2026",
-    "Titre": "Toute la vérité de mes mensonges",
+    "Date": "25/09/2026",
+    "Titre": "Le Problème final",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "16/09/2026",
-    "Titre": "La Poupée",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "16/09/2026",
-    "Titre": "Neagley",
+    "Date": "30/10/2026",
+    "Titre": "Nocturne",
     "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
   }
 ]
