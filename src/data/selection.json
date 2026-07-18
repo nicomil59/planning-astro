@@ -1,38 +1,38 @@
 [
   {
-    "Date": "22/06/2026",
-    "Titre": "House of The Dragon",
-    "Saison": "Saison 3",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "26/06/2026",
     "Titre": "The Bear",
     "Saison": "Saison 5",
     "Plateforme": "Disney+"
   },
-    {
-    "Date": "01/07/2026",
-    "Titre": "All Her Fault",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1"
-  },
-    {
+  {
     "Date": "03/07/2026",
     "Titre": "Silo",
     "Saison": "Saison 3",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "15/07/2026",
     "Titre": "Lucky",
     "Saison": "Mini-série",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "16/07/2026",
     "Titre": "The Hawk",
     "Saison": "Saison 1",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/07/2026",
+    "Titre": "GIGN",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "24/07/2026",
+    "Titre": "Stuart Fails To Save The Universe",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max"
   }
 ]
