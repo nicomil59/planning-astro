@@ -1,165 +1,5 @@
 [
   {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Trying",
-    "Saison": "Saison 5",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Thunder 3",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Je n'ai pas peur",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Salsa de Salcedo",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Tick",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Famille en réparation",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Petite maison dans la prairie (2026)",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/07/2026",
-    "Heure": "21:00:00",
-    "Titre": "Miniature Wife",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "US",
-    "Note": "Avec Elizabeth Banks et Matthew Macfadyen"
-  },
-  {
-    "Date": "09/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Iris Affair",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "10/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "After The Party",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte.tv",
-    "Categorie": "SVOD",
-    "Pays": "NZ",
-    "Note": null
-  },
-  {
-    "Date": "11/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "One Piece: Heroines",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "11/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Syndic de Choc",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "13/07/2026",
-    "Heure": "21:00:00",
-    "Titre": "Prisoner",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "13/07/2026",
-    "Heure": "20:50:00",
-    "Titre": "Putain de chat !",
-    "Saison": "Série courte",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "FRA, BEL",
-    "Note": null
-  },
-  {
-    "Date": "13/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Enquêtes au paradis",
-    "Saison": "Saison 2",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "AUS, UK",
-    "Note": null
-  },
-  {
-    "Date": "14/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "New York Unité Spéciale",
-    "Saison": "Saison 23",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
     "Date": "15/07/2026",
     "Heure": "00:00:00",
     "Titre": "Lucky (2026)",
@@ -620,6 +460,16 @@
     "Note": null
   },
   {
+    "Date": "05/08/2026",
+    "Heure": "00:00:00",
+    "Titre": 1670,
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
     "Date": "06/08/2026",
     "Heure": "00:00:00",
     "Titre": "The Shards",
@@ -710,6 +560,16 @@
     "Note": null
   },
   {
+    "Date": "13/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ma Brillante carrière",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AUS",
+    "Note": null
+  },
+  {
     "Date": "14/08/2026",
     "Heure": "00:00:00",
     "Titre": "Moria",
@@ -777,6 +637,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "21/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Le Rouge et le Noir",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1010,12 +880,32 @@
     "Note": null
   },
   {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Paul, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "FRA",
+    "Note": "Avec Paul Mirabel"
+  },
+  {
     "Date": "06/10/2026",
     "Heure": "00:00:00",
     "Titre": "Bass X Machina",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Carrie",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -1096,6 +986,36 @@
     "Saison": "Saison 6",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Percy Jackson et les Olympiens",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "25/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Blade Runner 2099",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Série dérivée du film Blade Runner 2049"
+  },
+  {
+    "Date": "22/01/2027",
+    "Heure": "00:00:00",
+    "Titre": "Neuromancer",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
     "Pays": "US",
     "Note": null
   }

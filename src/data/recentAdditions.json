@@ -1,85 +1,57 @@
 [
   {
-    "Date": "21/07/2026",
-    "Titre": "O.P.J.",
-    "Saison": "Saison 7",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "22/07/2026",
-    "Titre": "El Otro Padre",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "22/07/2026",
-    "Titre": "Jujutsu Kaisen",
+    "Date": "05/08/2026",
+    "Titre": 1670,
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "03/08/2026",
-    "Titre": "Le Magasin",
-    "Saison": "Série courte",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "05/08/2026",
-    "Titre": "Waverly Place : Les Nouveaux Sorciers",
-    "Saison": "Saison 3",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/08/2026",
-    "Titre": "Cent ans de solitude",
-    "Saison": "Partie 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "14/08/2026",
-    "Titre": "Umthetho",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "21/08/2026",
-    "Titre": "Eau-Paisible",
-    "Saison": "Saison 5",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
-  },
-  {
-    "Date": "02/09/2026",
-    "Titre": "LEGO Star Wars : The Mandalorian",
-    "Saison": "Inédit",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "24/09/2026",
-    "Titre": "Camarades",
-    "Saison": "Saison 1",
-    "Plateforme": "Arte",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "08/10/2026",
-    "Titre": "Below",
+    "Date": "13/08/2026",
+    "Titre": "Ma Brillante carrière",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "21/10/2026",
-    "Titre": "Where's Wanda ?",
-    "Saison": "Saison 2",
+    "Date": "21/08/2026",
+    "Titre": "Le Rouge et le Noir",
+    "Saison": "Mini-série",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "02/10/2026",
+    "Titre": "Paul, la série",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "07/10/2026",
+    "Titre": "Carrie",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "20/11/2026",
+    "Titre": "Percy Jackson et les Olympiens",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "25/11/2026",
+    "Titre": "Blade Runner 2099",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "22/01/2027",
+    "Titre": "Neuromancer",
+    "Saison": "Saison 1",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
   }

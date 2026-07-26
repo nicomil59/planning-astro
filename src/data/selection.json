@@ -1,11 +1,5 @@
 [
   {
-    "Date": "26/06/2026",
-    "Titre": "The Bear",
-    "Saison": "Saison 5",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "03/07/2026",
     "Titre": "Silo",
     "Saison": "Saison 3",
@@ -34,5 +28,11 @@
     "Titre": "Stuart Fails To Save The Universe",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "27/07/2026",
+    "Titre": "Furious",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
   }
 ]
