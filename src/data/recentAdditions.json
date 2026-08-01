@@ -1,58 +1,128 @@
 [
   {
-    "Date": "05/08/2026",
-    "Titre": 1670,
-    "Saison": "Saison 3",
+    "Date": "01/08/2026",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saisons 1 à 5",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "13/08/2026",
-    "Titre": "Ma Brillante carrière",
+    "Date": "02/08/2026",
+    "Titre": "Gate 24: The Border",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "04/08/2026",
+    "Titre": "Les Tudors",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/08/2026",
+    "Titre": "Death Inc.",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/08/2026",
+    "Titre": "Our Sticky Love",
     "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/08/2026",
+    "Titre": "Operation Safed Sagar",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/08/2026",
+    "Titre": "Fairy Tail",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "15/08/2026",
+    "Titre": "The Magicians",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "18/08/2026",
+    "Titre": "SEAL Team",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "20/08/2026",
+    "Titre": "S&X",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
     "Date": "21/08/2026",
-    "Titre": "Le Rouge et le Noir",
-    "Saison": "Mini-série",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "02/10/2026",
-    "Titre": "Paul, la série",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "07/10/2026",
-    "Titre": "Carrie",
+    "Titre": "The Five-Star Weekend",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video",
     "Categorie": "Prime Video"
   },
   {
-    "Date": "20/11/2026",
-    "Titre": "Percy Jackson et les Olympiens",
+    "Date": "26/08/2026",
+    "Titre": "Cent ans de solitude",
+    "Saison": "Final",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/08/2026",
+    "Titre": "Beauty in Black",
     "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "28/08/2026",
+    "Titre": "Betty La Fea - L'histoire continue",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "28/08/2026",
+    "Titre": "The Producer",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "29/08/2026",
+    "Titre": "Quatre mains, deux sonates",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/09/2026",
+    "Titre": "Chad Powers",
+    "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "25/11/2026",
-    "Titre": "Blade Runner 2099",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "22/01/2027",
-    "Titre": "Neuromancer",
+    "Date": "22/09/2026",
+    "Titre": "Académie Minerva",
     "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   }
 ]

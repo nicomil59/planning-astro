@@ -1,105 +1,5 @@
 [
   {
-    "Date": "15/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Lucky (2026)",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "US",
-    "Note": "Avec Anya Taylor-Joy, Annette Bening et Timothy Olyphant"
-  },
-  {
-    "Date": "15/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ride or Die",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Griffin",
-    "Saison": "Saison 24",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Hawk",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Avec Will Ferrell"
-  },
-  {
-    "Date": "16/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Il était deux fois",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur France 2"
-  },
-  {
-    "Date": "17/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Carte des désirs",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Heartstopper Forever",
-    "Saison": "Film",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "UK",
-    "Note": "Conclusion de la série Heartstopper"
-  },
-  {
-    "Date": "17/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Palais de l'Est",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "17/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "25 Years of You",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "18/07/2026",
-    "Heure": "00:00:00",
-    "Titre": "Spooky in Love",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
     "Date": "20/07/2026",
     "Heure": "00:00:00",
     "Titre": "Les Rois du Texas",
@@ -390,6 +290,16 @@
     "Note": null
   },
   {
+    "Date": "01/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/08/2026",
     "Heure": "00:00:00",
     "Titre": "Lioness",
@@ -400,6 +310,16 @@
     "Note": null
   },
   {
+    "Date": "02/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Gate 24: The Border",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "03/08/2026",
     "Heure": "00:00:00",
     "Titre": "Le Magasin",
@@ -407,6 +327,16 @@
     "Plateforme": "France.tv",
     "Categorie": "SVOD",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "04/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Tudors",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US, CAN, IRL",
     "Note": null
   },
   {
@@ -510,6 +440,36 @@
     "Note": null
   },
   {
+    "Date": "07/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Death Inc.",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "07/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Our Sticky Love",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "07/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Operation Safed Sagar",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDE",
+    "Note": null
+  },
+  {
     "Date": "12/08/2026",
     "Heure": "00:00:00",
     "Titre": "Las Azules",
@@ -590,12 +550,42 @@
     "Note": null
   },
   {
+    "Date": "15/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Fairy Tail",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Magicians",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "17/08/2026",
     "Heure": "00:00:00",
     "Titre": "Lanterns",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "18/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "SEAL Team",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -630,6 +620,16 @@
     "Note": null
   },
   {
+    "Date": "20/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "S&X",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "21/08/2026",
     "Heure": "00:00:00",
     "Titre": "Eau-Paisible",
@@ -647,6 +647,16 @@
     "Plateforme": "France.tv",
     "Categorie": "SVOD",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "21/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Five-Star Weekend",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -670,10 +680,30 @@
     "Note": null
   },
   {
+    "Date": "26/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Cent ans de solitude",
+    "Saison": "Final",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
     "Date": "27/08/2026",
     "Heure": "00:00:00",
     "Titre": "Leanne",
     "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Beauty in Black",
+    "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
@@ -702,21 +732,41 @@
   {
     "Date": "28/08/2026",
     "Heure": "00:00:00",
-    "Titre": "Adults",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "Date à confirmer"
-  },
-  {
-    "Date": "28/08/2026",
-    "Heure": "00:00:00",
     "Titre": "Toute la vérité de mes mensonges",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "28/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Betty La Fea - L'histoire continue",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
+    "Date": "28/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Producer",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "TAI",
+    "Note": null
+  },
+  {
+    "Date": "29/08/2026",
+    "Heure": "00:00:00",
+    "Titre": "Quatre mains, deux sonates",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -737,6 +787,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US, UK",
+    "Note": null
+  },
+  {
+    "Date": "03/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Chad Powers",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -830,6 +890,16 @@
     "Note": null
   },
   {
+    "Date": "22/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Académie Minerva",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
     "Date": "23/09/2026",
     "Heure": "00:00:00",
     "Titre": "Brothers",
@@ -877,6 +947,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "30/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Adults",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {

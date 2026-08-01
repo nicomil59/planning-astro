@@ -1,17 +1,5 @@
 [
   {
-    "Date": "03/07/2026",
-    "Titre": "Silo",
-    "Saison": "Saison 3",
-    "Plateforme": "Apple TV"
-  },
-  {
-    "Date": "15/07/2026",
-    "Titre": "Lucky",
-    "Saison": "Mini-série",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "16/07/2026",
     "Titre": "The Hawk",
     "Saison": "Saison 1",
@@ -32,6 +20,18 @@
   {
     "Date": "27/07/2026",
     "Titre": "Furious",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+"
+  },
+    {
+    "Date": "05/08/2026",
+    "Titre": "Ted Lasso",
+    "Saison": "Saison 4",
+    "Plateforme": "Apple TV"
+  },
+    {
+    "Date": "06/08/2026",
+    "Titre": "The Shards",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
   }
