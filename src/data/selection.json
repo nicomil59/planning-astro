@@ -1,11 +1,5 @@
 [
   {
-    "Date": "16/07/2026",
-    "Titre": "The Hawk",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "22/07/2026",
     "Titre": "GIGN",
     "Saison": "Saison 1",
@@ -34,5 +28,11 @@
     "Titre": "The Shards",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
+  },
+    {
+    "Date": "13/08/2026",
+    "Titre": "The Agency",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+"
   }
 ]
