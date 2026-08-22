@@ -1,38 +1,38 @@
 [
   {
-    "Date": "24/07/2026",
-    "Titre": "Stuart Fails To Save The Universe",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
-    "Date": "27/07/2026",
-    "Titre": "Furious",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-    {
     "Date": "05/08/2026",
     "Titre": "Ted Lasso",
     "Saison": "Saison 4",
     "Plateforme": "Apple TV"
   },
-    {
+  {
     "Date": "06/08/2026",
     "Titre": "The Shards",
     "Saison": "Saison 1",
     "Plateforme": "Disney+"
   },
-    {
+  {
     "Date": "13/08/2026",
     "Titre": "The Agency",
     "Saison": "Saison 2",
     "Plateforme": "Canal+"
   },
-    {
+  {
+    "Date": "13/08/2026",
+    "Titre": "Ma Brillante carrière",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix"
+  },
+  {
     "Date": "17/08/2026",
     "Titre": "Lanterns",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
+  },
+  {
+    "Date": "24/08/2026",
+    "Titre": "Gomorra : Les origines",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
   }
 ]
