@@ -1,17 +1,5 @@
 [
   {
-    "Date": "05/08/2026",
-    "Titre": "Ted Lasso",
-    "Saison": "Saison 4",
-    "Plateforme": "Apple TV"
-  },
-  {
-    "Date": "06/08/2026",
-    "Titre": "The Shards",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+"
-  },
-  {
     "Date": "13/08/2026",
     "Titre": "The Agency",
     "Saison": "Saison 2",
@@ -34,5 +22,17 @@
     "Titre": "Gomorra : Les origines",
     "Saison": "Saison 1",
     "Plateforme": "Canal+"
+  },
+    {
+    "Date": "31/08/2026",
+    "Titre": "Le Rouge et le Noir",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2"
+  },
+  {
+    "Date": "03/09/2026",
+    "Titre": "Le Mystère de la Chambre Jaune",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1-Netflix"
   }
 ]

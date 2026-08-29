@@ -1,135 +1,261 @@
 [
   {
-    "Date": "02/09/2026",
-    "Titre": "The Looming Tower : aux origines du 11 septembre",
-    "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Date": "24/08/2026",
+    "Titre": "Scènes de ménages",
+    "Saison": "Saison 18",
+    "Plateforme": "M6",
+    "Categorie": "TNT"
   },
   {
-    "Date": "02/09/2026",
-    "Titre": "The Winter King",
+    "Date": "01/09/2026",
+    "Titre": "Gilmore Girls",
     "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
-    "Date": "02/09/2026",
-    "Titre": "A Very British Scandal",
+    "Date": "01/09/2026",
+    "Titre": "Doctor X Surgeon Michiko Daimon",
+    "Saison": "Saisons 1 à 7",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/09/2026",
+    "Titre": "Le Mystère de la chambre jaune",
     "Saison": "Mini-série",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "02/09/2026",
-    "Titre": "The Good Wife",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Date": "04/09/2026",
+    "Titre": "Dogu",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "05/09/2026",
+    "Titre": "Harry Bosch",
+    "Saison": "Saison 5",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
   },
   {
     "Date": "07/09/2026",
-    "Titre": "La Cible",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "09/09/2026",
-    "Titre": "The Good Fight",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "09/09/2026",
-    "Titre": "Les Évaporés",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT"
-  },
-  {
-    "Date": "17/09/2026",
-    "Titre": "The Fixers",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "17/09/2026",
-    "Titre": "Strangers Things : Chroniques de 1985",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "21/09/2026",
-    "Titre": "American Hostage",
+    "Titre": "Collision",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max"
   },
   {
-    "Date": "29/09/2026",
-    "Titre": "LEGO One Piece",
-    "Saison": "Spécial",
+    "Date": "09/09/2026",
+    "Titre": "Sneaky Pete",
+    "Saison": "Intégrale",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "01/10/2026",
-    "Titre": "À l'Est d'Eden",
+    "Date": "11/09/2026",
+    "Titre": "Ton coeur qui bat",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "11/09/2026",
+    "Titre": "Love Upon a Time",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/09/2026",
+    "Titre": "Istri Satu-Satunya",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/09/2026",
+    "Titre": "Hildur",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "14/09/2026",
+    "Titre": "Apollo Has Fallen",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "14/09/2026",
+    "Titre": "La Mère et l'assassin",
     "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "14/09/2026",
+    "Titre": "A Parasite’s Heart",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "02/10/2026",
-    "Titre": "Sorcières Academy",
+    "Date": "15/09/2026",
+    "Titre": "Deadline",
+    "Saison": "Saison 1",
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
+  },
+  {
+    "Date": "15/09/2026",
+    "Titre": "Fairy Tail",
+    "Saison": "Saison 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "16/09/2026",
+    "Titre": "City of Blood",
     "Saison": "Saison 1",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
   },
   {
-    "Date": "15/10/2026",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "16/09/2026",
+    "Titre": "Golden Axe",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+"
   },
   {
-    "Date": "15/10/2026",
-    "Titre": "Hollywood Arts",
+    "Date": "17/09/2026",
+    "Titre": "Simon Coleman",
+    "Saison": "Saison 4",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "17/09/2026",
+    "Titre": "Prisonnière 951",
+    "Saison": "Mini-série",
+    "Plateforme": "Arte",
+    "Categorie": "Arte"
+  },
+  {
+    "Date": "17/09/2026",
+    "Titre": "Plastic Beauty",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "20/10/2026",
-    "Titre": "Cyberpunk : Edgerunners",
+    "Date": "17/09/2026",
+    "Titre": "Je te connais",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "18/09/2026",
+    "Titre": "Capitaine Marleau",
+    "Saison": "Inédit",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "21/09/2026",
+    "Titre": "Miss Scarlet, Détective privée",
+    "Saison": "Saison 6",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "21/09/2026",
+    "Titre": "Youth",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "23/09/2026",
+    "Titre": "Habeas Corpus",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "24/09/2026",
+    "Titre": "Delusion",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "24/09/2026",
+    "Titre": "Mes morts tristes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "25/09/2026",
+    "Titre": "Steel Ball Run Jojo's Bizarre Adventure",
+    "Saison": "Etapes 2 et 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "27/09/2026",
+    "Titre": "Iryu Team Medical Dragon",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
+  },
+  {
+    "Date": "07/10/2026",
+    "Titre": "Small Prophets",
+    "Saison": "Saison 1",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV"
+  },
+  {
+    "Date": "02/11/2026",
+    "Titre": "The Gilded Age",
+    "Saison": "Saison 4",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "04/11/2026",
-    "Titre": "Stick",
-    "Saison": "Saison 2",
+    "Titre": "L'Impératrice remariée",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "13/11/2026",
+    "Titre": "12 12 12",
+    "Saison": "Saison 1",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV"
   },
   {
-    "Date": "26/11/2026",
-    "Titre": "Fool Night",
-    "Saison": "Saison 1",
+    "Date": "08/12/2026",
+    "Titre": "Only Murders in The Building",
+    "Saison": "Saison 6",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+"
+  },
+  {
+    "Date": "24/12/2026",
+    "Titre": "Emily in Paris",
+    "Saison": "Saison 6",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
-  },
-  {
-    "Date": "02/12/2026",
-    "Titre": "Bad Monkey",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
   }
 ]
