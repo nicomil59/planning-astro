@@ -1,29 +1,11 @@
 [
   {
-    "Date": "17/08/2026",
-    "Titre": "Lanterns",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
-    "Date": "24/08/2026",
-    "Titre": "Gomorra : Les origines",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+"
-  },
-    {
-    "Date": "31/08/2026",
-    "Titre": "Le Rouge et le Noir",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2"
-  },
-  {
     "Date": "03/09/2026",
     "Titre": "Le Mystère de la Chambre Jaune",
     "Saison": "Mini-série",
     "Plateforme": "TF1-Netflix"
   },
-    {
+  {
     "Date": "07/09/2026",
     "Titre": "La Cible",
     "Saison": "Saison 1",
@@ -34,5 +16,23 @@
     "Titre": "Dix Pour Cent",
     "Saison": "Film",
     "Plateforme": "Netflix"
+  },
+  {
+    "Date": "14/09/2026",
+    "Titre": "Apollo Has Fallen",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+"
+  },
+  {
+    "Date": "17/09/2026",
+    "Titre": "Monstre : L'Histoire de Lizzie Borden",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "19/09/2026",
+    "Titre": "Outlander: Blood of My Blood",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max"
   }
 ]
