@@ -1,78 +1,120 @@
 [
   {
-    "Date": "17/09/2026",
-    "Titre": "Syndrome E",
+    "Date": "19/09/2026",
+    "Titre": "Cassandre",
+    "Saison": "Inédits",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "24/09/2026",
+    "Titre": "Montmartre",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "24/09/2026",
-    "Titre": "Shaque : Tous suspects",
-    "Saison": "Saison 1",
+    "Date": "25/09/2026",
+    "Titre": "Blood Legacy",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "26/09/2026",
-    "Titre": "Ghosts : Fantômes à la maison",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "28/09/2026",
-    "Titre": "Les Aventurières",
-    "Saison": "Saison 1",
+    "Date": "30/09/2026",
+    "Titre": "Soeurs",
+    "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "01/10/2026",
-    "Titre": "The Ramparts of Ice",
+    "Date": "04/10/2026",
+    "Titre": "Blue Box",
     "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "03/10/2026",
-    "Titre": "Hacks",
-    "Saison": "Saison 5",
-    "Plateforme": "Teva",
-    "Categorie": "Câble"
+    "Date": "06/10/2026",
+    "Titre": "Devil in Disguise - John Wayne Gacy",
+    "Saison": "Mini-série",
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
     "Date": "07/10/2026",
-    "Titre": "Inside The Circle",
+    "Titre": "Murder in a Small Town",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "M6+",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "08/10/2026",
+    "Titre": "Kill Jackie",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
     "Date": "09/10/2026",
-    "Titre": "Recharge mon coeur",
+    "Titre": "La Terre et le sang",
+    "Saison": "Saison 1",
+    "Plateforme": "France. tv",
+    "Categorie": "SVOD"
+  },
+  {
+    "Date": "09/10/2026",
+    "Titre": "Simon Coleman",
+    "Saison": "Saison 4",
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "12/10/2026",
+    "Titre": "Blood Cruise : Vampires à bord",
+    "Saison": "Saison 1",
+    "Plateforme": "SciFi",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "13/10/2026",
+    "Titre": "Le Piège",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/10/2026",
-    "Titre": "Haunted Hotel",
-    "Saison": "Saison 2",
+    "Date": "14/10/2026",
+    "Titre": "Little Fires Everywhere",
+    "Saison": "Mini-série",
+    "Plateforme": "Teva",
+    "Categorie": "Câble"
+  },
+  {
+    "Date": "22/10/2026",
+    "Titre": "On a parlé de moi ?",
+    "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "09/10/2026",
-    "Titre": "Avatar : Les sept refuges",
+    "Date": "23/10/2026",
+    "Titre": "Grand d'Espagne",
     "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
   },
   {
-    "Date": "22/10/2026",
-    "Titre": "Nobody Wants This",
+    "Date": "03/12/2026",
+    "Titre": "Empress of Flames",
     "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/12/2026",
+    "Titre": "Orgueil et préjugés (2026)",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   }
