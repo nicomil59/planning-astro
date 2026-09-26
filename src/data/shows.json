@@ -1,205 +1,5 @@
 [
   {
-    "Date": "07/09/2026",
-    "Heure": "21:10:00",
-    "Titre": "La Cible",
-    "Saison": "Saison 1",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": "Avec Tomer Sisley et Fauve Hautot"
-  },
-  {
-    "Date": "07/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Collision",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "08/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fauda",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ISR",
-    "Note": null
-  },
-  {
-    "Date": "08/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dang !",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "08/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "All The Queen's Men",
-    "Saison": "Saisons 1 à 5",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Portée disparue",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "AUS",
-    "Note": "Titre original : \"Last Seen\""
-  },
-  {
-    "Date": "09/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Made in Korea",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Good Fight",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2026",
-    "Heure": "21:10:00",
-    "Titre": "Les Évaporés",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Sneaky Pete",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "10/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Dix Pour Cent",
-    "Saison": "Film",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": "Suite de la série éponyme"
-  },
-  {
-    "Date": "10/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Petits meurtres entre voisins",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "PB",
-    "Note": null
-  },
-  {
-    "Date": "10/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Mal barrée",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "11/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ton coeur qui bat",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "COL",
-    "Note": null
-  },
-  {
-    "Date": "11/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Love Upon a Time",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "11/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Watson",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "12/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Istri Satu-Satunya",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "INDO",
-    "Note": null
-  },
-  {
-    "Date": "12/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "A Love Other Than Yours",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "13/09/2026",
-    "Heure": "20:55:00",
-    "Titre": "Hildur",
-    "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "ISL, FIN",
-    "Note": null
-  },
-  {
-    "Date": "13/09/2026",
-    "Heure": "21:00:00",
-    "Titre": "Patience",
-    "Saison": "Saison 1",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
     "Date": "14/09/2026",
     "Heure": "21:00:00",
     "Titre": "Apollo Has Fallen",
@@ -860,6 +660,16 @@
     "Note": null
   },
   {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Matlock (2024)",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "02/10/2026",
     "Heure": "00:00:00",
     "Titre": "Paul, la série",
@@ -890,6 +700,26 @@
     "Note": null
   },
   {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tougen Anki",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "#Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDE",
+    "Note": null
+  },
+  {
     "Date": "03/10/2026",
     "Heure": "21:00:00",
     "Titre": "Hacks",
@@ -898,6 +728,16 @@
     "Categorie": "Câble",
     "Pays": "US",
     "Note": "Dernière saison"
+  },
+  {
+    "Date": "03/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ranma 1/2",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
   },
   {
     "Date": "04/10/2026",
@@ -910,12 +750,32 @@
     "Note": null
   },
   {
+    "Date": "04/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "LEGO Ninjago - Le soulèvement des dragons",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "05/10/2026",
     "Heure": "00:00:00",
     "Titre": "Marshals",
     "Saison": "Saison 2",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "05/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Mayor of Kingstown",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -990,6 +850,16 @@
     "Note": null
   },
   {
+    "Date": "07/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Unforgettable",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "08/10/2026",
     "Heure": "00:00:00",
     "Titre": "Below",
@@ -1008,6 +878,16 @@
     "Categorie": "HBO Max",
     "Pays": "AUS, UK",
     "Note": "Avec Catherine Zeta-Jones"
+  },
+  {
+    "Date": "08/10/2026",
+    "Heure": "21:10:00",
+    "Titre": "Intraçables",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA, SUI",
+    "Note": "Déjà diffusée sur Prime Video"
   },
   {
     "Date": "09/10/2026",
@@ -1060,6 +940,16 @@
     "Note": null
   },
   {
+    "Date": "10/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "100 jours en espionne",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "12/10/2026",
     "Heure": "21:00:00",
     "Titre": "Blood Cruise : Vampires à bord",
@@ -1067,6 +957,26 @@
     "Plateforme": "SciFi",
     "Categorie": "Câble",
     "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "12/10/2026",
+    "Heure": "20:55:00",
+    "Titre": "Shetland",
+    "Saison": "Saison 10",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
+    "Date": "12/10/2026",
+    "Heure": "21:10:00",
+    "Titre": "Cat's Eyes",
+    "Saison": "Saison 2",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1140,12 +1050,52 @@
     "Note": null
   },
   {
+    "Date": "15/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Fairy Tail",
+    "Saison": "Saison 6",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Crystal Lake",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Série dérivée de la franchise Vendredi 13"
+  },
+  {
     "Date": "16/10/2026",
     "Heure": "00:00:00",
     "Titre": "Tulsa King",
     "Saison": "Saison 4",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "16/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Affaires organisées",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "16/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Ghosts : Fantômes à la maison",
+    "Saison": "Saisons 4 et 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -1177,6 +1127,16 @@
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
     "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "21/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Mères Pingouins",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POL",
     "Note": null
   },
   {
@@ -1220,6 +1180,36 @@
     "Note": null
   },
   {
+    "Date": "23/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Yaga",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "26/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Minimum Wage",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "29/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Balaraw: Blood Island",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "PHI",
+    "Note": null
+  },
+  {
     "Date": "30/10/2026",
     "Heure": "00:00:00",
     "Titre": "Nocturne",
@@ -1237,6 +1227,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "SUE",
+    "Note": null
+  },
+  {
+    "Date": "30/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Akka",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDE",
+    "Note": null
+  },
+  {
+    "Date": "30/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "How To Ruin Diwali",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "AFS",
     "Note": null
   },
   {
