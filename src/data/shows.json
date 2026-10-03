@@ -1,295 +1,5 @@
 [
   {
-    "Date": "14/09/2026",
-    "Heure": "21:00:00",
-    "Titre": "Apollo Has Fallen",
-    "Saison": "Saison 1",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "UK, FRA, US",
-    "Note": null
-  },
-  {
-    "Date": "14/09/2026",
-    "Heure": "21:10:00",
-    "Titre": "La Mère et l'assassin",
-    "Saison": "Mini-série",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "14/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "A Parasite’s Heart",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "THA",
-    "Note": null
-  },
-  {
-    "Date": "14/09/2026",
-    "Heure": "21:00:00",
-    "Titre": "Chicago Fire",
-    "Saison": "Saison 14",
-    "Plateforme": "13ème Rue",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/09/2026",
-    "Heure": "22:10:00",
-    "Titre": "Deadline",
-    "Saison": "Saison 1",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "15/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fairy Tail",
-    "Saison": "Saison 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/09/2026",
-    "Heure": "00:45:00",
-    "Titre": "78ème cérémonie des Emmy Awards",
-    "Saison": "Événement",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "US",
-    "Note": "Dans la nuit du 14 au 15 septembre"
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Slow Horses",
-    "Saison": "Saison 6",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Poupée",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Neagley",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": "Série dérivée de Reacher"
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "City of Blood",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Golden Axe",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Surveillant !",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": "Avec Audrey Lamy et Jean-Pascal Zadi"
-  },
-  {
-    "Date": "16/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Route 187",
-    "Saison": "Mini-série",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Monstre : L'Histoire de Lizzie Borden",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Fixers",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TAI",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Strangers Things : Chroniques de 1985",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Simon Coleman",
-    "Saison": "Saison 4",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "20:55:00",
-    "Titre": "Prisonnière 951",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "Arte",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Plastic Beauty",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Je te connais",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "17/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Syndrome E",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": "Déjà diffusée sur TF1"
-  },
-  {
-    "Date": "18/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "MobLand",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "18/09/2026",
-    "Heure": "21:10:00",
-    "Titre": "Capitaine Marleau",
-    "Saison": "Inédit",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "18/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Scandal",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "19/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "Outlander: Blood of My Blood",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "South Park",
-    "Saison": "Saison 29",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "19/09/2026",
-    "Heure": "21:10:00",
-    "Titre": "Cassandre",
-    "Saison": "Inédits",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "20/09/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Rising of The Shield Hero",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "21/09/2026",
     "Heure": "00:00:00",
     "Titre": "American Hostage",
@@ -640,6 +350,16 @@
     "Note": null
   },
   {
+    "Date": "30/09/2026",
+    "Heure": "00:00:00",
+    "Titre": "Medusa",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "COL",
+    "Note": null
+  },
+  {
     "Date": "01/10/2026",
     "Heure": "00:00:00",
     "Titre": "À l'Est d'Eden",
@@ -666,6 +386,86 @@
     "Saison": "Saisons 1 et 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Naruto",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "NCIS: Enquêtes spéciales",
+    "Saison": "Saisons 1 à 18",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Justified",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Strain",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Une Nounou d'enfer",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Scandal",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Once Upon a Time",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "NCIS: Enquêtes spéciales",
+    "Saison": "Saisons 1 à 8",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -720,6 +520,66 @@
     "Note": null
   },
   {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Cauchemars de Junji Ito",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tourments",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Eminence of Shadow",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tokyo Revengers",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Les Soeurs Grimm",
+    "Saison": "Saison 2",
+    "Plateforme": "Apple TV",
+    "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "02/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Reine rouge",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "03/10/2026",
     "Heure": "21:00:00",
     "Titre": "Hacks",
@@ -756,6 +616,16 @@
     "Saison": "Saison 4",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "04/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Get Jiro!",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
   },
@@ -797,6 +667,16 @@
     "Plateforme": "OCS",
     "Categorie": "OCS",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "06/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "My Hero Academia : Vigilantes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -857,6 +737,36 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Drop : une saga Snowfall",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Vampirina : L'ado vampire",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "07/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Merry Berry Love",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "CDS, JAP",
     "Note": null
   },
   {
@@ -940,6 +850,26 @@
     "Note": null
   },
   {
+    "Date": "09/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Doctor X : Mafia in White",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "09/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Furia (2025)",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "ESP",
+    "Note": null
+  },
+  {
     "Date": "10/10/2026",
     "Heure": "00:00:00",
     "Titre": "100 jours en espionne",
@@ -978,6 +908,16 @@
     "Categorie": "TNT",
     "Pays": "FRA",
     "Note": null
+  },
+  {
+    "Date": "12/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Cat's Eyes",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "FRA",
+    "Note": "Diffusée également sur TF1 et TF1+"
   },
   {
     "Date": "13/10/2026",
@@ -1100,6 +1040,26 @@
     "Note": null
   },
   {
+    "Date": "16/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Friends Sex and Games",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "18/10/2026",
+    "Heure": "21:10:00",
+    "Titre": "Les Enquêtes de Vera",
+    "Saison": "Saison 14",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "20/10/2026",
     "Heure": "00:00:00",
     "Titre": "Cyberpunk : Edgerunners",
@@ -1190,12 +1150,52 @@
     "Note": null
   },
   {
+    "Date": "23/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Le Charles",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "26/10/2026",
     "Heure": "00:00:00",
     "Titre": "Minimum Wage",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "26/10/2026",
+    "Heure": "21:00:00",
+    "Titre": "Hunting : Chasseurs de criminels",
+    "Saison": "Saison 2",
+    "Plateforme": "Série Club",
+    "Categorie": "Câble",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "26/10/2026",
+    "Heure": "21:55:00",
+    "Titre": "Spinners",
+    "Saison": "Saison 2",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+",
+    "Pays": "AFS",
+    "Note": null
+  },
+  {
+    "Date": "27/10/2026",
+    "Heure": "21:00:00",
+    "Titre": "The Ark",
+    "Saison": "Saison 3",
+    "Plateforme": "SciFi",
+    "Categorie": "Câble",
     "Pays": "US",
     "Note": null
   },
@@ -1250,6 +1250,16 @@
     "Note": null
   },
   {
+    "Date": "30/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Un Job mortel",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
+    "Note": null
+  },
+  {
     "Date": "02/11/2026",
     "Heure": "00:00:00",
     "Titre": "The Gilded Age",
@@ -1277,6 +1287,16 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "CDS",
+    "Note": null
+  },
+  {
+    "Date": "06/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Campus Drivers",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1337,6 +1357,16 @@
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Blue Road",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "CDS",
     "Note": null
   },
   {
@@ -1436,6 +1466,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "10/02/2027",
+    "Heure": "00:00:00",
+    "Titre": "Barbershop (2027)",
+    "Saison": "Saison 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
