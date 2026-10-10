@@ -1,17 +1,5 @@
 [
   {
-    "Date": "17/09/2026",
-    "Titre": "Monstre : L'Histoire de Lizzie Borden",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix"
-  },
-  {
-    "Date": "23/09/2026",
-    "Titre": "Brothers",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV"
-  },
-  {
     "Date": "01/10/2026",
     "Titre": "À l'est d'Eden",
     "Saison": "Mini-série",
@@ -34,5 +22,17 @@
     "Titre": "Carrie",
     "Saison": "Mini-série",
     "Plateforme": "Prime Video"
+  },
+  {
+    "Date": "14/10/2026",
+    "Titre": "Marvel's VisionQuest",
+    "Saison": "Mini-série",
+    "Plateforme": "Disney+"
+  },
+  {
+    "Date": "15/10/2026",
+    "Titre": "La Diplomate",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix"
   }
 ]
