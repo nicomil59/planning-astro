@@ -1,163 +1,100 @@
 [
   {
-    "Date": "07/10/2026",
-    "Titre": "American Horror Story",
-    "Saison": "Saison 13",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
+    "Date": "31/10/2026",
+    "Titre": "Le Voyageur",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
   },
   {
-    "Date": "16/10/2026",
-    "Titre": "Amour éternel",
+    "Date": "02/11/2026",
+    "Titre": "Singapura",
+    "Saison": "Saison 1",
+    "Plateforme": "Canal+",
+    "Categorie": "Canal+"
+  },
+  {
+    "Date": "02/11/2026",
+    "Titre": "Dr. Death",
     "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
+    "Plateforme": "TF1 Séries Films",
+    "Categorie": "TNT"
   },
   {
-    "Date": "18/10/2026",
-    "Titre": "Extraordinary Attorney Minami ",
+    "Date": "03/11/2026",
+    "Titre": "ONG",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Plateforme": "OCS",
+    "Categorie": "OCS"
   },
   {
-    "Date": "19/10/2026",
-    "Titre": "La Terre et le sang",
-    "Saison": "Saison 1",
+    "Date": "03/11/2026",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT"
+  },
+  {
+    "Date": "04/11/2026",
+    "Titre": "The Greatest",
+    "Saison": "Mini-série",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video"
+  },
+  {
+    "Date": "04/11/2026",
+    "Titre": "Les disparus des Argonnes",
+    "Saison": "Mini-série",
     "Plateforme": "France 2",
     "Categorie": "TNT"
   },
   {
-    "Date": "21/10/2026",
-    "Titre": "Pretty Little Liars",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "21/10/2026",
-    "Titre": "Soy Luna : De retour sur la piste",
+    "Date": "04/11/2026",
+    "Titre": "Anesthésie",
     "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "24/10/2026",
-    "Titre": "SWAT",
-    "Saison": "Saison 8",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "26/10/2026",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "28/10/2026",
-    "Titre": "Le Don de la trahison",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "29/10/2026",
-    "Titre": "Un jour on fera l'amour",
+    "Date": "05/11/2026",
+    "Titre": "Anatomía de un instante",
     "Saison": "Mini-série",
     "Plateforme": "Arte",
     "Categorie": "TNT"
   },
   {
-    "Date": "02/11/2026",
-    "Titre": "Une affaire personnelle",
+    "Date": "11/11/2026",
+    "Titre": "La Loi d'Alicia",
     "Saison": "Saison 1",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "04/11/2026",
-    "Titre": "Younger",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD"
-  },
-  {
-    "Date": "04/11/2026",
-    "Titre": "All's Fair",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "05/11/2026",
-    "Titre": "Walker",
-    "Saison": "Saison 4",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble"
-  },
-  {
-    "Date": "05/11/2026",
-    "Titre": "Chronique Arctique",
-    "Saison": "Saison 2",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "05/11/2026",
-    "Titre": "Black Doves",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "06/11/2026",
-    "Titre": "La Prise du Palais",
+    "Date": "13/11/2026",
+    "Titre": "Murder in Galicia",
     "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/11/2026",
-    "Titre": "L'Impératrice",
-    "Saison": "Saison 3",
+    "Date": "26/11/2026",
+    "Titre": "L'Enlèvement de Toos Van Der Valk",
+    "Saison": "Mini-série",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "20/11/2026",
-    "Titre": "Yellowjackets",
-    "Saison": "Saison 4",
+    "Date": "18/12/2026",
+    "Titre": "Frisco King",
+    "Saison": "Saison 1",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+"
   },
   {
-    "Date": "26/11/2026",
-    "Titre": "Toujours sur la brèche",
+    "Date": "15/02/2027",
+    "Titre": "The Land",
     "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "13/01/2027",
-    "Titre": "Votre fidèle serviteur Spider-Man",
-    "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Categorie": "Disney+"
-  },
-  {
-    "Date": "20/01/2027",
-    "Titre": "Bloodaxe",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video"
-  },
-  {
-    "Date": "10/02/2027",
-    "Titre": "Prodiges",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV"
   }
 ]

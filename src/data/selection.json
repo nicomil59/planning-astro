@@ -1,21 +1,9 @@
 [
   {
-    "Date": "01/10/2026",
-    "Titre": "À l'est d'Eden",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix"
-  },
-  {
     "Date": "02/10/2026",
     "Titre": "War",
     "Saison": "Saison 1",
     "Plateforme": "HBO Max"
-  },
-  {
-    "Date": "02/10/2026",
-    "Titre": "Paul, la série",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video"
   },
   {
     "Date": "07/10/2026",
@@ -33,6 +21,18 @@
     "Date": "15/10/2026",
     "Titre": "La Diplomate",
     "Saison": "Saison 4",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "22/10/2026",
+    "Titre": "Nobody Wants This",
+    "Saison": "Saison 3",
+    "Plateforme": "Netflix"
+  },
+  {
+    "Date": "23/10/2026",
+    "Titre": "Lupin",
+    "Saison": "Partie 4",
     "Plateforme": "Netflix"
   }
 ]
