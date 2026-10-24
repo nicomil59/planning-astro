@@ -1,22 +1,17 @@
 [
   {
+    "titre": "Phony",
+    "videoId": "j5AW4Np14JU",
+    "plateforme": "Disney+ le 20 octobre"
+  },
+  {
+    "titre": "Les Anneaux de pouvoir saison 3",
+    "videoId": "GRZajnXVvOM",
+    "plateforme": "Prime Video le 11 novembre"
+  },
+  {
     "titre": "Baywatch",
     "videoId": "Jufspg5aNtc",
     "plateforme": "Prime Video en janvier 2027"
-  },
-  {
-    "titre": "The Land",
-    "videoId": "9T0XqK4t0SA",
-    "plateforme": "Disney+ le 15 février"
-  },
-  {
-    "titre": "The Body",
-    "videoId": "kWj2N4ejZDU",
-    "plateforme": "Netflix le 11 novembre"
-  },
-  {
-    "titre": "Campus Drivers",
-    "videoId": "https://www.youtube.com/watch?v=1XIt2JgTP4Q",
-    "plateforme": "Prime Video le 6 novembre"
   }
 ]

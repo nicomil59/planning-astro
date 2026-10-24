@@ -1,255 +1,5 @@
 [
   {
-    "Date": "05/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Marshals",
-    "Saison": "Saison 2",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "05/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Mayor of Kingstown",
-    "Saison": "Saisons 1 à 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/10/2026",
-    "Heure": "20:50:00",
-    "Titre": "Devil in Disguise - John Wayne Gacy",
-    "Saison": "Mini-série",
-    "Plateforme": "OCS",
-    "Categorie": "OCS",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "06/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "My Hero Academia : Vigilantes",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Carrie",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Small Prophets",
-    "Saison": "Saison 1",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Des vrais mecs",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ITA",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Inside The Circle",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "MEX",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Murder in a Small Town",
-    "Saison": "Saison 1",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "CAN, US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Unforgettable",
-    "Saison": "Intégrale",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Drop : une saga Snowfall",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Vampirina : L'ado vampire",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Merry Berry Love",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "CDS, JAP",
-    "Note": null
-  },
-  {
-    "Date": "07/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "American Horror Story",
-    "Saison": "Saison 13",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": "VF disponible à partir du 11 novembre"
-  },
-  {
-    "Date": "08/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Below",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "08/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Kill Jackie",
-    "Saison": "Mini-série",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "AUS, UK",
-    "Note": "Avec Catherine Zeta-Jones"
-  },
-  {
-    "Date": "08/10/2026",
-    "Heure": "21:10:00",
-    "Titre": "Intraçables",
-    "Saison": "Mini-série",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA, SUI",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Recharge mon coeur",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Haunted Hotel",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Avatar : Les sept refuges",
-    "Saison": "Saison 1",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Terre et le sang",
-    "Saison": "Saison 1",
-    "Plateforme": "France. tv",
-    "Categorie": "SVOD",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "21:10:00",
-    "Titre": "Simon Coleman",
-    "Saison": "Saison 4",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Doctor X : Mafia in White",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
-    "Date": "09/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Furia (2025)",
-    "Saison": "Saison 2",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "10/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "100 jours en espionne",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "CDS",
-    "Note": null
-  },
-  {
     "Date": "12/10/2026",
     "Heure": "21:00:00",
     "Titre": "Blood Cruise : Vampires à bord",
@@ -467,6 +217,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "20/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Phony",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -720,6 +480,16 @@
     "Note": null
   },
   {
+    "Date": "30/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "Obsess",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "KOW",
+    "Note": null
+  },
+  {
     "Date": "31/10/2026",
     "Heure": "21:10:00",
     "Titre": "Le Voyageur",
@@ -727,6 +497,46 @@
     "Plateforme": "France 3",
     "Categorie": "TNT",
     "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Rainmaker",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Mayfair Witches",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Resident Alien",
+    "Saison": "Saison 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Entretien avec un vampire",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -930,6 +740,26 @@
     "Note": null
   },
   {
+    "Date": "10/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Brigade anonyme",
+    "Saison": "Saison 2",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "10/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Alex Hugo",
+    "Saison": "Inédit",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
     "Date": "11/11/2026",
     "Heure": "00:00:00",
     "Titre": "Les Anneaux de Pouvoir",
@@ -960,12 +790,42 @@
     "Note": "Adaptation mexicaine de la série The Good Wife"
   },
   {
+    "Date": "11/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Esprits Criminels",
+    "Saison": "Saison 18",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "12/11/2026",
     "Heure": "00:00:00",
     "Titre": "L'Impératrice",
     "Saison": "Saison 3",
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
+    "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Urgences humaines",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TAI",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "20:55:00",
+    "Titre": "Jossi",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
     "Pays": "ALL",
     "Note": null
   },
@@ -987,6 +847,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "13/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 7",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
     "Note": null
   },
   {
@@ -1110,6 +980,16 @@
     "Note": null
   },
   {
+    "Date": "03/12/2026",
+    "Heure": "00:00:00",
+    "Titre": "Secrets",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "INDO",
+    "Note": null
+  },
+  {
     "Date": "08/12/2026",
     "Heure": "00:00:00",
     "Titre": "Only Murders in The Building",
@@ -1166,6 +1046,16 @@
     "Saison": "Saison 2",
     "Plateforme": "Disney+",
     "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "15/01/2027",
+    "Heure": "00:00:00",
+    "Titre": "Mayor of Kingstown",
+    "Saison": "Saison 5",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
     "Pays": "US",
     "Note": null
   },
