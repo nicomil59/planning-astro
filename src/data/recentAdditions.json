@@ -1,100 +1,163 @@
 [
   {
-    "Date": "20/10/2026",
-    "Titre": "Phony",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+"
-  },
-  {
-    "Date": "30/10/2026",
-    "Titre": "Obsess",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/11/2026",
-    "Titre": "The Rainmaker",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/11/2026",
-    "Titre": "Mayfair Witches",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/11/2026",
-    "Titre": "Resident Alien",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "01/11/2026",
-    "Titre": "Entretien avec un vampire",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
-  },
-  {
-    "Date": "10/11/2026",
-    "Titre": "Brigade anonyme",
+    "Date": "29/10/2026",
+    "Titre": "The Golden Hour",
     "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "03/11/2026",
+    "Titre": "Will Trent",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "06/11/2026",
+    "Titre": "Melania Rea",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "08/11/2026",
+    "Titre": "La Cité de Dieu : la lutte continue",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "08/11/2026",
+    "Titre": "L'Institut",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "09/11/2026",
+    "Titre": "Power Book II: Ghost",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/11/2026",
+    "Titre": "Power Book III: Raising Kanan",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "09/11/2026",
+    "Titre": "Power Book IV: Force",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "11/11/2026",
+    "Titre": "ChiaroScuro",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/11/2026",
+    "Titre": "The Good Daughter",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "12/11/2026",
+    "Titre": "Comme deux frères",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "12/11/2026",
+    "Titre": "Bir Başkadır ",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "13/11/2026",
+    "Titre": "Douce nuit",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
+  },
+  {
+    "Date": "14/11/2026",
+    "Titre": "Les Anneaux de Pouvoir",
+    "Saison": "Saison 1",
     "Plateforme": "M6",
     "Categorie": "TNT"
   },
   {
-    "Date": "10/11/2026",
-    "Titre": "Alex Hugo",
-    "Saison": "Inédit",
-    "Plateforme": "France 3",
-    "Categorie": "TNT"
+    "Date": "14/11/2026",
+    "Titre": "Gift",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   },
   {
-    "Date": "11/11/2026",
-    "Titre": "Esprits Criminels",
-    "Saison": "Saison 18",
+    "Date": "16/11/2026",
+    "Titre": "La Comtesse de Monte-Cristo",
+    "Saison": "Mini-série",
     "Plateforme": "TF1",
     "Categorie": "TNT"
   },
   {
-    "Date": "12/11/2026",
-    "Titre": "Urgences humaines",
+    "Date": "18/11/2026",
+    "Titre": "Gordon",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "18/11/2026",
+    "Titre": "La Loi de la bête",
     "Saison": "Saison 1",
     "Plateforme": "Netflix",
     "Categorie": "Netflix"
   },
   {
-    "Date": "12/11/2026",
-    "Titre": "Jossi",
+    "Date": "18/11/2026",
+    "Titre": "Valentina et les 12 signes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix"
+  },
+  {
+    "Date": "19/11/2026",
+    "Titre": "Eldorado",
     "Saison": "Saison 1",
     "Plateforme": "Arte",
     "Categorie": "TNT"
   },
   {
-    "Date": "13/11/2026",
+    "Date": "20/11/2026",
     "Titre": "Astrid et Raphaëlle",
     "Saison": "Saison 7",
-    "Plateforme": "France.tv",
-    "Categorie": "SVOD"
+    "Plateforme": "France 2",
+    "Categorie": "TNT"
   },
   {
-    "Date": "03/12/2026",
-    "Titre": "Secrets",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix"
+    "Date": "22/11/2026",
+    "Titre": "Nuits blanches",
+    "Saison": "Mini-série",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble"
   },
   {
-    "Date": "15/01/2027",
-    "Titre": "Mayor of Kingstown",
-    "Saison": "Saison 5",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+"
+    "Date": "24/11/2026",
+    "Titre": "The Walking Dead",
+    "Saison": "Saison 11",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max"
   }
 ]

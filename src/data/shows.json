@@ -1,205 +1,5 @@
 [
   {
-    "Date": "12/10/2026",
-    "Heure": "21:00:00",
-    "Titre": "Blood Cruise : Vampires à bord",
-    "Saison": "Saison 1",
-    "Plateforme": "SciFi",
-    "Categorie": "Câble",
-    "Pays": "SUE",
-    "Note": null
-  },
-  {
-    "Date": "12/10/2026",
-    "Heure": "20:55:00",
-    "Titre": "Shetland",
-    "Saison": "Saison 10",
-    "Plateforme": "Polar+",
-    "Categorie": "Câble",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "12/10/2026",
-    "Heure": "21:10:00",
-    "Titre": "Cat's Eyes",
-    "Saison": "Saison 2",
-    "Plateforme": "TF1",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "12/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Cat's Eyes",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "FRA",
-    "Note": "Diffusée également sur TF1 et TF1+"
-  },
-  {
-    "Date": "13/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Piège",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "14/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Marvel's VisionQuest",
-    "Saison": "Mini-série",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Lowdown",
-    "Saison": "Saison 2",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "14/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Little Fires Everywhere",
-    "Saison": "Mini-série",
-    "Plateforme": "Teva",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": "Déjà diffusée sur Prime Video"
-  },
-  {
-    "Date": "15/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "La Diplomate",
-    "Saison": "Saison 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Hollywood Arts",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": "Série dérivée de Victorious"
-  },
-  {
-    "Date": "15/10/2026",
-    "Heure": "20:55:00",
-    "Titre": "Portobello",
-    "Saison": "Mini-série",
-    "Plateforme": "Arte",
-    "Categorie": "TNT",
-    "Pays": "FRA, ITA",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Fairy Tail",
-    "Saison": "Saison 6",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "15/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Crystal Lake",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "US",
-    "Note": "Série dérivée de la franchise Vendredi 13"
-  },
-  {
-    "Date": "16/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Tulsa King",
-    "Saison": "Saison 4",
-    "Plateforme": "Paramount+",
-    "Categorie": "Paramount+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Affaires organisées",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Ghosts : Fantômes à la maison",
-    "Saison": "Saisons 4 et 5",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Friends Sex and Games",
-    "Saison": "Saison 1",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "16/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Amour éternel",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "TUR",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2026",
-    "Heure": "21:10:00",
-    "Titre": "Les Enquêtes de Vera",
-    "Saison": "Saison 14",
-    "Plateforme": "France 3",
-    "Categorie": "TNT",
-    "Pays": "UK",
-    "Note": null
-  },
-  {
-    "Date": "18/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Extraordinary Attorney Minami ",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
     "Date": "19/10/2026",
     "Heure": "21:10:00",
     "Titre": "La Terre et le sang",
@@ -430,6 +230,16 @@
     "Note": null
   },
   {
+    "Date": "29/10/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Golden Hour",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "PB",
+    "Note": null
+  },
+  {
     "Date": "30/10/2026",
     "Heure": "00:00:00",
     "Titre": "Nocturne",
@@ -610,6 +420,16 @@
     "Note": null
   },
   {
+    "Date": "03/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Will Trent",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Disney+"
+  },
+  {
     "Date": "04/11/2026",
     "Heure": "00:00:00",
     "Titre": "Stick",
@@ -740,6 +560,66 @@
     "Note": null
   },
   {
+    "Date": "06/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Melania Rea",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
+    "Date": "08/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Cité de Dieu : la lutte continue",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "08/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "L'Institut",
+    "Saison": "Saison 2",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "09/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Power Book II: Ghost",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "09/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Power Book III: Raising Kanan",
+    "Saison": "Saisons 1 à 5",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "09/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Power Book IV: Force",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
     "Date": "10/11/2026",
     "Heure": "21:10:00",
     "Titre": "Brigade anonyme",
@@ -800,6 +680,16 @@
     "Note": null
   },
   {
+    "Date": "11/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "ChiaroScuro",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ITA",
+    "Note": null
+  },
+  {
     "Date": "12/11/2026",
     "Heure": "00:00:00",
     "Titre": "L'Impératrice",
@@ -827,6 +717,36 @@
     "Plateforme": "Arte",
     "Categorie": "TNT",
     "Pays": "ALL",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Good Daughter",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "US",
+    "Note": "Avec Rose Byrne et Meghann Fahy"
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Comme deux frères",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ISR",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Bir Başkadır ",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "TUR",
     "Note": null
   },
   {
@@ -860,6 +780,36 @@
     "Note": null
   },
   {
+    "Date": "13/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Douce nuit",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "14/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Les Anneaux de Pouvoir",
+    "Saison": "Saison 1",
+    "Plateforme": "M6",
+    "Categorie": "TNT",
+    "Pays": "US",
+    "Note": "Déjà diffusée sur Prime Video"
+  },
+  {
+    "Date": "14/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Gift",
+    "Saison": "Saison 1",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "15/11/2026",
     "Heure": "00:00:00",
     "Titre": "The Chosen",
@@ -870,6 +820,46 @@
     "Note": null
   },
   {
+    "Date": "16/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "La Comtesse de Monte-Cristo",
+    "Saison": "Mini-série",
+    "Plateforme": "TF1",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Avec Audrey Fleurot"
+  },
+  {
+    "Date": "18/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Gordon",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "ARG",
+    "Note": null
+  },
+  {
+    "Date": "18/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Loi de la bête",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "POL",
+    "Note": null
+  },
+  {
+    "Date": "18/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Valentina et les 12 signes",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "BRE",
+    "Note": null
+  },
+  {
     "Date": "19/11/2026",
     "Heure": "00:00:00",
     "Titre": "The Altruists",
@@ -877,6 +867,16 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/11/2026",
+    "Heure": "20:55:00",
+    "Titre": "Eldorado",
+    "Saison": "Saison 1",
+    "Plateforme": "Arte",
+    "Categorie": "TNT",
+    "Pays": "BEL, FRA",
     "Note": null
   },
   {
@@ -906,6 +906,36 @@
     "Saison": "Saison 4",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "20/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Astrid et Raphaëlle",
+    "Saison": "Saison 7",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "22/11/2026",
+    "Heure": "21:00:00",
+    "Titre": "Nuits blanches",
+    "Saison": "Mini-série",
+    "Plateforme": "13ème Rue",
+    "Categorie": "Câble",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "24/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead",
+    "Saison": "Saison 11",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
     "Pays": "US",
     "Note": null
   },

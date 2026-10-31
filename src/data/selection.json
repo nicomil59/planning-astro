@@ -1,11 +1,5 @@
 [
   {
-    "Date": "02/10/2026",
-    "Titre": "War",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max"
-  },
-  {
     "Date": "07/10/2026",
     "Titre": "Carrie",
     "Saison": "Mini-série",
@@ -33,6 +27,12 @@
     "Date": "23/10/2026",
     "Titre": "Lupin",
     "Saison": "Partie 4",
+    "Plateforme": "Netflix"
+  },
+    {
+    "Date": "05/11/2026",
+    "Titre": "Black Doves",
+    "Saison": "Saison 2",
     "Plateforme": "Netflix"
   }
 ]
