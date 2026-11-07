@@ -1,215 +1,5 @@
 [
   {
-    "Date": "19/10/2026",
-    "Heure": "21:10:00",
-    "Titre": "La Terre et le sang",
-    "Saison": "Saison 1",
-    "Plateforme": "France 2",
-    "Categorie": "TNT",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "20/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Cyberpunk : Edgerunners",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "20/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Phony",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "The Terminal List",
-    "Saison": "Saison 2",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Where's Wanda ?",
-    "Saison": "Saison 2",
-    "Plateforme": "Apple TV",
-    "Categorie": "Apple TV",
-    "Pays": "ALL",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Les Mères Pingouins",
-    "Saison": "Saison 2",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "POL",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Pretty Little Liars",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "21/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Soy Luna : De retour sur la piste",
-    "Saison": "Saison 1",
-    "Plateforme": "Disney+",
-    "Categorie": "Disney+",
-    "Pays": "ARG, MEX",
-    "Note": null
-  },
-  {
-    "Date": "22/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Nobody Wants This",
-    "Saison": "Saison 3",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "22/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "On a parlé de moi ?",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "JAP",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Lupin",
-    "Saison": "Partie 4",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Grand d'Espagne",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "ESP",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Yaga",
-    "Saison": "Saison 1",
-    "Plateforme": "HBO Max",
-    "Categorie": "HBO Max",
-    "Pays": "CAN",
-    "Note": null
-  },
-  {
-    "Date": "23/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Charles",
-    "Saison": "Mini-série",
-    "Plateforme": "Prime Video",
-    "Categorie": "Prime Video",
-    "Pays": "FRA",
-    "Note": null
-  },
-  {
-    "Date": "24/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "SWAT",
-    "Saison": "Saison 8",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Minimum Wage",
-    "Saison": "Saison 1",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/10/2026",
-    "Heure": "21:00:00",
-    "Titre": "Hunting : Chasseurs de criminels",
-    "Saison": "Saison 2",
-    "Plateforme": "Série Club",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "26/10/2026",
-    "Heure": "21:55:00",
-    "Titre": "Spinners",
-    "Saison": "Saison 2",
-    "Plateforme": "Canal+",
-    "Categorie": "Canal+",
-    "Pays": "AFS",
-    "Note": null
-  },
-  {
-    "Date": "26/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "The 100",
-    "Saison": "Intégrale",
-    "Plateforme": "M6+",
-    "Categorie": "SVOD",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "27/10/2026",
-    "Heure": "21:00:00",
-    "Titre": "The Ark",
-    "Saison": "Saison 3",
-    "Plateforme": "SciFi",
-    "Categorie": "Câble",
-    "Pays": "US",
-    "Note": null
-  },
-  {
-    "Date": "28/10/2026",
-    "Heure": "00:00:00",
-    "Titre": "Le Don de la trahison",
-    "Saison": "Mini-série",
-    "Plateforme": "Netflix",
-    "Categorie": "Netflix",
-    "Pays": "BRE",
-    "Note": null
-  },
-  {
     "Date": "29/10/2026",
     "Heure": "00:00:00",
     "Titre": "Balaraw: Blood Island",
@@ -350,6 +140,76 @@
     "Note": null
   },
   {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Desperate Housewives",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Chicago Police Department",
+    "Saison": "Saisons 1 à 4",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Heroes",
+    "Saison": "Intégrale",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Walking Dead",
+    "Saison": "Saison 11",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tokyo Ghoul",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Naruto",
+    "Saison": "Saison 3",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "01/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "I Parry Everything!",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
     "Date": "02/11/2026",
     "Heure": "00:00:00",
     "Titre": "The Gilded Age",
@@ -428,6 +288,16 @@
     "Categorie": "Netflix",
     "Pays": "US",
     "Note": "Déjà diffusée sur Disney+"
+  },
+  {
+    "Date": "03/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Honey Lemon Soda",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
   },
   {
     "Date": "04/11/2026",
@@ -537,6 +407,16 @@
     "Plateforme": "Arte",
     "Categorie": "TNT",
     "Pays": "ESP",
+    "Note": null
+  },
+  {
+    "Date": "05/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "R.J. Decker",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -690,6 +570,16 @@
     "Note": null
   },
   {
+    "Date": "11/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Rivals",
+    "Saison": "Saison 2 partie 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "12/11/2026",
     "Heure": "00:00:00",
     "Titre": "L'Impératrice",
@@ -747,6 +637,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "TUR",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Le Chemin de la vérité",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "12/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Body of Proof",
+    "Saison": "Saisons 1 à 3",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -820,6 +730,36 @@
     "Note": null
   },
   {
+    "Date": "15/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Hero Without a Class: Who Even Needs Skills?!",
+    "Saison": "Saison 1",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Soul Eater",
+    "Saison": "Intégrale",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "15/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Fightland",
+    "Saison": "Saison 1",
+    "Plateforme": "Paramount+",
+    "Categorie": "Paramount+",
+    "Pays": "UK",
+    "Note": null
+  },
+  {
     "Date": "16/11/2026",
     "Heure": "21:10:00",
     "Titre": "La Comtesse de Monte-Cristo",
@@ -828,6 +768,16 @@
     "Categorie": "TNT",
     "Pays": "FRA",
     "Note": "Avec Audrey Fleurot"
+  },
+  {
+    "Date": "16/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "La Comtesse de Monte-Cristo",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "FRA",
+    "Note": null
   },
   {
     "Date": "18/11/2026",
@@ -857,6 +807,26 @@
     "Plateforme": "Netflix",
     "Categorie": "Netflix",
     "Pays": "BRE",
+    "Note": null
+  },
+  {
+    "Date": "18/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Vienna Game",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "AUT",
+    "Note": null
+  },
+  {
+    "Date": "18/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Scrubs (2026)",
+    "Saison": "Saison 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
     "Note": null
   },
   {
@@ -930,6 +900,46 @@
     "Note": null
   },
   {
+    "Date": "22/11/2026",
+    "Heure": "21:10:00",
+    "Titre": "Saint-Pierre",
+    "Saison": "Saison 1",
+    "Plateforme": "France 3",
+    "Categorie": "TNT",
+    "Pays": "CAN",
+    "Note": null
+  },
+  {
+    "Date": "22/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Captain Tsubasa",
+    "Saison": "Saison 1",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
+    "Note": null
+  },
+  {
+    "Date": "23/11/2026",
+    "Heure": "20:55:00",
+    "Titre": "Snake Killer",
+    "Saison": "Saison 1",
+    "Plateforme": "Polar+",
+    "Categorie": "Câble",
+    "Pays": "DAN",
+    "Note": null
+  },
+  {
+    "Date": "23/11/2026",
+    "Heure": "22:45:00",
+    "Titre": "Oro",
+    "Saison": "Mini-série",
+    "Plateforme": "France 2",
+    "Categorie": "TNT",
+    "Pays": "FRA",
+    "Note": "Disponible dès le 16 novembre sur France.tv"
+  },
+  {
     "Date": "24/11/2026",
     "Heure": "00:00:00",
     "Titre": "The Walking Dead",
@@ -937,6 +947,16 @@
     "Plateforme": "HBO Max",
     "Categorie": "HBO Max",
     "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "24/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "One Punch Man",
+    "Saison": "Saisons 1 et 2",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "JAP",
     "Note": null
   },
   {
@@ -948,6 +968,16 @@
     "Categorie": "Prime Video",
     "Pays": "US",
     "Note": "Série dérivée du film Blade Runner 2049"
+  },
+  {
+    "Date": "25/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tracker",
+    "Saison": "Saison 4",
+    "Plateforme": "Disney+",
+    "Categorie": "Disney+",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "26/11/2026",
@@ -978,6 +1008,36 @@
     "Categorie": "Netflix",
     "Pays": "PB",
     "Note": null
+  },
+  {
+    "Date": "26/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "The Hunting Wives",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/11/2026",
+    "Heure": "00:00:00",
+    "Titre": "Tom et Lola",
+    "Saison": "Saison 3",
+    "Plateforme": "France.tv",
+    "Categorie": "SVOD",
+    "Pays": "FRA",
+    "Note": null
+  },
+  {
+    "Date": "01/12/2026",
+    "Heure": "00:00:00",
+    "Titre": "Trinity (2026)",
+    "Saison": "Mini-série",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
+    "Pays": "UK, US",
+    "Note": "Avec Gugu Mbatha-Raw, Richard Madden et Marcia Gay Harden"
   },
   {
     "Date": "02/12/2026",
@@ -1018,6 +1078,16 @@
     "Categorie": "Netflix",
     "Pays": "INDO",
     "Note": null
+  },
+  {
+    "Date": "04/12/2026",
+    "Heure": "00:00:00",
+    "Titre": "Alice",
+    "Saison": "Mini-série",
+    "Plateforme": "HBO Max",
+    "Categorie": "HBO Max",
+    "Pays": "FRA, US",
+    "Note": "Avec Bérénice Bejo"
   },
   {
     "Date": "08/12/2026",
@@ -1080,12 +1150,32 @@
     "Note": null
   },
   {
+    "Date": "13/01/2027",
+    "Heure": "00:00:00",
+    "Titre": "Criminal (2027)",
+    "Saison": "Partie 1",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": "Avec Charlie Hunnam et Adria Arjona"
+  },
+  {
     "Date": "15/01/2027",
     "Heure": "00:00:00",
     "Titre": "Mayor of Kingstown",
     "Saison": "Saison 5",
     "Plateforme": "Paramount+",
     "Categorie": "Paramount+",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "19/01/2027",
+    "Heure": "00:00:00",
+    "Titre": "Blue Eye Samurai",
+    "Saison": "Saison 2",
+    "Plateforme": "Netflix",
+    "Categorie": "Netflix",
     "Pays": "US",
     "Note": null
   },
@@ -1106,6 +1196,16 @@
     "Saison": "Saison 1",
     "Plateforme": "Apple TV",
     "Categorie": "Apple TV",
+    "Pays": "US",
+    "Note": null
+  },
+  {
+    "Date": "27/01/2027",
+    "Heure": "00:00:00",
+    "Titre": "Criminal (2027)",
+    "Saison": "Partie 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
     "Pays": "US",
     "Note": null
   },
@@ -1138,6 +1238,16 @@
     "Categorie": "Disney+",
     "Pays": "US",
     "Note": "Par le créateur de This is Us et Paradise. Avec Christopher Meloni et Mandy Moore."
+  },
+  {
+    "Date": "28/04/2027",
+    "Heure": "00:00:00",
+    "Titre": "Off Campus",
+    "Saison": "Saison 2",
+    "Plateforme": "Prime Video",
+    "Categorie": "Prime Video",
+    "Pays": "US",
+    "Note": null
   },
   {
     "Date": "09/07/2027",
